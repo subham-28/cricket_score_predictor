@@ -137,4 +137,4 @@ MIT License. Feel free to use, modify, and share!
 
 ---
 
-Made with ❤️ by Subham Mohanty
+Made by Subham Mohanty
