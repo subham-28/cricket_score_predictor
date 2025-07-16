@@ -75,8 +75,8 @@ cricket_score_prediction/
 |--------------|-----------|
 | Train MAE    | ~0.2 runs |
 | Test MAE     | ~1.74 runs |
-| Train R² Score  | ~0.99 runs |
-| Test R² Score     | ~0.98 runs |
+| Train R² Score  | ~0.99  |
+| Test R² Score     | ~0.98  |
 
 ---
 
