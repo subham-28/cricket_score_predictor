@@ -1,0 +1,2204 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nairobi
+  dates:
+  - '2024-09-11'
+  gender: female
+  match_type: T20
+  match_type_number: 2008
+  outcome:
+    winner: Rwanda
+    by:
+      runs: 26
+  overs: 20
+  player_of_match:
+  - B Murekatete
+  players:
+    Rwanda:
+    - MD Bimenyimana
+    - M Uwase
+    - C Uwase
+    - G Ishimwe
+    - H Ishimwe
+    - A Ikuzwe
+    - G Ingabire
+    - B Murekatete
+    - Rosine Irera
+    - C Umutonni
+    - I Muhawenimana
+    Kenya:
+    - KV Mehta
+    - C Muthoni
+    - MI Khagoitsa
+    - E Wachira
+    - Q Abel
+    - V Ooko
+    - JS Ndanu
+    - JM Nthenya
+    - A Wanjira
+    - F Odhiambo
+    - J Ajiambo
+  registry:
+    people:
+      A Ikuzwe: 6762a445
+      A Wanjira: b6015231
+      B Murekatete: 2d4317da
+      C Muthoni: f85462b1
+      C Umutonni: 5ab614e2
+      C Uwase: 808bb510
+      E Wachira: f5e70dd4
+      F Odhiambo: 97eb9a07
+      G Ingabire: 2c00691c
+      G Ishimwe: b5ae57ee
+      H Ishimwe: ffa296f7
+      I Muhawenimana: 2f37396f
+      J Ajiambo: c3a998fa
+      JM Nthenya: 99efdb1b
+      JS Ndanu: c27e0638
+      KV Mehta: f7ae66f3
+      M Adhiambo: 1d7de505
+      M Banja: a5ff11c2
+      M Uwase: 7d6ce83f
+      MD Bimenyimana: c1a0cebe
+      MI Khagoitsa: 2d772f77
+      Q Abel: 2e988457
+      Rosine Irera: b84718fd
+      V Ooko: 2ae76bf6
+  teams:
+  - Rwanda
+  - Kenya
+  toss:
+    winner: Rwanda
+    decision: bat
+  umpires:
+  - M Banja
+  - M Adhiambo
+  venue: Sikh Union Club Ground, Nairobi
+innings:
+- 1st innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Uwase
+        batsman: MD Bimenyimana
+    - 0.2:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Uwase
+    - 0.3:
+        non_striker: M Uwase
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 0.4:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 0.5:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 0.6:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 1.1:
+        non_striker: M Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.2:
+        non_striker: M Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Bimenyimana
+    - 1.3:
+        non_striker: M Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.4:
+        non_striker: M Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: MD Bimenyimana
+    - 1.5:
+        non_striker: M Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.6:
+        non_striker: M Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 2.1:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 2.2:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+        wicket:
+          player_out: M Uwase
+          fielders:
+          - MI Khagoitsa
+          kind: caught
+    - 2.3:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Uwase
+    - 2.4:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 2.5:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 2.6:
+        non_striker: C Uwase
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 3.1:
+        non_striker: MD Bimenyimana
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 3.2:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 3.3:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 3.4:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 3.5:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 3.6:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 4.1:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 4.2:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 4.3:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Uwase
+    - 4.4:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Uwase
+    - 4.5:
+        non_striker: MD Bimenyimana
+        bowler: A Wanjira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Uwase
+    - 4.6:
+        non_striker: C Uwase
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 5.1:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 5.2:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MD Bimenyimana
+    - 5.3:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 5.4:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+        wicket:
+          player_out: MD Bimenyimana
+          kind: lbw
+    - 5.5:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 5.6:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 5.7:
+        non_striker: C Uwase
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 6.1:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 6.2:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 6.3:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 6.4:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 6.5:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 6.6:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 7.1:
+        non_striker: G Ishimwe
+        bowler: JM Nthenya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 7.2:
+        non_striker: C Uwase
+        bowler: JM Nthenya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 7.3:
+        non_striker: G Ishimwe
+        bowler: JM Nthenya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Uwase
+    - 7.4:
+        non_striker: G Ishimwe
+        bowler: JM Nthenya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Uwase
+    - 7.5:
+        non_striker: G Ishimwe
+        bowler: JM Nthenya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Uwase
+    - 7.6:
+        non_striker: C Uwase
+        bowler: JM Nthenya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 7.7:
+        non_striker: C Uwase
+        bowler: JM Nthenya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 8.1:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 8.2:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Uwase
+    - 8.3:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 8.4:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 8.5:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+        wicket:
+          player_out: C Uwase
+          kind: bowled
+    - 8.6:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 8.7:
+        non_striker: H Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ishimwe
+    - 8.8:
+        non_striker: H Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 9.1:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 9.2:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 9.3:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Ishimwe
+    - 9.4:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 9.5:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Ishimwe
+    - 9.6:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 10.1:
+        non_striker: H Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 10.2:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 10.3:
+        non_striker: H Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 10.4:
+        non_striker: H Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ishimwe
+    - 10.5:
+        non_striker: H Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ishimwe
+    - 10.6:
+        non_striker: H Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 10.7:
+        non_striker: H Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 10.8:
+        non_striker: G Ishimwe
+        bowler: JS Ndanu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Ishimwe
+    - 11.1:
+        non_striker: H Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 11.2:
+        non_striker: H Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 11.3:
+        non_striker: H Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 11.4:
+        non_striker: H Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 11.5:
+        non_striker: H Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 11.6:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 12.1:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Ishimwe
+    - 12.2:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 12.3:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 12.4:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 12.5:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 12.6:
+        non_striker: H Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ishimwe
+    - 13.1:
+        non_striker: G Ishimwe
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 13.2:
+        non_striker: G Ishimwe
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 13.3:
+        non_striker: G Ishimwe
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 13.4:
+        non_striker: G Ishimwe
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 13.5:
+        non_striker: H Ishimwe
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ishimwe
+    - 13.6:
+        non_striker: H Ishimwe
+        bowler: A Wanjira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 14.1:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 14.2:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 14.3:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 14.4:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 14.5:
+        non_striker: H Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 14.6:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 15.1:
+        non_striker: H Ishimwe
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 15.2:
+        non_striker: H Ishimwe
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 15.3:
+        non_striker: H Ishimwe
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 15.4:
+        non_striker: H Ishimwe
+        bowler: MI Khagoitsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ishimwe
+    - 15.5:
+        non_striker: H Ishimwe
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 15.6:
+        non_striker: H Ishimwe
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+    - 15.7:
+        non_striker: H Ishimwe
+        bowler: MI Khagoitsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ishimwe
+    - 16.1:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+        wicket:
+          player_out: H Ishimwe
+          fielders:
+          - A Wanjira
+          kind: caught
+    - 16.2:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 16.3:
+        non_striker: A Ikuzwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ishimwe
+    - 16.4:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 16.5:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 16.6:
+        non_striker: G Ishimwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 17.1:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 17.2:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 17.3:
+        non_striker: G Ishimwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 17.4:
+        non_striker: A Ikuzwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ishimwe
+        wicket:
+          player_out: G Ishimwe
+          fielders:
+          - JS Ndanu
+          kind: caught
+    - 17.5:
+        non_striker: A Ikuzwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 17.6:
+        non_striker: A Ikuzwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ingabire
+    - 18.1:
+        non_striker: A Ikuzwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ingabire
+    - 18.2:
+        non_striker: A Ikuzwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 18.3:
+        non_striker: A Ikuzwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 18.4:
+        non_striker: A Ikuzwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 18.5:
+        non_striker: A Ikuzwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 18.6:
+        non_striker: A Ikuzwe
+        bowler: Q Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ingabire
+    - 18.7:
+        non_striker: A Ikuzwe
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ingabire
+    - 19.1:
+        non_striker: G Ingabire
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 19.2:
+        non_striker: A Ikuzwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+        wicket:
+          player_out: G Ingabire
+          kind: lbw
+    - 19.3:
+        non_striker: A Ikuzwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Murekatete
+    - 19.4:
+        non_striker: B Murekatete
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 19.5:
+        non_striker: B Murekatete
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 19.6:
+        non_striker: A Ikuzwe
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Murekatete
+- 2nd innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        non_striker: C Muthoni
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KV Mehta
+        wicket:
+          player_out: KV Mehta
+          kind: lbw
+    - 0.2:
+        non_striker: C Muthoni
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MI Khagoitsa
+    - 0.3:
+        non_striker: C Muthoni
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MI Khagoitsa
+    - 0.4:
+        non_striker: MI Khagoitsa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+    - 0.5:
+        non_striker: MI Khagoitsa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+    - 0.6:
+        non_striker: MI Khagoitsa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Muthoni
+    - 1.1:
+        non_striker: MI Khagoitsa
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Muthoni
+    - 1.2:
+        non_striker: MI Khagoitsa
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+    - 1.3:
+        non_striker: MI Khagoitsa
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Muthoni
+    - 1.4:
+        non_striker: MI Khagoitsa
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Muthoni
+    - 1.5:
+        non_striker: MI Khagoitsa
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+    - 1.6:
+        non_striker: MI Khagoitsa
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+    - 2.1:
+        non_striker: C Muthoni
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MI Khagoitsa
+    - 2.2:
+        non_striker: C Muthoni
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MI Khagoitsa
+    - 2.3:
+        non_striker: MI Khagoitsa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Muthoni
+    - 2.4:
+        non_striker: MI Khagoitsa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+    - 2.5:
+        non_striker: MI Khagoitsa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+    - 2.6:
+        non_striker: MI Khagoitsa
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+    - 3.1:
+        non_striker: C Muthoni
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MI Khagoitsa
+    - 3.2:
+        non_striker: C Muthoni
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MI Khagoitsa
+    - 3.3:
+        non_striker: C Muthoni
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MI Khagoitsa
+    - 3.4:
+        non_striker: C Muthoni
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MI Khagoitsa
+    - 3.5:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+    - 3.6:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Muthoni
+    - 4.1:
+        non_striker: MI Khagoitsa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Muthoni
+        wicket:
+          player_out: C Muthoni
+          fielders:
+          - G Ingabire
+          kind: caught
+    - 4.2:
+        non_striker: MI Khagoitsa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 4.3:
+        non_striker: MI Khagoitsa
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 4.4:
+        non_striker: E Wachira
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MI Khagoitsa
+    - 4.5:
+        non_striker: E Wachira
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MI Khagoitsa
+    - 4.6:
+        non_striker: E Wachira
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MI Khagoitsa
+    - 5.1:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 5.2:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 5.3:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 5.4:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 5.5:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 5.6:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 6.1:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MI Khagoitsa
+    - 6.2:
+        non_striker: MI Khagoitsa
+        bowler: A Ikuzwe
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: E Wachira
+    - 6.3:
+        non_striker: MI Khagoitsa
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Wachira
+    - 6.4:
+        non_striker: MI Khagoitsa
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 6.5:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MI Khagoitsa
+    - 6.6:
+        non_striker: MI Khagoitsa
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 6.7:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MI Khagoitsa
+    - 7.1:
+        non_striker: E Wachira
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MI Khagoitsa
+    - 7.2:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 7.3:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 7.4:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Wachira
+    - 7.5:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 7.6:
+        non_striker: E Wachira
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MI Khagoitsa
+    - 7.7:
+        non_striker: MI Khagoitsa
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 8.1:
+        non_striker: MI Khagoitsa
+        bowler: A Ikuzwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Wachira
+    - 8.2:
+        non_striker: MI Khagoitsa
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 8.3:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MI Khagoitsa
+        wicket:
+          player_out: MI Khagoitsa
+          fielders:
+          - MD Bimenyimana
+          kind: caught
+    - 8.4:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+    - 8.5:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q Abel
+    - 8.6:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Abel
+    - 8.7:
+        non_striker: Q Abel
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 8.8:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Abel
+    - 9.1:
+        non_striker: E Wachira
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+    - 9.2:
+        non_striker: E Wachira
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Abel
+    - 9.3:
+        non_striker: Q Abel
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 9.4:
+        non_striker: Q Abel
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 9.5:
+        non_striker: Q Abel
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 9.6:
+        non_striker: Q Abel
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 10.1:
+        non_striker: Q Abel
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 10.2:
+        non_striker: Q Abel
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 10.3:
+        non_striker: Q Abel
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 10.4:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+    - 10.5:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+    - 10.6:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q Abel
+    - 10.7:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Q Abel
+    - 11.1:
+        non_striker: E Wachira
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+    - 11.2:
+        non_striker: E Wachira
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+    - 11.3:
+        non_striker: E Wachira
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+    - 11.4:
+        non_striker: E Wachira
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Abel
+    - 11.5:
+        non_striker: Q Abel
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 11.6:
+        non_striker: E Wachira
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+    - 12.1:
+        non_striker: Q Abel
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 12.2:
+        non_striker: Q Abel
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 12.3:
+        non_striker: Q Abel
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 12.4:
+        non_striker: Q Abel
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Wachira
+    - 12.5:
+        non_striker: Q Abel
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 12.6:
+        non_striker: E Wachira
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+    - 13.1:
+        non_striker: Q Abel
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 13.2:
+        non_striker: Q Abel
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 13.3:
+        non_striker: Q Abel
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 13.4:
+        non_striker: E Wachira
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q Abel
+    - 13.5:
+        non_striker: E Wachira
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Abel
+    - 13.6:
+        non_striker: Q Abel
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 14.1:
+        non_striker: Q Abel
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 14.2:
+        non_striker: E Wachira
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Abel
+    - 14.3:
+        non_striker: Q Abel
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Wachira
+    - 14.4:
+        non_striker: Q Abel
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+        wicket:
+          player_out: E Wachira
+          fielders:
+          - Rosine Irera
+          kind: run out
+    - 14.5:
+        non_striker: V Ooko
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+        wicket:
+          player_out: Q Abel
+          kind: lbw
+    - 14.6:
+        non_striker: V Ooko
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Ndanu
+    - 15.1:
+        non_striker: JS Ndanu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ooko
+    - 15.2:
+        non_striker: V Ooko
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Ndanu
+    - 15.3:
+        non_striker: V Ooko
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Ndanu
+    - 15.4:
+        non_striker: JS Ndanu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ooko
+    - 15.5:
+        non_striker: JS Ndanu
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ooko
+        wicket:
+          player_out: JS Ndanu
+          fielders:
+          - M Uwase
+          - H Ishimwe
+          kind: run out
+    - 15.6:
+        non_striker: V Ooko
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Nthenya
+    - 16.1:
+        non_striker: JM Nthenya
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ooko
+        wicket:
+          player_out: V Ooko
+          kind: lbw
+    - 16.2:
+        non_striker: JM Nthenya
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wanjira
+    - 16.3:
+        non_striker: JM Nthenya
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wanjira
+    - 16.4:
+        non_striker: JM Nthenya
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wanjira
+        wicket:
+          player_out: A Wanjira
+          kind: caught and bowled
+    - 16.5:
+        non_striker: JM Nthenya
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Odhiambo
+    - 16.6:
+        non_striker: JM Nthenya
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Odhiambo
+    - 17.1:
+        non_striker: JM Nthenya
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Odhiambo
+    - 17.2:
+        non_striker: JM Nthenya
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Odhiambo
+    - 17.3:
+        non_striker: JM Nthenya
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Odhiambo
+    - 17.4:
+        non_striker: F Odhiambo
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Nthenya
+    - 17.5:
+        non_striker: F Odhiambo
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Nthenya
+    - 17.6:
+        non_striker: F Odhiambo
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Nthenya
+    - 18.1:
+        non_striker: F Odhiambo
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Nthenya
+    - 18.2:
+        non_striker: F Odhiambo
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Nthenya
+    - 18.3:
+        non_striker: F Odhiambo
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Nthenya
+    - 18.4:
+        non_striker: F Odhiambo
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Nthenya
+        wicket:
+          player_out: JM Nthenya
+          kind: bowled
+    - 18.5:
+        non_striker: F Odhiambo
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ajiambo
+    - 18.6:
+        non_striker: J Ajiambo
+        bowler: B Murekatete
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Odhiambo
+    - 19.1:
+        non_striker: F Odhiambo
+        bowler: C Umutonni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ajiambo
+    - 19.2:
+        non_striker: J Ajiambo
+        bowler: C Umutonni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Odhiambo
+    - 19.3:
+        non_striker: J Ajiambo
+        bowler: C Umutonni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Odhiambo
+    - 19.4:
+        non_striker: J Ajiambo
+        bowler: C Umutonni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Odhiambo
+    - 19.5:
+        non_striker: J Ajiambo
+        bowler: C Umutonni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Odhiambo
+    - 19.6:
+        non_striker: J Ajiambo
+        bowler: C Umutonni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Odhiambo

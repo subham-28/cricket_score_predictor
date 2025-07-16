@@ -1,0 +1,1702 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2025-06-05'
+  gender: female
+  match_type: T20
+  match_type_number: 2333
+  outcome:
+    winner: China
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Mengting Liu
+  players:
+    Mongolia:
+    - J Tugsjargal
+    - B Ichinkhorloo
+    - M Batnasan
+    - E Khaliunaa
+    - G Anujin
+    - G Urjindulam
+    - O Erdenebaatar
+    - J Erdenesuvd
+    - O Amarjargal
+    - B Namuunzul
+    - U Bayarjavkhlan
+    China:
+    - Yan Zuying
+    - M Zhu
+    - Mengting Liu
+    - Wei Haiting
+    - Jiaping Li
+    - Cai Yuzhi
+    - Xu Qian
+    - Wang Huiying
+    - Gong Yuting
+    - Ma Ruike
+    - Peng Liangyu
+  registry:
+    people:
+      Adam Birss: 0cabf6f4
+      B Ichinkhorloo: 3cc55f88
+      B Namuunzul: e14e70c0
+      Cai Yuzhi: 80d30c5f
+      E Khaliunaa: 1349b940
+      G Anujin: e749f016
+      G Urjindulam: a51e7c73
+      Gong Yuting: edcd847a
+      J Erdenesuvd: 24dacf72
+      J Tugsjargal: e7af8a61
+      Jiaping Li: 35cac794
+      M Batnasan: 0e01e881
+      M Zhu: 36c3302e
+      Ma Ruike: 8ccef7e2
+      Mengting Liu: 1119a645
+      O Amarjargal: c054cf6f
+      O Erdenebaatar: f40bc7e3
+      Peng Liangyu: 397d720c
+      Sagir Parkar: '74254300'
+      U Bayarjavkhlan: 92c81a4f
+      Wang Huiying: c84a3e06
+      Wei Haiting: a1e30490
+      Xu Qian: 4d382b64
+      Yan Zuying: 0311d9ec
+  teams:
+  - Mongolia
+  - China
+  toss:
+    winner: Mongolia
+    decision: bat
+  umpires:
+  - Adam Birss
+  - Sagir Parkar
+  venue: Sano International Cricket Ground
+innings:
+- 1st innings:
+    team: Mongolia
+    deliveries:
+    - 0.1:
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: J Tugsjargal
+    - 0.2:
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: J Tugsjargal
+    - 0.3:
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: J Tugsjargal
+    - 0.4:
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: J Tugsjargal
+    - 0.5:
+        non_striker: B Ichinkhorloo
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+        wicket:
+          player_out: J Tugsjargal
+          kind: bowled
+    - 0.6:
+        non_striker: B Ichinkhorloo
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Batnasan
+    - 0.7:
+        non_striker: B Ichinkhorloo
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 1.1:
+        non_striker: M Batnasan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 1.2:
+        non_striker: M Batnasan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 1.3:
+        non_striker: M Batnasan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 1.4:
+        non_striker: M Batnasan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 1.5:
+        non_striker: M Batnasan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ichinkhorloo
+    - 1.6:
+        non_striker: M Batnasan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 2.1:
+        non_striker: B Ichinkhorloo
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+        wicket:
+          player_out: M Batnasan
+          kind: lbw
+    - 2.2:
+        non_striker: B Ichinkhorloo
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Khaliunaa
+        wicket:
+          player_out: E Khaliunaa
+          fielders:
+          - Cai Yuzhi
+          kind: caught
+    - 2.3:
+        non_striker: B Ichinkhorloo
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Anujin
+    - 2.4:
+        non_striker: G Anujin
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 2.5:
+        non_striker: G Anujin
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 2.6:
+        non_striker: B Ichinkhorloo
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+        wicket:
+          player_out: G Anujin
+          fielders:
+          - Xu Qian
+          kind: caught
+    - 2.7:
+        non_striker: B Ichinkhorloo
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Urjindulam
+    - 3.1:
+        non_striker: B Ichinkhorloo
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 3.2:
+        non_striker: B Ichinkhorloo
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 3.3:
+        non_striker: B Ichinkhorloo
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+        wicket:
+          player_out: G Urjindulam
+          kind: bowled
+    - 3.4:
+        non_striker: B Ichinkhorloo
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 3.5:
+        non_striker: B Ichinkhorloo
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 3.6:
+        non_striker: B Ichinkhorloo
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 4.1:
+        non_striker: O Erdenebaatar
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.2:
+        non_striker: O Erdenebaatar
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 4.3:
+        non_striker: O Erdenebaatar
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.4:
+        non_striker: O Erdenebaatar
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.5:
+        non_striker: O Erdenebaatar
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 4.6:
+        non_striker: O Erdenebaatar
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.7:
+        non_striker: O Erdenebaatar
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.8:
+        non_striker: O Erdenebaatar
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ichinkhorloo
+    - 5.1:
+        non_striker: B Ichinkhorloo
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 5.2:
+        non_striker: B Ichinkhorloo
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Erdenebaatar
+    - 5.3:
+        non_striker: O Erdenebaatar
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 5.4:
+        non_striker: O Erdenebaatar
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+        wicket:
+          player_out: B Ichinkhorloo
+          kind: bowled
+    - 5.5:
+        non_striker: O Erdenebaatar
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 5.6:
+        non_striker: O Erdenebaatar
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 6.1:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 6.2:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 6.3:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Erdenebaatar
+    - 6.4:
+        non_striker: O Erdenebaatar
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 6.5:
+        non_striker: O Erdenebaatar
+        bowler: Wang Huiying
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Erdenesuvd
+    - 6.6:
+        non_striker: O Erdenebaatar
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 6.7:
+        non_striker: O Erdenebaatar
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 7.1:
+        non_striker: J Erdenesuvd
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 7.2:
+        non_striker: J Erdenesuvd
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 7.3:
+        non_striker: J Erdenesuvd
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 7.4:
+        non_striker: J Erdenesuvd
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 7.5:
+        non_striker: J Erdenesuvd
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 7.6:
+        non_striker: J Erdenesuvd
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 8.1:
+        non_striker: O Erdenebaatar
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 8.2:
+        non_striker: O Erdenebaatar
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 8.3:
+        non_striker: O Erdenebaatar
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 8.4:
+        non_striker: O Erdenebaatar
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 8.5:
+        non_striker: O Erdenebaatar
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 8.6:
+        non_striker: O Erdenebaatar
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 9.1:
+        non_striker: J Erdenesuvd
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Erdenebaatar
+    - 9.2:
+        non_striker: O Erdenebaatar
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 9.3:
+        non_striker: O Erdenebaatar
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 9.4:
+        non_striker: O Erdenebaatar
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 9.5:
+        non_striker: O Erdenebaatar
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 9.6:
+        non_striker: O Erdenebaatar
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 10.1:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 10.2:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 10.3:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 10.4:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 10.5:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Erdenebaatar
+    - 10.6:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 11.1:
+        non_striker: O Erdenebaatar
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 11.2:
+        non_striker: O Erdenebaatar
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Erdenesuvd
+    - 11.3:
+        non_striker: J Erdenesuvd
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 11.4:
+        non_striker: J Erdenesuvd
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 11.5:
+        non_striker: J Erdenesuvd
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 11.6:
+        non_striker: J Erdenesuvd
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 12.1:
+        non_striker: O Erdenebaatar
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 12.2:
+        non_striker: O Erdenebaatar
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 12.3:
+        non_striker: O Erdenebaatar
+        bowler: Wang Huiying
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Erdenesuvd
+    - 12.4:
+        non_striker: O Erdenebaatar
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Erdenesuvd
+    - 12.5:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 12.6:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 12.7:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 13.1:
+        non_striker: O Erdenebaatar
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 13.2:
+        non_striker: O Erdenebaatar
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Erdenesuvd
+    - 13.3:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 13.4:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+        wicket:
+          player_out: O Erdenebaatar
+          fielders:
+          - Cai Yuzhi
+          kind: caught
+    - 13.5:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 13.6:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 14.1:
+        non_striker: O Amarjargal
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 14.2:
+        non_striker: O Amarjargal
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 14.3:
+        non_striker: O Amarjargal
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Erdenesuvd
+    - 14.4:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 14.5:
+        non_striker: J Erdenesuvd
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 14.6:
+        non_striker: O Amarjargal
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 15.1:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 15.2:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 15.3:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 15.4:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: O Amarjargal
+    - 15.5:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 15.6:
+        non_striker: J Erdenesuvd
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 15.7:
+        non_striker: O Amarjargal
+        bowler: Gong Yuting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 16.1:
+        non_striker: J Erdenesuvd
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 16.2:
+        non_striker: J Erdenesuvd
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 16.3:
+        non_striker: J Erdenesuvd
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 16.4:
+        non_striker: J Erdenesuvd
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 16.5:
+        non_striker: J Erdenesuvd
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 16.6:
+        non_striker: J Erdenesuvd
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 17.1:
+        non_striker: O Amarjargal
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+    - 17.2:
+        non_striker: O Amarjargal
+        bowler: Mengting Liu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Erdenesuvd
+    - 17.3:
+        non_striker: O Amarjargal
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Erdenesuvd
+        wicket:
+          player_out: J Erdenesuvd
+          kind: bowled
+    - 17.4:
+        non_striker: O Amarjargal
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namuunzul
+    - 17.5:
+        non_striker: O Amarjargal
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Namuunzul
+    - 17.6:
+        non_striker: B Namuunzul
+        bowler: Mengting Liu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Amarjargal
+    - 17.7:
+        non_striker: B Namuunzul
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 17.8:
+        non_striker: B Namuunzul
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 18.1:
+        non_striker: O Amarjargal
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namuunzul
+    - 18.2:
+        non_striker: O Amarjargal
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namuunzul
+    - 18.3:
+        non_striker: O Amarjargal
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namuunzul
+    - 18.4:
+        non_striker: O Amarjargal
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Namuunzul
+    - 18.5:
+        non_striker: B Namuunzul
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 18.6:
+        non_striker: O Amarjargal
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namuunzul
+    - 19.1:
+        non_striker: B Namuunzul
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 19.2:
+        non_striker: B Namuunzul
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+        wicket:
+          player_out: O Amarjargal
+          fielders:
+          - Peng Liangyu
+          kind: caught
+    - 19.3:
+        non_striker: B Namuunzul
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Bayarjavkhlan
+    - 19.4:
+        non_striker: B Namuunzul
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Bayarjavkhlan
+    - 19.5:
+        non_striker: B Namuunzul
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Bayarjavkhlan
+    - 19.6:
+        non_striker: B Namuunzul
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Bayarjavkhlan
+- 2nd innings:
+    team: China
+    deliveries:
+    - 0.1:
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Zhu
+        batsman: Yan Zuying
+    - 0.2:
+        bowler: O Erdenebaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Zhu
+        batsman: Yan Zuying
+    - 0.3:
+        bowler: O Erdenebaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Zhu
+        batsman: Yan Zuying
+    - 0.4:
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Zhu
+        batsman: Yan Zuying
+    - 0.5:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Zhu
+    - 0.6:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Zhu
+    - 0.7:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Zhu
+        wicket:
+          player_out: M Zhu
+          kind: bowled
+    - 0.8:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 1.1:
+        non_striker: Mengting Liu
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yan Zuying
+    - 1.2:
+        non_striker: Mengting Liu
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Yan Zuying
+    - 1.3:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mengting Liu
+    - 1.4:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 1.5:
+        non_striker: Mengting Liu
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 1.6:
+        non_striker: Mengting Liu
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 1.7:
+        non_striker: Mengting Liu
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 1.8:
+        non_striker: Mengting Liu
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 2.1:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 2.2:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 2.3:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 2.4:
+        non_striker: Mengting Liu
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 2.5:
+        non_striker: Mengting Liu
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 2.6:
+        non_striker: Mengting Liu
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 3.1:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 3.2:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mengting Liu
+    - 3.3:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 3.4:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 3.5:
+        non_striker: Mengting Liu
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yan Zuying
+    - 3.6:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 3.7:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+        wicket:
+          player_out: Mengting Liu
+          kind: caught and bowled
+    - 4.1:
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wei Haiting
+        batsman: Yan Zuying
+    - 4.2:
+        bowler: O Erdenebaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: Wei Haiting
+        batsman: Yan Zuying
+    - 4.3:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 4.4:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 4.5:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 4.6:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Wei Haiting
+    - 4.7:
+        non_striker: Yan Zuying
+        bowler: O Erdenebaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Wei Haiting
+    - 5.1:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 5.2:
+        non_striker: Yan Zuying
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wei Haiting
+    - 5.3:
+        non_striker: Wei Haiting
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 5.4:
+        non_striker: Wei Haiting
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 5.5:
+        non_striker: Wei Haiting
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 5.6:
+        non_striker: Wei Haiting
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yan Zuying
+    - 6.1:
+        non_striker: Wei Haiting
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+    - 6.2:
+        non_striker: Wei Haiting
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+        wicket:
+          player_out: Yan Zuying
+          fielders:
+          - U Bayarjavkhlan
+          kind: caught
+    - 6.3:
+        non_striker: Wei Haiting
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 6.4:
+        non_striker: Wei Haiting
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 6.5:
+        non_striker: Wei Haiting
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jiaping Li
+    - 6.6:
+        non_striker: Wei Haiting
+        bowler: O Amarjargal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jiaping Li
+    - 6.7:
+        non_striker: Wei Haiting
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 7.1:
+        non_striker: Jiaping Li
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wei Haiting
+    - 7.2:
+        non_striker: Jiaping Li
+        bowler: G Urjindulam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Wei Haiting
+    - 7.3:
+        non_striker: Jiaping Li
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wei Haiting
+    - 7.4:
+        non_striker: Wei Haiting
+        bowler: G Urjindulam
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Jiaping Li
+    - 7.5:
+        non_striker: Jiaping Li
+        bowler: G Urjindulam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Wei Haiting
+    - 7.6:
+        non_striker: Jiaping Li
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wei Haiting
+    - 7.7:
+        non_striker: Wei Haiting
+        bowler: G Urjindulam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jiaping Li
+    - 7.8:
+        non_striker: Wei Haiting
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 7.9:
+        non_striker: Wei Haiting
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jiaping Li
+    - 7.10:
+        non_striker: Jiaping Li
+        bowler: G Urjindulam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Wei Haiting
+    - 7.11:
+        non_striker: Jiaping Li
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 8.1:
+        non_striker: Wei Haiting
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jiaping Li

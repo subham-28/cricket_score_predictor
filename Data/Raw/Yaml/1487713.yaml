@@ -1,0 +1,2093 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2025-06-08'
+  gender: female
+  match_type: T20
+  match_type_number: 2350
+  outcome:
+    winner: Uganda
+    by:
+      runs: 50
+  overs: 20
+  player_of_match:
+  - S Nampiina
+  players:
+    Uganda:
+    - J Mbabazi
+    - E Iloku
+    - I Nakisuuyi
+    - K Awino
+    - R Musamali
+    - S Nampiina
+    - P Alako
+    - PE Kulume
+    - T Oyella
+    - S Walaza
+    - S Tino
+    Malawi:
+    - LL Dimba
+    - S Chinawa
+    - S Kananji
+    - F Malefula
+    - P Maziya
+    - T Luka
+    - A Alfonso
+    - E Richard
+    - C Bwanali
+    - L Malino
+    - E Kabwere
+  registry:
+    people:
+      A Alfonso: 5088c217
+      C Bwanali: b26a30f9
+      E Iloku: f1fa1c6b
+      E Kabwere: b6358ee8
+      E Richard: 8d76816e
+      ET Dube: 4c0891bc
+      F Malefula: 6a405883
+      F Mutizwa: d3e83eef
+      I Nakisuuyi: 2f145a4f
+      J Mbabazi: aaa6e84c
+      K Awino: c4e7749a
+      L Malino: 7a81836e
+      LL Dimba: 53f88bf1
+      P Alako: fcf37e14
+      P Maziya: 4f85f02c
+      PE Kulume: bb1a5f8a
+      R Musamali: 017cadb2
+      S Chinawa: bdbde085
+      S Kananji: 23917bf0
+      S Kintu: ff387f93
+      S Nampiina: 91d9aa26
+      S Tino: e2a702e3
+      S Walaza: f67ea6d2
+      T Luka: 44e008a5
+      T Oyella: 5f03af45
+      V Iriho: 2853eafb
+  teams:
+  - Uganda
+  - Malawi
+  toss:
+    winner: Malawi
+    decision: field
+  umpires:
+  - F Mutizwa
+  - S Kintu
+  venue: Gahanga International Cricket Stadium, Rwanda
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.2:
+        non_striker: J Mbabazi
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+        wicket:
+          player_out: J Mbabazi
+          fielders:
+          - S Kananji
+          - F Malefula
+          kind: run out
+    - 0.3:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Nakisuuyi
+        batsman: E Iloku
+    - 0.4:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Nakisuuyi
+        batsman: E Iloku
+    - 0.5:
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Nakisuuyi
+        batsman: E Iloku
+    - 0.6:
+        non_striker: I Nakisuuyi
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Iloku
+    - 1.1:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 1.2:
+        non_striker: I Nakisuuyi
+        bowler: E Kabwere
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Iloku
+    - 1.3:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 1.4:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: I Nakisuuyi
+          fielders:
+          - LL Dimba
+          - T Luka
+          kind: run out
+    - 1.5:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 1.6:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.1:
+        non_striker: K Awino
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 2.2:
+        non_striker: E Iloku
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Awino
+    - 2.3:
+        non_striker: E Iloku
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.4:
+        non_striker: E Iloku
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.5:
+        non_striker: E Iloku
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 2.6:
+        non_striker: K Awino
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.7:
+        non_striker: K Awino
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 3.1:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.2:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.3:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.4:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 3.5:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.6:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 4.1:
+        non_striker: K Awino
+        bowler: S Kananji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Iloku
+    - 4.2:
+        non_striker: E Iloku
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 4.3:
+        non_striker: E Iloku
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 4.4:
+        non_striker: K Awino
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 4.5:
+        non_striker: K Awino
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 4.6:
+        non_striker: E Iloku
+        bowler: S Kananji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 5.1:
+        non_striker: K Awino
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 5.2:
+        non_striker: K Awino
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 5.3:
+        non_striker: K Awino
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 5.4:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 5.5:
+        non_striker: K Awino
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 5.6:
+        non_striker: E Iloku
+        bowler: E Kabwere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 6.1:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 6.2:
+        non_striker: E Iloku
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 6.3:
+        non_striker: E Iloku
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 6.4:
+        non_striker: E Iloku
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 6.5:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 6.6:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 7.1:
+        non_striker: E Iloku
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 7.2:
+        non_striker: K Awino
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Iloku
+    - 7.3:
+        non_striker: K Awino
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 7.4:
+        non_striker: E Iloku
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 7.5:
+        non_striker: E Iloku
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 7.6:
+        non_striker: E Iloku
+        bowler: P Maziya
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: K Awino
+    - 7.7:
+        non_striker: E Iloku
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 8.1:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 8.2:
+        non_striker: E Iloku
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 8.3:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 8.4:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+        wicket:
+          player_out: E Iloku
+          kind: bowled
+    - 8.5:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 8.6:
+        non_striker: R Musamali
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 9.1:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 9.2:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 9.3:
+        non_striker: K Awino
+        bowler: P Maziya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Musamali
+    - 9.4:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 9.5:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 9.6:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 9.7:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 10.1:
+        non_striker: R Musamali
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 10.2:
+        non_striker: R Musamali
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 10.3:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 10.4:
+        non_striker: R Musamali
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 10.5:
+        non_striker: R Musamali
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 10.6:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 11.1:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 11.2:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 11.3:
+        non_striker: K Awino
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 11.4:
+        non_striker: K Awino
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 11.5:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 11.6:
+        non_striker: R Musamali
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Awino
+    - 12.1:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 12.2:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.3:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 12.4:
+        non_striker: R Musamali
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 12.5:
+        non_striker: R Musamali
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 12.6:
+        non_striker: K Awino
+        bowler: LL Dimba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 13.1:
+        non_striker: K Awino
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 13.2:
+        non_striker: K Awino
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 13.3:
+        non_striker: K Awino
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 13.4:
+        non_striker: K Awino
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 13.5:
+        non_striker: K Awino
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 13.6:
+        non_striker: K Awino
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 14.1:
+        non_striker: K Awino
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 14.2:
+        non_striker: K Awino
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 14.3:
+        non_striker: K Awino
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 14.4:
+        non_striker: K Awino
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 14.5:
+        non_striker: R Musamali
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 14.6:
+        non_striker: R Musamali
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 15.1:
+        non_striker: R Musamali
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 15.2:
+        non_striker: R Musamali
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 15.3:
+        non_striker: K Awino
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 15.4:
+        non_striker: K Awino
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 15.5:
+        non_striker: R Musamali
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+        wicket:
+          player_out: K Awino
+          fielders:
+          - T Luka
+          kind: stumped
+    - 15.6:
+        non_striker: R Musamali
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 16.1:
+        non_striker: S Nampiina
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 16.2:
+        non_striker: S Nampiina
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 16.3:
+        non_striker: R Musamali
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nampiina
+    - 16.4:
+        non_striker: R Musamali
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 16.5:
+        non_striker: R Musamali
+        bowler: L Malino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Nampiina
+    - 16.6:
+        non_striker: R Musamali
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+        wicket:
+          player_out: S Nampiina
+          fielders:
+          - P Maziya
+          kind: caught
+    - 16.7:
+        non_striker: R Musamali
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 17.1:
+        non_striker: P Alako
+        bowler: C Bwanali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Musamali
+    - 17.2:
+        non_striker: P Alako
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 17.3:
+        non_striker: R Musamali
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 17.4:
+        non_striker: R Musamali
+        bowler: C Bwanali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Alako
+    - 17.5:
+        non_striker: R Musamali
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 17.6:
+        non_striker: P Alako
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 17.7:
+        non_striker: R Musamali
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 17.8:
+        non_striker: R Musamali
+        bowler: C Bwanali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 18.1:
+        non_striker: P Alako
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Musamali
+    - 18.2:
+        non_striker: P Alako
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 18.3:
+        non_striker: R Musamali
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 18.4:
+        non_striker: P Alako
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: R Musamali
+          fielders:
+          - P Maziya
+          kind: caught
+    - 18.5:
+        non_striker: P Alako
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 18.6:
+        non_striker: P Alako
+        bowler: L Malino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 19.1:
+        non_striker: PE Kulume
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Alako
+    - 19.2:
+        non_striker: PE Kulume
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Alako
+    - 19.3:
+        non_striker: PE Kulume
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 19.4:
+        non_striker: PE Kulume
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 19.5:
+        non_striker: PE Kulume
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 19.6:
+        non_striker: PE Kulume
+        bowler: P Maziya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+- 2nd innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chinawa
+        batsman: LL Dimba
+    - 0.2:
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chinawa
+        batsman: LL Dimba
+    - 0.3:
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chinawa
+        batsman: LL Dimba
+    - 0.4:
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chinawa
+        batsman: LL Dimba
+    - 0.5:
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chinawa
+        batsman: LL Dimba
+    - 0.6:
+        non_striker: S Chinawa
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 1.1:
+        non_striker: LL Dimba
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.2:
+        non_striker: LL Dimba
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.3:
+        non_striker: LL Dimba
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+    - 1.4:
+        non_striker: LL Dimba
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chinawa
+    - 1.5:
+        non_striker: LL Dimba
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chinawa
+        wicket:
+          player_out: S Chinawa
+          kind: bowled
+    - 1.6:
+        non_striker: LL Dimba
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 2.1:
+        non_striker: S Kananji
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 2.2:
+        non_striker: LL Dimba
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+    - 2.3:
+        non_striker: LL Dimba
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kananji
+        wicket:
+          player_out: S Kananji
+          fielders:
+          - R Musamali
+          kind: caught
+    - 2.4:
+        non_striker: LL Dimba
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 2.5:
+        non_striker: F Malefula
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 2.6:
+        non_striker: F Malefula
+        bowler: S Walaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 3.1:
+        non_striker: LL Dimba
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 3.2:
+        non_striker: F Malefula
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 3.3:
+        non_striker: F Malefula
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 3.4:
+        non_striker: F Malefula
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 3.5:
+        non_striker: F Malefula
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 3.6:
+        non_striker: F Malefula
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 4.1:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Malefula
+    - 4.2:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 4.3:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 4.4:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 4.5:
+        non_striker: F Malefula
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 4.6:
+        non_striker: F Malefula
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 4.7:
+        non_striker: F Malefula
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 5.1:
+        non_striker: F Malefula
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 5.2:
+        non_striker: F Malefula
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 5.3:
+        non_striker: F Malefula
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 5.4:
+        non_striker: F Malefula
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 5.5:
+        non_striker: F Malefula
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 5.6:
+        non_striker: F Malefula
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 6.1:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 6.2:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 6.3:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 6.4:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 6.5:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 6.6:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 7.1:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 7.2:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 7.3:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LL Dimba
+    - 7.4:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 7.5:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 7.6:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 8.1:
+        non_striker: F Malefula
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 8.2:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 8.3:
+        non_striker: F Malefula
+        bowler: S Tino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LL Dimba
+    - 8.4:
+        non_striker: F Malefula
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 8.5:
+        non_striker: F Malefula
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 8.6:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+    - 8.7:
+        non_striker: LL Dimba
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Malefula
+    - 9.1:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+    - 9.2:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LL Dimba
+    - 9.3:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 9.4:
+        non_striker: LL Dimba
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malefula
+    - 9.5:
+        non_striker: F Malefula
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Dimba
+    - 9.6:
+        non_striker: LL Dimba
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malefula
+        wicket:
+          player_out: F Malefula
+          fielders:
+          - R Musamali
+          kind: caught
+    - 10.1:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Dimba
+        wicket:
+          player_out: LL Dimba
+          fielders:
+          - R Musamali
+          kind: caught
+    - 10.2:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Luka
+    - 10.3:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+    - 10.4:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Luka
+        wicket:
+          player_out: T Luka
+          kind: caught and bowled
+    - 10.5:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Alfonso
+        wicket:
+          player_out: A Alfonso
+          kind: lbw
+    - 10.6:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 10.7:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 11.1:
+        non_striker: E Richard
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 11.2:
+        non_striker: E Richard
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 11.3:
+        non_striker: E Richard
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 11.4:
+        non_striker: E Richard
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 11.5:
+        non_striker: P Maziya
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 11.6:
+        non_striker: P Maziya
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 12.1:
+        non_striker: E Richard
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maziya
+    - 12.2:
+        non_striker: E Richard
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 12.3:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+    - 12.4:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Richard
+        wicket:
+          player_out: E Richard
+          fielders:
+          - PE Kulume
+          kind: caught
+    - 12.5:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+    - 12.6:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bwanali
+        wicket:
+          player_out: C Bwanali
+          fielders:
+          - E Iloku
+          - PE Kulume
+          kind: run out
+    - 13.1:
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Malino
+        batsman: P Maziya
+    - 13.2:
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Malino
+        batsman: P Maziya
+    - 13.3:
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Malino
+        batsman: P Maziya
+    - 13.4:
+        non_striker: P Maziya
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 13.5:
+        non_striker: P Maziya
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 13.6:
+        non_striker: P Maziya
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Malino
+    - 14.1:
+        non_striker: P Maziya
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 14.2:
+        non_striker: P Maziya
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 14.3:
+        non_striker: P Maziya
+        bowler: T Oyella
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Malino
+    - 14.4:
+        non_striker: L Malino
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 14.5:
+        non_striker: L Malino
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 14.6:
+        non_striker: L Malino
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 15.1:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 15.2:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 15.3:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 15.4:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 15.5:
+        non_striker: P Maziya
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Malino
+    - 15.6:
+        non_striker: L Malino
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 16.1:
+        non_striker: L Malino
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+    - 16.2:
+        non_striker: L Malino
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maziya
+    - 16.3:
+        non_striker: P Maziya
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 16.4:
+        non_striker: P Maziya
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 16.5:
+        non_striker: P Maziya
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 16.6:
+        non_striker: P Maziya
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 17.1:
+        non_striker: L Malino
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maziya
+        wicket:
+          player_out: P Maziya
+          kind: bowled
+    - 17.2:
+        non_striker: L Malino
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kabwere
+    - 17.3:
+        non_striker: L Malino
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kabwere
+    - 17.4:
+        non_striker: E Kabwere
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 17.5:
+        non_striker: E Kabwere
+        bowler: S Nampiina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Malino
+    - 17.6:
+        non_striker: E Kabwere
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+    - 17.7:
+        non_striker: E Kabwere
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Malino
+        wicket:
+          player_out: L Malino
+          fielders:
+          - R Musamali
+          kind: caught

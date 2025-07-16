@@ -1,0 +1,2203 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2024-07-10'
+  gender: male
+  match_type: T20
+  match_type_number: 2750
+  outcome:
+    winner: Slovenia
+    by:
+      wickets: 1
+  overs: 20
+  player_of_match:
+  - Izaz Ali
+  players:
+    Gibraltar:
+    - C Pyle
+    - L Bruce
+    - PA Raikes
+    - KJ Stagno
+    - IDM Latin
+    - BA Pai
+    - M Raikes
+    - JA Fitzgerald
+    - J Horrocks
+    - S Bodha
+    - K Mirpuri
+    Slovenia:
+    - Muhammad Siddiqui
+    - Rasheed Ali Mamadkhel
+    - Tarun Sharma
+    - Shahid Arshad
+    - Izaz Ali
+    - Taher Muhammad
+    - Waqar Khan
+    - S Koppolu
+    - Saeed Waqar Ali
+    - DK Pallekonda
+    - Merwais Shinwari
+  registry:
+    people:
+      BA Pai: 716bf559
+      C Pyle: d278b70b
+      DK Pallekonda: e77c9807
+      H Pack: fed53c91
+      IDM Latin: 78f719ea
+      Izaz Ali: 8a4e101e
+      J Horrocks: 1c8cd1c3
+      JA Fitzgerald: 4e6ff836
+      K Mirpuri: 441006af
+      KJ Stagno: 46ad7e01
+      L Bruce: 2a03bd2f
+      M Burns: b3bd0666
+      M Jameson: bdf1ffe3
+      M Raikes: a9b998d9
+      Merwais Shinwari: 6755b6c7
+      Muhammad Siddiqui: b46b3d9b
+      PA Raikes: dfe5db8a
+      Rasheed Ali Mamadkhel: 72c38d77
+      Rizwan Akram: b5346f1e
+      S Bodha: 00467a76
+      S Koppolu: 3346b14f
+      Saeed Waqar Ali: 1a353572
+      Shahid Arshad: 587e65cc
+      Taher Muhammad: '68832922'
+      Tarun Sharma: f915844b
+      Waqar Khan: da21531c
+  teams:
+  - Gibraltar
+  - Slovenia
+  toss:
+    winner: Gibraltar
+    decision: bat
+  umpires:
+  - M Jameson
+  - M Burns
+  venue: Bayer Uerdingen Cricket Ground
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bruce
+        batsman: C Pyle
+    - 0.2:
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bruce
+        batsman: C Pyle
+    - 0.3:
+        non_striker: C Pyle
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 0.4:
+        non_striker: L Bruce
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+        wicket:
+          player_out: C Pyle
+          fielders:
+          - Izaz Ali
+          kind: run out
+    - 0.5:
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PA Raikes
+        batsman: L Bruce
+    - 0.6:
+        non_striker: L Bruce
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 1.1:
+        non_striker: PA Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 1.2:
+        non_striker: L Bruce
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 1.3:
+        non_striker: PA Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.4:
+        non_striker: PA Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.5:
+        non_striker: PA Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.6:
+        non_striker: PA Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 2.1:
+        non_striker: L Bruce
+        bowler: Merwais Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Raikes
+    - 2.2:
+        non_striker: L Bruce
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 2.3:
+        non_striker: L Bruce
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+        wicket:
+          player_out: PA Raikes
+          fielders:
+          - Tarun Sharma
+          kind: caught
+    - 2.4:
+        non_striker: L Bruce
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 2.5:
+        non_striker: KJ Stagno
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 2.6:
+        non_striker: KJ Stagno
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 2.7:
+        non_striker: KJ Stagno
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 3.1:
+        non_striker: KJ Stagno
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 3.2:
+        non_striker: KJ Stagno
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 3.3:
+        non_striker: L Bruce
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 3.4:
+        non_striker: KJ Stagno
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 3.5:
+        non_striker: KJ Stagno
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 3.6:
+        non_striker: KJ Stagno
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 4.1:
+        non_striker: L Bruce
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 4.2:
+        non_striker: L Bruce
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 4.3:
+        non_striker: L Bruce
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 4.4:
+        non_striker: KJ Stagno
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 4.5:
+        non_striker: KJ Stagno
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 4.6:
+        non_striker: L Bruce
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+        wicket:
+          player_out: KJ Stagno
+          fielders:
+          - Shahid Arshad
+          kind: caught
+    - 5.1:
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IDM Latin
+        batsman: L Bruce
+    - 5.2:
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: IDM Latin
+        batsman: L Bruce
+    - 5.3:
+        non_striker: IDM Latin
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+        wicket:
+          player_out: L Bruce
+          fielders:
+          - Tarun Sharma
+          kind: caught
+    - 5.4:
+        non_striker: IDM Latin
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 5.5:
+        non_striker: IDM Latin
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 5.6:
+        non_striker: IDM Latin
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 6.1:
+        non_striker: BA Pai
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 6.2:
+        non_striker: BA Pai
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 6.3:
+        non_striker: IDM Latin
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 6.4:
+        non_striker: BA Pai
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 6.5:
+        non_striker: BA Pai
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IDM Latin
+    - 6.6:
+        non_striker: BA Pai
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IDM Latin
+    - 7.1:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 7.2:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 7.3:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 7.4:
+        non_striker: BA Pai
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 7.5:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 7.6:
+        non_striker: BA Pai
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 8.1:
+        non_striker: BA Pai
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 8.2:
+        non_striker: BA Pai
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IDM Latin
+    - 8.3:
+        non_striker: BA Pai
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 8.4:
+        non_striker: BA Pai
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 8.5:
+        non_striker: IDM Latin
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 8.6:
+        non_striker: IDM Latin
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 9.1:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 9.2:
+        non_striker: BA Pai
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 9.3:
+        non_striker: BA Pai
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 9.4:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 9.5:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 9.6:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 10.1:
+        non_striker: BA Pai
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 10.2:
+        non_striker: IDM Latin
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 10.3:
+        non_striker: BA Pai
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 10.4:
+        non_striker: IDM Latin
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 10.5:
+        non_striker: IDM Latin
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 10.6:
+        non_striker: IDM Latin
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 11.1:
+        non_striker: BA Pai
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 11.2:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 11.3:
+        non_striker: IDM Latin
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 11.4:
+        non_striker: BA Pai
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IDM Latin
+    - 11.5:
+        non_striker: BA Pai
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 11.6:
+        non_striker: BA Pai
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 12.1:
+        non_striker: BA Pai
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 12.2:
+        non_striker: IDM Latin
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 12.3:
+        non_striker: IDM Latin
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 12.4:
+        non_striker: BA Pai
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IDM Latin
+    - 12.5:
+        non_striker: BA Pai
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+        wicket:
+          player_out: IDM Latin
+          fielders:
+          - Waqar Khan
+          kind: caught
+    - 12.6:
+        non_striker: BA Pai
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Raikes
+    - 13.1:
+        non_striker: M Raikes
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 13.2:
+        non_striker: M Raikes
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 13.3:
+        non_striker: M Raikes
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 13.4:
+        non_striker: BA Pai
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raikes
+    - 13.5:
+        non_striker: M Raikes
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 13.6:
+        non_striker: M Raikes
+        bowler: Taher Muhammad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: BA Pai
+    - 14.1:
+        non_striker: BA Pai
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raikes
+    - 14.2:
+        non_striker: M Raikes
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 14.3:
+        non_striker: BA Pai
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raikes
+    - 14.4:
+        non_striker: M Raikes
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 14.5:
+        non_striker: BA Pai
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raikes
+    - 14.6:
+        non_striker: M Raikes
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+        wicket:
+          player_out: BA Pai
+          fielders:
+          - Muhammad Siddiqui
+          kind: caught
+    - 15.1:
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA Fitzgerald
+        batsman: M Raikes
+    - 15.2:
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA Fitzgerald
+        batsman: M Raikes
+    - 15.3:
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JA Fitzgerald
+        batsman: M Raikes
+    - 15.4:
+        non_striker: M Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+        wicket:
+          player_out: JA Fitzgerald
+          kind: bowled
+    - 15.5:
+        non_striker: M Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Horrocks
+    - 15.6:
+        non_striker: J Horrocks
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raikes
+    - 16.1:
+        non_striker: J Horrocks
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raikes
+    - 16.2:
+        non_striker: M Raikes
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Horrocks
+    - 16.3:
+        non_striker: J Horrocks
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Raikes
+    - 16.4:
+        non_striker: M Raikes
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Horrocks
+    - 16.5:
+        non_striker: M Raikes
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Horrocks
+    - 16.6:
+        non_striker: J Horrocks
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raikes
+    - 17.1:
+        non_striker: J Horrocks
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Raikes
+    - 17.2:
+        non_striker: J Horrocks
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raikes
+    - 17.3:
+        non_striker: M Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Horrocks
+    - 17.4:
+        non_striker: M Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Horrocks
+    - 17.5:
+        non_striker: M Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Horrocks
+    - 17.6:
+        non_striker: M Raikes
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Horrocks
+    - 18.1:
+        non_striker: J Horrocks
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Raikes
+    - 18.2:
+        non_striker: J Horrocks
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Raikes
+    - 18.3:
+        non_striker: J Horrocks
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raikes
+    - 18.4:
+        non_striker: M Raikes
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Horrocks
+    - 18.5:
+        non_striker: M Raikes
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Horrocks
+    - 18.6:
+        non_striker: M Raikes
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Horrocks
+        wicket:
+          player_out: J Horrocks
+          fielders:
+          - Saeed Waqar Ali
+          kind: caught
+    - 19.1:
+        bowler: Izaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Bodha
+        batsman: M Raikes
+    - 19.2:
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Bodha
+        batsman: M Raikes
+    - 19.3:
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Bodha
+        batsman: M Raikes
+    - 19.4:
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Bodha
+        batsman: M Raikes
+    - 19.5:
+        non_striker: S Bodha
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Raikes
+        wicket:
+          player_out: M Raikes
+          fielders:
+          - Tarun Sharma
+          kind: caught
+    - 19.6:
+        non_striker: S Bodha
+        bowler: Izaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mirpuri
+    - 19.7:
+        non_striker: S Bodha
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mirpuri
+    - 19.8:
+        non_striker: S Bodha
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+- 2nd innings:
+    team: Slovenia
+    deliveries:
+    - 0.1:
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 0.2:
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 0.3:
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 0.4:
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 0.5:
+        bowler: S Bodha
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 0.6:
+        non_striker: Muhammad Siddiqui
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 0.7:
+        non_striker: Muhammad Siddiqui
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 1.1:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 1.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Siddiqui
+    - 1.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 1.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Siddiqui
+    - 1.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 1.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 2.1:
+        non_striker: Muhammad Siddiqui
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 2.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 2.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 2.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 2.5:
+        non_striker: Muhammad Siddiqui
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 2.6:
+        non_striker: Muhammad Siddiqui
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 3.1:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 3.2:
+        non_striker: Muhammad Siddiqui
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 3.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Siddiqui
+    - 3.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 3.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 3.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 4.1:
+        non_striker: Muhammad Siddiqui
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 4.2:
+        non_striker: Muhammad Siddiqui
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 4.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 4.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 4.5:
+        non_striker: Muhammad Siddiqui
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rasheed Ali Mamadkhel
+    - 4.6:
+        non_striker: Muhammad Siddiqui
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 4.7:
+        non_striker: Muhammad Siddiqui
+        bowler: L Bruce
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Rasheed Ali Mamadkhel
+    - 4.8:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 5.1:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Siddiqui
+    - 5.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 5.3:
+        non_striker: Muhammad Siddiqui
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 5.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Siddiqui
+    - 5.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+        wicket:
+          player_out: Muhammad Siddiqui
+          fielders:
+          - C Pyle
+          kind: caught
+    - 5.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+        wicket:
+          player_out: Tarun Sharma
+          fielders:
+          - JA Fitzgerald
+          kind: caught
+    - 6.1:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahid Arshad
+        batsman: Rasheed Ali Mamadkhel
+    - 6.2:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shahid Arshad
+        batsman: Rasheed Ali Mamadkhel
+    - 6.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahid Arshad
+    - 6.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 7.1:
+        non_striker: Shahid Arshad
+        bowler: K Mirpuri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 7.2:
+        non_striker: Shahid Arshad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 7.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 7.4:
+        non_striker: Shahid Arshad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 7.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 7.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 7.7:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 8.1:
+        non_striker: Shahid Arshad
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 8.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: J Horrocks
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Shahid Arshad
+    - 8.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 8.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: J Horrocks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Shahid Arshad
+    - 8.5:
+        non_striker: Shahid Arshad
+        bowler: J Horrocks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 8.6:
+        non_striker: Shahid Arshad
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 8.7:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 8.8:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 9.1:
+        non_striker: Shahid Arshad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 9.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 9.3:
+        non_striker: Shahid Arshad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rasheed Ali Mamadkhel
+    - 9.4:
+        non_striker: Shahid Arshad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 9.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Arshad
+    - 9.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahid Arshad
+    - 10.1:
+        non_striker: Shahid Arshad
+        bowler: M Raikes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 10.2:
+        non_striker: Shahid Arshad
+        bowler: M Raikes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 10.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: M Raikes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 10.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: M Raikes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahid Arshad
+    - 10.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: M Raikes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 10.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: M Raikes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahid Arshad
+    - 10.7:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: M Raikes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 11.1:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 11.2:
+        non_striker: Shahid Arshad
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 11.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 11.4:
+        non_striker: Shahid Arshad
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+        wicket:
+          player_out: Rasheed Ali Mamadkhel
+          fielders:
+          - BA Pai
+          kind: caught
+    - 11.5:
+        non_striker: Shahid Arshad
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 11.6:
+        non_striker: Shahid Arshad
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 12.1:
+        non_striker: Izaz Ali
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Arshad
+    - 12.2:
+        non_striker: Izaz Ali
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+        wicket:
+          player_out: Shahid Arshad
+          fielders:
+          - S Bodha
+          kind: caught
+    - 12.3:
+        non_striker: Izaz Ali
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 12.4:
+        non_striker: Taher Muhammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Izaz Ali
+    - 12.5:
+        non_striker: Taher Muhammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Izaz Ali
+    - 12.6:
+        non_striker: Taher Muhammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 13.1:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 13.2:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+        wicket:
+          player_out: Taher Muhammad
+          fielders:
+          - M Raikes
+          kind: caught
+    - 13.3:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 13.4:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Khan
+    - 13.5:
+        non_striker: Waqar Khan
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Izaz Ali
+    - 13.6:
+        non_striker: Waqar Khan
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 14.1:
+        non_striker: Waqar Khan
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Izaz Ali
+    - 14.2:
+        non_striker: Waqar Khan
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Izaz Ali
+    - 14.3:
+        non_striker: Izaz Ali
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 14.4:
+        non_striker: Izaz Ali
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Khan
+    - 14.5:
+        non_striker: Waqar Khan
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Izaz Ali
+    - 14.6:
+        non_striker: Waqar Khan
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 15.1:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 15.2:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waqar Khan
+    - 15.3:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waqar Khan
+    - 15.4:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 15.5:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waqar Khan
+    - 15.6:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 15.7:
+        non_striker: Izaz Ali
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 16.1:
+        non_striker: Waqar Khan
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Izaz Ali
+    - 16.2:
+        non_striker: Waqar Khan
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+        wicket:
+          player_out: Izaz Ali
+          kind: lbw
+    - 16.3:
+        non_striker: Waqar Khan
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 16.4:
+        non_striker: S Koppolu
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 16.5:
+        non_striker: S Koppolu
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waqar Khan
+    - 16.6:
+        non_striker: S Koppolu
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Khan
+    - 17.1:
+        non_striker: S Koppolu
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 17.2:
+        non_striker: S Koppolu
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waqar Khan
+    - 17.3:
+        non_striker: S Koppolu
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Khan
+    - 17.4:
+        non_striker: Waqar Khan
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 17.5:
+        non_striker: Waqar Khan
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 17.6:
+        non_striker: Waqar Khan
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Koppolu
+    - 18.1:
+        non_striker: S Koppolu
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+        wicket:
+          player_out: Waqar Khan
+          kind: lbw
+    - 18.2:
+        non_striker: S Koppolu
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Waqar Ali
+    - 18.3:
+        non_striker: Saeed Waqar Ali
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Koppolu
+    - 18.4:
+        non_striker: Saeed Waqar Ali
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Koppolu
+    - 18.5:
+        non_striker: Saeed Waqar Ali
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+        wicket:
+          player_out: S Koppolu
+          kind: lbw
+    - 18.6:
+        non_striker: Saeed Waqar Ali
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Pallekonda
+    - 18.7:
+        non_striker: DK Pallekonda
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Waqar Ali
+    - 19.1:
+        non_striker: DK Pallekonda
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Waqar Ali
+    - 19.2:
+        non_striker: Saeed Waqar Ali
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Pallekonda
+    - 19.3:
+        non_striker: Saeed Waqar Ali
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Pallekonda
+        wicket:
+          player_out: DK Pallekonda
+          fielders:
+          - C Pyle
+          - L Bruce
+          kind: run out
+    - 19.4:
+        non_striker: Saeed Waqar Ali
+        bowler: S Bodha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Merwais Shinwari

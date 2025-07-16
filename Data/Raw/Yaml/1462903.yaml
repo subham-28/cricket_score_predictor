@@ -1,0 +1,2189 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-14'
+  gender: male
+  match_type: T20
+  match_type_number: 3055
+  outcome:
+    winner: Argentina
+    by:
+      runs: 23
+  overs: 20
+  player_of_match:
+  - H Fennell
+  players:
+    Argentina:
+    - Lucas Rossi
+    - Guido Angeletti
+    - P Baron
+    - A Kirschbaum
+    - T Rossi
+    - A Ferguson
+    - AAP Rivero
+    - Manuel Iturbe
+    - H Fennell
+    - A Mustafa
+    - Santiago Iturbe
+    Mexico:
+    - Shashikant Laxman
+    - Praveen Santhanakrishnan
+    - Luis Hermida
+    - Shantanu Kaveri
+    - KB Patil
+    - Puneet Arora
+    - PK Mohanarangam
+    - Shoaib Rafiq
+    - R Poojary
+    - Y Jasti
+    - R Ankad
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Gajjar: 37db06ef
+      A Kirschbaum: d953bf92
+      A Mustafa: a4571ba9
+      AAP Rivero: 1911dcbc
+      Guido Angeletti: 6d6f52fc
+      H Fennell: 0d38ab25
+      KB Patil: 0474fd64
+      Lucas Rossi: 2064e555
+      Luis Hermida: 03beb59f
+      Manuel Iturbe: bddbf5ec
+      P Baron: c6d1b1e4
+      PK Mohanarangam: d73891ad
+      Phil Whitticase: 99d5f6fa
+      Praveen Santhanakrishnan: 22fb205e
+      Puneet Arora: c2f8f36e
+      R Ankad: 5995707a
+      R Poojary: d05e9052
+      R Shah: 3424e050
+      Santiago Iturbe: 851b0636
+      Shantanu Kaveri: '091880f7'
+      Shashikant Laxman: 8cf61570
+      Shoaib Rafiq: 27df03d2
+      T Rossi: 5470418a
+      Vijaya Mallela: 85b6244a
+      Y Jasti: 3377f988
+  teams:
+  - Argentina
+  - Mexico
+  toss:
+    winner: Mexico
+    decision: field
+  umpires:
+  - A Gajjar
+  - R Shah
+  venue: Belgrano Athletic Club Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.2:
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.3:
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.4:
+        non_striker: Lucas Rossi
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 0.5:
+        non_striker: Guido Angeletti
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lucas Rossi
+    - 0.6:
+        non_striker: Guido Angeletti
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 1.1:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 1.2:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 1.3:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+        wicket:
+          player_out: Lucas Rossi
+          kind: bowled
+    - 1.4:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 1.5:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          kind: bowled
+    - 1.6:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 2.1:
+        non_striker: Guido Angeletti
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 2.2:
+        non_striker: Guido Angeletti
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 2.3:
+        non_striker: Guido Angeletti
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 2.4:
+        non_striker: Guido Angeletti
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 2.5:
+        non_striker: Guido Angeletti
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 2.6:
+        non_striker: Guido Angeletti
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 3.1:
+        non_striker: A Kirschbaum
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 3.2:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 3.3:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 3.4:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 3.5:
+        non_striker: Guido Angeletti
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 3.6:
+        non_striker: A Kirschbaum
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Guido Angeletti
+    - 3.7:
+        non_striker: A Kirschbaum
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 4.1:
+        non_striker: Guido Angeletti
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 4.2:
+        non_striker: A Kirschbaum
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 4.3:
+        non_striker: A Kirschbaum
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 4.4:
+        non_striker: Guido Angeletti
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          kind: bowled
+    - 4.5:
+        non_striker: Guido Angeletti
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 4.6:
+        non_striker: Guido Angeletti
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 5.1:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 5.2:
+        non_striker: Guido Angeletti
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 5.3:
+        non_striker: Guido Angeletti
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 5.4:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 5.5:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Guido Angeletti
+    - 5.6:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 6.1:
+        non_striker: Guido Angeletti
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rossi
+    - 6.2:
+        non_striker: Guido Angeletti
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 6.3:
+        non_striker: T Rossi
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 6.4:
+        non_striker: T Rossi
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 6.5:
+        non_striker: T Rossi
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 6.6:
+        non_striker: Guido Angeletti
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 7.1:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 7.2:
+        non_striker: Guido Angeletti
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 7.3:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Guido Angeletti
+    - 7.4:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 7.5:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+        wicket:
+          player_out: Guido Angeletti
+          fielders:
+          - Shoaib Rafiq
+          kind: caught
+    - 7.6:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 8.1:
+        non_striker: T Rossi
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 8.2:
+        non_striker: T Rossi
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 8.3:
+        non_striker: A Ferguson
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 8.4:
+        non_striker: T Rossi
+        bowler: PK Mohanarangam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Ferguson
+    - 8.5:
+        non_striker: A Ferguson
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 8.6:
+        non_striker: A Ferguson
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 9.1:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 9.2:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 9.3:
+        non_striker: A Ferguson
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 9.4:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: A Ferguson
+    - 9.5:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 9.6:
+        non_striker: A Ferguson
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 9.7:
+        non_striker: T Rossi
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 10.1:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 10.2:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 10.3:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 10.4:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 10.5:
+        non_striker: T Rossi
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 10.6:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: T Rossi
+    - 11.1:
+        non_striker: T Rossi
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 11.2:
+        non_striker: T Rossi
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 11.3:
+        non_striker: T Rossi
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 11.4:
+        non_striker: T Rossi
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 11.5:
+        non_striker: T Rossi
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 11.6:
+        non_striker: A Ferguson
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 12.1:
+        non_striker: T Rossi
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 12.2:
+        non_striker: T Rossi
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 12.3:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 12.4:
+        non_striker: T Rossi
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 12.5:
+        non_striker: T Rossi
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 12.6:
+        non_striker: T Rossi
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 13.1:
+        non_striker: A Ferguson
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+        wicket:
+          player_out: T Rossi
+          fielders:
+          - Praveen Santhanakrishnan
+          kind: caught
+    - 13.2:
+        non_striker: A Ferguson
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 13.3:
+        non_striker: A Ferguson
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 13.4:
+        non_striker: A Ferguson
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 13.5:
+        non_striker: AAP Rivero
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ferguson
+    - 13.6:
+        non_striker: AAP Rivero
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 13.7:
+        non_striker: AAP Rivero
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 14.1:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 14.2:
+        non_striker: AAP Rivero
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 14.3:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AAP Rivero
+    - 14.4:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 14.5:
+        non_striker: AAP Rivero
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 14.6:
+        non_striker: A Ferguson
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 15.1:
+        non_striker: AAP Rivero
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 15.2:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 15.3:
+        non_striker: AAP Rivero
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 15.4:
+        non_striker: AAP Rivero
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 15.5:
+        non_striker: AAP Rivero
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 15.6:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 16.1:
+        non_striker: AAP Rivero
+        bowler: Y Jasti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ferguson
+    - 16.2:
+        non_striker: AAP Rivero
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 16.3:
+        non_striker: A Ferguson
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 16.4:
+        non_striker: AAP Rivero
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 16.5:
+        non_striker: AAP Rivero
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 16.6:
+        non_striker: A Ferguson
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 16.7:
+        non_striker: AAP Rivero
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 17.1:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 17.2:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+        wicket:
+          player_out: AAP Rivero
+          kind: bowled
+    - 17.3:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manuel Iturbe
+    - 17.4:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 17.5:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 17.6:
+        non_striker: Manuel Iturbe
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 18.1:
+        non_striker: A Ferguson
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manuel Iturbe
+    - 18.2:
+        non_striker: A Ferguson
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manuel Iturbe
+    - 18.3:
+        non_striker: A Ferguson
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 18.4:
+        non_striker: A Ferguson
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manuel Iturbe
+    - 18.5:
+        non_striker: A Ferguson
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 18.6:
+        non_striker: Manuel Iturbe
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 19.1:
+        non_striker: Manuel Iturbe
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 19.2:
+        non_striker: A Ferguson
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 19.3:
+        non_striker: Manuel Iturbe
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 19.4:
+        non_striker: A Ferguson
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+        wicket:
+          player_out: Manuel Iturbe
+          fielders:
+          - R Poojary
+          - R Ankad
+          kind: run out
+    - 19.5:
+        non_striker: A Ferguson
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Fennell
+        wicket:
+          player_out: H Fennell
+          kind: bowled
+    - 19.6:
+        non_striker: A Ferguson
+        bowler: PK Mohanarangam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Mustafa
+- 2nd innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Praveen Santhanakrishnan
+        batsman: Shashikant Laxman
+    - 0.2:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Praveen Santhanakrishnan
+        batsman: Shashikant Laxman
+    - 0.3:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Praveen Santhanakrishnan
+        batsman: Shashikant Laxman
+    - 0.4:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Praveen Santhanakrishnan
+        batsman: Shashikant Laxman
+    - 0.5:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Praveen Santhanakrishnan
+        batsman: Shashikant Laxman
+    - 0.6:
+        non_striker: Shashikant Laxman
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Praveen Santhanakrishnan
+    - 0.7:
+        non_striker: Praveen Santhanakrishnan
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+    - 1.1:
+        non_striker: Shashikant Laxman
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Praveen Santhanakrishnan
+    - 1.2:
+        non_striker: Shashikant Laxman
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 1.3:
+        non_striker: Shashikant Laxman
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Praveen Santhanakrishnan
+    - 1.4:
+        non_striker: Shashikant Laxman
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Praveen Santhanakrishnan
+    - 1.5:
+        non_striker: Praveen Santhanakrishnan
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+    - 1.6:
+        non_striker: Praveen Santhanakrishnan
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashikant Laxman
+    - 1.7:
+        non_striker: Shashikant Laxman
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 2.1:
+        non_striker: Praveen Santhanakrishnan
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+    - 2.2:
+        non_striker: Praveen Santhanakrishnan
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+    - 2.3:
+        non_striker: Praveen Santhanakrishnan
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shashikant Laxman
+    - 2.4:
+        non_striker: Praveen Santhanakrishnan
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashikant Laxman
+    - 2.5:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Praveen Santhanakrishnan
+    - 2.6:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Praveen Santhanakrishnan
+    - 2.7:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Praveen Santhanakrishnan
+    - 3.1:
+        non_striker: Shashikant Laxman
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 3.2:
+        non_striker: Shashikant Laxman
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 3.3:
+        non_striker: Shashikant Laxman
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 3.4:
+        non_striker: Shashikant Laxman
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Praveen Santhanakrishnan
+    - 3.5:
+        non_striker: Praveen Santhanakrishnan
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+    - 3.6:
+        non_striker: Praveen Santhanakrishnan
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shashikant Laxman
+    - 4.1:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 4.2:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Praveen Santhanakrishnan
+    - 4.3:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Praveen Santhanakrishnan
+    - 4.4:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 4.5:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Praveen Santhanakrishnan
+    - 4.6:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 4.7:
+        non_striker: Shashikant Laxman
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 5.1:
+        non_striker: Praveen Santhanakrishnan
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+        wicket:
+          player_out: Shashikant Laxman
+          kind: lbw
+    - 5.2:
+        non_striker: Praveen Santhanakrishnan
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 5.3:
+        non_striker: Praveen Santhanakrishnan
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 5.4:
+        non_striker: Praveen Santhanakrishnan
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 5.5:
+        non_striker: Luis Hermida
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Praveen Santhanakrishnan
+    - 5.6:
+        non_striker: Praveen Santhanakrishnan
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 6.1:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 6.2:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+        wicket:
+          player_out: Praveen Santhanakrishnan
+          kind: caught and bowled
+    - 6.3:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 6.4:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shantanu Kaveri
+    - 6.5:
+        non_striker: Shantanu Kaveri
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 6.6:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 7.1:
+        non_striker: Shantanu Kaveri
+        bowler: Lucas Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Luis Hermida
+    - 7.2:
+        non_striker: Luis Hermida
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 7.3:
+        non_striker: Luis Hermida
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 7.4:
+        non_striker: Shantanu Kaveri
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 7.5:
+        non_striker: Shantanu Kaveri
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 7.6:
+        non_striker: Shantanu Kaveri
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 8.1:
+        non_striker: Shantanu Kaveri
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 8.2:
+        non_striker: Shantanu Kaveri
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 8.3:
+        non_striker: Shantanu Kaveri
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 8.4:
+        non_striker: Shantanu Kaveri
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 8.5:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+        wicket:
+          player_out: Shantanu Kaveri
+          kind: bowled
+    - 8.6:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: KB Patil
+    - 8.7:
+        non_striker: KB Patil
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 9.1:
+        non_striker: KB Patil
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 9.2:
+        non_striker: Luis Hermida
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 9.3:
+        non_striker: KB Patil
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 9.4:
+        non_striker: Luis Hermida
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 9.5:
+        non_striker: Luis Hermida
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+        wicket:
+          player_out: KB Patil
+          kind: lbw
+    - 9.6:
+        non_striker: Luis Hermida
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+    - 10.1:
+        non_striker: Puneet Arora
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 10.2:
+        non_striker: Puneet Arora
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 10.3:
+        non_striker: Puneet Arora
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 10.4:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Puneet Arora
+    - 10.5:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+    - 10.6:
+        non_striker: Luis Hermida
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puneet Arora
+    - 10.7:
+        non_striker: Puneet Arora
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+        wicket:
+          player_out: Luis Hermida
+          fielders:
+          - P Baron
+          kind: run out
+    - 11.1:
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PK Mohanarangam
+        batsman: Puneet Arora
+    - 11.2:
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PK Mohanarangam
+        batsman: Puneet Arora
+    - 11.3:
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PK Mohanarangam
+        batsman: Puneet Arora
+    - 11.4:
+        non_striker: Puneet Arora
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PK Mohanarangam
+    - 11.5:
+        non_striker: Puneet Arora
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Mohanarangam
+    - 11.6:
+        non_striker: Puneet Arora
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Mohanarangam
+    - 12.1:
+        non_striker: Puneet Arora
+        bowler: AAP Rivero
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PK Mohanarangam
+    - 12.2:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+    - 12.3:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+    - 12.4:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puneet Arora
+    - 12.5:
+        non_striker: Puneet Arora
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Mohanarangam
+    - 12.6:
+        non_striker: Puneet Arora
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Mohanarangam
+    - 13.1:
+        non_striker: PK Mohanarangam
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Puneet Arora
+    - 13.2:
+        non_striker: PK Mohanarangam
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+    - 13.3:
+        non_striker: PK Mohanarangam
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+    - 13.4:
+        non_striker: PK Mohanarangam
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puneet Arora
+    - 13.5:
+        non_striker: Puneet Arora
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PK Mohanarangam
+    - 13.6:
+        non_striker: Puneet Arora
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Mohanarangam
+    - 14.1:
+        non_striker: Puneet Arora
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Mohanarangam
+    - 14.2:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puneet Arora
+    - 14.3:
+        non_striker: Puneet Arora
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Mohanarangam
+    - 14.4:
+        non_striker: Puneet Arora
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PK Mohanarangam
+    - 14.5:
+        non_striker: Puneet Arora
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Mohanarangam
+    - 14.6:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+    - 15.1:
+        non_striker: Puneet Arora
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Mohanarangam
+    - 15.2:
+        non_striker: PK Mohanarangam
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Puneet Arora
+    - 15.3:
+        non_striker: PK Mohanarangam
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+        wicket:
+          player_out: Puneet Arora
+          kind: bowled
+    - 15.4:
+        non_striker: PK Mohanarangam
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Rafiq
+    - 15.5:
+        non_striker: PK Mohanarangam
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 15.6:
+        non_striker: PK Mohanarangam
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 16.1:
+        non_striker: Shoaib Rafiq
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Mohanarangam
+    - 16.2:
+        non_striker: Shoaib Rafiq
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Mohanarangam
+    - 16.3:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 16.4:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Rafiq
+    - 16.5:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 16.6:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Rafiq
+    - 17.1:
+        non_striker: PK Mohanarangam
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Rafiq
+    - 17.2:
+        non_striker: Shoaib Rafiq
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Mohanarangam
+    - 17.3:
+        non_striker: Shoaib Rafiq
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Mohanarangam
+    - 17.4:
+        non_striker: PK Mohanarangam
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Rafiq
+    - 17.5:
+        non_striker: Shoaib Rafiq
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Mohanarangam
+    - 17.6:
+        non_striker: Shoaib Rafiq
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PK Mohanarangam
+    - 18.1:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Rafiq
+    - 18.2:
+        non_striker: PK Mohanarangam
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Rafiq
+    - 18.3:
+        non_striker: Shoaib Rafiq
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Mohanarangam
+    - 18.4:
+        non_striker: Shoaib Rafiq
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Mohanarangam
+        wicket:
+          player_out: PK Mohanarangam
+          fielders:
+          - A Mustafa
+          kind: caught
+    - 18.5:
+        non_striker: Shoaib Rafiq
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poojary
+    - 18.6:
+        non_striker: R Poojary
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+        wicket:
+          player_out: Shoaib Rafiq
+          kind: bowled
+    - 19.1:
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Y Jasti
+        batsman: R Poojary
+    - 19.2:
+        non_striker: R Poojary
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jasti
+        wicket:
+          player_out: Y Jasti
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 19.3:
+        non_striker: R Poojary
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Ankad
+    - 19.4:
+        non_striker: R Ankad
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poojary
+    - 19.5:
+        non_striker: R Ankad
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poojary
+        wicket:
+          player_out: R Poojary
+          fielders:
+          - Manuel Iturbe
+          kind: caught

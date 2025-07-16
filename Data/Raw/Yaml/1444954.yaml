@@ -1,0 +1,1837 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Apia
+  dates:
+  - '2024-08-19'
+  gender: male
+  match_type: T20
+  match_type_number: 2777
+  outcome:
+    winner: Cook Islands
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - C Dickson
+  players:
+    Samoa:
+    - S Cotter
+    - SM Nash
+    - D Visser
+    - SF Tiai
+    - CK Jasmat
+    - F Suluoto
+    - DE Burgess
+    - A Ilaoa
+    - Noah Mead
+    - D Finau
+    - P Sua
+    Cook Islands:
+    - HB Dickson
+    - T Parima
+    - MTMMJ Ave
+    - A Parima
+    - C Dickson
+    - L Denny
+    - T Ritawa
+    - AJA Samuels
+    - JL Tutty
+    - MJM Kavana
+    - OE Taylor
+  registry:
+    people:
+      A Ilaoa: 4d733a54
+      A Parima: 866d3ac8
+      AJA Samuels: 9a28e6e1
+      C Dickson: 26b59073
+      CK Jasmat: 5299063a
+      D Finau: 63772ee4
+      D Visser: bb4da4d3
+      DE Burgess: 7bf39e5c
+      F Suluoto: ae380321
+      HB Dickson: e8c95491
+      JL Tutty: 11b37b2a
+      Kent Hannam: 8cc171e7
+      L Denny: e112732d
+      L Oala: 48a506ab
+      M Kenni: 1feb0d3c
+      MJM Kavana: 10eef955
+      MTMMJ Ave: '00863408'
+      Noah Mead: '0095a0e3'
+      OE Taylor: 24a93558
+      P Sua: f6657f66
+      PJ Gillespie: 3e253a50
+      S Cotter: e6127436
+      SF Tiai: bf19d427
+      SM Nash: 4f3a89ae
+      T Parima: ecd51f8e
+      T Ritawa: 1c8ada57
+  teams:
+  - Samoa
+  - Cook Islands
+  toss:
+    winner: Cook Islands
+    decision: field
+  umpires:
+  - M Kenni
+  - PJ Gillespie
+  venue: Faleata Oval No 2, Apia
+innings:
+- 1st innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Nash
+        batsman: S Cotter
+    - 0.2:
+        non_striker: SM Nash
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+        wicket:
+          player_out: S Cotter
+          fielders:
+          - A Parima
+          kind: caught
+    - 0.3:
+        non_striker: SM Nash
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 0.4:
+        non_striker: D Visser
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 0.5:
+        non_striker: D Visser
+        bowler: T Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: T Parima
+            out: MJM Kavana
+            reason: unknown
+            role: bowler
+        batsman: SM Nash
+    - 0.6:
+        non_striker: SM Nash
+        bowler: T Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 1.1:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 1.2:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 1.3:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 1.4:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 1.5:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 1.6:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Nash
+    - 2.1:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 2.2:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 2.3:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 2.4:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 2.5:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 2.6:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 3.1:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 3.2:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Nash
+    - 3.3:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 3.4:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 3.5:
+        non_striker: D Visser
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 3.6:
+        non_striker: SM Nash
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 4.1:
+        non_striker: D Visser
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Nash
+    - 4.2:
+        non_striker: D Visser
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 4.3:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 4.4:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+        wicket:
+          player_out: D Visser
+          fielders:
+          - L Denny
+          kind: caught
+    - 4.5:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 4.6:
+        non_striker: SM Nash
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 5.1:
+        non_striker: SF Tiai
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 5.2:
+        non_striker: SM Nash
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 5.3:
+        non_striker: SM Nash
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 5.4:
+        non_striker: SM Nash
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 5.5:
+        non_striker: SM Nash
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 5.6:
+        non_striker: SF Tiai
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+        wicket:
+          player_out: SM Nash
+          fielders:
+          - T Parima
+          kind: caught
+    - 6.1:
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CK Jasmat
+        batsman: SF Tiai
+    - 6.2:
+        non_striker: SF Tiai
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 6.3:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 6.4:
+        non_striker: SF Tiai
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 6.5:
+        non_striker: SF Tiai
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 6.6:
+        non_striker: SF Tiai
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 7.1:
+        non_striker: SF Tiai
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 7.2:
+        non_striker: SF Tiai
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 7.3:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 7.4:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 7.5:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 7.6:
+        non_striker: SF Tiai
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 8.1:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 8.2:
+        non_striker: SF Tiai
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 8.3:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Tiai
+    - 8.4:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 8.5:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 8.6:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Tiai
+    - 8.7:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 9.1:
+        non_striker: SF Tiai
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Jasmat
+    - 9.2:
+        non_striker: SF Tiai
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 9.3:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 9.4:
+        non_striker: SF Tiai
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 9.5:
+        non_striker: SF Tiai
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 9.6:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 10.1:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Tiai
+    - 10.2:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Tiai
+    - 10.3:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 10.4:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Tiai
+    - 10.5:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 10.6:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 10.7:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Tiai
+    - 10.8:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 10.9:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 10.10:
+        non_striker: CK Jasmat
+        bowler: AJA Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 11.1:
+        non_striker: SF Tiai
+        bowler: T Ritawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 11.2:
+        non_striker: CK Jasmat
+        bowler: T Ritawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SF Tiai
+    - 11.3:
+        non_striker: CK Jasmat
+        bowler: T Ritawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 11.4:
+        non_striker: CK Jasmat
+        bowler: T Ritawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+        wicket:
+          player_out: SF Tiai
+          fielders:
+          - JL Tutty
+          kind: caught
+    - 11.5:
+        non_striker: CK Jasmat
+        bowler: T Ritawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 11.6:
+        non_striker: F Suluoto
+        bowler: T Ritawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 12.1:
+        non_striker: F Suluoto
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CK Jasmat
+    - 12.2:
+        non_striker: F Suluoto
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 12.3:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 12.4:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+        wicket:
+          player_out: F Suluoto
+          kind: caught and bowled
+    - 12.5:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 12.6:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Burgess
+    - 13.1:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 13.2:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Burgess
+    - 13.3:
+        non_striker: DE Burgess
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 13.4:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 13.5:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 13.6:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 14.1:
+        non_striker: DE Burgess
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 14.2:
+        non_striker: CK Jasmat
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Burgess
+    - 14.3:
+        non_striker: DE Burgess
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 14.4:
+        non_striker: CK Jasmat
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 14.5:
+        non_striker: CK Jasmat
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+        wicket:
+          player_out: DE Burgess
+          fielders:
+          - L Denny
+          kind: caught
+    - 14.6:
+        non_striker: CK Jasmat
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ilaoa
+    - 15.1:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ilaoa
+    - 15.2:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ilaoa
+    - 15.3:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ilaoa
+    - 15.4:
+        non_striker: A Ilaoa
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 15.5:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ilaoa
+        wicket:
+          player_out: A Ilaoa
+          kind: bowled
+    - 15.6:
+        non_striker: CK Jasmat
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noah Mead
+    - 16.1:
+        non_striker: Noah Mead
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CK Jasmat
+    - 16.2:
+        non_striker: Noah Mead
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CK Jasmat
+    - 16.3:
+        non_striker: Noah Mead
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 16.4:
+        non_striker: Noah Mead
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CK Jasmat
+    - 16.5:
+        non_striker: Noah Mead
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 16.6:
+        non_striker: CK Jasmat
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noah Mead
+        wicket:
+          player_out: Noah Mead
+          fielders:
+          - MTMMJ Ave
+          kind: stumped
+    - 17.1:
+        bowler: JL Tutty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: D Finau
+        batsman: CK Jasmat
+    - 17.2:
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Finau
+        batsman: CK Jasmat
+    - 17.3:
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Finau
+        batsman: CK Jasmat
+    - 17.4:
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Finau
+        batsman: CK Jasmat
+    - 17.5:
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Finau
+        batsman: CK Jasmat
+    - 17.6:
+        non_striker: CK Jasmat
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Finau
+        wicket:
+          player_out: D Finau
+          kind: bowled
+    - 17.7:
+        non_striker: CK Jasmat
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sua
+    - 18.1:
+        non_striker: P Sua
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CK Jasmat
+    - 18.2:
+        non_striker: P Sua
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 18.3:
+        non_striker: CK Jasmat
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sua
+        wicket:
+          player_out: P Sua
+          fielders:
+          - MTMMJ Ave
+          kind: caught
+- 2nd innings:
+    team: Cook Islands
+    deliveries:
+    - 0.1:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.2:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.3:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.4:
+        non_striker: HB Dickson
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Parima
+    - 0.5:
+        non_striker: HB Dickson
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 0.6:
+        non_striker: HB Dickson
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.1:
+        non_striker: T Parima
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HB Dickson
+    - 1.2:
+        non_striker: T Parima
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 1.3:
+        non_striker: HB Dickson
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.4:
+        non_striker: HB Dickson
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Parima
+    - 1.5:
+        non_striker: HB Dickson
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 1.6:
+        non_striker: T Parima
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 2.1:
+        non_striker: HB Dickson
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 2.2:
+        non_striker: T Parima
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 2.3:
+        non_striker: T Parima
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 2.4:
+        non_striker: T Parima
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 2.5:
+        non_striker: HB Dickson
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 2.6:
+        non_striker: T Parima
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 3.1:
+        non_striker: HB Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Parima
+    - 3.2:
+        non_striker: HB Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 3.3:
+        non_striker: HB Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 3.4:
+        non_striker: HB Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 3.5:
+        non_striker: HB Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+        wicket:
+          player_out: T Parima
+          fielders:
+          - Noah Mead
+          kind: caught
+    - 3.6:
+        non_striker: HB Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 4.1:
+        non_striker: MTMMJ Ave
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 4.2:
+        non_striker: MTMMJ Ave
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 4.3:
+        non_striker: MTMMJ Ave
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 4.4:
+        non_striker: MTMMJ Ave
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 4.5:
+        non_striker: MTMMJ Ave
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 4.6:
+        non_striker: MTMMJ Ave
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 5.1:
+        non_striker: HB Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 5.2:
+        non_striker: HB Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 5.3:
+        non_striker: MTMMJ Ave
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 5.4:
+        non_striker: MTMMJ Ave
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 5.5:
+        non_striker: HB Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 5.6:
+        non_striker: MTMMJ Ave
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+        wicket:
+          player_out: HB Dickson
+          kind: bowled
+    - 6.1:
+        bowler: D Visser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: A Parima
+        batsman: MTMMJ Ave
+    - 6.2:
+        non_striker: MTMMJ Ave
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 6.3:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MTMMJ Ave
+    - 6.4:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 6.5:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+        wicket:
+          player_out: MTMMJ Ave
+          fielders:
+          - DE Burgess
+          kind: caught
+    - 6.6:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Dickson
+    - 6.7:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 7.1:
+        non_striker: C Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 7.2:
+        non_striker: C Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 7.3:
+        non_striker: A Parima
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 7.4:
+        non_striker: C Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 7.5:
+        non_striker: C Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 7.6:
+        non_striker: C Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Parima
+    - 8.1:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 8.2:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 8.3:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 8.4:
+        non_striker: C Dickson
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 8.5:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 8.6:
+        non_striker: C Dickson
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 9.1:
+        non_striker: A Parima
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 9.2:
+        non_striker: A Parima
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 9.3:
+        non_striker: C Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 9.4:
+        non_striker: C Dickson
+        bowler: SF Tiai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Parima
+    - 9.5:
+        non_striker: A Parima
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 9.6:
+        non_striker: A Parima
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 10.1:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 10.2:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 10.3:
+        non_striker: C Dickson
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 10.4:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Dickson
+    - 10.5:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 10.6:
+        non_striker: A Parima
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 11.1:
+        non_striker: A Parima
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 11.2:
+        non_striker: A Parima
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 11.3:
+        non_striker: A Parima
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Dickson
+    - 11.4:
+        non_striker: A Parima
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 11.5:
+        non_striker: C Dickson
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 11.6:
+        non_striker: C Dickson
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 12.1:
+        non_striker: C Dickson
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 12.2:
+        non_striker: A Parima
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 12.3:
+        non_striker: A Parima
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 12.4:
+        non_striker: A Parima
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Dickson
+    - 12.5:
+        non_striker: A Parima
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 12.6:
+        non_striker: A Parima
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 13.1:
+        non_striker: C Dickson
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 13.2:
+        non_striker: C Dickson
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 13.3:
+        non_striker: C Dickson
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 13.4:
+        non_striker: A Parima
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 13.5:
+        non_striker: C Dickson
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Parima
+    - 13.6:
+        non_striker: C Dickson
+        bowler: Noah Mead
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Parima
+    - 13.7:
+        non_striker: A Parima
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 14.1:
+        non_striker: C Dickson
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 14.2:
+        non_striker: A Parima
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 14.3:
+        non_striker: C Dickson
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 14.4:
+        non_striker: C Dickson
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Parima
+    - 14.5:
+        non_striker: C Dickson
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima

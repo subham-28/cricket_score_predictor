@@ -1,0 +1,2175 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2024-08-31'
+  gender: male
+  match_type: T20
+  match_type_number: 2829
+  outcome:
+    winner: Singapore
+    by:
+      runs: 47
+  overs: 20
+  player_of_match:
+  - Manpreet Singh
+  players:
+    Singapore:
+    - Aritra Dutta
+    - R Sheshadri
+    - A Mutreja
+    - WA Simpson
+    - A Kaul
+    - Manpreet Singh
+    - S Chandramohan
+    - Janak Prakash
+    - R Kalimuthu
+    - H Bharadwaj
+    - AR Puri
+    Maldives:
+    - Azyan Farhath
+    - Umar Adam
+    - Mohamed Azzam
+    - GPK Wijesingha
+    - Mohamed Rishwan
+    - Ismail Ali
+    - Mohamed Shiyam
+    - Ibrahim Hassan
+    - Ibrahim Rizan
+    - L Shafeeg
+    - Shunan Ali
+  registry:
+    people:
+      A Kaul: 53d0b0dc
+      A Mutreja: a2ec22d2
+      AR Puri: 1f490b28
+      Aritra Dutta: f3a5c378
+      Azyan Farhath: 3e06e7ac
+      BB Pradhan: 8603d942
+      Faisal Afridi: ed0bc503
+      GPK Wijesingha: 91f4a6e5
+      H Bharadwaj: 2e89652e
+      Ibrahim Hassan: 4add4c98
+      Ibrahim Rizan: 7267e3cd
+      Ismail Ali: 5117fa55
+      Janak Prakash: f092b4c7
+      L Shafeeg: ed82d9a5
+      Manpreet Singh: e9d6a2ce
+      Mohamed Azzam: e43c9818
+      Mohamed Rishwan: 7d15170b
+      Mohamed Shiyam: 946d4d9a
+      R Kalimuthu: 5892ac75
+      R Sheshadri: d4aa2ddb
+      S Chandramohan: 2a6ccc1c
+      Shunan Ali: 3b2ca392
+      Umar Adam: 5d77a96a
+      V Kalidas: 42d76418
+      V Narayan Kutty: 4bacee3d
+      WA Simpson: 6de0f650
+  teams:
+  - Singapore
+  - Maldives
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - BB Pradhan
+  - V Kalidas
+  venue: Bayuemas Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Sheshadri
+        batsman: Aritra Dutta
+    - 0.2:
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Sheshadri
+        batsman: Aritra Dutta
+    - 0.3:
+        non_striker: Aritra Dutta
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sheshadri
+    - 0.4:
+        non_striker: Aritra Dutta
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sheshadri
+    - 0.5:
+        non_striker: Aritra Dutta
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sheshadri
+    - 0.6:
+        non_striker: Aritra Dutta
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sheshadri
+    - 1.1:
+        non_striker: R Sheshadri
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 1.2:
+        non_striker: R Sheshadri
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aritra Dutta
+    - 1.3:
+        non_striker: R Sheshadri
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aritra Dutta
+    - 1.4:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: R Sheshadri
+    - 1.5:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sheshadri
+        wicket:
+          player_out: R Sheshadri
+          fielders:
+          - Ibrahim Rizan
+          kind: caught
+    - 1.6:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mutreja
+    - 1.7:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 2.1:
+        non_striker: Aritra Dutta
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mutreja
+        wicket:
+          player_out: A Mutreja
+          fielders:
+          - Mohamed Shiyam
+          kind: caught
+    - 2.2:
+        non_striker: Aritra Dutta
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 2.3:
+        non_striker: Aritra Dutta
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Simpson
+    - 2.4:
+        non_striker: Aritra Dutta
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Simpson
+    - 2.5:
+        non_striker: Aritra Dutta
+        bowler: L Shafeeg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WA Simpson
+    - 2.6:
+        non_striker: WA Simpson
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 3.1:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Simpson
+    - 3.2:
+        non_striker: WA Simpson
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+        wicket:
+          player_out: Aritra Dutta
+          kind: caught and bowled
+    - 3.3:
+        non_striker: WA Simpson
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 3.4:
+        non_striker: A Kaul
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 3.5:
+        non_striker: A Kaul
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Simpson
+    - 3.6:
+        non_striker: A Kaul
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 4.1:
+        non_striker: WA Simpson
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 4.2:
+        non_striker: WA Simpson
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+        wicket:
+          player_out: A Kaul
+          fielders:
+          - Ibrahim Rizan
+          kind: caught
+    - 4.3:
+        non_striker: WA Simpson
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 4.4:
+        non_striker: WA Simpson
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 4.5:
+        non_striker: WA Simpson
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 4.6:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Simpson
+    - 5.1:
+        non_striker: Manpreet Singh
+        bowler: Umar Adam
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: WA Simpson
+    - 5.2:
+        non_striker: Manpreet Singh
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Simpson
+    - 5.3:
+        non_striker: WA Simpson
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 5.4:
+        non_striker: WA Simpson
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 5.5:
+        non_striker: WA Simpson
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 5.6:
+        non_striker: Manpreet Singh
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 5.7:
+        non_striker: Manpreet Singh
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 6.1:
+        non_striker: WA Simpson
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 6.2:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 6.3:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 6.4:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 6.5:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Simpson
+    - 6.6:
+        non_striker: WA Simpson
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 7.1:
+        non_striker: Manpreet Singh
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Simpson
+    - 7.2:
+        non_striker: WA Simpson
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 7.3:
+        non_striker: WA Simpson
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 7.4:
+        non_striker: Manpreet Singh
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Simpson
+    - 7.5:
+        non_striker: Manpreet Singh
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 7.6:
+        non_striker: Manpreet Singh
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Simpson
+    - 8.1:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+        wicket:
+          player_out: WA Simpson
+          fielders:
+          - Ibrahim Hassan
+          kind: caught
+    - 8.2:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 8.3:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 8.4:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 8.5:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 8.6:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 9.1:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 9.2:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 9.3:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 9.4:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 9.5:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 9.6:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 10.1:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chandramohan
+    - 10.2:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 10.3:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 10.4:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 10.5:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 10.6:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 10.7:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 11.1:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 11.2:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 11.3:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 11.4:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 11.5:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 11.6:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 12.1:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 12.2:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 12.3:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 12.4:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 12.5:
+        non_striker: Manpreet Singh
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 12.6:
+        non_striker: S Chandramohan
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 13.1:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 13.2:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 13.3:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Chandramohan
+    - 13.4:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 13.5:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 13.6:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 13.7:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 14.1:
+        non_striker: S Chandramohan
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 14.2:
+        non_striker: S Chandramohan
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 14.3:
+        non_striker: S Chandramohan
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 14.4:
+        non_striker: Manpreet Singh
+        bowler: Azyan Farhath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Chandramohan
+    - 14.5:
+        non_striker: Manpreet Singh
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 14.6:
+        non_striker: Manpreet Singh
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 14.7:
+        non_striker: Manpreet Singh
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 15.1:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 15.2:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 15.3:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 15.4:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 15.5:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 15.6:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 16.1:
+        non_striker: S Chandramohan
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 16.2:
+        non_striker: S Chandramohan
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 16.3:
+        non_striker: S Chandramohan
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 16.4:
+        non_striker: Manpreet Singh
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 16.5:
+        non_striker: Manpreet Singh
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 16.6:
+        non_striker: Manpreet Singh
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 17.1:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 17.2:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 17.3:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 17.4:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 17.5:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Chandramohan
+    - 17.6:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 17.7:
+        non_striker: Manpreet Singh
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 18.1:
+        non_striker: S Chandramohan
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 18.2:
+        non_striker: S Chandramohan
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 18.3:
+        non_striker: S Chandramohan
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          fielders:
+          - Ibrahim Hassan
+          kind: caught
+    - 18.4:
+        non_striker: S Chandramohan
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 18.5:
+        non_striker: Janak Prakash
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 18.6:
+        non_striker: Janak Prakash
+        bowler: L Shafeeg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Chandramohan
+    - 19.1:
+        non_striker: Janak Prakash
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+        wicket:
+          player_out: S Chandramohan
+          fielders:
+          - Umar Adam
+          kind: caught
+    - 19.2:
+        non_striker: Janak Prakash
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Kalimuthu
+    - 19.3:
+        non_striker: R Kalimuthu
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 19.4:
+        non_striker: R Kalimuthu
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Janak Prakash
+    - 19.5:
+        non_striker: R Kalimuthu
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 19.6:
+        non_striker: R Kalimuthu
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Janak Prakash
+- 2nd innings:
+    team: Maldives
+    deliveries:
+    - 0.1:
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Umar Adam
+        batsman: Azyan Farhath
+    - 0.2:
+        non_striker: Azyan Farhath
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 0.3:
+        non_striker: Azyan Farhath
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+        wicket:
+          player_out: Umar Adam
+          fielders:
+          - R Sheshadri
+          kind: caught
+    - 0.4:
+        non_striker: Azyan Farhath
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 0.5:
+        non_striker: Mohamed Azzam
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 0.6:
+        non_striker: Mohamed Azzam
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 1.1:
+        non_striker: Azyan Farhath
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 1.2:
+        non_striker: Mohamed Azzam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azyan Farhath
+    - 1.3:
+        non_striker: Mohamed Azzam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 1.4:
+        non_striker: Mohamed Azzam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 1.5:
+        non_striker: Mohamed Azzam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+        wicket:
+          player_out: Azyan Farhath
+          fielders:
+          - Manpreet Singh
+          kind: caught
+    - 1.6:
+        non_striker: Mohamed Azzam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 2.1:
+        non_striker: GPK Wijesingha
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+        wicket:
+          player_out: Mohamed Azzam
+          fielders:
+          - AR Puri
+          kind: caught
+    - 2.2:
+        non_striker: GPK Wijesingha
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 2.3:
+        non_striker: GPK Wijesingha
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 2.4:
+        non_striker: GPK Wijesingha
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Rishwan
+    - 2.5:
+        non_striker: GPK Wijesingha
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 2.6:
+        non_striker: GPK Wijesingha
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 3.1:
+        non_striker: GPK Wijesingha
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 3.2:
+        non_striker: GPK Wijesingha
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 3.3:
+        non_striker: GPK Wijesingha
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohamed Rishwan
+    - 3.4:
+        non_striker: GPK Wijesingha
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Rishwan
+    - 3.5:
+        non_striker: GPK Wijesingha
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 3.6:
+        non_striker: Mohamed Rishwan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 3.7:
+        non_striker: Mohamed Rishwan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 4.1:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 4.2:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 4.3:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 4.4:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 4.5:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 4.6:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 5.1:
+        non_striker: GPK Wijesingha
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 5.2:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 5.3:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GPK Wijesingha
+    - 5.4:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GPK Wijesingha
+    - 5.5:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GPK Wijesingha
+    - 5.6:
+        non_striker: GPK Wijesingha
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 6.1:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 6.2:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GPK Wijesingha
+    - 6.3:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 6.4:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Rishwan
+    - 6.5:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 6.6:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GPK Wijesingha
+    - 7.1:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 7.2:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 7.3:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GPK Wijesingha
+    - 7.4:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 7.5:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 7.6:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 7.7:
+        non_striker: Mohamed Rishwan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 8.1:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 8.2:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 8.3:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GPK Wijesingha
+    - 8.4:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GPK Wijesingha
+    - 8.5:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 8.6:
+        non_striker: GPK Wijesingha
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 9.1:
+        non_striker: GPK Wijesingha
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 9.2:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 9.3:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+    - 9.4:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GPK Wijesingha
+        wicket:
+          player_out: GPK Wijesingha
+          kind: bowled
+    - 9.5:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 9.6:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ismail Ali
+    - 10.1:
+        non_striker: Ismail Ali
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 10.2:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ismail Ali
+    - 10.3:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 10.4:
+        non_striker: Mohamed Rishwan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 10.5:
+        non_striker: Ismail Ali
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 10.6:
+        non_striker: Ismail Ali
+        bowler: AR Puri
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Mohamed Rishwan
+    - 11.1:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 11.2:
+        non_striker: Ismail Ali
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 11.3:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 11.4:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 11.5:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ismail Ali
+    - 11.6:
+        non_striker: Mohamed Rishwan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 12.1:
+        non_striker: Mohamed Rishwan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 12.2:
+        non_striker: Ismail Ali
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 12.3:
+        non_striker: Mohamed Rishwan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 12.4:
+        non_striker: Ismail Ali
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Rishwan
+    - 12.5:
+        non_striker: Ismail Ali
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+        wicket:
+          player_out: Mohamed Rishwan
+          fielders:
+          - AR Puri
+          kind: caught
+    - 12.6:
+        non_striker: Ismail Ali
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 13.1:
+        non_striker: Mohamed Shiyam
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 13.2:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 13.3:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 13.4:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 13.5:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Mohamed Shiyam
+    - 13.6:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 14.1:
+        non_striker: Mohamed Shiyam
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+        wicket:
+          player_out: Ismail Ali
+          fielders:
+          - Janak Prakash
+          kind: caught
+    - 14.2:
+        non_striker: Mohamed Shiyam
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+    - 14.3:
+        non_striker: Mohamed Shiyam
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+        wicket:
+          player_out: Ibrahim Hassan
+          kind: caught and bowled
+    - 14.4:
+        non_striker: Mohamed Shiyam
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Rizan
+    - 14.5:
+        non_striker: Ibrahim Rizan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 14.6:
+        non_striker: Ibrahim Rizan
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam
+    - 15.1:
+        non_striker: Ibrahim Rizan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam
+    - 15.2:
+        non_striker: Mohamed Shiyam
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Rizan
+    - 15.3:
+        non_striker: Ibrahim Rizan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 15.4:
+        non_striker: Ibrahim Rizan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 15.5:
+        non_striker: Ibrahim Rizan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 15.6:
+        non_striker: Ibrahim Rizan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam
+    - 16.1:
+        non_striker: Ibrahim Rizan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mohamed Shiyam
+    - 16.2:
+        non_striker: Mohamed Shiyam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+        wicket:
+          player_out: Ibrahim Rizan
+          kind: bowled
+    - 16.3:
+        non_striker: Mohamed Shiyam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 16.4:
+        non_striker: L Shafeeg
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohamed Shiyam
+    - 16.5:
+        non_striker: L Shafeeg
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam
+    - 16.6:
+        non_striker: Mohamed Shiyam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 16.7:
+        non_striker: L Shafeeg
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam
+    - 17.1:
+        non_striker: L Shafeeg
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam
+    - 17.2:
+        non_striker: Mohamed Shiyam
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Shafeeg
+    - 17.3:
+        non_striker: Mohamed Shiyam
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 17.4:
+        non_striker: L Shafeeg
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shiyam
+    - 17.5:
+        non_striker: L Shafeeg
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Shiyam
+    - 17.6:
+        non_striker: L Shafeeg
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Shiyam
+    - 18.1:
+        non_striker: Mohamed Shiyam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shafeeg
+    - 18.2:
+        non_striker: Mohamed Shiyam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 18.3:
+        non_striker: L Shafeeg
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam
+    - 18.4:
+        non_striker: Mohamed Shiyam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 18.5:
+        non_striker: L Shafeeg
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Shiyam
+    - 18.6:
+        non_striker: L Shafeeg
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Shiyam
+    - 19.1:
+        non_striker: Mohamed Shiyam
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 19.2:
+        non_striker: L Shafeeg
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam
+    - 19.3:
+        non_striker: Mohamed Shiyam
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 19.4:
+        non_striker: L Shafeeg
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam
+    - 19.5:
+        non_striker: Mohamed Shiyam
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 19.6:
+        non_striker: L Shafeeg
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shiyam

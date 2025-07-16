@@ -1,0 +1,2403 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Albergaria
+  dates:
+  - '2025-04-07'
+  gender: female
+  match_type: T20
+  match_type_number: 2223
+  outcome:
+    winner: Portugal
+    by:
+      runs: 16
+  overs: 20
+  player_of_match:
+  - K Sequiera
+  players:
+    Portugal:
+    - S Foo-Ryland
+    - SG Luijke
+    - GS Sequeira
+    - J de Figueiredo
+    - K Sequiera
+    - IK Cheema
+    - B Maximo
+    - Mariam Waseem
+    - Afsheen Ahmed
+    - Joanna Child
+    - I Kaur
+    Norway:
+    - AS Gorad
+    - Ayesha Hasan
+    - Bijeyata Kumari
+    - R Immadi
+    - Alina Aslam
+    - A Rautela
+    - Nayab Razwan
+    - P Agrawal
+    - Mirab Razwan
+    - Lopamudra
+    - Prachi Kumari
+  registry:
+    people:
+      A Rautela: e113c6c7
+      AS Gorad: 2c8d0953
+      Afsheen Ahmed: ebfc9514
+      Alina Aslam: fbffb752
+      Ayesha Hasan: 6a3de477
+      B Maximo: 27d95005
+      Bijeyata Kumari: a5fc18a7
+      GS Sequeira: 949d1cae
+      I Kaur: 58da4880
+      IK Cheema: 01abe2db
+      J de Figueiredo: 8d35b7da
+      Joanna Child: 5bdaa121
+      K Sequiera: 29269e98
+      Lopamudra: ff4509d5
+      Mariam Waseem: '09653658'
+      Mirab Razwan: 498031f9
+      Nayab Razwan: f12e21a0
+      P Agrawal: bb1fcd51
+      Prachi Kumari: dc4f97bf
+      R Immadi: baeae6dd
+      S Foo-Ryland: 5ba89b11
+      SG Luijke: c0a34f79
+  teams:
+  - Portugal
+  - Norway
+  toss:
+    winner: Portugal
+    decision: bat
+  venue: Santarem Cricket Ground
+innings:
+- 1st innings:
+    team: Portugal
+    deliveries:
+    - 0.1:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SG Luijke
+        batsman: S Foo-Ryland
+    - 0.2:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SG Luijke
+        batsman: S Foo-Ryland
+    - 0.3:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SG Luijke
+        batsman: S Foo-Ryland
+    - 0.4:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SG Luijke
+        batsman: S Foo-Ryland
+    - 0.5:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SG Luijke
+        batsman: S Foo-Ryland
+    - 0.6:
+        non_striker: S Foo-Ryland
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Luijke
+    - 1.1:
+        non_striker: SG Luijke
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 1.2:
+        non_striker: S Foo-Ryland
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Luijke
+    - 1.3:
+        non_striker: S Foo-Ryland
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Luijke
+        wicket:
+          player_out: SG Luijke
+          kind: bowled
+    - 1.4:
+        non_striker: S Foo-Ryland
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sequeira
+    - 1.5:
+        non_striker: S Foo-Ryland
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GS Sequeira
+    - 1.6:
+        non_striker: S Foo-Ryland
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sequeira
+    - 1.7:
+        non_striker: S Foo-Ryland
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sequeira
+    - 1.8:
+        non_striker: GS Sequeira
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 2.1:
+        non_striker: GS Sequeira
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 2.2:
+        non_striker: S Foo-Ryland
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sequeira
+    - 2.3:
+        non_striker: S Foo-Ryland
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GS Sequeira
+    - 2.4:
+        non_striker: S Foo-Ryland
+        bowler: Alina Aslam
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: GS Sequeira
+    - 2.5:
+        non_striker: S Foo-Ryland
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sequeira
+    - 2.6:
+        non_striker: GS Sequeira
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 2.7:
+        non_striker: GS Sequeira
+        bowler: Alina Aslam
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Foo-Ryland
+    - 2.8:
+        non_striker: GS Sequeira
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Foo-Ryland
+    - 2.9:
+        non_striker: GS Sequeira
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 3.1:
+        non_striker: GS Sequeira
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Foo-Ryland
+    - 3.2:
+        non_striker: GS Sequeira
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 3.3:
+        non_striker: S Foo-Ryland
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GS Sequeira
+    - 3.4:
+        non_striker: GS Sequeira
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 3.5:
+        non_striker: S Foo-Ryland
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sequeira
+    - 3.6:
+        non_striker: GS Sequeira
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 3.7:
+        non_striker: S Foo-Ryland
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sequeira
+        wicket:
+          player_out: GS Sequeira
+          kind: bowled
+    - 4.1:
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J de Figueiredo
+        batsman: S Foo-Ryland
+    - 4.2:
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J de Figueiredo
+        batsman: S Foo-Ryland
+    - 4.3:
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J de Figueiredo
+        batsman: S Foo-Ryland
+    - 4.4:
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J de Figueiredo
+        batsman: S Foo-Ryland
+    - 4.5:
+        non_striker: S Foo-Ryland
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J de Figueiredo
+    - 4.6:
+        non_striker: J de Figueiredo
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 4.7:
+        non_striker: J de Figueiredo
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 5.1:
+        non_striker: J de Figueiredo
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 5.2:
+        non_striker: S Foo-Ryland
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J de Figueiredo
+    - 5.3:
+        non_striker: S Foo-Ryland
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J de Figueiredo
+        wicket:
+          player_out: J de Figueiredo
+          kind: caught and bowled
+    - 5.4:
+        non_striker: S Foo-Ryland
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 5.5:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 5.6:
+        non_striker: S Foo-Ryland
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 6.1:
+        non_striker: S Foo-Ryland
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 6.2:
+        non_striker: S Foo-Ryland
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 6.3:
+        non_striker: K Sequiera
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: S Foo-Ryland
+    - 6.4:
+        non_striker: K Sequiera
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 6.5:
+        non_striker: K Sequiera
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 6.6:
+        non_striker: K Sequiera
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 6.7:
+        non_striker: K Sequiera
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 7.1:
+        non_striker: S Foo-Ryland
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 7.2:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 7.3:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 7.4:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 7.5:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 7.6:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 8.1:
+        non_striker: K Sequiera
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 8.2:
+        non_striker: K Sequiera
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 8.3:
+        non_striker: S Foo-Ryland
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Sequiera
+    - 8.4:
+        non_striker: S Foo-Ryland
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 8.5:
+        non_striker: S Foo-Ryland
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 8.6:
+        non_striker: S Foo-Ryland
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 9.1:
+        non_striker: S Foo-Ryland
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 9.2:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+    - 9.3:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 9.4:
+        non_striker: S Foo-Ryland
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Sequiera
+    - 9.5:
+        non_striker: S Foo-Ryland
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 9.6:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foo-Ryland
+    - 10.1:
+        non_striker: K Sequiera
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foo-Ryland
+        wicket:
+          player_out: S Foo-Ryland
+          kind: bowled
+    - 10.2:
+        non_striker: K Sequiera
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Cheema
+    - 10.3:
+        non_striker: IK Cheema
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Sequiera
+    - 10.4:
+        non_striker: IK Cheema
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 10.5:
+        non_striker: IK Cheema
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 10.6:
+        non_striker: K Sequiera
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IK Cheema
+    - 10.7:
+        non_striker: K Sequiera
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IK Cheema
+    - 10.8:
+        non_striker: K Sequiera
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Cheema
+    - 11.1:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IK Cheema
+    - 11.2:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Cheema
+    - 11.3:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Cheema
+    - 11.4:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Cheema
+    - 11.5:
+        non_striker: IK Cheema
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 11.6:
+        non_striker: IK Cheema
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Sequiera
+    - 11.7:
+        non_striker: IK Cheema
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 12.1:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Cheema
+    - 12.2:
+        non_striker: IK Cheema
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 12.3:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Cheema
+    - 12.4:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Cheema
+    - 12.5:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Cheema
+    - 12.6:
+        non_striker: IK Cheema
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 13.1:
+        non_striker: IK Cheema
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 13.2:
+        non_striker: K Sequiera
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Cheema
+    - 13.3:
+        non_striker: IK Cheema
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 13.4:
+        non_striker: K Sequiera
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Cheema
+    - 13.5:
+        non_striker: IK Cheema
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 13.6:
+        non_striker: K Sequiera
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Cheema
+        wicket:
+          player_out: IK Cheema
+          kind: bowled
+    - 14.1:
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Maximo
+        batsman: K Sequiera
+    - 14.2:
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Maximo
+        batsman: K Sequiera
+    - 14.3:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Maximo
+    - 14.4:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Maximo
+    - 14.5:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Maximo
+        wicket:
+          player_out: B Maximo
+          kind: bowled
+    - 14.6:
+        non_striker: K Sequiera
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariam Waseem
+    - 15.1:
+        non_striker: Mariam Waseem
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 15.2:
+        non_striker: K Sequiera
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariam Waseem
+    - 15.3:
+        non_striker: K Sequiera
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mariam Waseem
+    - 15.4:
+        non_striker: Mariam Waseem
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 15.5:
+        non_striker: K Sequiera
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariam Waseem
+    - 15.6:
+        non_striker: K Sequiera
+        bowler: Prachi Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariam Waseem
+    - 16.1:
+        non_striker: Mariam Waseem
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 16.2:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariam Waseem
+        wicket:
+          player_out: Mariam Waseem
+          kind: lbw
+    - 16.3:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afsheen Ahmed
+        wicket:
+          player_out: Afsheen Ahmed
+          fielders:
+          - Bijeyata Kumari
+          kind: caught
+    - 16.4:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Joanna Child
+    - 16.5:
+        non_striker: Joanna Child
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 16.6:
+        non_striker: Joanna Child
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 17.1:
+        non_striker: Joanna Child
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 17.2:
+        non_striker: Joanna Child
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Sequiera
+    - 17.3:
+        non_striker: Joanna Child
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Sequiera
+    - 17.4:
+        non_striker: Joanna Child
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 17.5:
+        non_striker: Joanna Child
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 17.6:
+        non_striker: Joanna Child
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 17.7:
+        non_striker: Joanna Child
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 18.1:
+        non_striker: Joanna Child
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Sequiera
+    - 18.2:
+        non_striker: Joanna Child
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 18.3:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Joanna Child
+    - 18.4:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Joanna Child
+    - 18.5:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Joanna Child
+    - 18.6:
+        non_striker: K Sequiera
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Joanna Child
+    - 19.1:
+        non_striker: K Sequiera
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Joanna Child
+    - 19.2:
+        non_striker: K Sequiera
+        bowler: R Immadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Joanna Child
+    - 19.3:
+        non_striker: Joanna Child
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sequiera
+    - 19.4:
+        non_striker: Joanna Child
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sequiera
+    - 19.5:
+        non_striker: K Sequiera
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Joanna Child
+    - 19.6:
+        non_striker: K Sequiera
+        bowler: R Immadi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Joanna Child
+    - 19.7:
+        non_striker: K Sequiera
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Joanna Child
+        wicket:
+          player_out: Joanna Child
+          kind: bowled
+    - 19.8:
+        non_striker: K Sequiera
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaur
+- 2nd innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 0.2:
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 0.3:
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ayesha Hasan
+        batsman: AS Gorad
+    - 0.4:
+        non_striker: AS Gorad
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+    - 0.5:
+        non_striker: AS Gorad
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Hasan
+    - 0.6:
+        non_striker: Ayesha Hasan
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Gorad
+    - 1.1:
+        non_striker: AS Gorad
+        bowler: GS Sequeira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Hasan
+    - 1.2:
+        non_striker: AS Gorad
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: Ayesha Hasan
+          fielders:
+          - IK Cheema
+          kind: caught
+    - 1.3:
+        non_striker: AS Gorad
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 1.4:
+        non_striker: AS Gorad
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 1.5:
+        non_striker: AS Gorad
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 1.6:
+        non_striker: Bijeyata Kumari
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Gorad
+    - 1.7:
+        non_striker: Bijeyata Kumari
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Gorad
+    - 2.1:
+        non_striker: AS Gorad
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 2.2:
+        non_striker: AS Gorad
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 2.3:
+        non_striker: AS Gorad
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 2.4:
+        non_striker: Bijeyata Kumari
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 2.5:
+        non_striker: Bijeyata Kumari
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 2.6:
+        non_striker: Bijeyata Kumari
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 3.1:
+        non_striker: AS Gorad
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.2:
+        non_striker: AS Gorad
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.3:
+        non_striker: AS Gorad
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 3.4:
+        non_striker: AS Gorad
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 3.5:
+        non_striker: Bijeyata Kumari
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 3.6:
+        non_striker: Bijeyata Kumari
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+        wicket:
+          player_out: AS Gorad
+          fielders:
+          - Mariam Waseem
+          kind: caught
+    - 4.1:
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Immadi
+        batsman: Bijeyata Kumari
+    - 4.2:
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Immadi
+        batsman: Bijeyata Kumari
+    - 4.3:
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Immadi
+        batsman: Bijeyata Kumari
+    - 4.4:
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Immadi
+        batsman: Bijeyata Kumari
+    - 4.5:
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Immadi
+        batsman: Bijeyata Kumari
+    - 4.6:
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: R Immadi
+        batsman: Bijeyata Kumari
+    - 4.7:
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Immadi
+        batsman: Bijeyata Kumari
+    - 4.8:
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Immadi
+        batsman: Bijeyata Kumari
+    - 4.9:
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: R Immadi
+        batsman: Bijeyata Kumari
+    - 4.10:
+        non_striker: Bijeyata Kumari
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 4.11:
+        non_striker: R Immadi
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bijeyata Kumari
+    - 4.12:
+        non_striker: Bijeyata Kumari
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 4.13:
+        non_striker: Bijeyata Kumari
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 5.1:
+        non_striker: R Immadi
+        bowler: B Maximo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 5.2:
+        non_striker: R Immadi
+        bowler: B Maximo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bijeyata Kumari
+    - 5.3:
+        non_striker: R Immadi
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+        wicket:
+          player_out: Bijeyata Kumari
+          fielders:
+          - J de Figueiredo
+          kind: run out
+    - 5.4:
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Alina Aslam
+        batsman: R Immadi
+    - 5.5:
+        non_striker: R Immadi
+        bowler: B Maximo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Alina Aslam
+    - 5.6:
+        non_striker: R Immadi
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 5.7:
+        non_striker: R Immadi
+        bowler: B Maximo
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Alina Aslam
+    - 5.8:
+        non_striker: Alina Aslam
+        bowler: B Maximo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 5.9:
+        non_striker: Alina Aslam
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 5.10:
+        non_striker: Alina Aslam
+        bowler: B Maximo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 5.11:
+        non_striker: Alina Aslam
+        bowler: B Maximo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 5.12:
+        non_striker: Alina Aslam
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 5.13:
+        non_striker: Alina Aslam
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 6.1:
+        non_striker: R Immadi
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Alina Aslam
+    - 6.2:
+        non_striker: R Immadi
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Alina Aslam
+    - 6.3:
+        non_striker: R Immadi
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alina Aslam
+    - 6.4:
+        non_striker: Alina Aslam
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+        wicket:
+          player_out: R Immadi
+          fielders:
+          - I Kaur
+          kind: caught
+    - 6.5:
+        non_striker: Alina Aslam
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Rautela
+    - 6.6:
+        non_striker: Alina Aslam
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rautela
+    - 6.7:
+        non_striker: A Rautela
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Alina Aslam
+    - 6.8:
+        non_striker: A Rautela
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Alina Aslam
+    - 6.9:
+        non_striker: A Rautela
+        bowler: IK Cheema
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: Alina Aslam
+    - 6.10:
+        non_striker: A Rautela
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 6.11:
+        non_striker: A Rautela
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Alina Aslam
+    - 6.12:
+        non_striker: A Rautela
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+    - 6.13:
+        non_striker: A Rautela
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+        wicket:
+          player_out: Alina Aslam
+          kind: bowled
+    - 7.1:
+        bowler: B Maximo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Nayab Razwan
+        batsman: A Rautela
+    - 7.2:
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nayab Razwan
+        batsman: A Rautela
+    - 7.3:
+        non_striker: A Rautela
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 7.4:
+        non_striker: A Rautela
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 7.5:
+        non_striker: Nayab Razwan
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Rautela
+    - 7.6:
+        non_striker: Nayab Razwan
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rautela
+    - 7.7:
+        non_striker: A Rautela
+        bowler: B Maximo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 7.8:
+        non_striker: A Rautela
+        bowler: B Maximo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 8.1:
+        non_striker: A Rautela
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 8.2:
+        non_striker: A Rautela
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 8.3:
+        non_striker: A Rautela
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 8.4:
+        non_striker: Nayab Razwan
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 8.5:
+        non_striker: Nayab Razwan
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rautela
+    - 8.6:
+        non_striker: A Rautela
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 9.1:
+        non_striker: Nayab Razwan
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Rautela
+    - 9.2:
+        non_striker: Nayab Razwan
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 9.3:
+        non_striker: Nayab Razwan
+        bowler: GS Sequeira
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: A Rautela
+    - 9.4:
+        non_striker: Nayab Razwan
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rautela
+    - 9.5:
+        non_striker: A Rautela
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 9.6:
+        non_striker: A Rautela
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 10.1:
+        non_striker: A Rautela
+        bowler: K Sequiera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 10.2:
+        non_striker: A Rautela
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 10.3:
+        non_striker: Nayab Razwan
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 10.4:
+        non_striker: Nayab Razwan
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+    - 10.5:
+        non_striker: Nayab Razwan
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rautela
+        wicket:
+          player_out: A Rautela
+          fielders:
+          - J de Figueiredo
+          kind: run out
+    - 10.6:
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Agrawal
+        batsman: Nayab Razwan
+    - 10.7:
+        non_striker: Nayab Razwan
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 11.1:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 11.2:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 11.3:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 11.4:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Nayab Razwan
+    - 11.5:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 11.6:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 11.7:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 11.8:
+        non_striker: Nayab Razwan
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Agrawal
+    - 11.9:
+        non_striker: Nayab Razwan
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agrawal
+    - 11.10:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 11.11:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+        wicket:
+          player_out: Nayab Razwan
+          kind: bowled
+    - 11.12:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 12.1:
+        non_striker: Mirab Razwan
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 12.2:
+        non_striker: Mirab Razwan
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 12.3:
+        non_striker: Mirab Razwan
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agrawal
+    - 12.4:
+        non_striker: P Agrawal
+        bowler: K Sequiera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 12.5:
+        non_striker: P Agrawal
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 12.6:
+        non_striker: P Agrawal
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 12.7:
+        non_striker: P Agrawal
+        bowler: K Sequiera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 13.1:
+        non_striker: Mirab Razwan
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 13.2:
+        non_striker: Mirab Razwan
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agrawal
+    - 13.3:
+        non_striker: P Agrawal
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 13.4:
+        non_striker: Mirab Razwan
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agrawal
+    - 13.5:
+        non_striker: P Agrawal
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 13.6:
+        non_striker: P Agrawal
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mirab Razwan
+    - 14.1:
+        non_striker: Mirab Razwan
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 14.2:
+        non_striker: Mirab Razwan
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: P Agrawal
+    - 14.3:
+        non_striker: Mirab Razwan
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agrawal
+    - 14.4:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 14.5:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Mirab Razwan
+    - 14.6:
+        non_striker: P Agrawal
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 14.7:
+        non_striker: Mirab Razwan
+        bowler: IK Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Agrawal
+    - 14.8:
+        non_striker: Mirab Razwan
+        bowler: IK Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 15.1:
+        non_striker: P Agrawal
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+        wicket:
+          player_out: Mirab Razwan
+          kind: bowled
+    - 15.2:
+        non_striker: P Agrawal
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+        wicket:
+          player_out: Lopamudra
+          kind: caught and bowled
+    - 15.3:
+        non_striker: P Agrawal
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 15.4:
+        non_striker: P Agrawal
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 15.5:
+        non_striker: P Agrawal
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 15.6:
+        non_striker: P Agrawal
+        bowler: J de Figueiredo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 16.1:
+        non_striker: Prachi Kumari
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agrawal
+    - 16.2:
+        non_striker: P Agrawal
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 16.3:
+        non_striker: P Agrawal
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 16.4:
+        non_striker: P Agrawal
+        bowler: GS Sequeira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+        wicket:
+          player_out: Prachi Kumari
+          fielders:
+          - J de Figueiredo
+          kind: caught

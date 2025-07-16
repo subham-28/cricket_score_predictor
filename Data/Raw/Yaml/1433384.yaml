@@ -1,0 +1,2097 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kingstown
+  dates:
+  - '2024-12-17'
+  gender: male
+  match_type: T20
+  match_type_number: 3071
+  outcome:
+    winner: Bangladesh
+    by:
+      runs: 27
+  overs: 20
+  player_of_match:
+  - Shamim Hossain
+  players:
+    Bangladesh:
+    - Liton Das
+    - Soumya Sarkar
+    - Tanzid Hasan
+    - Mehedi Hasan Miraz
+    - Jaker Ali
+    - Rishad Hossain
+    - Mahedi Hasan
+    - Shamim Hossain
+    - Tanzim Hasan Sakib
+    - Taskin Ahmed
+    - Hasan Mahmud
+    West Indies:
+    - BA King
+    - J Charles
+    - ADS Fletcher
+    - N Pooran
+    - RL Chase
+    - R Powell
+    - R Shepherd
+    - AJ Hosein
+    - G Motie
+    - AS Joseph
+    - OC McCoy
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      AJ Hosein: 4d7f517e
+      AS Joseph: b0946605
+      BA King: 7fca84b7
+      DK Butler: 671398e3
+      G Motie: 97bdec3d
+      GO Brathwaite: 1ace56d4
+      Hasan Mahmud: 80ad39ac
+      J Charles: '09a9d073'
+      JJ Crowe: 2e760301
+      Jaker Ali: cd56a813
+      LS Reifer: 5dee559a
+      Liton Das: 0404d43c
+      Mahedi Hasan: 9dad0f2e
+      Mehedi Hasan Miraz: c58b0108
+      N Pooran: 3241e3fd
+      OC McCoy: 529eb9e0
+      R Powell: 650d5e49
+      R Shepherd: c5aef772
+      RL Chase: 3feda4fa
+      Rishad Hossain: 5935d694
+      Shamim Hossain: 711249d1
+      Soumya Sarkar: 4d9f9686
+      Tanzid Hasan: 80fe764d
+      Tanzim Hasan Sakib: 0b0cc297
+      Taskin Ahmed: ef18b66e
+      Zahid Bassarath: ca6bf044
+  teams:
+  - Bangladesh
+  - West Indies
+  toss:
+    winner: West Indies
+    decision: field
+  umpires:
+  - GO Brathwaite
+  - Zahid Bassarath
+  venue: Arnos Vale Ground, Kingstown, St Vincent
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.2:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.3:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.4:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 0.5:
+        non_striker: Liton Das
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 0.6:
+        non_striker: Liton Das
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 1.1:
+        non_striker: Soumya Sarkar
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.2:
+        non_striker: Soumya Sarkar
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 1.3:
+        non_striker: Liton Das
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 1.4:
+        non_striker: Liton Das
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 1.5:
+        non_striker: Liton Das
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 1.6:
+        non_striker: Soumya Sarkar
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 2.1:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.2:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.3:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - ADS Fletcher
+          kind: stumped
+    - 2.4:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 2.5:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 2.6:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tanzid Hasan
+    - 3.1:
+        non_striker: Tanzid Hasan
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 3.2:
+        non_striker: Tanzid Hasan
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 3.3:
+        non_striker: Soumya Sarkar
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+        wicket:
+          player_out: Tanzid Hasan
+          kind: bowled
+    - 3.4:
+        non_striker: Soumya Sarkar
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 3.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 3.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 4.1:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+    - 4.2:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 4.3:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mehedi Hasan Miraz
+    - 4.4:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 4.5:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 4.6:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 4.7:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 5.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 5.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 5.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 5.4:
+        non_striker: Soumya Sarkar
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 5.5:
+        non_striker: Soumya Sarkar
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 5.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 6.1:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.2:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.3:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.4:
+        non_striker: Soumya Sarkar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 6.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 6.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 7.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 7.2:
+        non_striker: Soumya Sarkar
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 7.3:
+        non_striker: Soumya Sarkar
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 7.4:
+        non_striker: Soumya Sarkar
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 7.5:
+        non_striker: Soumya Sarkar
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 7.6:
+        non_striker: Soumya Sarkar
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 8.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 8.2:
+        non_striker: Soumya Sarkar
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 8.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 8.4:
+        non_striker: Soumya Sarkar
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+        wicket:
+          player_out: Soumya Sarkar
+          fielders:
+          - ADS Fletcher
+          - AS Joseph
+          kind: run out
+    - 8.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 8.6:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 9.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 9.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 9.3:
+        non_striker: Jaker Ali
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 9.4:
+        non_striker: Jaker Ali
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 9.5:
+        non_striker: Jaker Ali
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 9.6:
+        non_striker: Jaker Ali
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+        wicket:
+          player_out: Mehedi Hasan Miraz
+          fielders:
+          - BA King
+          kind: caught
+    - 10.1:
+        non_striker: Rishad Hossain
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 10.2:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rishad Hossain
+    - 10.3:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rishad Hossain
+    - 10.4:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rishad Hossain
+    - 10.5:
+        non_striker: Rishad Hossain
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 10.6:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rishad Hossain
+        wicket:
+          player_out: Rishad Hossain
+          kind: bowled
+    - 11.1:
+        non_striker: Mahedi Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 11.2:
+        non_striker: Jaker Ali
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 11.3:
+        non_striker: Jaker Ali
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahedi Hasan
+    - 11.4:
+        non_striker: Jaker Ali
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 11.5:
+        non_striker: Mahedi Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jaker Ali
+    - 11.6:
+        non_striker: Mahedi Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 12.1:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 12.2:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahedi Hasan
+    - 12.3:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 12.4:
+        non_striker: Mahedi Hasan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 12.5:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 12.6:
+        non_striker: Mahedi Hasan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 13.1:
+        non_striker: Jaker Ali
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 13.2:
+        non_striker: Mahedi Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 13.3:
+        non_striker: Mahedi Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 13.4:
+        non_striker: Jaker Ali
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 13.5:
+        non_striker: Jaker Ali
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 13.6:
+        non_striker: Mahedi Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 14.1:
+        non_striker: Mahedi Hasan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 14.2:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          kind: bowled
+    - 14.3:
+        non_striker: Jaker Ali
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 14.4:
+        non_striker: Shamim Hossain
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jaker Ali
+    - 14.5:
+        non_striker: Shamim Hossain
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 14.6:
+        non_striker: Shamim Hossain
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 15.1:
+        non_striker: Shamim Hossain
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 15.2:
+        non_striker: Jaker Ali
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamim Hossain
+    - 15.3:
+        non_striker: Jaker Ali
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 15.4:
+        non_striker: Jaker Ali
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 15.5:
+        non_striker: Shamim Hossain
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Jaker Ali
+    - 15.6:
+        non_striker: Jaker Ali
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 16.1:
+        non_striker: Jaker Ali
+        bowler: OC McCoy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Shamim Hossain
+    - 16.2:
+        non_striker: Shamim Hossain
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+        wicket:
+          player_out: Jaker Ali
+          fielders:
+          - R Powell
+          kind: caught
+    - 16.3:
+        non_striker: Shamim Hossain
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 16.4:
+        non_striker: Shamim Hossain
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzim Hasan Sakib
+    - 16.5:
+        non_striker: Tanzim Hasan Sakib
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 16.6:
+        non_striker: Shamim Hossain
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzim Hasan Sakib
+    - 16.7:
+        non_striker: Tanzim Hasan Sakib
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamim Hossain
+    - 17.1:
+        non_striker: Shamim Hossain
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 17.2:
+        non_striker: Shamim Hossain
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 17.3:
+        non_striker: Shamim Hossain
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 17.4:
+        non_striker: Shamim Hossain
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 17.5:
+        non_striker: Shamim Hossain
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzim Hasan Sakib
+    - 17.6:
+        non_striker: Shamim Hossain
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tanzim Hasan Sakib
+    - 18.1:
+        non_striker: Tanzim Hasan Sakib
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamim Hossain
+    - 18.2:
+        non_striker: Tanzim Hasan Sakib
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 18.3:
+        non_striker: Tanzim Hasan Sakib
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamim Hossain
+    - 18.4:
+        non_striker: Tanzim Hasan Sakib
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamim Hossain
+    - 18.5:
+        non_striker: Tanzim Hasan Sakib
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 18.6:
+        non_striker: Shamim Hossain
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 19.1:
+        non_striker: Tanzim Hasan Sakib
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shamim Hossain
+    - 19.2:
+        non_striker: Tanzim Hasan Sakib
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 19.3:
+        non_striker: Shamim Hossain
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzim Hasan Sakib
+    - 19.4:
+        non_striker: Tanzim Hasan Sakib
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamim Hossain
+    - 19.5:
+        non_striker: Tanzim Hasan Sakib
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamim Hossain
+    - 19.6:
+        non_striker: Tanzim Hasan Sakib
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shamim Hossain
+    - 19.7:
+        non_striker: Tanzim Hasan Sakib
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamim Hossain
+    - 19.8:
+        non_striker: Tanzim Hasan Sakib
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+- 2nd innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.2:
+        non_striker: J Charles
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 0.3:
+        non_striker: J Charles
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BA King
+    - 0.4:
+        non_striker: BA King
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.5:
+        non_striker: BA King
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.6:
+        non_striker: BA King
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.1:
+        non_striker: J Charles
+        bowler: Mahedi Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 1.2:
+        non_striker: J Charles
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 1.3:
+        non_striker: BA King
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.4:
+        non_striker: BA King
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.5:
+        non_striker: BA King
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 1.6:
+        non_striker: BA King
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.7:
+        non_striker: BA King
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 2.1:
+        non_striker: J Charles
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          fielders:
+          - Liton Das
+          kind: caught
+    - 2.2:
+        non_striker: J Charles
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.3:
+        non_striker: J Charles
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.4:
+        non_striker: J Charles
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: J Charles
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          fielders:
+          - Liton Das
+          kind: caught
+    - 2.6:
+        non_striker: J Charles
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 3.1:
+        non_striker: N Pooran
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 3.2:
+        non_striker: N Pooran
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.3:
+        non_striker: N Pooran
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.4:
+        non_striker: N Pooran
+        bowler: Mahedi Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Charles
+    - 3.5:
+        non_striker: N Pooran
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          kind: lbw
+    - 3.6:
+        non_striker: N Pooran
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 3.7:
+        non_striker: N Pooran
+        bowler: Mahedi Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Chase
+    - 3.8:
+        non_striker: N Pooran
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.1:
+        non_striker: RL Chase
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.2:
+        non_striker: RL Chase
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 4.3:
+        non_striker: N Pooran
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.4:
+        non_striker: N Pooran
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.5:
+        non_striker: N Pooran
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 4.6:
+        non_striker: N Pooran
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 5.1:
+        non_striker: RL Chase
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.2:
+        non_striker: RL Chase
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.3:
+        non_striker: RL Chase
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.4:
+        non_striker: RL Chase
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.5:
+        non_striker: RL Chase
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - Soumya Sarkar
+          kind: caught
+    - 5.6:
+        non_striker: RL Chase
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 6.1:
+        non_striker: R Powell
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.2:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 6.3:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 6.4:
+        non_striker: R Powell
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Chase
+    - 6.5:
+        non_striker: R Powell
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.6:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 6.7:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 7.1:
+        non_striker: RL Chase
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 7.2:
+        non_striker: RL Chase
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - Mehedi Hasan Miraz
+          kind: caught
+    - 7.3:
+        non_striker: RL Chase
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 7.4:
+        non_striker: RL Chase
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 7.5:
+        non_striker: RL Chase
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 7.6:
+        non_striker: RL Chase
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 8.1:
+        non_striker: R Shepherd
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 8.2:
+        non_striker: R Shepherd
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RL Chase
+    - 8.3:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+        wicket:
+          player_out: R Shepherd
+          fielders:
+          - Tanzid Hasan
+          kind: caught
+    - 8.4:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 8.5:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 8.6:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 9.1:
+        non_striker: AJ Hosein
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.2:
+        non_striker: AJ Hosein
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.3:
+        non_striker: AJ Hosein
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 9.4:
+        non_striker: RL Chase
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 9.5:
+        non_striker: RL Chase
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 9.6:
+        non_striker: RL Chase
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 10.1:
+        non_striker: RL Chase
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 10.2:
+        non_striker: RL Chase
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 10.3:
+        non_striker: RL Chase
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 10.4:
+        non_striker: RL Chase
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 10.5:
+        non_striker: AJ Hosein
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 10.6:
+        non_striker: RL Chase
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 11.1:
+        non_striker: RL Chase
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 11.2:
+        non_striker: AJ Hosein
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 11.3:
+        non_striker: RL Chase
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 11.4:
+        non_striker: AJ Hosein
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 11.5:
+        non_striker: AJ Hosein
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 11.6:
+        non_striker: AJ Hosein
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 12.1:
+        non_striker: AJ Hosein
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 12.2:
+        non_striker: AJ Hosein
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 12.3:
+        non_striker: AJ Hosein
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 12.4:
+        non_striker: RL Chase
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 12.5:
+        non_striker: AJ Hosein
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 12.6:
+        non_striker: AJ Hosein
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 13.1:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 13.2:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 13.3:
+        non_striker: AJ Hosein
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 13.4:
+        non_striker: RL Chase
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 13.5:
+        non_striker: AJ Hosein
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 13.6:
+        non_striker: AJ Hosein
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 14.1:
+        non_striker: AJ Hosein
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 14.2:
+        non_striker: RL Chase
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 14.3:
+        non_striker: AJ Hosein
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 14.4:
+        non_striker: RL Chase
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 14.5:
+        non_striker: RL Chase
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 14.6:
+        non_striker: AJ Hosein
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 15.1:
+        non_striker: AJ Hosein
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RL Chase
+    - 15.2:
+        non_striker: AJ Hosein
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RL Chase
+    - 15.3:
+        non_striker: AJ Hosein
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 15.4:
+        non_striker: RL Chase
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 15.5:
+        non_striker: AJ Hosein
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 15.6:
+        non_striker: RL Chase
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 16.1:
+        non_striker: RL Chase
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.2:
+        non_striker: RL Chase
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Hosein
+    - 16.3:
+        non_striker: RL Chase
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 16.4:
+        non_striker: AJ Hosein
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+        wicket:
+          player_out: RL Chase
+          kind: bowled
+    - 16.5:
+        non_striker: AJ Hosein
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Motie
+        wicket:
+          player_out: G Motie
+          fielders:
+          - Mahedi Hasan
+          kind: caught
+    - 16.6:
+        non_striker: AJ Hosein
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 17.1:
+        non_striker: AS Joseph
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 17.2:
+        non_striker: AJ Hosein
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+        wicket:
+          player_out: AS Joseph
+          kind: caught and bowled
+    - 17.3:
+        non_striker: AJ Hosein
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC McCoy
+    - 17.4:
+        non_striker: AJ Hosein
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OC McCoy
+    - 17.5:
+        non_striker: OC McCoy
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Hosein
+    - 17.6:
+        non_striker: OC McCoy
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 18.1:
+        non_striker: OC McCoy
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hosein
+    - 18.2:
+        non_striker: OC McCoy
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hosein
+    - 18.3:
+        non_striker: OC McCoy
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+        wicket:
+          player_out: AJ Hosein
+          fielders:
+          - Mehedi Hasan Miraz
+          kind: caught

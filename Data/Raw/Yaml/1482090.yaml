@@ -1,0 +1,1793 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2025-04-25'
+  gender: male
+  match_type: T20
+  match_type_number: 3159
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Thailand:
+    - C Chatphaisan
+    - P Thongsa
+    - N Salekar
+    - AV Lazarus
+    - S Desungnoen
+    - AP Yadav
+    - N Nuntarach
+    - S Rungrueang
+    - N Senamontree
+    - Sarawut Maliwan
+    - W Ngowhuad
+    Malaysia:
+    - Syed Aziz
+    - Zubaidi Zulkifle
+    - Virandeep Singh
+    - Ahmed Aqeel
+    - Ahmed Faiz
+    - Ainool Hafizs
+    - S Muniandy
+    - Pavandeep Singh
+    - S Vijay Unni
+    - Aslam Khan
+    - Rizwan Haider
+  registry:
+    people:
+      AP Yadav: a5501504
+      AV Lazarus: 30c917bf
+      Ahmed Aqeel: 92f0e10e
+      Ahmed Faiz: f6b4f746
+      Ainool Hafizs: 1bada9da
+      Aslam Khan: 31080a88
+      C Chatphaisan: 85c56be8
+      D Sevakumaran: b235cb97
+      N Nuntarach: 9e3575ce
+      N Salekar: '54403333'
+      N Senamontree: 44e00a4c
+      P Thongsa: '62318525'
+      Pavandeep Singh: 78fcc740
+      Ramesh Menon: 4ed80d22
+      Rizwan Haider: dc60abdc
+      Rudy Ismandy: '84682045'
+      S Desungnoen: 3eb26dc4
+      S Muniandy: 57fcfd3b
+      S Rungrueang: 35ae9e8a
+      S Vijay Unni: f737ab44
+      Sarawut Maliwan: 36a0a88c
+      Syed Aziz: 6667067e
+      V Kalidas: 42d76418
+      Virandeep Singh: 415d30b6
+      W Ngowhuad: b8cd9955
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Thailand
+  - Malaysia
+  toss:
+    winner: Malaysia
+    decision: field
+  umpires:
+  - Rudy Ismandy
+  - V Kalidas
+  venue: Bayuemas Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Thongsa
+        batsman: C Chatphaisan
+    - 0.2:
+        non_striker: P Thongsa
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - Aslam Khan
+          kind: caught
+    - 0.3:
+        non_striker: P Thongsa
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Salekar
+    - 0.4:
+        non_striker: P Thongsa
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Salekar
+    - 0.5:
+        non_striker: P Thongsa
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Salekar
+    - 0.6:
+        non_striker: N Salekar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 0.7:
+        non_striker: P Thongsa
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Salekar
+    - 1.1:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 1.2:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+        wicket:
+          player_out: P Thongsa
+          kind: bowled
+    - 1.3:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AV Lazarus
+    - 1.4:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 1.5:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AV Lazarus
+    - 1.6:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 1.7:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+        wicket:
+          player_out: AV Lazarus
+          fielders:
+          - Ainool Hafizs
+          kind: caught
+    - 1.8:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 2.1:
+        non_striker: N Salekar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 2.2:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Salekar
+    - 2.3:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Salekar
+    - 2.4:
+        non_striker: N Salekar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 2.5:
+        non_striker: N Salekar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 2.6:
+        non_striker: N Salekar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 3.1:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.2:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Desungnoen
+    - 3.3:
+        non_striker: N Salekar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 3.4:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Salekar
+    - 3.5:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Salekar
+        wicket:
+          player_out: N Salekar
+          kind: lbw
+    - 3.6:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.1:
+        non_striker: AP Yadav
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 4.2:
+        non_striker: AP Yadav
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Desungnoen
+    - 4.3:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 4.4:
+        non_striker: AP Yadav
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 4.5:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 4.6:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AP Yadav
+    - 4.7:
+        non_striker: AP Yadav
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 5.1:
+        non_striker: AP Yadav
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 5.2:
+        non_striker: AP Yadav
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 5.3:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 5.4:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 5.5:
+        non_striker: AP Yadav
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Desungnoen
+    - 5.6:
+        non_striker: AP Yadav
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 6.1:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 6.2:
+        non_striker: AP Yadav
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Desungnoen
+    - 6.3:
+        non_striker: AP Yadav
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 6.4:
+        non_striker: AP Yadav
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 6.5:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 6.6:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 6.7:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 7.1:
+        non_striker: AP Yadav
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 7.2:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 7.3:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 7.4:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 7.5:
+        non_striker: AP Yadav
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 7.6:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 8.1:
+        non_striker: S Desungnoen
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 8.2:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 8.3:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 8.4:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 8.5:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 8.6:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 9.1:
+        non_striker: N Nuntarach
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 9.2:
+        non_striker: AP Yadav
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 9.3:
+        non_striker: AP Yadav
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 9.4:
+        non_striker: N Nuntarach
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 9.5:
+        non_striker: N Nuntarach
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 9.6:
+        non_striker: N Nuntarach
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Yadav
+    - 10.1:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 10.2:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 10.3:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+        wicket:
+          player_out: N Nuntarach
+          fielders:
+          - Ahmed Aqeel
+          kind: caught
+    - 10.4:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rungrueang
+    - 10.5:
+        non_striker: S Rungrueang
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 10.6:
+        non_striker: S Rungrueang
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 11.1:
+        non_striker: S Rungrueang
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 11.2:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rungrueang
+    - 11.3:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rungrueang
+        wicket:
+          player_out: S Rungrueang
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 11.4:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 11.5:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 11.6:
+        non_striker: N Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 12.1:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 12.2:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 12.3:
+        non_striker: N Senamontree
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 12.4:
+        non_striker: N Senamontree
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 12.5:
+        non_striker: N Senamontree
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 12.6:
+        non_striker: N Senamontree
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 13.1:
+        non_striker: N Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 13.2:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 13.3:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 13.4:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 13.5:
+        non_striker: N Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 13.6:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 14.1:
+        non_striker: N Senamontree
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 14.2:
+        non_striker: AP Yadav
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 14.3:
+        non_striker: AP Yadav
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 14.4:
+        non_striker: AP Yadav
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 14.5:
+        non_striker: N Senamontree
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 14.6:
+        non_striker: N Senamontree
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 15.1:
+        non_striker: N Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 15.2:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 15.3:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 15.4:
+        non_striker: N Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 15.5:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 15.6:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 16.1:
+        non_striker: N Senamontree
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 16.2:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 16.3:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 16.4:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 16.5:
+        non_striker: N Senamontree
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 16.6:
+        non_striker: AP Yadav
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 17.1:
+        non_striker: N Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 17.2:
+        non_striker: N Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 17.3:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 17.4:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+        wicket:
+          player_out: N Senamontree
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 17.5:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 17.6:
+        non_striker: AP Yadav
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 18.1:
+        non_striker: Sarawut Maliwan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Yadav
+    - 18.2:
+        non_striker: Sarawut Maliwan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+        wicket:
+          player_out: Sarawut Maliwan
+          fielders:
+          - Syed Aziz
+          - Zubaidi Zulkifle
+          kind: run out
+    - 18.3:
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Ngowhuad
+        batsman: AP Yadav
+    - 18.4:
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: W Ngowhuad
+        batsman: AP Yadav
+    - 18.5:
+        non_striker: AP Yadav
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ngowhuad
+    - 18.6:
+        non_striker: AP Yadav
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ngowhuad
+    - 19.1:
+        non_striker: W Ngowhuad
+        bowler: Virandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 19.2:
+        non_striker: W Ngowhuad
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Yadav
+    - 19.3:
+        non_striker: W Ngowhuad
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 19.4:
+        non_striker: W Ngowhuad
+        bowler: Virandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 19.5:
+        non_striker: W Ngowhuad
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Yadav
+    - 19.6:
+        non_striker: W Ngowhuad
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 19.7:
+        non_striker: W Ngowhuad
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 19.8:
+        non_striker: W Ngowhuad
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+        wicket:
+          player_out: W Ngowhuad
+          fielders:
+          - Virandeep Singh
+          - Ainool Hafizs
+          kind: run out
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zubaidi Zulkifle
+        batsman: Syed Aziz
+    - 0.2:
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zubaidi Zulkifle
+        batsman: Syed Aziz
+    - 0.3:
+        non_striker: Syed Aziz
+        bowler: N Salekar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zubaidi Zulkifle
+    - 0.4:
+        non_striker: Syed Aziz
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 0.5:
+        non_striker: Syed Aziz
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          kind: caught and bowled
+    - 0.6:
+        non_striker: Syed Aziz
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 0.7:
+        non_striker: Syed Aziz
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.1:
+        non_striker: Virandeep Singh
+        bowler: W Ngowhuad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 1.2:
+        non_striker: Virandeep Singh
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 1.3:
+        non_striker: Virandeep Singh
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 1.4:
+        non_striker: Virandeep Singh
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 1.5:
+        non_striker: Syed Aziz
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 1.6:
+        non_striker: Virandeep Singh
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 1.7:
+        non_striker: Virandeep Singh
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 2.1:
+        non_striker: Syed Aziz
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 2.2:
+        non_striker: Syed Aziz
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 2.3:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 2.4:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.5:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 2.6:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 3.1:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 3.2:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.3:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.4:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 3.5:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.6:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 4.1:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.2:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.3:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.4:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 4.5:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 4.6:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.7:
+        non_striker: Virandeep Singh
+        bowler: N Salekar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 5.1:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 5.2:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 5.3:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 5.4:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+        wicket:
+          player_out: Virandeep Singh
+          fielders:
+          - N Nuntarach
+          kind: caught
+    - 5.5:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Aqeel
+    - 5.6:
+        non_striker: Syed Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Aqeel
+    - 6.1:
+        non_striker: Ahmed Aqeel
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 6.2:
+        non_striker: Syed Aziz
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Aqeel
+    - 6.3:
+        non_striker: Ahmed Aqeel
+        bowler: S Desungnoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 6.4:
+        non_striker: Ahmed Aqeel
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 6.5:
+        non_striker: Syed Aziz
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Aqeel
+    - 6.6:
+        non_striker: Syed Aziz
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Aqeel
+    - 6.7:
+        non_striker: Ahmed Aqeel
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 7.1:
+        non_striker: Syed Aziz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Aqeel
+    - 7.2:
+        non_striker: Ahmed Aqeel
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 7.3:
+        non_striker: Syed Aziz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Aqeel
+    - 7.4:
+        non_striker: Syed Aziz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Aqeel
+    - 7.5:
+        non_striker: Syed Aziz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Aqeel
+    - 7.6:
+        non_striker: Ahmed Aqeel
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 7.7:
+        non_striker: Ahmed Aqeel
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 8.1:
+        non_striker: Ahmed Aqeel
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 8.2:
+        non_striker: Syed Aziz
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Aqeel
+    - 8.3:
+        non_striker: Syed Aziz
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Aqeel
+    - 8.4:
+        non_striker: Syed Aziz
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Aqeel
+    - 8.5:
+        non_striker: Ahmed Aqeel
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+        wicket:
+          player_out: Syed Aziz
+          fielders:
+          - C Chatphaisan
+          kind: caught
+    - 8.6:
+        non_striker: Ahmed Aqeel
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 9.1:
+        non_striker: Ahmed Faiz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Aqeel
+    - 9.2:
+        non_striker: Ahmed Faiz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Aqeel
+    - 9.3:
+        non_striker: Ahmed Faiz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Aqeel
+    - 9.4:
+        non_striker: Ahmed Aqeel
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 9.5:
+        non_striker: Ahmed Faiz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Aqeel
+    - 9.6:
+        non_striker: Ahmed Faiz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Aqeel
+    - 10.1:
+        non_striker: Ahmed Aqeel
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 10.2:
+        non_striker: Ahmed Aqeel
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 10.3:
+        non_striker: Ahmed Aqeel
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz
+    - 10.4:
+        non_striker: Ahmed Aqeel
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 10.5:
+        non_striker: Ahmed Aqeel
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz
+    - 10.6:
+        non_striker: Ahmed Aqeel
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz
+    - 11.1:
+        non_striker: Ahmed Faiz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Aqeel
+    - 11.2:
+        non_striker: Ahmed Faiz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Aqeel
+    - 11.3:
+        non_striker: Ahmed Faiz
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Aqeel
+    - 11.4:
+        non_striker: Ahmed Aqeel
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ahmed Faiz

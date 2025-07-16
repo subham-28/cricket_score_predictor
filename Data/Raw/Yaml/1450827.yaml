@@ -1,0 +1,2101 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: King City
+  dates:
+  - '2024-10-02'
+  gender: male
+  match_type: T20
+  match_type_number: 2889
+  outcome:
+    winner: Nepal
+    by:
+      runs: 56
+  overs: 20
+  players:
+    Nepal:
+    - AK Sah
+    - Aasif Sheikh
+    - D Khanal
+    - Kushal Malla
+    - RK Paudel
+    - Gulsan Jha
+    - DS Airee
+    - K Bhurtel
+    - Sompal Kami
+    - S Lamichhane
+    - R Dhakal
+    Oman:
+    - Aqib Ilyas
+    - KH Prajapati
+    - Shoaib Khan
+    - Zeeshan Maqsood
+    - Khalid Kail
+    - Ayan Khan
+    - Rafiullah
+    - PS Athavale
+    - Fayyaz Butt
+    - Shakeel Ahmed
+    - Kaleemullah
+  registry:
+    people:
+      AK Sah: 5b1d6583
+      AR Maddela: 5c861579
+      Aasif Sheikh: dcbea954
+      Aqib Ilyas: b3b39bed
+      Ayan Khan: 44d6a8b8
+      D Khanal: c4bc3b59
+      DS Airee: 1747ea18
+      Fayyaz Butt: bd9fbd51
+      Gulsan Jha: 9811e35e
+      K Bhurtel: e3386c8a
+      KH Prajapati: c4e73ff1
+      Kaleemullah: 72253b87
+      Khalid Kail: 3ee90b67
+      Kushal Malla: 7e9f1cde
+      Neeyamur Rashid: bd81a027
+      PS Athavale: c2f12310
+      R Dhakal: 8399a7af
+      R Shah: 3424e050
+      RK Paudel: 1a3cc554
+      Rafiullah: 369cc49c
+      S Lamichhane: b410bd3d
+      Shakeel Ahmed: e29e9c12
+      Shoaib Khan: 21afb939
+      Sompal Kami: 1adb8ee8
+      V Sudhakar: 816e48f6
+      Zeeshan Maqsood: '34464143'
+  teams:
+  - Nepal
+  - Oman
+  toss:
+    winner: Oman
+    decision: field
+  umpires:
+  - AR Maddela
+  - R Shah
+  venue: Maple Leaf North-West Ground, King City
+innings:
+- 1st innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aasif Sheikh
+        batsman: AK Sah
+    - 0.2:
+        non_striker: AK Sah
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 0.3:
+        non_striker: Aasif Sheikh
+        bowler: Kaleemullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Sah
+    - 0.4:
+        non_striker: Aasif Sheikh
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Sah
+    - 0.5:
+        non_striker: Aasif Sheikh
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Sah
+    - 0.6:
+        non_striker: Aasif Sheikh
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Sah
+    - 0.7:
+        non_striker: Aasif Sheikh
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Sah
+        wicket:
+          player_out: AK Sah
+          fielders:
+          - Ayan Khan
+          kind: run out
+    - 1.1:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Khanal
+        batsman: Aasif Sheikh
+    - 1.2:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Khanal
+        batsman: Aasif Sheikh
+    - 1.3:
+        non_striker: Aasif Sheikh
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: D Khanal
+    - 1.4:
+        non_striker: Aasif Sheikh
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Khanal
+    - 1.5:
+        non_striker: Aasif Sheikh
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Khanal
+    - 1.6:
+        non_striker: Aasif Sheikh
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Khanal
+    - 2.1:
+        non_striker: D Khanal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.2:
+        non_striker: D Khanal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.3:
+        non_striker: D Khanal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.4:
+        non_striker: D Khanal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aasif Sheikh
+    - 2.5:
+        non_striker: D Khanal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 2.6:
+        non_striker: Aasif Sheikh
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Khanal
+    - 3.1:
+        non_striker: D Khanal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 3.2:
+        non_striker: Aasif Sheikh
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Khanal
+    - 3.3:
+        non_striker: Aasif Sheikh
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Khanal
+    - 3.4:
+        non_striker: Aasif Sheikh
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Khanal
+    - 3.5:
+        non_striker: Aasif Sheikh
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Khanal
+    - 3.6:
+        non_striker: Aasif Sheikh
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Khanal
+    - 4.1:
+        non_striker: Aasif Sheikh
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Khanal
+    - 4.2:
+        non_striker: D Khanal
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 4.3:
+        non_striker: D Khanal
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 4.4:
+        non_striker: D Khanal
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aasif Sheikh
+    - 4.5:
+        non_striker: D Khanal
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aasif Sheikh
+    - 4.6:
+        non_striker: D Khanal
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+        wicket:
+          player_out: Aasif Sheikh
+          fielders:
+          - PS Athavale
+          kind: caught
+    - 5.1:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Kushal Malla
+        batsman: D Khanal
+    - 5.2:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kushal Malla
+        batsman: D Khanal
+    - 5.3:
+        non_striker: D Khanal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 5.4:
+        non_striker: D Khanal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 5.5:
+        non_striker: D Khanal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 5.6:
+        non_striker: D Khanal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 5.7:
+        non_striker: D Khanal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 6.1:
+        non_striker: Kushal Malla
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Khanal
+    - 6.2:
+        non_striker: Kushal Malla
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Khanal
+    - 6.3:
+        non_striker: Kushal Malla
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Khanal
+    - 6.4:
+        non_striker: Kushal Malla
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Khanal
+    - 6.5:
+        non_striker: Kushal Malla
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Khanal
+    - 6.6:
+        non_striker: D Khanal
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 7.1:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Khanal
+        wicket:
+          player_out: D Khanal
+          fielders:
+          - Shoaib Khan
+          kind: caught
+    - 7.2:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 7.3:
+        non_striker: RK Paudel
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 7.4:
+        non_striker: RK Paudel
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 7.5:
+        non_striker: RK Paudel
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 7.6:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 8.1:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 8.2:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 8.3:
+        non_striker: RK Paudel
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 8.4:
+        non_striker: RK Paudel
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 8.5:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 8.6:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 9.1:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 9.2:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 9.3:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 9.4:
+        non_striker: RK Paudel
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 9.5:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 9.6:
+        non_striker: RK Paudel
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 10.1:
+        non_striker: RK Paudel
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 10.2:
+        non_striker: RK Paudel
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 10.3:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 10.4:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 10.5:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 10.6:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 11.1:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 11.2:
+        non_striker: RK Paudel
+        bowler: Aqib Ilyas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 11.3:
+        non_striker: RK Paudel
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 11.4:
+        non_striker: RK Paudel
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 11.5:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 11.6:
+        non_striker: RK Paudel
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 11.7:
+        non_striker: Kushal Malla
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 12.1:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 12.2:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Paudel
+    - 12.3:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 12.4:
+        non_striker: RK Paudel
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 12.5:
+        non_striker: RK Paudel
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 12.6:
+        non_striker: Kushal Malla
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 12.7:
+        non_striker: RK Paudel
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 13.1:
+        non_striker: Kushal Malla
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 13.2:
+        non_striker: RK Paudel
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 13.3:
+        non_striker: Kushal Malla
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 13.4:
+        non_striker: RK Paudel
+        bowler: Rafiullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 13.5:
+        non_striker: RK Paudel
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 13.6:
+        non_striker: RK Paudel
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 13.7:
+        non_striker: RK Paudel
+        bowler: Rafiullah
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Kushal Malla
+    - 14.1:
+        non_striker: Kushal Malla
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 14.2:
+        non_striker: RK Paudel
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+        wicket:
+          player_out: Kushal Malla
+          fielders:
+          - Ayan Khan
+          kind: caught
+    - 14.3:
+        non_striker: RK Paudel
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 14.4:
+        non_striker: Gulsan Jha
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 14.5:
+        non_striker: Gulsan Jha
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 14.6:
+        non_striker: Gulsan Jha
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 15.1:
+        non_striker: RK Paudel
+        bowler: Rafiullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Gulsan Jha
+    - 15.2:
+        non_striker: RK Paudel
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 15.3:
+        non_striker: Gulsan Jha
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 15.4:
+        non_striker: Gulsan Jha
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 15.5:
+        non_striker: Gulsan Jha
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 15.6:
+        non_striker: Gulsan Jha
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 15.7:
+        non_striker: Gulsan Jha
+        bowler: Rafiullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 16.1:
+        non_striker: RK Paudel
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+    - 16.2:
+        non_striker: RK Paudel
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+        wicket:
+          player_out: Gulsan Jha
+          fielders:
+          - Rafiullah
+          kind: caught
+    - 16.3:
+        non_striker: RK Paudel
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 16.4:
+        non_striker: DS Airee
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 16.5:
+        non_striker: DS Airee
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 16.6:
+        non_striker: DS Airee
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 17.1:
+        non_striker: DS Airee
+        bowler: Kaleemullah
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: RK Paudel
+    - 17.2:
+        non_striker: DS Airee
+        bowler: Kaleemullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RK Paudel
+    - 17.3:
+        non_striker: RK Paudel
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+        wicket:
+          player_out: DS Airee
+          kind: lbw
+    - 17.4:
+        non_striker: RK Paudel
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 17.5:
+        non_striker: RK Paudel
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 17.6:
+        non_striker: K Bhurtel
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 17.7:
+        non_striker: K Bhurtel
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 18.1:
+        non_striker: RK Paudel
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Bhurtel
+    - 18.2:
+        non_striker: RK Paudel
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+        wicket:
+          player_out: K Bhurtel
+          fielders:
+          - Shakeel Ahmed
+          kind: caught
+    - 18.3:
+        non_striker: RK Paudel
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 18.4:
+        non_striker: Sompal Kami
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 18.5:
+        non_striker: RK Paudel
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 18.6:
+        non_striker: RK Paudel
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 19.1:
+        non_striker: RK Paudel
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 19.2:
+        non_striker: Sompal Kami
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 19.3:
+        non_striker: Sompal Kami
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 19.4:
+        non_striker: Sompal Kami
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Paudel
+    - 19.5:
+        non_striker: Sompal Kami
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 19.6:
+        non_striker: Sompal Kami
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+- 2nd innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: KH Prajapati
+        batsman: Aqib Ilyas
+    - 0.2:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KH Prajapati
+        batsman: Aqib Ilyas
+    - 0.3:
+        non_striker: Aqib Ilyas
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 0.4:
+        non_striker: KH Prajapati
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 0.5:
+        non_striker: Aqib Ilyas
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 0.6:
+        non_striker: KH Prajapati
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aqib Ilyas
+    - 0.7:
+        non_striker: KH Prajapati
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 1.1:
+        non_striker: KH Prajapati
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 1.2:
+        non_striker: KH Prajapati
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 1.3:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 1.4:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+        wicket:
+          player_out: KH Prajapati
+          fielders:
+          - K Bhurtel
+          kind: caught
+    - 1.5:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 1.6:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 2.1:
+        non_striker: Shoaib Khan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 2.2:
+        non_striker: Shoaib Khan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 2.3:
+        non_striker: Aqib Ilyas
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 2.4:
+        non_striker: Aqib Ilyas
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Khan
+    - 2.5:
+        non_striker: Aqib Ilyas
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 2.6:
+        non_striker: Shoaib Khan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Ilyas
+    - 3.1:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Khan
+    - 3.2:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+        wicket:
+          player_out: Shoaib Khan
+          fielders:
+          - Aasif Sheikh
+          kind: caught
+    - 3.3:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Maqsood
+    - 3.4:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Maqsood
+    - 3.5:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Maqsood
+    - 3.6:
+        non_striker: Aqib Ilyas
+        bowler: R Dhakal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 4.1:
+        non_striker: Zeeshan Maqsood
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 4.2:
+        non_striker: Aqib Ilyas
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Maqsood
+    - 4.3:
+        non_striker: Aqib Ilyas
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 4.4:
+        non_striker: Aqib Ilyas
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 4.5:
+        non_striker: Aqib Ilyas
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 4.6:
+        non_striker: Zeeshan Maqsood
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 5.1:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.2:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 5.3:
+        non_striker: Aqib Ilyas
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 5.4:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.5:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Ilyas
+    - 5.6:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 6.1:
+        non_striker: Zeeshan Maqsood
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 6.2:
+        non_striker: Zeeshan Maqsood
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 6.3:
+        non_striker: Aqib Ilyas
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Maqsood
+    - 6.4:
+        non_striker: Aqib Ilyas
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 6.5:
+        non_striker: Aqib Ilyas
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 6.6:
+        non_striker: Zeeshan Maqsood
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 7.1:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 7.2:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 7.3:
+        non_striker: Aqib Ilyas
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 7.4:
+        non_striker: Aqib Ilyas
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 7.5:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 7.6:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 8.1:
+        non_striker: Zeeshan Maqsood
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 8.2:
+        non_striker: Aqib Ilyas
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 8.3:
+        non_striker: Aqib Ilyas
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 8.4:
+        non_striker: Aqib Ilyas
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 8.5:
+        non_striker: Zeeshan Maqsood
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 8.6:
+        non_striker: Zeeshan Maqsood
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+        wicket:
+          player_out: Aqib Ilyas
+          fielders:
+          - DS Airee
+          kind: caught
+    - 9.1:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khalid Kail
+        batsman: Zeeshan Maqsood
+    - 9.2:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khalid Kail
+        batsman: Zeeshan Maqsood
+    - 9.3:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Khalid Kail
+        batsman: Zeeshan Maqsood
+    - 9.4:
+        non_striker: Zeeshan Maqsood
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Kail
+    - 9.5:
+        non_striker: Khalid Kail
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 9.6:
+        non_striker: Khalid Kail
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 10.1:
+        non_striker: Khalid Kail
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+        wicket:
+          player_out: Khalid Kail
+          fielders:
+          - DS Airee
+          kind: run out
+    - 10.2:
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ayan Khan
+        batsman: Zeeshan Maqsood
+    - 10.3:
+        non_striker: Zeeshan Maqsood
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 10.4:
+        non_striker: Zeeshan Maqsood
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 10.5:
+        non_striker: Ayan Khan
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 10.6:
+        non_striker: Ayan Khan
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Maqsood
+    - 11.1:
+        non_striker: Zeeshan Maqsood
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 11.2:
+        non_striker: Zeeshan Maqsood
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 11.3:
+        non_striker: Ayan Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Maqsood
+    - 11.4:
+        non_striker: Ayan Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 11.5:
+        non_striker: Ayan Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 11.6:
+        non_striker: Zeeshan Maqsood
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 12.1:
+        non_striker: Ayan Khan
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+        wicket:
+          player_out: Zeeshan Maqsood
+          kind: caught and bowled
+    - 12.2:
+        non_striker: Ayan Khan
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rafiullah
+    - 12.3:
+        non_striker: Ayan Khan
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rafiullah
+        wicket:
+          player_out: Rafiullah
+          fielders:
+          - Sompal Kami
+          kind: caught
+    - 12.4:
+        non_striker: Ayan Khan
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Athavale
+    - 12.5:
+        non_striker: PS Athavale
+        bowler: RK Paudel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayan Khan
+    - 12.6:
+        non_striker: PS Athavale
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 12.7:
+        non_striker: Ayan Khan
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PS Athavale
+    - 13.1:
+        non_striker: PS Athavale
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayan Khan
+    - 13.2:
+        non_striker: PS Athavale
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 13.3:
+        non_striker: Ayan Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Athavale
+    - 13.4:
+        non_striker: PS Athavale
+        bowler: Gulsan Jha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayan Khan
+    - 13.5:
+        non_striker: PS Athavale
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 13.6:
+        non_striker: PS Athavale
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 13.7:
+        non_striker: Ayan Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Athavale
+    - 14.1:
+        non_striker: PS Athavale
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+        wicket:
+          player_out: Ayan Khan
+          fielders:
+          - Kushal Malla
+          kind: caught
+    - 14.2:
+        non_striker: PS Athavale
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 14.3:
+        non_striker: PS Athavale
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 14.4:
+        non_striker: Fayyaz Butt
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Athavale
+    - 14.5:
+        non_striker: Fayyaz Butt
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Athavale
+    - 14.6:
+        non_striker: Fayyaz Butt
+        bowler: S Lamichhane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PS Athavale
+    - 14.7:
+        non_striker: Fayyaz Butt
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Athavale
+    - 15.1:
+        non_striker: Fayyaz Butt
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Athavale
+    - 15.2:
+        non_striker: Fayyaz Butt
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Athavale
+    - 15.3:
+        non_striker: PS Athavale
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 15.4:
+        non_striker: Fayyaz Butt
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PS Athavale
+    - 15.5:
+        non_striker: Fayyaz Butt
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Athavale
+        wicket:
+          player_out: PS Athavale
+          fielders:
+          - DS Airee
+          kind: caught
+    - 15.6:
+        non_striker: Fayyaz Butt
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakeel Ahmed
+    - 16.1:
+        non_striker: Shakeel Ahmed
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 16.2:
+        non_striker: Fayyaz Butt
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 16.3:
+        non_striker: Fayyaz Butt
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 16.4:
+        non_striker: Shakeel Ahmed
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 16.5:
+        non_striker: Shakeel Ahmed
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 16.6:
+        non_striker: Fayyaz Butt
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 17.1:
+        non_striker: Shakeel Ahmed
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 17.2:
+        non_striker: Fayyaz Butt
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+        wicket:
+          player_out: Shakeel Ahmed
+          fielders:
+          - Sompal Kami
+          kind: caught
+    - 17.3:
+        non_striker: Fayyaz Butt
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaleemullah
+    - 17.4:
+        non_striker: Kaleemullah
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 17.5:
+        non_striker: Kaleemullah
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+        wicket:
+          player_out: Fayyaz Butt
+          fielders:
+          - Aasif Sheikh
+          kind: stumped

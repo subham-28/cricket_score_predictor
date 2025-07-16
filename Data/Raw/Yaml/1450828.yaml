@@ -1,0 +1,1838 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: King City
+  dates:
+  - '2024-10-03'
+  gender: male
+  match_type: T20
+  match_type_number: 2890
+  outcome:
+    winner: Canada
+    by:
+      wickets: 5
+  overs: 20
+  players:
+    Oman:
+    - Aqib Ilyas
+    - Jatinder Singh
+    - Shoaib Khan
+    - Zeeshan Maqsood
+    - Khalid Kail
+    - Hammad Mirza
+    - B Siddharth
+    - Mehran Khan
+    - Shakeel Ahmed
+    - Rafiullah
+    - Kaleemullah
+    Canada:
+    - K Tathgur
+    - DS Bajwa
+    - NS Dhaliwal
+    - H Thaker
+    - S Movva
+    - NR Kirton
+    - Ravinderpal Singh
+    - Parveen Kumar
+    - Saad Bin Zafar
+    - Kaleem Sana
+    - Akhil Kumar
+  registry:
+    people:
+      AR Maddela: 5c861579
+      Akhil Kumar: 2feb5b8d
+      Aqib Ilyas: b3b39bed
+      B Siddharth: 80de053e
+      DS Bajwa: e3540b8c
+      H Thaker: c01d7726
+      Hammad Mirza: 0b7b78c6
+      Jatinder Singh: b80dd12c
+      K Tathgur: f190c775
+      Kaleem Sana: 14810ee7
+      Kaleemullah: 72253b87
+      Khalid Kail: 3ee90b67
+      Mehran Khan: d7bfcc0b
+      NR Kirton: 6b75c2b1
+      NS Dhaliwal: cbabd6ad
+      Neeyamur Rashid: bd81a027
+      Parveen Kumar: e6b3c3cc
+      R Shah: 3424e050
+      Rafiullah: 369cc49c
+      Ravinderpal Singh: f80682f8
+      S Movva: ee229588
+      Saad Bin Zafar: f28a60e0
+      Shakeel Ahmed: e29e9c12
+      Shoaib Khan: 21afb939
+      V Sudhakar: 816e48f6
+      Zeeshan Maqsood: '34464143'
+  teams:
+  - Oman
+  - Canada
+  toss:
+    winner: Canada
+    decision: field
+  umpires:
+  - AR Maddela
+  - R Shah
+  venue: Maple Leaf North-West Ground, King City
+innings:
+- 1st innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jatinder Singh
+        batsman: Aqib Ilyas
+    - 0.2:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Jatinder Singh
+        batsman: Aqib Ilyas
+    - 0.3:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jatinder Singh
+        batsman: Aqib Ilyas
+    - 0.4:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jatinder Singh
+        batsman: Aqib Ilyas
+    - 0.5:
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Jatinder Singh
+        batsman: Aqib Ilyas
+    - 0.6:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jatinder Singh
+        batsman: Aqib Ilyas
+    - 0.7:
+        non_striker: Aqib Ilyas
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+        wicket:
+          player_out: Jatinder Singh
+          fielders:
+          - H Thaker
+          - S Movva
+          kind: run out
+    - 1.1:
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shoaib Khan
+        batsman: Aqib Ilyas
+    - 1.2:
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Shoaib Khan
+        batsman: Aqib Ilyas
+    - 1.3:
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shoaib Khan
+        batsman: Aqib Ilyas
+    - 1.4:
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shoaib Khan
+        batsman: Aqib Ilyas
+    - 1.5:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 1.6:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+        wicket:
+          player_out: Shoaib Khan
+          fielders:
+          - S Movva
+          kind: caught
+    - 2.1:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Maqsood
+        batsman: Aqib Ilyas
+    - 2.2:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Maqsood
+        batsman: Aqib Ilyas
+    - 2.3:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Maqsood
+        batsman: Aqib Ilyas
+    - 2.4:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Maqsood
+        batsman: Aqib Ilyas
+    - 2.5:
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Zeeshan Maqsood
+        batsman: Aqib Ilyas
+    - 2.6:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Zeeshan Maqsood
+        batsman: Aqib Ilyas
+    - 2.7:
+        non_striker: Zeeshan Maqsood
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 3.1:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 3.2:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 3.3:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Maqsood
+    - 3.4:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 3.5:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+        wicket:
+          player_out: Zeeshan Maqsood
+          fielders:
+          - H Thaker
+          kind: caught
+    - 3.6:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khalid Kail
+    - 4.1:
+        non_striker: Khalid Kail
+        bowler: Parveen Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aqib Ilyas
+    - 4.2:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Kail
+    - 4.3:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khalid Kail
+    - 4.4:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Kail
+    - 4.5:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Kail
+        wicket:
+          player_out: Khalid Kail
+          kind: lbw
+    - 4.6:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 5.1:
+        non_striker: Hammad Mirza
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Ilyas
+    - 5.2:
+        non_striker: Hammad Mirza
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.3:
+        non_striker: Hammad Mirza
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Ilyas
+    - 5.4:
+        non_striker: Hammad Mirza
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.5:
+        non_striker: Hammad Mirza
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.6:
+        non_striker: Hammad Mirza
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 6.1:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 6.2:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 6.3:
+        non_striker: Hammad Mirza
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 6.4:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 6.5:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+        wicket:
+          player_out: Hammad Mirza
+          kind: lbw
+    - 6.6:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Siddharth
+    - 7.1:
+        non_striker: B Siddharth
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 7.2:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Siddharth
+    - 7.3:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Siddharth
+    - 7.4:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Siddharth
+    - 7.5:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Siddharth
+        wicket:
+          player_out: B Siddharth
+          kind: bowled
+    - 7.6:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+    - 8.1:
+        non_striker: Mehran Khan
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 8.2:
+        non_striker: Mehran Khan
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 8.3:
+        non_striker: Mehran Khan
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 8.4:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+    - 8.5:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+    - 8.6:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+    - 9.1:
+        non_striker: Mehran Khan
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 9.2:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+    - 9.3:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+    - 9.4:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+    - 9.5:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+    - 9.6:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+    - 10.1:
+        non_striker: Mehran Khan
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 10.2:
+        non_striker: Mehran Khan
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 10.3:
+        non_striker: Mehran Khan
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 10.4:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+        wicket:
+          player_out: Mehran Khan
+          fielders:
+          - Kaleem Sana
+          kind: caught
+    - 10.5:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 10.6:
+        non_striker: Aqib Ilyas
+        bowler: Parveen Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 11.1:
+        non_striker: Aqib Ilyas
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 11.2:
+        non_striker: Aqib Ilyas
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 11.3:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 11.4:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Ilyas
+    - 11.5:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 11.6:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 12.1:
+        non_striker: Shakeel Ahmed
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 12.2:
+        non_striker: Shakeel Ahmed
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 12.3:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 12.4:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 12.5:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 12.6:
+        non_striker: Aqib Ilyas
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 13.1:
+        non_striker: Aqib Ilyas
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 13.2:
+        non_striker: Aqib Ilyas
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 13.3:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 13.4:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 13.5:
+        non_striker: Aqib Ilyas
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 13.6:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 14.1:
+        non_striker: Shakeel Ahmed
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 14.2:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 14.3:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 14.4:
+        non_striker: Shakeel Ahmed
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 14.5:
+        non_striker: Shakeel Ahmed
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 14.6:
+        non_striker: Aqib Ilyas
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 15.1:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+        wicket:
+          player_out: Aqib Ilyas
+          fielders:
+          - K Tathgur
+          kind: caught
+    - 15.2:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rafiullah
+    - 15.3:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rafiullah
+    - 15.4:
+        non_striker: Rafiullah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 15.5:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rafiullah
+    - 15.6:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rafiullah
+    - 15.7:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rafiullah
+    - 16.1:
+        non_striker: Shakeel Ahmed
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rafiullah
+    - 16.2:
+        non_striker: Shakeel Ahmed
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rafiullah
+    - 16.3:
+        non_striker: Rafiullah
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 16.4:
+        non_striker: Rafiullah
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakeel Ahmed
+    - 16.5:
+        non_striker: Rafiullah
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 16.6:
+        non_striker: Rafiullah
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakeel Ahmed
+    - 17.1:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rafiullah
+    - 17.2:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rafiullah
+    - 17.3:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rafiullah
+        wicket:
+          player_out: Rafiullah
+          fielders:
+          - NR Kirton
+          kind: caught
+    - 17.4:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaleemullah
+    - 17.5:
+        non_striker: Kaleemullah
+        bowler: H Thaker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shakeel Ahmed
+    - 17.6:
+        non_striker: Shakeel Ahmed
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaleemullah
+    - 18.1:
+        non_striker: Shakeel Ahmed
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleemullah
+    - 18.2:
+        non_striker: Shakeel Ahmed
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleemullah
+    - 18.3:
+        non_striker: Shakeel Ahmed
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleemullah
+    - 18.4:
+        non_striker: Shakeel Ahmed
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaleemullah
+    - 18.5:
+        non_striker: Kaleemullah
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+    - 18.6:
+        non_striker: Kaleemullah
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 19.1:
+        non_striker: Kaleemullah
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakeel Ahmed
+    - 19.2:
+        non_striker: Kaleemullah
+        bowler: Akhil Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shakeel Ahmed
+    - 19.3:
+        non_striker: Shakeel Ahmed
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleemullah
+    - 19.4:
+        non_striker: Shakeel Ahmed
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleemullah
+        wicket:
+          player_out: Kaleemullah
+          fielders:
+          - NS Dhaliwal
+          kind: caught
+- 2nd innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DS Bajwa
+        batsman: K Tathgur
+    - 0.2:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DS Bajwa
+        batsman: K Tathgur
+    - 0.3:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DS Bajwa
+        batsman: K Tathgur
+    - 0.4:
+        non_striker: K Tathgur
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 0.5:
+        non_striker: K Tathgur
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 0.6:
+        non_striker: K Tathgur
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 1.1:
+        non_striker: K Tathgur
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 1.2:
+        non_striker: K Tathgur
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 1.3:
+        non_striker: K Tathgur
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Bajwa
+    - 1.4:
+        non_striker: K Tathgur
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Bajwa
+    - 1.5:
+        non_striker: K Tathgur
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 1.6:
+        non_striker: DS Bajwa
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Tathgur
+    - 2.1:
+        non_striker: K Tathgur
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Bajwa
+    - 2.2:
+        non_striker: K Tathgur
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 2.3:
+        non_striker: K Tathgur
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 2.4:
+        non_striker: K Tathgur
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Bajwa
+    - 2.5:
+        non_striker: K Tathgur
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DS Bajwa
+    - 2.6:
+        non_striker: DS Bajwa
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+    - 2.7:
+        non_striker: DS Bajwa
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+    - 3.1:
+        non_striker: K Tathgur
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+        wicket:
+          player_out: DS Bajwa
+          fielders:
+          - Shoaib Khan
+          kind: caught
+    - 3.2:
+        non_striker: K Tathgur
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 3.3:
+        non_striker: NS Dhaliwal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+    - 3.4:
+        non_striker: NS Dhaliwal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+        wicket:
+          player_out: K Tathgur
+          fielders:
+          - Hammad Mirza
+          kind: caught
+    - 3.5:
+        non_striker: NS Dhaliwal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 3.6:
+        non_striker: NS Dhaliwal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 4.1:
+        non_striker: NS Dhaliwal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 4.2:
+        non_striker: NS Dhaliwal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 4.3:
+        non_striker: NS Dhaliwal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Thaker
+    - 4.4:
+        non_striker: NS Dhaliwal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Thaker
+    - 4.5:
+        non_striker: NS Dhaliwal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 4.6:
+        non_striker: NS Dhaliwal
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 5.1:
+        non_striker: NS Dhaliwal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 5.2:
+        non_striker: NS Dhaliwal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 5.3:
+        non_striker: NS Dhaliwal
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 5.4:
+        non_striker: H Thaker
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 5.5:
+        non_striker: H Thaker
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 5.6:
+        non_striker: H Thaker
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 6.1:
+        non_striker: H Thaker
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 6.2:
+        non_striker: H Thaker
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 6.3:
+        non_striker: NS Dhaliwal
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 6.4:
+        non_striker: NS Dhaliwal
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 6.5:
+        non_striker: NS Dhaliwal
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Thaker
+    - 6.6:
+        non_striker: NS Dhaliwal
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 7.1:
+        non_striker: NS Dhaliwal
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 7.2:
+        non_striker: NS Dhaliwal
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 7.3:
+        non_striker: H Thaker
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 7.4:
+        non_striker: NS Dhaliwal
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 7.5:
+        non_striker: H Thaker
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 7.6:
+        non_striker: NS Dhaliwal
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 8.1:
+        non_striker: NS Dhaliwal
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 8.2:
+        non_striker: H Thaker
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: NS Dhaliwal
+    - 8.3:
+        non_striker: H Thaker
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 8.4:
+        non_striker: H Thaker
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NS Dhaliwal
+    - 8.5:
+        non_striker: H Thaker
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 8.6:
+        non_striker: H Thaker
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 9.1:
+        non_striker: NS Dhaliwal
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+        wicket:
+          player_out: H Thaker
+          kind: lbw
+    - 9.2:
+        non_striker: NS Dhaliwal
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 9.3:
+        non_striker: NS Dhaliwal
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 9.4:
+        non_striker: NS Dhaliwal
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 9.5:
+        non_striker: NS Dhaliwal
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 9.6:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 10.1:
+        non_striker: NS Dhaliwal
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 10.2:
+        non_striker: NS Dhaliwal
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 10.3:
+        non_striker: S Movva
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 10.4:
+        non_striker: S Movva
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 10.5:
+        non_striker: S Movva
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+        wicket:
+          player_out: NS Dhaliwal
+          fielders:
+          - Hammad Mirza
+          kind: stumped
+    - 10.6:
+        non_striker: S Movva
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 11.1:
+        non_striker: NR Kirton
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 11.2:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 11.3:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 11.4:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 11.5:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 11.6:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 12.1:
+        non_striker: S Movva
+        bowler: B Siddharth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Kirton
+    - 12.2:
+        non_striker: S Movva
+        bowler: B Siddharth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 12.3:
+        non_striker: S Movva
+        bowler: B Siddharth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 12.4:
+        non_striker: S Movva
+        bowler: B Siddharth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 12.5:
+        non_striker: S Movva
+        bowler: B Siddharth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 12.6:
+        non_striker: NR Kirton
+        bowler: B Siddharth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 13.1:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Kirton
+    - 13.2:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+        wicket:
+          player_out: NR Kirton
+          fielders:
+          - Mehran Khan
+          kind: caught
+    - 13.3:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 13.4:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 13.5:
+        non_striker: S Movva
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 13.6:
+        non_striker: Ravinderpal Singh
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 14.1:
+        non_striker: S Movva
+        bowler: B Siddharth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ravinderpal Singh
+    - 14.2:
+        non_striker: S Movva
+        bowler: B Siddharth
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Ravinderpal Singh

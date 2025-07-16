@@ -1,0 +1,850 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brisbane
+  dates:
+  - '2024-11-14'
+  gender: male
+  match_type: T20
+  match_type_number: 2948
+  outcome:
+    winner: Australia
+    by:
+      runs: 29
+  overs: 20
+  player_of_match:
+  - GJ Maxwell
+  players:
+    Australia:
+    - MW Short
+    - J Fraser-McGurk
+    - GJ Maxwell
+    - TH David
+    - MP Stoinis
+    - JP Inglis
+    - AM Hardie
+    - NT Ellis
+    - XC Bartlett
+    - SH Johnson
+    - A Zampa
+    Pakistan:
+    - Sahibzada Farhan
+    - Mohammad Rizwan
+    - Babar Azam
+    - Usman Khan
+    - Agha Salman
+    - Irfan Khan
+    - Haseebullah Khan
+    - Abbas Afridi
+    - Shaheen Shah Afridi
+    - Naseem Shah
+    - Haris Rauf
+  registry:
+    people:
+      A Zampa: 14f96089
+      AM Hardie: d405c0d5
+      Abbas Afridi: 2cec2a92
+      Agha Salman: 89c16049
+      Babar Azam: 8a75e999
+      DC Boon: e79a1fe3
+      DM Koch: 6d10c034
+      GJ Maxwell: b681e71e
+      Haris Rauf: 24bb1c2f
+      Haseebullah Khan: 5691931a
+      Irfan Khan: ee95065d
+      J Fraser-McGurk: 9b6e1b3f
+      JP Inglis: 989889ff
+      MP Stoinis: d9273ee7
+      MW Short: a90e53ec
+      Mohammad Rizwan: 2f26ac1a
+      NT Ellis: 9eb1455b
+      Naseem Shah: 9c9af282
+      PJ Gillespie: 3e253a50
+      SAJ Craig: 689f2eed
+      SB Haig: 811655b3
+      SH Johnson: 83c3e8e3
+      Sahibzada Farhan: 1aba45cd
+      Shaheen Shah Afridi: 45a7e761
+      TH David: f1f99156
+      Usman Khan: bafb9238
+      XC Bartlett: 3b53243a
+  teams:
+  - Australia
+  - Pakistan
+  toss:
+    winner: Pakistan
+    decision: field
+  umpires:
+  - DM Koch
+  - PJ Gillespie
+  venue: Brisbane Cricket Ground, Woolloongabba, Brisbane
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: J Fraser-McGurk
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 0.2:
+        non_striker: MW Short
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 0.3:
+        non_striker: MW Short
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 0.4:
+        non_striker: MW Short
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 0.5:
+        non_striker: MW Short
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 0.6:
+        non_striker: J Fraser-McGurk
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 1.1:
+        non_striker: MW Short
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+        wicket:
+          player_out: J Fraser-McGurk
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 1.2:
+        non_striker: MW Short
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 1.3:
+        non_striker: MW Short
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 1.4:
+        non_striker: MW Short
+        bowler: Naseem Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GJ Maxwell
+    - 1.5:
+        non_striker: MW Short
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 1.6:
+        non_striker: MW Short
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 1.7:
+        non_striker: MW Short
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 2.1:
+        non_striker: GJ Maxwell
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MW Short
+    - 2.2:
+        non_striker: MW Short
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 2.3:
+        non_striker: MW Short
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 2.4:
+        non_striker: GJ Maxwell
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 2.5:
+        non_striker: GJ Maxwell
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 2.6:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 3.1:
+        non_striker: GJ Maxwell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 3.2:
+        non_striker: GJ Maxwell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 3.3:
+        non_striker: TH David
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 3.4:
+        non_striker: TH David
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 3.5:
+        non_striker: GJ Maxwell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 3.6:
+        non_striker: GJ Maxwell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 4.1:
+        non_striker: GJ Maxwell
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 4.2:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 4.3:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 4.4:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 4.5:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 4.6:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 4.7:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 5.1:
+        non_striker: TH David
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 5.2:
+        non_striker: TH David
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 5.3:
+        non_striker: TH David
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - Usman Khan
+          kind: caught
+    - 5.4:
+        non_striker: TH David
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 5.5:
+        non_striker: MP Stoinis
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 5.6:
+        non_striker: MP Stoinis
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - Sahibzada Farhan
+          kind: caught
+    - 6.1:
+        non_striker: JP Inglis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 6.2:
+        non_striker: JP Inglis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 6.3:
+        non_striker: JP Inglis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 6.4:
+        non_striker: JP Inglis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 6.5:
+        non_striker: JP Inglis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 6.6:
+        non_striker: JP Inglis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Mohammad Rizwan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 0.2:
+        non_striker: Mohammad Rizwan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 0.3:
+        non_striker: Mohammad Rizwan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.4:
+        non_striker: Mohammad Rizwan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+        wicket:
+          player_out: Sahibzada Farhan
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 0.5:
+        non_striker: Mohammad Rizwan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Babar Azam
+    - 0.6:
+        non_striker: Babar Azam
+        bowler: SH Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizwan
+    - 1.1:
+        non_striker: Babar Azam
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Mohammad Rizwan
+          fielders:
+          - J Fraser-McGurk
+          kind: caught
+    - 1.2:
+        non_striker: Babar Azam
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 1.3:
+        non_striker: Babar Azam
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 1.4:
+        non_striker: Babar Azam
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 1.5:
+        non_striker: Babar Azam
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 1.6:
+        non_striker: Babar Azam
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          fielders:
+          - MW Short
+          kind: caught
+    - 2.1:
+        non_striker: Agha Salman
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - J Fraser-McGurk
+          kind: caught
+    - 2.2:
+        non_striker: Agha Salman
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Khan
+    - 2.3:
+        non_striker: Agha Salman
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Khan
+        wicket:
+          player_out: Irfan Khan
+          fielders:
+          - J Fraser-McGurk
+          kind: caught
+    - 2.4:
+        non_striker: Agha Salman
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haseebullah Khan
+    - 2.5:
+        non_striker: Agha Salman
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haseebullah Khan
+    - 2.6:
+        non_striker: Agha Salman
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haseebullah Khan
+    - 3.1:
+        non_striker: Haseebullah Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 3.2:
+        non_striker: Haseebullah Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 3.3:
+        non_striker: Haseebullah Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abbas Afridi
+    - 3.4:
+        non_striker: Haseebullah Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Afridi
+    - 3.5:
+        non_striker: Abbas Afridi
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haseebullah Khan
+    - 3.6:
+        non_striker: Haseebullah Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Afridi
+    - 4.1:
+        non_striker: Haseebullah Khan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+    - 4.2:
+        non_striker: Haseebullah Khan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abbas Afridi
+    - 4.3:
+        non_striker: Haseebullah Khan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Afridi
+    - 4.4:
+        non_striker: Haseebullah Khan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Afridi
+    - 4.5:
+        non_striker: Abbas Afridi
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haseebullah Khan
+    - 4.6:
+        non_striker: Abbas Afridi
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haseebullah Khan
+    - 5.1:
+        non_striker: Abbas Afridi
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haseebullah Khan
+    - 5.2:
+        non_striker: Abbas Afridi
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haseebullah Khan
+        wicket:
+          player_out: Haseebullah Khan
+          fielders:
+          - MW Short
+          kind: caught
+    - 5.3:
+        non_striker: Abbas Afridi
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 5.4:
+        non_striker: Abbas Afridi
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 5.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Afridi
+    - 5.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: NT Ellis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Abbas Afridi
+    - 6.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Afridi
+    - 6.2:
+        non_striker: Abbas Afridi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheen Shah Afridi
+    - 6.3:
+        non_striker: Abbas Afridi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shaheen Shah Afridi
+    - 6.4:
+        non_striker: Abbas Afridi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheen Shah Afridi
+    - 6.5:
+        non_striker: Abbas Afridi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+        wicket:
+          player_out: Shaheen Shah Afridi
+          kind: bowled
+    - 6.6:
+        non_striker: Abbas Afridi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+        wicket:
+          player_out: Naseem Shah
+          kind: bowled

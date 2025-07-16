@@ -1,0 +1,2404 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Koge
+  dates:
+  - '2024-09-14'
+  gender: female
+  match_type: T20
+  match_type_number: 2015
+  outcome:
+    winner: Austria
+    by:
+      runs: 115
+  overs: 20
+  player_of_match:
+  - P Sabu
+  players:
+    Austria:
+    - P Sabu
+    - H Bhullar
+    - H Simpson-Parker
+    - AM Zepeda
+    - JA Stiglitz
+    - MPM Pathirannehelage
+    - A Saifee
+    - P Ganeshan
+    - S Bhardwaj
+    - SK Reddy
+    - A Nookala
+    Luxembourg:
+    - SH Lawlor
+    - GEM Brealey
+    - Khusboo Kandpal
+    - Kerry Fraser
+    - PN Agarwal
+    - Jagrat Dubey
+    - Aarti Priya
+    - Shivani Sati
+    - Navneet Bamrah
+    - FC Ellingworth
+    - Divya Kandpal
+  registry:
+    people:
+      A Nookala: 57922f7c
+      A Saifee: 7efe9059
+      AM Zepeda: c9f95a16
+      Aarti Priya: ec11ad0b
+      B Timilsena: 826718d0
+      Divya Kandpal: 32b8d4fe
+      FC Ellingworth: 030c39f1
+      GEM Brealey: f2b769ad
+      H Bhullar: c9ffb93d
+      H Simpson-Parker: 59b0a7ad
+      JA Stiglitz: 7195065a
+      Jagrat Dubey: a4051019
+      Kerry Fraser: 8bebbcd4
+      Khusboo Kandpal: 54a10889
+      MPM Pathirannehelage: 0c142594
+      Navneet Bamrah: edcd403f
+      P Ganeshan: 3829c5ea
+      P Sabu: a38da707
+      PN Agarwal: f34a3a74
+      S Bhardwaj: 83e9173e
+      SH Lawlor: 29342bbe
+      SK Reddy: 3e1fbf05
+      Shivani Sati: b49ab82b
+      Zeb Pirzada: 716e41af
+  teams:
+  - Austria
+  - Luxembourg
+  toss:
+    winner: Austria
+    decision: bat
+  umpires:
+  - B Timilsena
+  - Zeb Pirzada
+  venue: Koge Cricket Club 2
+innings:
+- 1st innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.2:
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.3:
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.4:
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.5:
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.6:
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.7:
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.8:
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Bhullar
+        batsman: P Sabu
+    - 0.9:
+        non_striker: H Bhullar
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 1.1:
+        non_striker: H Bhullar
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: P Sabu
+    - 1.2:
+        non_striker: H Bhullar
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Sabu
+    - 1.3:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+    - 1.4:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bhullar
+        wicket:
+          player_out: H Bhullar
+          kind: lbw
+    - 1.5:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Simpson-Parker
+    - 1.6:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Simpson-Parker
+    - 1.7:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Simpson-Parker
+    - 1.8:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 2.1:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sabu
+    - 2.2:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 2.3:
+        non_striker: P Sabu
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 2.4:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sabu
+    - 2.5:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 2.6:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 2.7:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 3.1:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Simpson-Parker
+    - 3.2:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 3.3:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 3.4:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 3.5:
+        non_striker: H Simpson-Parker
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 3.6:
+        non_striker: H Simpson-Parker
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 4.1:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 4.2:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 4.3:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sabu
+    - 4.4:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 4.5:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sabu
+    - 4.6:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 4.7:
+        non_striker: H Simpson-Parker
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 5.1:
+        non_striker: P Sabu
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Simpson-Parker
+    - 5.2:
+        non_striker: P Sabu
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Simpson-Parker
+    - 5.3:
+        non_striker: H Simpson-Parker
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 5.4:
+        non_striker: H Simpson-Parker
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 5.5:
+        non_striker: P Sabu
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 5.6:
+        non_striker: P Sabu
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: H Simpson-Parker
+    - 5.7:
+        non_striker: P Sabu
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 5.8:
+        non_striker: H Simpson-Parker
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sabu
+    - 6.1:
+        non_striker: P Sabu
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 6.2:
+        non_striker: P Sabu
+        bowler: SH Lawlor
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: H Simpson-Parker
+    - 6.3:
+        non_striker: H Simpson-Parker
+        bowler: SH Lawlor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Sabu
+    - 6.4:
+        non_striker: P Sabu
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 6.5:
+        non_striker: H Simpson-Parker
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 6.6:
+        non_striker: H Simpson-Parker
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 6.7:
+        non_striker: H Simpson-Parker
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sabu
+    - 7.1:
+        non_striker: P Sabu
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Simpson-Parker
+    - 7.2:
+        non_striker: H Simpson-Parker
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 7.3:
+        non_striker: P Sabu
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Simpson-Parker
+    - 7.4:
+        non_striker: P Sabu
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 7.5:
+        non_striker: H Simpson-Parker
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 7.6:
+        non_striker: H Simpson-Parker
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 8.1:
+        non_striker: P Sabu
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 8.2:
+        non_striker: H Simpson-Parker
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sabu
+    - 8.3:
+        non_striker: H Simpson-Parker
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 8.4:
+        non_striker: H Simpson-Parker
+        bowler: SH Lawlor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sabu
+    - 8.5:
+        non_striker: H Simpson-Parker
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 8.6:
+        non_striker: H Simpson-Parker
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 8.7:
+        non_striker: P Sabu
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 9.1:
+        non_striker: H Simpson-Parker
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 9.2:
+        non_striker: P Sabu
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Simpson-Parker
+    - 9.3:
+        non_striker: H Simpson-Parker
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 9.4:
+        non_striker: P Sabu
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+    - 9.5:
+        non_striker: P Sabu
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Simpson-Parker
+    - 9.6:
+        non_striker: P Sabu
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Simpson-Parker
+        wicket:
+          player_out: H Simpson-Parker
+          kind: bowled
+    - 10.1:
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AM Zepeda
+        batsman: P Sabu
+    - 10.2:
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AM Zepeda
+        batsman: P Sabu
+    - 10.3:
+        non_striker: P Sabu
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 10.4:
+        non_striker: P Sabu
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 10.5:
+        non_striker: AM Zepeda
+        bowler: GEM Brealey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Sabu
+    - 10.6:
+        non_striker: P Sabu
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 10.7:
+        non_striker: P Sabu
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 10.8:
+        non_striker: P Sabu
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 10.9:
+        non_striker: AM Zepeda
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sabu
+    - 10.10:
+        non_striker: AM Zepeda
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Sabu
+    - 11.1:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 11.2:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 11.3:
+        non_striker: P Sabu
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AM Zepeda
+    - 11.4:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 11.5:
+        non_striker: P Sabu
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 11.6:
+        non_striker: P Sabu
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 11.7:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 12.1:
+        non_striker: AM Zepeda
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 12.2:
+        non_striker: P Sabu
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 12.3:
+        non_striker: AM Zepeda
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 12.4:
+        non_striker: P Sabu
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 12.5:
+        non_striker: P Sabu
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 12.6:
+        non_striker: AM Zepeda
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 13.1:
+        non_striker: AM Zepeda
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sabu
+    - 13.2:
+        non_striker: AM Zepeda
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Sabu
+    - 13.3:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 13.4:
+        non_striker: AM Zepeda
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sabu
+    - 13.5:
+        non_striker: AM Zepeda
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 13.6:
+        non_striker: AM Zepeda
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 13.7:
+        non_striker: P Sabu
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 14.1:
+        non_striker: P Sabu
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 14.2:
+        non_striker: P Sabu
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 14.3:
+        non_striker: P Sabu
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 14.4:
+        non_striker: AM Zepeda
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 14.5:
+        non_striker: AM Zepeda
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+        wicket:
+          player_out: P Sabu
+          fielders:
+          - Aarti Priya
+          kind: caught
+    - 14.6:
+        non_striker: AM Zepeda
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Stiglitz
+    - 15.1:
+        non_striker: AM Zepeda
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 15.2:
+        non_striker: AM Zepeda
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 15.3:
+        non_striker: AM Zepeda
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Stiglitz
+    - 15.4:
+        non_striker: AM Zepeda
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JA Stiglitz
+    - 15.5:
+        non_striker: AM Zepeda
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JA Stiglitz
+    - 15.6:
+        non_striker: JA Stiglitz
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 15.7:
+        non_striker: JA Stiglitz
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Zepeda
+    - 15.8:
+        non_striker: JA Stiglitz
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+    - 16.1:
+        non_striker: AM Zepeda
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Stiglitz
+    - 16.2:
+        non_striker: JA Stiglitz
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 16.3:
+        non_striker: JA Stiglitz
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 16.4:
+        non_striker: JA Stiglitz
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 16.5:
+        non_striker: JA Stiglitz
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 16.6:
+        non_striker: JA Stiglitz
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 16.7:
+        non_striker: AM Zepeda
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Stiglitz
+    - 17.1:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 17.2:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 17.3:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Stiglitz
+    - 17.4:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Stiglitz
+    - 17.5:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Stiglitz
+    - 17.6:
+        non_striker: JA Stiglitz
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Zepeda
+    - 17.7:
+        non_striker: AM Zepeda
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 18.1:
+        non_striker: JA Stiglitz
+        bowler: SH Lawlor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Zepeda
+    - 18.2:
+        non_striker: JA Stiglitz
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+        wicket:
+          player_out: AM Zepeda
+          fielders:
+          - Aarti Priya
+          kind: caught
+    - 18.3:
+        non_striker: JA Stiglitz
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 18.4:
+        non_striker: JA Stiglitz
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+    - 18.5:
+        non_striker: JA Stiglitz
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+    - 18.6:
+        non_striker: JA Stiglitz
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 18.7:
+        non_striker: MPM Pathirannehelage
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 19.1:
+        non_striker: JA Stiglitz
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 19.2:
+        non_striker: MPM Pathirannehelage
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Stiglitz
+    - 19.3:
+        non_striker: MPM Pathirannehelage
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Stiglitz
+    - 19.4:
+        non_striker: MPM Pathirannehelage
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Stiglitz
+    - 19.5:
+        non_striker: MPM Pathirannehelage
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Stiglitz
+    - 19.6:
+        non_striker: JA Stiglitz
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPM Pathirannehelage
+    - 19.7:
+        non_striker: JA Stiglitz
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GEM Brealey
+        batsman: SH Lawlor
+    - 0.2:
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GEM Brealey
+        batsman: SH Lawlor
+    - 0.3:
+        bowler: SK Reddy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: GEM Brealey
+        batsman: SH Lawlor
+    - 0.4:
+        non_striker: SH Lawlor
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEM Brealey
+    - 0.5:
+        non_striker: SH Lawlor
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEM Brealey
+    - 0.6:
+        non_striker: SH Lawlor
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GEM Brealey
+    - 0.7:
+        non_striker: GEM Brealey
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 1.1:
+        non_striker: SH Lawlor
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEM Brealey
+        wicket:
+          player_out: GEM Brealey
+          kind: bowled
+    - 1.2:
+        non_striker: SH Lawlor
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khusboo Kandpal
+    - 1.3:
+        non_striker: Khusboo Kandpal
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 1.4:
+        non_striker: Khusboo Kandpal
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Lawlor
+    - 1.5:
+        non_striker: Khusboo Kandpal
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 1.6:
+        non_striker: Khusboo Kandpal
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 2.1:
+        non_striker: Khusboo Kandpal
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 2.2:
+        non_striker: Khusboo Kandpal
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 2.3:
+        non_striker: Khusboo Kandpal
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 2.4:
+        non_striker: Khusboo Kandpal
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 2.5:
+        non_striker: SH Lawlor
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khusboo Kandpal
+        wicket:
+          player_out: Khusboo Kandpal
+          kind: bowled
+    - 2.6:
+        non_striker: SH Lawlor
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 3.1:
+        non_striker: SH Lawlor
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 3.2:
+        non_striker: SH Lawlor
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 3.3:
+        non_striker: SH Lawlor
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 3.4:
+        non_striker: Kerry Fraser
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 3.5:
+        non_striker: SH Lawlor
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 3.6:
+        non_striker: Kerry Fraser
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SH Lawlor
+    - 3.7:
+        non_striker: Kerry Fraser
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 4.1:
+        non_striker: SH Lawlor
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kerry Fraser
+    - 4.2:
+        non_striker: SH Lawlor
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 4.3:
+        non_striker: SH Lawlor
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 4.4:
+        non_striker: SH Lawlor
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 4.5:
+        non_striker: SH Lawlor
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 4.6:
+        non_striker: Kerry Fraser
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 4.7:
+        non_striker: Kerry Fraser
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 5.1:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 5.2:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 5.3:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 5.4:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kerry Fraser
+    - 5.5:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 5.6:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 6.1:
+        non_striker: SH Lawlor
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 6.2:
+        non_striker: Kerry Fraser
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 6.3:
+        non_striker: Kerry Fraser
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 6.4:
+        non_striker: Kerry Fraser
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SH Lawlor
+    - 6.5:
+        non_striker: Kerry Fraser
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 6.6:
+        non_striker: Kerry Fraser
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 6.7:
+        non_striker: Kerry Fraser
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 7.1:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 7.2:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kerry Fraser
+    - 7.3:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 7.4:
+        non_striker: Kerry Fraser
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Lawlor
+    - 7.5:
+        non_striker: Kerry Fraser
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 7.6:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 7.7:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kerry Fraser
+    - 7.8:
+        non_striker: SH Lawlor
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 8.1:
+        non_striker: Kerry Fraser
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 8.2:
+        non_striker: SH Lawlor
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 8.3:
+        non_striker: Kerry Fraser
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 8.4:
+        non_striker: Kerry Fraser
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 8.5:
+        non_striker: Kerry Fraser
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 8.6:
+        non_striker: Kerry Fraser
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 9.1:
+        non_striker: SH Lawlor
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 9.2:
+        non_striker: Kerry Fraser
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 9.3:
+        non_striker: Kerry Fraser
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 9.4:
+        non_striker: SH Lawlor
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 9.5:
+        non_striker: SH Lawlor
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 9.6:
+        non_striker: SH Lawlor
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 10.1:
+        non_striker: SH Lawlor
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+        wicket:
+          player_out: Kerry Fraser
+          fielders:
+          - MPM Pathirannehelage
+          kind: run out
+    - 10.2:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PN Agarwal
+        batsman: SH Lawlor
+    - 10.3:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PN Agarwal
+        batsman: SH Lawlor
+    - 10.4:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PN Agarwal
+        batsman: SH Lawlor
+    - 10.5:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PN Agarwal
+        batsman: SH Lawlor
+    - 10.6:
+        non_striker: SH Lawlor
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PN Agarwal
+    - 11.1:
+        non_striker: PN Agarwal
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 11.2:
+        non_striker: PN Agarwal
+        bowler: JA Stiglitz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SH Lawlor
+    - 11.3:
+        non_striker: PN Agarwal
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 11.4:
+        non_striker: PN Agarwal
+        bowler: JA Stiglitz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SH Lawlor
+    - 11.5:
+        non_striker: PN Agarwal
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 11.6:
+        non_striker: SH Lawlor
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 11.7:
+        non_striker: SH Lawlor
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 11.8:
+        non_striker: SH Lawlor
+        bowler: JA Stiglitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 12.1:
+        non_striker: PN Agarwal
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 12.2:
+        non_striker: SH Lawlor
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 12.3:
+        non_striker: SH Lawlor
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+        wicket:
+          player_out: PN Agarwal
+          fielders:
+          - MPM Pathirannehelage
+          kind: run out
+    - 12.4:
+        non_striker: Jagrat Dubey
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+        wicket:
+          player_out: SH Lawlor
+          kind: bowled
+    - 12.5:
+        non_striker: Jagrat Dubey
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+    - 12.6:
+        non_striker: Jagrat Dubey
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+    - 13.1:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 13.2:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 13.3:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+        wicket:
+          player_out: Jagrat Dubey
+          kind: bowled
+    - 13.4:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shivani Sati
+    - 13.5:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+    - 13.6:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+    - 13.7:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+    - 14.1:
+        non_striker: Shivani Sati
+        bowler: SK Reddy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Aarti Priya
+    - 14.2:
+        non_striker: Aarti Priya
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+    - 14.3:
+        non_striker: Aarti Priya
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+    - 14.4:
+        non_striker: Aarti Priya
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shivani Sati
+    - 14.5:
+        non_striker: Shivani Sati
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+    - 14.6:
+        non_striker: Shivani Sati
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+    - 14.7:
+        non_striker: Shivani Sati
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarti Priya
+    - 15.1:
+        non_striker: Shivani Sati
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+    - 15.2:
+        non_striker: Shivani Sati
+        bowler: AM Zepeda
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Aarti Priya
+    - 15.3:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shivani Sati
+    - 15.4:
+        non_striker: Shivani Sati
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aarti Priya
+    - 15.5:
+        non_striker: Shivani Sati
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aarti Priya
+    - 15.6:
+        non_striker: Shivani Sati
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarti Priya
+    - 15.7:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shivani Sati
+    - 15.8:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+    - 15.9:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shivani Sati
+    - 15.10:
+        non_striker: Aarti Priya
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shivani Sati
+    - 16.1:
+        non_striker: Aarti Priya
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+    - 16.2:
+        non_striker: Aarti Priya
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shivani Sati
+    - 16.3:
+        non_striker: Aarti Priya
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shivani Sati
+    - 16.4:
+        non_striker: Shivani Sati
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarti Priya
+    - 16.5:
+        non_striker: Aarti Priya
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Shivani Sati
+    - 16.6:
+        non_striker: Shivani Sati
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+        wicket:
+          player_out: Aarti Priya
+          kind: lbw
+    - 16.7:
+        non_striker: Shivani Sati
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Navneet Bamrah
+    - 16.8:
+        non_striker: Navneet Bamrah
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shivani Sati
+    - 17.1:
+        non_striker: Navneet Bamrah
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shivani Sati
+    - 17.2:
+        non_striker: Navneet Bamrah
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+        wicket:
+          player_out: Shivani Sati
+          kind: bowled
+    - 17.3:
+        non_striker: Navneet Bamrah
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FC Ellingworth
+    - 17.4:
+        non_striker: Navneet Bamrah
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Ellingworth
+    - 17.5:
+        non_striker: Navneet Bamrah
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Ellingworth
+    - 17.6:
+        non_striker: Navneet Bamrah
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Ellingworth
+    - 17.7:
+        non_striker: Navneet Bamrah
+        bowler: S Bhardwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FC Ellingworth
+    - 17.8:
+        non_striker: Navneet Bamrah
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Ellingworth
+    - 17.9:
+        non_striker: Navneet Bamrah
+        bowler: S Bhardwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Ellingworth
+    - 18.1:
+        non_striker: FC Ellingworth
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah
+        wicket:
+          player_out: Navneet Bamrah
+          kind: lbw
+    - 18.2:
+        non_striker: FC Ellingworth
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Divya Kandpal
+        wicket:
+          player_out: Divya Kandpal
+          kind: bowled

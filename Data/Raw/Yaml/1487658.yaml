@@ -1,0 +1,2341 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Prague
+  dates:
+  - '2025-06-12'
+  gender: female
+  match_type: T20
+  match_type_number: 2365
+  outcome:
+    winner: Austria
+    by:
+      runs: 17
+  overs: 20
+  player_of_match:
+  - MPM Pathirannehelage
+  players:
+    Austria:
+    - AM Zepeda
+    - EL Kirkman
+    - P Sabu
+    - SK Reddy
+    - JA Stiglitz
+    - S Bhardwaj
+    - MPM Pathirannehelage
+    - P Ganeshan
+    - V Poglitsch
+    - Hadia Siddiqui
+    - Prithaa Ganeshan
+    Gibraltar:
+    - AIV Benatar
+    - N Caruana
+    - N Laguea
+    - EAS Ferrary
+    - LJ Payas
+    - YS Blagg
+    - P Raghunath
+    - H Mumford
+    - RA Reilly
+    - S Barton
+    - L Sheppard
+  registry:
+    people:
+      AIV Benatar: e8bdbbca
+      AM Zepeda: c9f95a16
+      EAS Ferrary: c3c905ae
+      EL Kirkman: ecc585f0
+      H Mumford: 6462c64b
+      Hadia Siddiqui: 14bc5d2d
+      JA Stiglitz: 7195065a
+      L Sheppard: 52ed0f6b
+      LJ Payas: '49355360'
+      MPM Pathirannehelage: 0c142594
+      N Caruana: 00d1544c
+      N Laguea: '13496389'
+      P Ganeshan: 3829c5ea
+      P Raghunath: 2e287171
+      P Sabu: a38da707
+      Prithaa Ganeshan: ab7b5a48
+      RA Reilly: 77276fff
+      S Barton: f7dd8b46
+      S Bhardwaj: 83e9173e
+      SK Reddy: 3e1fbf05
+      V Poglitsch: e7351fbd
+      YS Blagg: 3aac5463
+  teams:
+  - Austria
+  - Gibraltar
+  toss:
+    winner: Austria
+    decision: bat
+  venue: Scott Page Field, Vinor
+innings:
+- 1st innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EL Kirkman
+        batsman: AM Zepeda
+    - 0.2:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EL Kirkman
+        batsman: AM Zepeda
+    - 0.3:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EL Kirkman
+        batsman: AM Zepeda
+    - 0.4:
+        non_striker: AM Zepeda
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Kirkman
+    - 0.5:
+        non_striker: AM Zepeda
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 0.6:
+        non_striker: AM Zepeda
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 1.1:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Zepeda
+    - 1.2:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Zepeda
+        wicket:
+          player_out: AM Zepeda
+          kind: lbw
+    - 1.3:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 1.4:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 1.5:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 1.6:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 2.1:
+        non_striker: P Sabu
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 2.2:
+        non_striker: EL Kirkman
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 2.3:
+        non_striker: EL Kirkman
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 2.4:
+        non_striker: P Sabu
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+    - 2.5:
+        non_striker: P Sabu
+        bowler: EAS Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EL Kirkman
+    - 2.6:
+        non_striker: EL Kirkman
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 3.1:
+        non_striker: P Sabu
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Kirkman
+    - 3.2:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 3.3:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 3.4:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+    - 3.5:
+        non_striker: EL Kirkman
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 3.6:
+        non_striker: P Sabu
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Kirkman
+        wicket:
+          player_out: EL Kirkman
+          kind: bowled
+    - 4.1:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SK Reddy
+        batsman: P Sabu
+    - 4.2:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SK Reddy
+        batsman: P Sabu
+    - 4.3:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SK Reddy
+        batsman: P Sabu
+    - 4.4:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SK Reddy
+        batsman: P Sabu
+    - 4.5:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SK Reddy
+        batsman: P Sabu
+    - 4.6:
+        bowler: EAS Ferrary
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        non_striker: SK Reddy
+        batsman: P Sabu
+    - 4.7:
+        non_striker: SK Reddy
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 5.1:
+        non_striker: SK Reddy
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 5.2:
+        non_striker: P Sabu
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 5.3:
+        non_striker: P Sabu
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 5.4:
+        non_striker: P Sabu
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 5.5:
+        non_striker: P Sabu
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Reddy
+    - 5.6:
+        non_striker: P Sabu
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 6.1:
+        non_striker: P Sabu
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 6.2:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sabu
+    - 6.3:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sabu
+    - 6.4:
+        non_striker: P Sabu
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 6.5:
+        non_striker: P Sabu
+        bowler: H Mumford
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SK Reddy
+    - 6.6:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sabu
+    - 6.7:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sabu
+        wicket:
+          player_out: P Sabu
+          fielders:
+          - P Raghunath
+          kind: caught
+    - 7.1:
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA Stiglitz
+        batsman: SK Reddy
+    - 7.2:
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA Stiglitz
+        batsman: SK Reddy
+    - 7.3:
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JA Stiglitz
+        batsman: SK Reddy
+    - 7.4:
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: JA Stiglitz
+        batsman: SK Reddy
+    - 7.5:
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JA Stiglitz
+        batsman: SK Reddy
+    - 7.6:
+        non_striker: SK Reddy
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 7.7:
+        non_striker: SK Reddy
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Stiglitz
+    - 8.1:
+        non_striker: JA Stiglitz
+        bowler: H Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SK Reddy
+    - 8.2:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Stiglitz
+    - 8.3:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Stiglitz
+    - 8.4:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Stiglitz
+    - 8.5:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Stiglitz
+    - 8.6:
+        non_striker: JA Stiglitz
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 8.7:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 8.8:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 8.9:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Stiglitz
+    - 9.1:
+        non_striker: JA Stiglitz
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Reddy
+    - 9.2:
+        non_striker: JA Stiglitz
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 9.3:
+        non_striker: JA Stiglitz
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 9.4:
+        non_striker: JA Stiglitz
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+        wicket:
+          player_out: JA Stiglitz
+          fielders:
+          - EAS Ferrary
+          - YS Blagg
+          kind: run out
+    - 9.5:
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Bhardwaj
+        batsman: SK Reddy
+    - 9.6:
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: S Bhardwaj
+        batsman: SK Reddy
+    - 9.7:
+        non_striker: S Bhardwaj
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 10.1:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 10.2:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 10.3:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 10.4:
+        non_striker: S Bhardwaj
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 10.5:
+        non_striker: S Bhardwaj
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 10.6:
+        non_striker: S Bhardwaj
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Reddy
+    - 11.1:
+        non_striker: SK Reddy
+        bowler: P Raghunath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Bhardwaj
+    - 11.2:
+        non_striker: SK Reddy
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 11.3:
+        non_striker: SK Reddy
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 11.4:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SK Reddy
+    - 11.5:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SK Reddy
+    - 11.6:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Reddy
+    - 11.7:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 11.8:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 11.9:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SK Reddy
+    - 11.10:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 12.1:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 12.2:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 12.3:
+        non_striker: S Bhardwaj
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 12.4:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bhardwaj
+    - 12.5:
+        non_striker: SK Reddy
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 12.6:
+        non_striker: S Bhardwaj
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 12.7:
+        non_striker: S Bhardwaj
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 13.1:
+        non_striker: SK Reddy
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bhardwaj
+    - 13.2:
+        non_striker: SK Reddy
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bhardwaj
+    - 13.3:
+        non_striker: SK Reddy
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 13.4:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Reddy
+    - 13.5:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 13.6:
+        non_striker: S Bhardwaj
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Reddy
+    - 14.1:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 14.2:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 14.3:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 14.4:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 14.5:
+        non_striker: S Bhardwaj
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 14.6:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bhardwaj
+    - 14.7:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bhardwaj
+    - 14.8:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bhardwaj
+    - 15.1:
+        non_striker: S Bhardwaj
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 15.2:
+        non_striker: S Bhardwaj
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 15.3:
+        non_striker: SK Reddy
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bhardwaj
+    - 15.4:
+        non_striker: S Bhardwaj
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 15.5:
+        non_striker: SK Reddy
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 15.6:
+        non_striker: SK Reddy
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bhardwaj
+    - 16.1:
+        non_striker: S Bhardwaj
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 16.2:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+    - 16.3:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhardwaj
+        wicket:
+          player_out: S Bhardwaj
+          kind: lbw
+    - 16.4:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 16.5:
+        non_striker: SK Reddy
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPM Pathirannehelage
+    - 16.6:
+        non_striker: MPM Pathirannehelage
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 17.1:
+        non_striker: MPM Pathirannehelage
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 17.2:
+        non_striker: MPM Pathirannehelage
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Reddy
+    - 17.3:
+        non_striker: MPM Pathirannehelage
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Reddy
+    - 17.4:
+        non_striker: MPM Pathirannehelage
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 17.5:
+        non_striker: MPM Pathirannehelage
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 17.6:
+        non_striker: MPM Pathirannehelage
+        bowler: N Caruana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 18.1:
+        non_striker: MPM Pathirannehelage
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 18.2:
+        non_striker: SK Reddy
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPM Pathirannehelage
+    - 18.3:
+        non_striker: SK Reddy
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPM Pathirannehelage
+    - 18.4:
+        non_striker: SK Reddy
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+    - 18.5:
+        non_striker: SK Reddy
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPM Pathirannehelage
+        wicket:
+          player_out: MPM Pathirannehelage
+          kind: bowled
+    - 18.6:
+        non_striker: SK Reddy
+        bowler: EAS Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Ganeshan
+    - 18.7:
+        non_striker: SK Reddy
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Ganeshan
+    - 19.1:
+        non_striker: P Ganeshan
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Reddy
+    - 19.2:
+        non_striker: P Ganeshan
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Reddy
+    - 19.3:
+        non_striker: P Ganeshan
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+    - 19.4:
+        non_striker: SK Reddy
+        bowler: AIV Benatar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Ganeshan
+    - 19.5:
+        non_striker: P Ganeshan
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Reddy
+        wicket:
+          player_out: P Ganeshan
+          fielders:
+          - AIV Benatar
+          - EAS Ferrary
+          kind: run out
+    - 19.6:
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: V Poglitsch
+        batsman: SK Reddy
+    - 19.7:
+        non_striker: V Poglitsch
+        bowler: AIV Benatar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SK Reddy
+- 2nd innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: SK Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Caruana
+        batsman: AIV Benatar
+    - 0.2:
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Caruana
+        batsman: AIV Benatar
+    - 0.3:
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: N Caruana
+        batsman: AIV Benatar
+    - 0.4:
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: N Caruana
+        batsman: AIV Benatar
+    - 0.5:
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: N Caruana
+        batsman: AIV Benatar
+    - 0.6:
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Caruana
+        batsman: AIV Benatar
+    - 0.7:
+        bowler: SK Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Caruana
+        batsman: AIV Benatar
+    - 0.8:
+        non_striker: N Caruana
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 1.1:
+        non_striker: AIV Benatar
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 1.2:
+        non_striker: AIV Benatar
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 1.3:
+        non_striker: AIV Benatar
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 1.4:
+        non_striker: N Caruana
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AIV Benatar
+    - 1.5:
+        non_striker: AIV Benatar
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 1.6:
+        non_striker: AIV Benatar
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Caruana
+    - 1.7:
+        non_striker: AIV Benatar
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N Caruana
+    - 2.1:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 2.2:
+        non_striker: N Caruana
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 2.3:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 2.4:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 2.5:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 2.6:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 3.1:
+        non_striker: N Caruana
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 3.2:
+        non_striker: N Caruana
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 3.3:
+        non_striker: N Caruana
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AIV Benatar
+    - 3.4:
+        non_striker: N Caruana
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 3.5:
+        non_striker: AIV Benatar
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 3.6:
+        non_striker: AIV Benatar
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 3.7:
+        non_striker: AIV Benatar
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 4.1:
+        non_striker: N Caruana
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 4.2:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 4.3:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 4.4:
+        non_striker: N Caruana
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 4.5:
+        non_striker: N Caruana
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 4.6:
+        non_striker: N Caruana
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 5.1:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 5.2:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AIV Benatar
+    - 5.3:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 5.4:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 5.5:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 5.6:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 6.1:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 6.2:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AIV Benatar
+    - 6.3:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 6.4:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AIV Benatar
+    - 6.5:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 6.6:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 7.1:
+        non_striker: AIV Benatar
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 7.2:
+        non_striker: AIV Benatar
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 7.3:
+        non_striker: AIV Benatar
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 7.4:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AIV Benatar
+    - 7.5:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AIV Benatar
+    - 7.6:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 7.7:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AIV Benatar
+    - 7.8:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AIV Benatar
+    - 7.9:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 8.1:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 8.2:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 8.3:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 8.4:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 8.5:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 8.6:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 9.1:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 9.2:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AIV Benatar
+    - 9.3:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AIV Benatar
+    - 9.4:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 9.5:
+        non_striker: AIV Benatar
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 9.6:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 10.1:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 10.2:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Caruana
+    - 10.3:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 10.4:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 10.5:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 10.6:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Caruana
+    - 10.7:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 11.1:
+        non_striker: AIV Benatar
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 11.2:
+        non_striker: AIV Benatar
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 11.3:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 11.4:
+        non_striker: AIV Benatar
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 11.5:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 11.6:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 12.1:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 12.2:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 12.3:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 12.4:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 12.5:
+        non_striker: AIV Benatar
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 12.6:
+        non_striker: N Caruana
+        bowler: AM Zepeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 13.1:
+        non_striker: AIV Benatar
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 13.2:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 13.3:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 13.4:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 13.5:
+        non_striker: AIV Benatar
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 13.6:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AIV Benatar
+    - 13.7:
+        non_striker: N Caruana
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AIV Benatar
+    - 14.1:
+        non_striker: AIV Benatar
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 14.2:
+        non_striker: AIV Benatar
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 14.3:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 14.4:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 14.5:
+        non_striker: AIV Benatar
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 14.6:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 15.1:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 15.2:
+        non_striker: N Caruana
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AIV Benatar
+    - 15.3:
+        non_striker: N Caruana
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 15.4:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 15.5:
+        non_striker: AIV Benatar
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 15.6:
+        non_striker: N Caruana
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 16.1:
+        non_striker: AIV Benatar
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+        wicket:
+          player_out: AIV Benatar
+          fielders:
+          - P Sabu
+          kind: run out
+    - 16.2:
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: N Laguea
+        batsman: N Caruana
+    - 16.3:
+        non_striker: N Laguea
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+        wicket:
+          player_out: N Laguea
+          fielders:
+          - AM Zepeda
+          - P Sabu
+          kind: run out
+    - 16.4:
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EAS Ferrary
+        batsman: N Caruana
+    - 16.5:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 16.6:
+        non_striker: N Caruana
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+        wicket:
+          player_out: EAS Ferrary
+          fielders:
+          - EL Kirkman
+          - S Bhardwaj
+          kind: run out
+    - 17.1:
+        non_striker: LJ Payas
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+        wicket:
+          player_out: N Caruana
+          kind: bowled
+    - 17.2:
+        non_striker: LJ Payas
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Blagg
+    - 17.3:
+        non_striker: LJ Payas
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Blagg
+    - 17.4:
+        non_striker: LJ Payas
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Blagg
+    - 17.5:
+        non_striker: YS Blagg
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Payas
+    - 17.6:
+        non_striker: LJ Payas
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Blagg
+    - 18.1:
+        non_striker: YS Blagg
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: LJ Payas
+    - 18.2:
+        non_striker: LJ Payas
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Blagg
+    - 18.3:
+        non_striker: LJ Payas
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Blagg
+    - 18.4:
+        non_striker: LJ Payas
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Blagg
+    - 18.5:
+        non_striker: LJ Payas
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Blagg
+        wicket:
+          player_out: LJ Payas
+          fielders:
+          - MPM Pathirannehelage
+          - Hadia Siddiqui
+          kind: run out
+    - 18.6:
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: P Raghunath
+        batsman: YS Blagg
+    - 18.7:
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Raghunath
+        batsman: YS Blagg
+    - 18.8:
+        non_striker: P Raghunath
+        bowler: Hadia Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Blagg
+    - 19.1:
+        non_striker: P Raghunath
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Blagg
+        wicket:
+          player_out: YS Blagg
+          kind: bowled
+    - 19.2:
+        non_striker: P Raghunath
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Mumford
+    - 19.3:
+        non_striker: P Raghunath
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Mumford
+    - 19.4:
+        non_striker: P Raghunath
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Mumford
+    - 19.5:
+        non_striker: P Raghunath
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Mumford
+    - 19.6:
+        non_striker: P Raghunath
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Mumford

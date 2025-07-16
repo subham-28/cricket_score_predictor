@@ -1,0 +1,1844 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Panama City
+  dates:
+  - '2025-04-18'
+  gender: male
+  match_type: T20
+  match_type_number: 3143
+  outcome:
+    winner: Mexico
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Kaushal Kumar
+  players:
+    Turks and Caicos Island:
+    - G Bruno
+    - A McKnight
+    - M Smith
+    - S Hunter
+    - K Jack
+    - D St Ange
+    - J Daley
+    - A Kuthalingham
+    - G Kuthalingham
+    - M Turner
+    - R Johnson
+    Mexico:
+    - Shashikant Laxman
+    - Kaushal Kumar
+    - SB Wagh
+    - Luis Hermida
+    - Shantanu Kaveri
+    - J Umanath
+    - DV Devjani Mutreja
+    - Praveen Santhanakrishnan
+    - R Ankad
+    - Pratik Singh Bais
+    - D Panda
+  registry:
+    people:
+      A Kuthalingham: fd4809c8
+      A McKnight: 98aa2a5a
+      AR Maddela: 5c861579
+      D Panda: bad1af65
+      D St Ange: ede30898
+      DV Devjani Mutreja: c872d657
+      G Bruno: 589f2008
+      G Kuthalingham: faff7eac
+      J Daley: 7b6623bc
+      J Umanath: f909b98d
+      K Jack: 447bf58e
+      Kaushal Kumar: 8cc37805
+      Luis Hermida: 03beb59f
+      M Smith: 3296507e
+      M Turner: 27847fec
+      Pratik Singh Bais: 5b351aff
+      Praveen Santhanakrishnan: 22fb205e
+      R Ankad: 5995707a
+      R Johnson: fabbb9e0
+      R Shah: 3424e050
+      S Hunter: aac584a8
+      SB Wagh: acf06e10
+      Shantanu Kaveri: '091880f7'
+      Shashikant Laxman: 8cf61570
+  teams:
+  - Turks and Caicos Island
+  - Mexico
+  toss:
+    winner: Turks and Caicos Island
+    decision: bat
+  umpires:
+  - AR Maddela
+  - R Shah
+  venue: Clayton Panama, Panama City
+innings:
+- 1st innings:
+    team: Turks and Caicos Island
+    deliveries:
+    - 0.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A McKnight
+        batsman: G Bruno
+    - 0.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A McKnight
+        batsman: G Bruno
+    - 0.3:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A McKnight
+        batsman: G Bruno
+    - 0.4:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A McKnight
+        batsman: G Bruno
+    - 0.5:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A McKnight
+        batsman: G Bruno
+    - 0.6:
+        non_striker: G Bruno
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McKnight
+    - 0.7:
+        non_striker: A McKnight
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Bruno
+        wicket:
+          player_out: G Bruno
+          fielders:
+          - R Ankad
+          kind: caught
+    - 1.1:
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Smith
+        batsman: A McKnight
+    - 1.2:
+        non_striker: A McKnight
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smith
+    - 1.3:
+        non_striker: A McKnight
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smith
+    - 1.4:
+        non_striker: A McKnight
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smith
+    - 1.5:
+        non_striker: A McKnight
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Smith
+    - 1.6:
+        non_striker: A McKnight
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smith
+    - 2.1:
+        non_striker: A McKnight
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smith
+    - 2.2:
+        non_striker: A McKnight
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smith
+    - 2.3:
+        non_striker: A McKnight
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smith
+        wicket:
+          player_out: M Smith
+          fielders:
+          - D Panda
+          kind: caught
+    - 2.4:
+        non_striker: A McKnight
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hunter
+    - 2.5:
+        non_striker: A McKnight
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hunter
+    - 2.6:
+        non_striker: A McKnight
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hunter
+    - 3.1:
+        non_striker: S Hunter
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 3.2:
+        non_striker: S Hunter
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 3.3:
+        non_striker: S Hunter
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A McKnight
+    - 3.4:
+        non_striker: S Hunter
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 3.5:
+        non_striker: S Hunter
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 3.6:
+        non_striker: S Hunter
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 4.1:
+        non_striker: A McKnight
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hunter
+    - 4.2:
+        non_striker: A McKnight
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hunter
+    - 4.3:
+        non_striker: S Hunter
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 4.4:
+        non_striker: S Hunter
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 4.5:
+        non_striker: S Hunter
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A McKnight
+    - 4.6:
+        non_striker: S Hunter
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 5.1:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hunter
+    - 5.2:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hunter
+    - 5.3:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hunter
+    - 5.4:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hunter
+    - 5.5:
+        non_striker: S Hunter
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 5.6:
+        non_striker: S Hunter
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 6.1:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hunter
+        wicket:
+          player_out: S Hunter
+          kind: bowled
+    - 6.2:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Jack
+    - 6.3:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Jack
+    - 6.4:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jack
+    - 6.5:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jack
+        wicket:
+          player_out: K Jack
+          fielders:
+          - Luis Hermida
+          kind: caught
+    - 6.6:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D St Ange
+    - 7.1:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D St Ange
+    - 7.2:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D St Ange
+    - 7.3:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D St Ange
+    - 7.4:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D St Ange
+    - 7.5:
+        non_striker: D St Ange
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 7.6:
+        non_striker: D St Ange
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McKnight
+    - 8.1:
+        non_striker: D St Ange
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McKnight
+    - 8.2:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D St Ange
+    - 8.3:
+        non_striker: D St Ange
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 8.4:
+        non_striker: D St Ange
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McKnight
+    - 8.5:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D St Ange
+    - 8.6:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D St Ange
+    - 9.1:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D St Ange
+        wicket:
+          player_out: D St Ange
+          kind: bowled
+    - 9.2:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Daley
+    - 9.3:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Daley
+    - 9.4:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Daley
+    - 9.5:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Daley
+    - 9.6:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Daley
+    - 9.7:
+        non_striker: J Daley
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 9.8:
+        non_striker: J Daley
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 10.1:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Daley
+    - 10.2:
+        non_striker: J Daley
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 10.3:
+        non_striker: J Daley
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A McKnight
+    - 10.4:
+        non_striker: J Daley
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A McKnight
+    - 10.5:
+        non_striker: J Daley
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McKnight
+    - 10.6:
+        non_striker: A McKnight
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Daley
+    - 11.1:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Daley
+    - 11.2:
+        non_striker: J Daley
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 11.3:
+        non_striker: J Daley
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McKnight
+    - 11.4:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Daley
+    - 11.5:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Daley
+    - 11.6:
+        non_striker: A McKnight
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Daley
+    - 12.1:
+        non_striker: J Daley
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McKnight
+    - 12.2:
+        non_striker: A McKnight
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Daley
+    - 12.3:
+        non_striker: J Daley
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A McKnight
+    - 12.4:
+        non_striker: A McKnight
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Daley
+    - 12.5:
+        non_striker: A McKnight
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Daley
+    - 12.6:
+        non_striker: A McKnight
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Daley
+    - 13.1:
+        non_striker: J Daley
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McKnight
+    - 13.2:
+        non_striker: A McKnight
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Daley
+    - 13.3:
+        non_striker: A McKnight
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Daley
+    - 13.4:
+        non_striker: J Daley
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+    - 13.5:
+        non_striker: J Daley
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McKnight
+        wicket:
+          player_out: A McKnight
+          fielders:
+          - Kaushal Kumar
+          kind: caught
+    - 13.6:
+        non_striker: J Daley
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kuthalingham
+    - 14.1:
+        non_striker: J Daley
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kuthalingham
+    - 14.2:
+        non_striker: J Daley
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kuthalingham
+    - 14.3:
+        non_striker: A Kuthalingham
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Daley
+    - 14.4:
+        non_striker: J Daley
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kuthalingham
+    - 14.5:
+        non_striker: A Kuthalingham
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Daley
+    - 14.6:
+        non_striker: A Kuthalingham
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Daley
+        wicket:
+          player_out: J Daley
+          fielders:
+          - Shashikant Laxman
+          kind: caught
+    - 15.1:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Kuthalingham
+        batsman: A Kuthalingham
+    - 15.2:
+        non_striker: A Kuthalingham
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kuthalingham
+    - 15.3:
+        non_striker: A Kuthalingham
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kuthalingham
+    - 15.4:
+        non_striker: G Kuthalingham
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kuthalingham
+    - 15.5:
+        non_striker: G Kuthalingham
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kuthalingham
+    - 15.6:
+        non_striker: G Kuthalingham
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kuthalingham
+    - 16.1:
+        non_striker: A Kuthalingham
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kuthalingham
+    - 16.2:
+        non_striker: G Kuthalingham
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kuthalingham
+    - 16.3:
+        non_striker: G Kuthalingham
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kuthalingham
+    - 16.4:
+        non_striker: G Kuthalingham
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kuthalingham
+    - 16.5:
+        non_striker: A Kuthalingham
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kuthalingham
+        wicket:
+          player_out: G Kuthalingham
+          kind: bowled
+    - 16.6:
+        non_striker: A Kuthalingham
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turner
+    - 17.1:
+        non_striker: A Kuthalingham
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turner
+    - 17.2:
+        non_striker: A Kuthalingham
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turner
+    - 17.3:
+        non_striker: A Kuthalingham
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turner
+    - 17.4:
+        non_striker: A Kuthalingham
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Turner
+    - 17.5:
+        non_striker: M Turner
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kuthalingham
+    - 17.6:
+        non_striker: M Turner
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kuthalingham
+    - 18.1:
+        non_striker: A Kuthalingham
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turner
+    - 18.2:
+        non_striker: M Turner
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kuthalingham
+    - 18.3:
+        non_striker: M Turner
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kuthalingham
+        wicket:
+          player_out: A Kuthalingham
+          fielders:
+          - D Panda
+          kind: caught
+    - 18.4:
+        non_striker: M Turner
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnson
+    - 18.5:
+        non_striker: M Turner
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnson
+    - 18.6:
+        non_striker: M Turner
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnson
+    - 19.1:
+        non_striker: R Johnson
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turner
+    - 19.2:
+        non_striker: M Turner
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnson
+    - 19.3:
+        non_striker: M Turner
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnson
+    - 19.4:
+        non_striker: R Johnson
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Turner
+    - 19.5:
+        non_striker: M Turner
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Johnson
+    - 19.6:
+        non_striker: M Turner
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnson
+        wicket:
+          player_out: R Johnson
+          fielders:
+          - Kaushal Kumar
+          kind: stumped
+- 2nd innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shashikant Laxman
+    - 0.2:
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Kaushal Kumar
+        batsman: Shashikant Laxman
+    - 0.3:
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shashikant Laxman
+    - 0.4:
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shashikant Laxman
+    - 0.5:
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shashikant Laxman
+    - 0.6:
+        non_striker: Kaushal Kumar
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+    - 1.1:
+        non_striker: Shashikant Laxman
+        bowler: R Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kaushal Kumar
+    - 1.2:
+        non_striker: Shashikant Laxman
+        bowler: R Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 1.3:
+        non_striker: Shashikant Laxman
+        bowler: R Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 1.4:
+        non_striker: Shashikant Laxman
+        bowler: R Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaushal Kumar
+    - 1.5:
+        non_striker: Shashikant Laxman
+        bowler: R Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaushal Kumar
+    - 1.6:
+        non_striker: Shashikant Laxman
+        bowler: R Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaushal Kumar
+    - 2.1:
+        non_striker: Kaushal Kumar
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shashikant Laxman
+    - 2.2:
+        non_striker: Kaushal Kumar
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shashikant Laxman
+    - 2.3:
+        non_striker: Kaushal Kumar
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+    - 2.4:
+        non_striker: Kaushal Kumar
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+        wicket:
+          player_out: Shashikant Laxman
+          kind: bowled
+    - 2.5:
+        non_striker: Kaushal Kumar
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wagh
+    - 2.6:
+        non_striker: Kaushal Kumar
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wagh
+    - 3.1:
+        non_striker: SB Wagh
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 3.2:
+        non_striker: SB Wagh
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 3.3:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wagh
+    - 3.4:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wagh
+    - 3.5:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Wagh
+    - 3.6:
+        non_striker: SB Wagh
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 4.1:
+        non_striker: SB Wagh
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 4.2:
+        non_striker: SB Wagh
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaushal Kumar
+    - 4.3:
+        non_striker: SB Wagh
+        bowler: M Turner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kaushal Kumar
+    - 4.4:
+        non_striker: SB Wagh
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 4.5:
+        non_striker: Kaushal Kumar
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Wagh
+    - 4.6:
+        non_striker: SB Wagh
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 4.7:
+        non_striker: SB Wagh
+        bowler: M Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 5.1:
+        non_striker: SB Wagh
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 5.2:
+        non_striker: SB Wagh
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 5.3:
+        non_striker: SB Wagh
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaushal Kumar
+    - 5.4:
+        non_striker: SB Wagh
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 5.5:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wagh
+    - 5.6:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Wagh
+    - 6.1:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Wagh
+        wicket:
+          player_out: SB Wagh
+          kind: caught and bowled
+    - 6.2:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 6.3:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 6.4:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 6.5:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 6.6:
+        non_striker: Luis Hermida
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaushal Kumar
+    - 7.1:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 7.2:
+        non_striker: Luis Hermida
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 7.3:
+        non_striker: Luis Hermida
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 7.4:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 7.5:
+        non_striker: Luis Hermida
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 7.6:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 8.1:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 8.2:
+        non_striker: Luis Hermida
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 8.3:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 8.4:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 8.5:
+        non_striker: Luis Hermida
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 8.6:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 9.1:
+        non_striker: Luis Hermida
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 9.2:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Luis Hermida
+    - 9.3:
+        non_striker: Luis Hermida
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaushal Kumar
+    - 9.4:
+        non_striker: Luis Hermida
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaushal Kumar
+    - 9.5:
+        non_striker: Luis Hermida
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 9.6:
+        non_striker: Kaushal Kumar
+        bowler: D St Ange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 10.1:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 10.2:
+        non_striker: Luis Hermida
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 10.3:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 10.4:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Luis Hermida
+    - 10.5:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Luis Hermida
+    - 10.6:
+        non_striker: Kaushal Kumar
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 10.7:
+        non_striker: Luis Hermida
+        bowler: A Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 11.1:
+        non_striker: Luis Hermida
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 11.2:
+        non_striker: Kaushal Kumar
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 11.3:
+        non_striker: Kaushal Kumar
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 11.4:
+        non_striker: Luis Hermida
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 11.5:
+        non_striker: Kaushal Kumar
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 11.6:
+        non_striker: Luis Hermida
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaushal Kumar
+    - 12.1:
+        non_striker: Kaushal Kumar
+        bowler: S Hunter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 12.2:
+        non_striker: Kaushal Kumar
+        bowler: S Hunter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 12.3:
+        non_striker: Kaushal Kumar
+        bowler: S Hunter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 12.4:
+        non_striker: Luis Hermida
+        bowler: S Hunter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 12.5:
+        non_striker: Luis Hermida
+        bowler: S Hunter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kaushal Kumar
+    - 12.6:
+        non_striker: Luis Hermida
+        bowler: S Hunter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 13.1:
+        non_striker: Kaushal Kumar
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 13.2:
+        non_striker: Luis Hermida
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 13.3:
+        non_striker: Luis Hermida
+        bowler: G Kuthalingham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kaushal Kumar
+    - 13.4:
+        non_striker: Luis Hermida
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 13.5:
+        non_striker: Kaushal Kumar
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 13.6:
+        non_striker: Kaushal Kumar
+        bowler: G Kuthalingham
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Luis Hermida
+    - 13.7:
+        non_striker: Luis Hermida
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 13.8:
+        non_striker: Kaushal Kumar
+        bowler: G Kuthalingham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida

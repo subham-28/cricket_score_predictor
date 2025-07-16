@@ -1,0 +1,2246 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2024-10-04'
+  gender: female
+  match_type: T20
+  match_type_number: 2059
+  outcome:
+    winner: Japan
+    by:
+      runs: 17
+  overs: 20
+  player_of_match:
+  - Vinu Kumar
+  players:
+    Japan:
+    - A Kano
+    - M Yanagida
+    - S Kato
+    - H Goto
+    - K Ota
+    - A Chandel
+    - R Morita
+    - Seika Sumi
+    - M Ogawa
+    - Nonoha Yasumoto
+    - E Kusuda-Nairn
+    Singapore:
+    - PSR Gurusinghe
+    - GK Diviya
+    - Vinu Kumar
+    - RR Seth
+    - Shafina Mahesh
+    - DA Galia
+    - JS Pooranakaran
+    - C Boyle
+    - I Shukla
+    - LAR Bommareddy
+    - Smriti Anand
+  registry:
+    people:
+      A Chandel: 78fa5f6d
+      A Kano: e92841c0
+      Adam Birss: 0cabf6f4
+      C Boyle: '11374353'
+      DA Galia: ae0b5b95
+      E Kusuda-Nairn: 95c5ce07
+      GK Diviya: 992979fa
+      H Goto: b3af5bff
+      I Shukla: ce490298
+      JS Pooranakaran: 417bde96
+      K Ota: 211f48fe
+      LAR Bommareddy: 3da8cd3a
+      M Ogawa: 93d65d0f
+      M Yanagida: f20e7e23
+      Nonoha Yasumoto: eb33378d
+      PSR Gurusinghe: 591a7004
+      R Morita: d745c1db
+      RR Seth: 7ccc0a38
+      S Kato: ef9ff861
+      Seika Sumi: 704b4c30
+      Shafina Mahesh: 0c40b02d
+      Smriti Anand: 6a532414
+      Vinu Kumar: 3775b9f9
+      Vipin Sukhwal: f7094357
+  teams:
+  - Japan
+  - Singapore
+  toss:
+    winner: Japan
+    decision: bat
+  umpires:
+  - Adam Birss
+  - Vipin Sukhwal
+  venue: Sano International Cricket Ground
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Yanagida
+        batsman: A Kano
+    - 0.2:
+        non_striker: A Kano
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 0.3:
+        non_striker: A Kano
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 0.4:
+        non_striker: A Kano
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 0.5:
+        non_striker: A Kano
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 0.6:
+        non_striker: A Kano
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 1.1:
+        non_striker: M Yanagida
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 1.2:
+        non_striker: A Kano
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 1.3:
+        non_striker: A Kano
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 1.4:
+        non_striker: A Kano
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 1.5:
+        non_striker: M Yanagida
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 1.6:
+        non_striker: M Yanagida
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 2.1:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 2.2:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 2.3:
+        non_striker: A Kano
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: M Yanagida
+    - 2.4:
+        non_striker: A Kano
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 2.5:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+        wicket:
+          player_out: A Kano
+          kind: bowled
+    - 2.6:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 2.7:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 3.1:
+        non_striker: M Yanagida
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 3.2:
+        non_striker: S Kato
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 3.3:
+        non_striker: M Yanagida
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 3.4:
+        non_striker: M Yanagida
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 3.5:
+        non_striker: M Yanagida
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 3.6:
+        non_striker: M Yanagida
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 4.1:
+        non_striker: M Yanagida
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 4.2:
+        non_striker: S Kato
+        bowler: C Boyle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 4.3:
+        non_striker: S Kato
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 4.4:
+        non_striker: S Kato
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 4.5:
+        non_striker: S Kato
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 4.6:
+        non_striker: S Kato
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 4.7:
+        non_striker: M Yanagida
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 5.1:
+        non_striker: S Kato
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 5.2:
+        non_striker: S Kato
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 5.3:
+        non_striker: S Kato
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Yanagida
+    - 5.4:
+        non_striker: M Yanagida
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kato
+    - 5.5:
+        non_striker: M Yanagida
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 5.6:
+        non_striker: S Kato
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 6.1:
+        non_striker: S Kato
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 6.2:
+        non_striker: M Yanagida
+        bowler: C Boyle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kato
+    - 6.3:
+        non_striker: M Yanagida
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 6.4:
+        non_striker: S Kato
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 6.5:
+        non_striker: M Yanagida
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 6.6:
+        non_striker: M Yanagida
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kato
+    - 6.7:
+        non_striker: M Yanagida
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kato
+    - 7.1:
+        non_striker: S Kato
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 7.2:
+        non_striker: S Kato
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 7.3:
+        non_striker: M Yanagida
+        bowler: Smriti Anand
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Kato
+    - 7.4:
+        non_striker: S Kato
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 7.5:
+        non_striker: M Yanagida
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 7.6:
+        non_striker: M Yanagida
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 7.7:
+        non_striker: S Kato
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 8.1:
+        non_striker: M Yanagida
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+        wicket:
+          player_out: S Kato
+          kind: caught and bowled
+    - 8.2:
+        non_striker: M Yanagida
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 8.3:
+        non_striker: H Goto
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 8.4:
+        non_striker: H Goto
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 8.5:
+        non_striker: H Goto
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 8.6:
+        non_striker: M Yanagida
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 9.1:
+        non_striker: H Goto
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 9.2:
+        non_striker: H Goto
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 9.3:
+        non_striker: H Goto
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 9.4:
+        non_striker: M Yanagida
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 9.5:
+        non_striker: M Yanagida
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 9.6:
+        non_striker: M Yanagida
+        bowler: Smriti Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 10.1:
+        non_striker: H Goto
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 10.2:
+        non_striker: H Goto
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 10.3:
+        non_striker: H Goto
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 10.4:
+        non_striker: M Yanagida
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+        wicket:
+          player_out: H Goto
+          fielders:
+          - LAR Bommareddy
+          kind: caught
+    - 10.5:
+        non_striker: M Yanagida
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 10.6:
+        non_striker: K Ota
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 11.1:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ota
+    - 11.2:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Ota
+    - 11.3:
+        non_striker: K Ota
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 11.4:
+        non_striker: K Ota
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 11.5:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 11.6:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 11.7:
+        non_striker: M Yanagida
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 12.1:
+        non_striker: K Ota
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 12.2:
+        non_striker: K Ota
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 12.3:
+        non_striker: M Yanagida
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 12.4:
+        non_striker: K Ota
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 12.5:
+        non_striker: K Ota
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 12.6:
+        non_striker: K Ota
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 13.1:
+        non_striker: M Yanagida
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ota
+    - 13.2:
+        non_striker: M Yanagida
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 13.3:
+        non_striker: M Yanagida
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 13.4:
+        non_striker: M Yanagida
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 13.5:
+        non_striker: K Ota
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 13.6:
+        non_striker: K Ota
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 14.1:
+        non_striker: K Ota
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+        wicket:
+          player_out: M Yanagida
+          kind: bowled
+    - 14.2:
+        non_striker: K Ota
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 14.3:
+        non_striker: K Ota
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 14.4:
+        non_striker: K Ota
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 14.5:
+        non_striker: K Ota
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 14.6:
+        non_striker: K Ota
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chandel
+    - 15.1:
+        non_striker: A Chandel
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ota
+    - 15.2:
+        non_striker: A Chandel
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ota
+    - 15.3:
+        non_striker: A Chandel
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ota
+    - 15.4:
+        non_striker: A Chandel
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 15.5:
+        non_striker: K Ota
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 15.6:
+        non_striker: K Ota
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 15.7:
+        non_striker: K Ota
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 15.8:
+        non_striker: K Ota
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 15.9:
+        non_striker: K Ota
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chandel
+    - 15.10:
+        non_striker: K Ota
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 16.1:
+        non_striker: A Chandel
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 16.2:
+        non_striker: A Chandel
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+        wicket:
+          player_out: K Ota
+          fielders:
+          - DA Galia
+          kind: caught
+    - 16.3:
+        non_striker: A Chandel
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Morita
+    - 16.4:
+        non_striker: A Chandel
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Morita
+    - 16.5:
+        non_striker: A Chandel
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Morita
+    - 16.6:
+        non_striker: A Chandel
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Morita
+    - 17.1:
+        non_striker: R Morita
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 17.2:
+        non_striker: R Morita
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 17.3:
+        non_striker: R Morita
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chandel
+    - 17.4:
+        non_striker: R Morita
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chandel
+    - 17.5:
+        non_striker: R Morita
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 17.6:
+        non_striker: A Chandel
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Morita
+    - 17.7:
+        non_striker: A Chandel
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Morita
+    - 18.1:
+        non_striker: R Morita
+        bowler: C Boyle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 18.2:
+        non_striker: R Morita
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+        wicket:
+          player_out: A Chandel
+          fielders:
+          - GK Diviya
+          kind: caught
+    - 18.3:
+        non_striker: R Morita
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Seika Sumi
+    - 18.4:
+        non_striker: R Morita
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 18.5:
+        non_striker: Seika Sumi
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Morita
+    - 18.6:
+        non_striker: Seika Sumi
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Morita
+    - 18.7:
+        non_striker: R Morita
+        bowler: C Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 19.1:
+        non_striker: Seika Sumi
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Morita
+    - 19.2:
+        non_striker: Seika Sumi
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Morita
+    - 19.3:
+        non_striker: R Morita
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 19.4:
+        non_striker: Seika Sumi
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Morita
+    - 19.5:
+        non_striker: R Morita
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Seika Sumi
+    - 19.6:
+        non_striker: R Morita
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: S Kato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: GK Diviya
+        batsman: PSR Gurusinghe
+    - 0.2:
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GK Diviya
+        batsman: PSR Gurusinghe
+    - 0.3:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 0.4:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 0.5:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GK Diviya
+    - 0.6:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 0.7:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 0.8:
+        non_striker: GK Diviya
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 1.1:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 1.2:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSR Gurusinghe
+    - 1.3:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 1.4:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 1.5:
+        non_striker: PSR Gurusinghe
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 1.6:
+        non_striker: PSR Gurusinghe
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 2.1:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 2.2:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 2.3:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 2.4:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 2.5:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 2.6:
+        non_striker: PSR Gurusinghe
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 3.1:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 3.2:
+        non_striker: PSR Gurusinghe
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 3.3:
+        non_striker: PSR Gurusinghe
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 3.4:
+        non_striker: PSR Gurusinghe
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 3.5:
+        non_striker: PSR Gurusinghe
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 3.6:
+        non_striker: PSR Gurusinghe
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 4.1:
+        non_striker: GK Diviya
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 4.2:
+        non_striker: GK Diviya
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+        wicket:
+          player_out: PSR Gurusinghe
+          fielders:
+          - S Kato
+          kind: run out
+    - 4.3:
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Vinu Kumar
+        batsman: GK Diviya
+    - 4.4:
+        non_striker: GK Diviya
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 4.5:
+        non_striker: GK Diviya
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 4.6:
+        non_striker: GK Diviya
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 5.1:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.2:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.3:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.4:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.5:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vinu Kumar
+    - 5.6:
+        non_striker: GK Diviya
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 6.1:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+        wicket:
+          player_out: GK Diviya
+          fielders:
+          - Seika Sumi
+          kind: caught
+    - 6.2:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 6.3:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 6.4:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 6.5:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 6.6:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 7.1:
+        non_striker: RR Seth
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 7.2:
+        non_striker: RR Seth
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 7.3:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 7.4:
+        non_striker: RR Seth
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 7.5:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 7.6:
+        non_striker: RR Seth
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 8.1:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 8.2:
+        non_striker: RR Seth
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 8.3:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 8.4:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 8.5:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Seth
+    - 8.6:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 8.7:
+        non_striker: RR Seth
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 9.1:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Seth
+    - 9.2:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 9.3:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 9.4:
+        non_striker: RR Seth
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 9.5:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 9.6:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 9.7:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 10.1:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 10.2:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 10.3:
+        non_striker: RR Seth
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 10.4:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 10.5:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 10.6:
+        non_striker: RR Seth
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 11.1:
+        non_striker: Vinu Kumar
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 11.2:
+        non_striker: RR Seth
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 11.3:
+        non_striker: Vinu Kumar
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 11.4:
+        non_striker: RR Seth
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 11.5:
+        non_striker: RR Seth
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 11.6:
+        non_striker: RR Seth
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vinu Kumar
+    - 11.7:
+        non_striker: RR Seth
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 12.1:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 12.2:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 12.3:
+        non_striker: RR Seth
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 12.4:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 12.5:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 12.6:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 13.1:
+        non_striker: RR Seth
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 13.2:
+        non_striker: Vinu Kumar
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 13.3:
+        non_striker: RR Seth
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 13.4:
+        non_striker: RR Seth
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 13.5:
+        non_striker: Vinu Kumar
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 13.6:
+        non_striker: RR Seth
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vinu Kumar
+    - 14.1:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 14.2:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 14.3:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 14.4:
+        non_striker: RR Seth
+        bowler: M Yanagida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Vinu Kumar
+    - 14.5:
+        non_striker: RR Seth
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 14.6:
+        non_striker: RR Seth
+        bowler: M Yanagida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Vinu Kumar
+    - 14.7:
+        non_striker: Vinu Kumar
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 15.1:
+        non_striker: RR Seth
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 15.2:
+        non_striker: Vinu Kumar
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 15.3:
+        non_striker: Vinu Kumar
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 15.4:
+        non_striker: RR Seth
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 15.5:
+        non_striker: RR Seth
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 15.6:
+        non_striker: Vinu Kumar
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 16.1:
+        non_striker: Vinu Kumar
+        bowler: M Ogawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 16.2:
+        non_striker: RR Seth
+        bowler: M Ogawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 16.3:
+        non_striker: RR Seth
+        bowler: M Ogawa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vinu Kumar
+    - 16.4:
+        non_striker: RR Seth
+        bowler: M Ogawa
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Vinu Kumar
+    - 16.5:
+        non_striker: Vinu Kumar
+        bowler: M Ogawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 16.6:
+        non_striker: Vinu Kumar
+        bowler: M Ogawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 16.7:
+        non_striker: RR Seth
+        bowler: M Ogawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 17.1:
+        non_striker: RR Seth
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 17.2:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 17.3:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 17.4:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 17.5:
+        non_striker: Vinu Kumar
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 17.6:
+        non_striker: RR Seth
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 18.1:
+        non_striker: RR Seth
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 18.2:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 18.3:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Seth
+    - 18.4:
+        non_striker: RR Seth
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 18.5:
+        non_striker: Vinu Kumar
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 18.6:
+        non_striker: RR Seth
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 19.1:
+        non_striker: Vinu Kumar
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+        wicket:
+          player_out: Vinu Kumar
+          fielders:
+          - M Yanagida
+          - S Kato
+          kind: run out
+    - 19.2:
+        bowler: S Kato
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        non_striker: Shafina Mahesh
+        batsman: RR Seth
+    - 19.3:
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: RR Seth
+    - 19.4:
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shafina Mahesh
+        batsman: RR Seth
+    - 19.5:
+        non_striker: RR Seth
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+        wicket:
+          player_out: Shafina Mahesh
+          kind: lbw
+    - 19.6:
+        non_striker: RR Seth
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+        wicket:
+          player_out: RR Seth
+          fielders:
+          - A Kano
+          kind: run out

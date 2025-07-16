@@ -1,0 +1,2136 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2025-06-08'
+  gender: female
+  match_type: T20
+  match_type_number: 2348
+  outcome:
+    winner: Japan
+    by:
+      runs: 22
+  overs: 20
+  player_of_match:
+  - E Toguchi-Quinn
+  players:
+    Japan:
+    - K Ota
+    - A Kato-Stafford
+    - H Iwasaki
+    - A Chandel
+    - M Yanagida
+    - H Goto
+    - Seika Sumi
+    - A Fujikawa
+    - A Kano
+    - Nonoha Yasumoto
+    - E Toguchi-Quinn
+    Hong Kong:
+    - NT Miles
+    - KY Chan
+    - Y Daswani
+    - M Bibi
+    - SYD Chan
+    - Hiu Ying Cheung
+    - WK Lai
+    - M Wai Siu
+    - K Mahekdeep
+    - Chan Ka Man
+    - A Kanwal
+  registry:
+    people:
+      A Chandel: 78fa5f6d
+      A Fujikawa: 9543a4fe
+      A Kano: e92841c0
+      A Kanwal: 6c4170b6
+      A Kato-Stafford: 034e7939
+      C Thurgate: 4d8ad58c
+      Chan Ka Man: c4022bff
+      E Toguchi-Quinn: d144423b
+      H Goto: b3af5bff
+      H Iwasaki: f2698c78
+      Hiu Ying Cheung: 9efce9fd
+      K Mahekdeep: d13c1b74
+      K Ota: 211f48fe
+      KY Chan: 6348c6e9
+      M Bibi: 34f86a2d
+      M Wai Siu: 74eecff4
+      M Yanagida: f20e7e23
+      Mumtaz Alam: 6627fc27
+      NT Miles: d27d0835
+      Nonoha Yasumoto: eb33378d
+      SYD Chan: 4839b023
+      Seika Sumi: 704b4c30
+      WK Lai: 6ab99b17
+      Y Daswani: 2038a273
+  teams:
+  - Japan
+  - Hong Kong
+  toss:
+    winner: Hong Kong
+    decision: field
+  umpires:
+  - C Thurgate
+  - Mumtaz Alam
+  venue: Sano International Cricket Ground
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Kato-Stafford
+        batsman: K Ota
+    - 0.2:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kato-Stafford
+        batsman: K Ota
+    - 0.3:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 0.4:
+        non_striker: A Kato-Stafford
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 0.5:
+        non_striker: A Kato-Stafford
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 0.6:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 0.7:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 1.1:
+        non_striker: A Kato-Stafford
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 1.2:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 1.3:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 1.4:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 1.5:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 1.6:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 2.1:
+        non_striker: A Kato-Stafford
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 2.2:
+        non_striker: A Kato-Stafford
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 2.3:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 2.4:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 2.5:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 2.6:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 2.7:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 3.1:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 3.2:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 3.3:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 3.4:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 3.5:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 3.6:
+        non_striker: K Ota
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 4.1:
+        non_striker: A Kato-Stafford
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 4.2:
+        non_striker: A Kato-Stafford
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 4.3:
+        non_striker: A Kato-Stafford
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 4.4:
+        non_striker: A Kato-Stafford
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 4.5:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 4.6:
+        non_striker: K Ota
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 5.1:
+        non_striker: A Kato-Stafford
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 5.2:
+        non_striker: A Kato-Stafford
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 5.3:
+        non_striker: A Kato-Stafford
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 5.4:
+        non_striker: A Kato-Stafford
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 5.5:
+        non_striker: A Kato-Stafford
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 5.6:
+        non_striker: A Kato-Stafford
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 6.1:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 6.2:
+        non_striker: K Ota
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 6.3:
+        non_striker: K Ota
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 6.4:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 6.5:
+        non_striker: K Ota
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 6.6:
+        non_striker: K Ota
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 7.1:
+        non_striker: K Ota
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 7.2:
+        non_striker: K Ota
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 7.3:
+        non_striker: A Kato-Stafford
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 7.4:
+        non_striker: A Kato-Stafford
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 7.5:
+        non_striker: K Ota
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 7.6:
+        non_striker: K Ota
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 8.1:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 8.2:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 8.3:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ota
+    - 8.4:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 8.5:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 8.6:
+        non_striker: K Ota
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 8.7:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 9.1:
+        non_striker: A Kato-Stafford
+        bowler: K Mahekdeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ota
+    - 9.2:
+        non_striker: A Kato-Stafford
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ota
+    - 9.3:
+        non_striker: A Kato-Stafford
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ota
+    - 9.4:
+        non_striker: A Kato-Stafford
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 9.5:
+        non_striker: A Kato-Stafford
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 9.6:
+        non_striker: K Ota
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 9.7:
+        non_striker: K Ota
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 10.1:
+        non_striker: K Ota
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 10.2:
+        non_striker: K Ota
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 10.3:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+        wicket:
+          player_out: K Ota
+          fielders:
+          - M Bibi
+          - Hiu Ying Cheung
+          kind: run out
+    - 10.4:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 10.5:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Iwasaki
+    - 10.6:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Iwasaki
+    - 11.1:
+        non_striker: H Iwasaki
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 11.2:
+        non_striker: H Iwasaki
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 11.3:
+        non_striker: H Iwasaki
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 11.4:
+        non_striker: H Iwasaki
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 11.5:
+        non_striker: A Kato-Stafford
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Iwasaki
+    - 11.6:
+        non_striker: A Kato-Stafford
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 12.1:
+        non_striker: H Iwasaki
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 12.2:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Iwasaki
+    - 12.3:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 12.4:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 12.5:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+        wicket:
+          player_out: H Iwasaki
+          kind: lbw
+    - 12.6:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 12.7:
+        non_striker: A Kato-Stafford
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 13.1:
+        non_striker: A Kato-Stafford
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 13.2:
+        non_striker: A Chandel
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 13.3:
+        non_striker: A Kato-Stafford
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 13.4:
+        non_striker: A Chandel
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 13.5:
+        non_striker: A Chandel
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 13.6:
+        non_striker: A Chandel
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 14.1:
+        non_striker: A Kato-Stafford
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 14.2:
+        non_striker: A Chandel
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kato-Stafford
+    - 14.3:
+        non_striker: A Kato-Stafford
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chandel
+    - 14.4:
+        non_striker: A Kato-Stafford
+        bowler: A Kanwal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 14.5:
+        non_striker: A Kato-Stafford
+        bowler: A Kanwal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Chandel
+    - 14.6:
+        non_striker: A Chandel
+        bowler: A Kanwal
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Kato-Stafford
+    - 14.7:
+        non_striker: A Kato-Stafford
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 14.8:
+        non_striker: A Chandel
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+        wicket:
+          player_out: A Kato-Stafford
+          fielders:
+          - M Wai Siu
+          kind: caught
+    - 15.1:
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Yanagida
+        batsman: A Chandel
+    - 15.2:
+        non_striker: A Chandel
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 15.3:
+        non_striker: A Chandel
+        bowler: WK Lai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 15.4:
+        non_striker: A Chandel
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 15.5:
+        non_striker: A Chandel
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 15.6:
+        non_striker: M Yanagida
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 15.7:
+        non_striker: A Chandel
+        bowler: WK Lai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 16.1:
+        non_striker: A Chandel
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 16.2:
+        non_striker: A Chandel
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 16.3:
+        non_striker: A Chandel
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 16.4:
+        non_striker: A Chandel
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 16.5:
+        non_striker: M Yanagida
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 16.6:
+        non_striker: A Chandel
+        bowler: A Kanwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 17.1:
+        non_striker: A Chandel
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 17.2:
+        non_striker: A Chandel
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 17.3:
+        non_striker: A Chandel
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 17.4:
+        non_striker: M Yanagida
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+        wicket:
+          player_out: A Chandel
+          kind: bowled
+    - 17.5:
+        non_striker: M Yanagida
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 17.6:
+        non_striker: H Goto
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 18.1:
+        non_striker: H Goto
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+        wicket:
+          player_out: M Yanagida
+          fielders:
+          - Chan Ka Man
+          kind: caught
+    - 18.2:
+        non_striker: H Goto
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 18.3:
+        non_striker: Seika Sumi
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 18.4:
+        non_striker: H Goto
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 18.5:
+        non_striker: Seika Sumi
+        bowler: K Mahekdeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Goto
+    - 18.6:
+        non_striker: Seika Sumi
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 18.7:
+        non_striker: H Goto
+        bowler: K Mahekdeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Seika Sumi
+    - 19.1:
+        non_striker: Seika Sumi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 19.2:
+        non_striker: Seika Sumi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 19.3:
+        non_striker: H Goto
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Seika Sumi
+    - 19.4:
+        non_striker: H Goto
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 19.5:
+        non_striker: H Goto
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+        wicket:
+          player_out: Seika Sumi
+          fielders:
+          - NT Miles
+          - KY Chan
+          kind: run out
+    - 19.6:
+        non_striker: A Fujikawa
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+        wicket:
+          player_out: H Goto
+          fielders:
+          - Hiu Ying Cheung
+          kind: stumped
+- 2nd innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KY Chan
+        batsman: NT Miles
+    - 0.2:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KY Chan
+        batsman: NT Miles
+    - 0.3:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 0.4:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 0.5:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 0.6:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 1.1:
+        non_striker: KY Chan
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.2:
+        non_striker: KY Chan
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 1.3:
+        non_striker: NT Miles
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 1.4:
+        non_striker: KY Chan
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.5:
+        non_striker: KY Chan
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 1.6:
+        non_striker: KY Chan
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 2.1:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 2.2:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 2.3:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 2.4:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 2.5:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 2.6:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 3.1:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 3.2:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 3.3:
+        non_striker: NT Miles
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 3.4:
+        non_striker: NT Miles
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 3.5:
+        non_striker: NT Miles
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 3.6:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 3.7:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 4.1:
+        non_striker: NT Miles
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 4.2:
+        non_striker: NT Miles
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 4.3:
+        non_striker: NT Miles
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 4.4:
+        non_striker: KY Chan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 4.5:
+        non_striker: KY Chan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 4.6:
+        non_striker: KY Chan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 5.1:
+        non_striker: NT Miles
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 5.2:
+        non_striker: NT Miles
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 5.3:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 5.4:
+        non_striker: NT Miles
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 5.5:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 5.6:
+        non_striker: NT Miles
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 6.1:
+        non_striker: KY Chan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 6.2:
+        non_striker: KY Chan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 6.3:
+        non_striker: KY Chan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 6.4:
+        non_striker: NT Miles
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 6.5:
+        non_striker: NT Miles
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 6.6:
+        non_striker: NT Miles
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 6.7:
+        non_striker: NT Miles
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 7.1:
+        non_striker: NT Miles
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 7.2:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 7.3:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+        wicket:
+          player_out: NT Miles
+          fielders:
+          - A Chandel
+          kind: caught
+    - 7.4:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 7.5:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 7.6:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 8.1:
+        non_striker: Y Daswani
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 8.2:
+        non_striker: Y Daswani
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 8.3:
+        non_striker: Y Daswani
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 8.4:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+        wicket:
+          player_out: Y Daswani
+          fielders:
+          - H Iwasaki
+          kind: caught
+    - 8.5:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 8.6:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 9.1:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 9.2:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+        wicket:
+          player_out: M Bibi
+          fielders:
+          - H Goto
+          kind: caught
+    - 9.3:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SYD Chan
+    - 9.4:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SYD Chan
+    - 9.5:
+        non_striker: KY Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SYD Chan
+    - 9.6:
+        non_striker: SYD Chan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 10.1:
+        non_striker: SYD Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 10.2:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SYD Chan
+        wicket:
+          player_out: SYD Chan
+          kind: lbw
+    - 10.3:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hiu Ying Cheung
+    - 10.4:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hiu Ying Cheung
+    - 10.5:
+        non_striker: Hiu Ying Cheung
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 10.6:
+        non_striker: Hiu Ying Cheung
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 10.7:
+        non_striker: Hiu Ying Cheung
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 11.1:
+        non_striker: Hiu Ying Cheung
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 11.2:
+        non_striker: KY Chan
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hiu Ying Cheung
+    - 11.3:
+        non_striker: KY Chan
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hiu Ying Cheung
+    - 11.4:
+        non_striker: KY Chan
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hiu Ying Cheung
+    - 11.5:
+        non_striker: Hiu Ying Cheung
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 11.6:
+        non_striker: KY Chan
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hiu Ying Cheung
+    - 12.1:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hiu Ying Cheung
+    - 12.2:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hiu Ying Cheung
+    - 12.3:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hiu Ying Cheung
+        wicket:
+          player_out: Hiu Ying Cheung
+          fielders:
+          - H Iwasaki
+          kind: caught
+    - 12.4:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Lai
+    - 12.5:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+        wicket:
+          player_out: WK Lai
+          fielders:
+          - A Kano
+          kind: caught
+    - 12.6:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 12.7:
+        non_striker: KY Chan
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 13.1:
+        non_striker: M Wai Siu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+        wicket:
+          player_out: KY Chan
+          fielders:
+          - A Chandel
+          kind: caught
+    - 13.2:
+        non_striker: M Wai Siu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mahekdeep
+        wicket:
+          player_out: K Mahekdeep
+          fielders:
+          - A Kano
+          kind: stumped
+    - 13.3:
+        non_striker: M Wai Siu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chan Ka Man
+    - 13.4:
+        non_striker: M Wai Siu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chan Ka Man
+    - 13.5:
+        non_striker: M Wai Siu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chan Ka Man
+    - 13.6:
+        non_striker: M Wai Siu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chan Ka Man
+    - 14.1:
+        non_striker: Chan Ka Man
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Wai Siu
+    - 14.2:
+        non_striker: M Wai Siu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chan Ka Man
+    - 14.3:
+        non_striker: M Wai Siu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chan Ka Man
+        wicket:
+          player_out: Chan Ka Man
+          fielders:
+          - M Yanagida
+          kind: caught
+    - 14.4:
+        non_striker: M Wai Siu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanwal
+    - 14.5:
+        non_striker: M Wai Siu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanwal
+    - 14.6:
+        non_striker: M Wai Siu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanwal
+    - 15.1:
+        non_striker: A Kanwal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Wai Siu
+    - 15.2:
+        non_striker: A Kanwal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 15.3:
+        non_striker: A Kanwal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 15.4:
+        non_striker: A Kanwal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 15.5:
+        non_striker: A Kanwal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 15.6:
+        non_striker: A Kanwal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Wai Siu
+    - 16.1:
+        non_striker: A Kanwal
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Wai Siu
+    - 16.2:
+        non_striker: A Kanwal
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 16.3:
+        non_striker: A Kanwal
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 16.4:
+        non_striker: A Kanwal
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Wai Siu
+    - 16.5:
+        non_striker: M Wai Siu
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanwal
+    - 16.6:
+        non_striker: M Wai Siu
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanwal
+    - 17.1:
+        non_striker: A Kanwal
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Wai Siu
+    - 17.2:
+        non_striker: M Wai Siu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kanwal
+    - 17.3:
+        non_striker: A Kanwal
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Wai Siu
+    - 17.4:
+        non_striker: M Wai Siu
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kanwal
+    - 17.5:
+        non_striker: M Wai Siu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanwal
+    - 17.6:
+        non_striker: M Wai Siu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanwal
+    - 17.7:
+        non_striker: M Wai Siu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kanwal
+        wicket:
+          player_out: M Wai Siu
+          fielders:
+          - H Iwasaki
+          - A Kano
+          kind: run out

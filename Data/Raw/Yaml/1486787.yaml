@@ -1,0 +1,2341 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Szodliget
+  dates:
+  - '2025-06-21'
+  gender: male
+  match_type: T20
+  match_type_number: 3256
+  outcome:
+    winner: Hungary
+    by:
+      runs: 62
+  overs: 20
+  player_of_match:
+  - Ali Nawaz
+  players:
+    Hungary:
+    - Abbas Ghani
+    - V Ravindran
+    - Khaibar Deldar
+    - MP Ainsworth
+    - Muhammad Usman
+    - Zahir Mohammed
+    - A Prashar
+    - JM Polarouthu
+    - Ali Nawaz
+    - Muhammad Saqlain
+    - SA Mohandas
+    Slovenia:
+    - Muhammad Siddiqui
+    - Tarun Sharma
+    - Rasheed Ali Mamadkhel
+    - Izaz Ali
+    - S Koppolu
+    - D Matla
+    - Waqar Khan
+    - Dayal Joy
+    - DK Pallekonda
+    - Rizwan Zahoor
+    - Saeed Waqar Ali
+  registry:
+    people:
+      A Prashar: b18dbaff
+      Abbas Ghani: a8f91f78
+      Ali Nawaz: deef8879
+      D Matla: d1bec7a6
+      DK Pallekonda: e77c9807
+      Dayal Joy: 48fd691d
+      Izaz Ali: 8a4e101e
+      JM Polarouthu: e1481606
+      Khaibar Deldar: 032c7eab
+      MP Ainsworth: ae4a47d8
+      Muhammad Saqlain: f094e3b8
+      Muhammad Siddiqui: b46b3d9b
+      Muhammad Usman: b7621723
+      Rasheed Ali Mamadkhel: 72c38d77
+      Rizwan Zahoor: dbaaad11
+      S Koppolu: 3346b14f
+      SA Mohandas: 8b0b3bba
+      Saeed Waqar Ali: 1a353572
+      Tarun Sharma: f915844b
+      V Ravindran: e5ecb1ef
+      Waqar Khan: da21531c
+      Zahir Mohammed: 7c38942a
+  teams:
+  - Hungary
+  - Slovenia
+  toss:
+    winner: Hungary
+    decision: bat
+  venue: GB Oval, Szodliget
+innings:
+- 1st innings:
+    team: Hungary
+    deliveries:
+    - 0.1:
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Ravindran
+        batsman: Abbas Ghani
+    - 0.2:
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Ravindran
+        batsman: Abbas Ghani
+    - 0.3:
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: V Ravindran
+        batsman: Abbas Ghani
+    - 0.4:
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: V Ravindran
+        batsman: Abbas Ghani
+    - 0.5:
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Ravindran
+        batsman: Abbas Ghani
+    - 0.6:
+        non_striker: V Ravindran
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+        wicket:
+          player_out: Abbas Ghani
+          fielders:
+          - Rasheed Ali Mamadkhel
+          kind: caught
+    - 1.1:
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khaibar Deldar
+        batsman: V Ravindran
+    - 1.2:
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Khaibar Deldar
+        batsman: V Ravindran
+    - 1.3:
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Khaibar Deldar
+        batsman: V Ravindran
+    - 1.4:
+        non_striker: V Ravindran
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 1.5:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 1.6:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ravindran
+    - 2.1:
+        non_striker: V Ravindran
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Khaibar Deldar
+    - 2.2:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 2.3:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Ravindran
+    - 2.4:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ravindran
+    - 2.5:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 2.6:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Ravindran
+    - 2.7:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+        wicket:
+          player_out: V Ravindran
+          fielders:
+          - Izaz Ali
+          kind: caught
+    - 2.8:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+    - 3.1:
+        non_striker: MP Ainsworth
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 3.2:
+        non_striker: MP Ainsworth
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 3.3:
+        non_striker: MP Ainsworth
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 3.4:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+    - 3.5:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+    - 3.6:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+    - 4.1:
+        non_striker: MP Ainsworth
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 4.2:
+        non_striker: MP Ainsworth
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 4.3:
+        non_striker: MP Ainsworth
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 4.4:
+        non_striker: MP Ainsworth
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 4.5:
+        non_striker: MP Ainsworth
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khaibar Deldar
+    - 4.6:
+        non_striker: MP Ainsworth
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 5.1:
+        non_striker: Khaibar Deldar
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Ainsworth
+    - 5.2:
+        non_striker: MP Ainsworth
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 5.3:
+        non_striker: MP Ainsworth
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 5.4:
+        non_striker: MP Ainsworth
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaibar Deldar
+    - 5.5:
+        non_striker: MP Ainsworth
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 5.6:
+        non_striker: Khaibar Deldar
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+    - 5.7:
+        non_striker: Khaibar Deldar
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Ainsworth
+    - 6.1:
+        non_striker: Khaibar Deldar
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+    - 6.2:
+        non_striker: Khaibar Deldar
+        bowler: Izaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Ainsworth
+    - 6.3:
+        non_striker: MP Ainsworth
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 6.4:
+        non_striker: MP Ainsworth
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 6.5:
+        non_striker: Khaibar Deldar
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+    - 6.6:
+        non_striker: Khaibar Deldar
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+    - 7.1:
+        non_striker: MP Ainsworth
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaibar Deldar
+    - 7.2:
+        non_striker: MP Ainsworth
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 7.3:
+        non_striker: Khaibar Deldar
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Ainsworth
+    - 7.4:
+        non_striker: MP Ainsworth
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Khaibar Deldar
+    - 7.5:
+        non_striker: MP Ainsworth
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 7.6:
+        non_striker: MP Ainsworth
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 8.1:
+        non_striker: Khaibar Deldar
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Ainsworth
+    - 8.2:
+        non_striker: MP Ainsworth
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaibar Deldar
+    - 8.3:
+        non_striker: MP Ainsworth
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 8.4:
+        non_striker: MP Ainsworth
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 8.5:
+        non_striker: MP Ainsworth
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 8.6:
+        non_striker: Khaibar Deldar
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Ainsworth
+    - 9.1:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Ainsworth
+    - 9.2:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Ainsworth
+    - 9.3:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: MP Ainsworth
+    - 9.4:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Ainsworth
+    - 9.5:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Ainsworth
+    - 9.6:
+        non_striker: Khaibar Deldar
+        bowler: S Koppolu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Ainsworth
+    - 10.1:
+        non_striker: MP Ainsworth
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaibar Deldar
+    - 10.2:
+        non_striker: MP Ainsworth
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 10.3:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Ainsworth
+    - 10.4:
+        non_striker: MP Ainsworth
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Khaibar Deldar
+    - 10.5:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+    - 10.6:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ainsworth
+        wicket:
+          player_out: MP Ainsworth
+          fielders:
+          - S Koppolu
+          kind: caught
+    - 10.7:
+        non_striker: Khaibar Deldar
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 11.1:
+        non_striker: Khaibar Deldar
+        bowler: Dayal Joy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Usman
+    - 11.2:
+        non_striker: Khaibar Deldar
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 11.3:
+        non_striker: Muhammad Usman
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khaibar Deldar
+    - 11.4:
+        non_striker: Muhammad Usman
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 11.5:
+        non_striker: Khaibar Deldar
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 11.6:
+        non_striker: Khaibar Deldar
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 11.7:
+        non_striker: Muhammad Usman
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 12.1:
+        non_striker: Khaibar Deldar
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 12.2:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 12.3:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaibar Deldar
+    - 12.4:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khaibar Deldar
+    - 12.5:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaibar Deldar
+    - 12.6:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khaibar Deldar
+    - 12.7:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Khaibar Deldar
+    - 12.8:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khaibar Deldar
+    - 13.1:
+        non_striker: Khaibar Deldar
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 13.2:
+        non_striker: Khaibar Deldar
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 13.3:
+        non_striker: Muhammad Usman
+        bowler: Dayal Joy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaibar Deldar
+    - 13.4:
+        non_striker: Muhammad Usman
+        bowler: Dayal Joy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaibar Deldar
+    - 13.5:
+        non_striker: Muhammad Usman
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khaibar Deldar
+    - 13.6:
+        non_striker: Muhammad Usman
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khaibar Deldar
+    - 13.7:
+        non_striker: Muhammad Usman
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 13.8:
+        non_striker: Khaibar Deldar
+        bowler: Dayal Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 14.1:
+        non_striker: Muhammad Usman
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+        wicket:
+          player_out: Khaibar Deldar
+          kind: lbw
+    - 14.2:
+        non_striker: Muhammad Usman
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 14.3:
+        non_striker: Zahir Mohammed
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 14.4:
+        non_striker: Muhammad Usman
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zahir Mohammed
+    - 14.5:
+        non_striker: Muhammad Usman
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 14.6:
+        non_striker: Muhammad Usman
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 15.1:
+        non_striker: Muhammad Usman
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Zahir Mohammed
+    - 15.2:
+        non_striker: Muhammad Usman
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 15.3:
+        non_striker: Muhammad Usman
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 15.4:
+        non_striker: Zahir Mohammed
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Usman
+    - 15.5:
+        non_striker: Zahir Mohammed
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 15.6:
+        non_striker: Zahir Mohammed
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 15.7:
+        non_striker: Muhammad Usman
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zahir Mohammed
+    - 15.8:
+        non_striker: Muhammad Usman
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zahir Mohammed
+    - 16.1:
+        non_striker: Zahir Mohammed
+        bowler: Waqar Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Usman
+    - 16.2:
+        non_striker: Zahir Mohammed
+        bowler: Waqar Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 16.3:
+        non_striker: Zahir Mohammed
+        bowler: Waqar Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 16.4:
+        non_striker: Zahir Mohammed
+        bowler: Waqar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 16.5:
+        non_striker: Zahir Mohammed
+        bowler: Waqar Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 16.6:
+        non_striker: Zahir Mohammed
+        bowler: Waqar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Usman
+    - 16.7:
+        non_striker: Zahir Mohammed
+        bowler: Waqar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 17.1:
+        non_striker: Muhammad Usman
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+        wicket:
+          player_out: Zahir Mohammed
+          fielders:
+          - Izaz Ali
+          kind: caught
+    - 17.2:
+        non_striker: Muhammad Usman
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prashar
+        wicket:
+          player_out: A Prashar
+          fielders:
+          - Dayal Joy
+          kind: caught
+    - 17.3:
+        non_striker: Muhammad Usman
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Polarouthu
+    - 17.4:
+        non_striker: Muhammad Usman
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Polarouthu
+    - 17.5:
+        non_striker: JM Polarouthu
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Usman
+    - 17.6:
+        non_striker: JM Polarouthu
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 17.7:
+        non_striker: JM Polarouthu
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 17.8:
+        non_striker: JM Polarouthu
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 18.1:
+        non_striker: JM Polarouthu
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 18.2:
+        non_striker: JM Polarouthu
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Usman
+    - 18.3:
+        non_striker: JM Polarouthu
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 18.4:
+        non_striker: Muhammad Usman
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Polarouthu
+    - 18.5:
+        non_striker: JM Polarouthu
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 18.6:
+        non_striker: Muhammad Usman
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Polarouthu
+    - 19.1:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Polarouthu
+    - 19.2:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Polarouthu
+    - 19.3:
+        non_striker: Muhammad Usman
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Polarouthu
+    - 19.4:
+        non_striker: JM Polarouthu
+        bowler: Izaz Ali
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Muhammad Usman
+    - 19.5:
+        non_striker: JM Polarouthu
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 19.6:
+        non_striker: JM Polarouthu
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 19.7:
+        non_striker: JM Polarouthu
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 19.8:
+        non_striker: JM Polarouthu
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Usman
+- 2nd innings:
+    team: Slovenia
+    deliveries:
+    - 0.1:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tarun Sharma
+        batsman: Muhammad Siddiqui
+    - 0.2:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tarun Sharma
+        batsman: Muhammad Siddiqui
+    - 0.3:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Tarun Sharma
+        batsman: Muhammad Siddiqui
+    - 0.4:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Tarun Sharma
+        batsman: Muhammad Siddiqui
+    - 0.5:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 0.6:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+        wicket:
+          player_out: Tarun Sharma
+          kind: lbw
+    - 1.1:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 1.2:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 1.3:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 1.4:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 1.5:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 1.6:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rasheed Ali Mamadkhel
+        batsman: Muhammad Siddiqui
+    - 1.7:
+        non_striker: Muhammad Siddiqui
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 1.8:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 2.1:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rasheed Ali Mamadkhel
+    - 2.2:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rasheed Ali Mamadkhel
+    - 2.3:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 2.4:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 2.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 2.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Siddiqui
+    - 3.1:
+        non_striker: Muhammad Siddiqui
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 3.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 3.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Siddiqui
+    - 3.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 3.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 3.6:
+        non_striker: Muhammad Siddiqui
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 3.7:
+        non_striker: Muhammad Siddiqui
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rasheed Ali Mamadkhel
+    - 4.1:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 4.2:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 4.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 4.4:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 4.5:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rasheed Ali Mamadkhel
+    - 4.6:
+        non_striker: Muhammad Siddiqui
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 5.1:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Siddiqui
+    - 5.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 5.3:
+        non_striker: Muhammad Siddiqui
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 5.4:
+        non_striker: Muhammad Siddiqui
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 5.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 5.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 5.7:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 6.1:
+        non_striker: Muhammad Siddiqui
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 6.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 6.3:
+        non_striker: Muhammad Siddiqui
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 6.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 6.5:
+        non_striker: Muhammad Siddiqui
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rasheed Ali Mamadkhel
+    - 6.6:
+        non_striker: Muhammad Siddiqui
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 7.1:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 7.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 7.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Siddiqui
+    - 7.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 7.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 7.6:
+        non_striker: Muhammad Siddiqui
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 8.1:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 8.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 8.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 8.4:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 8.5:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rasheed Ali Mamadkhel
+    - 8.6:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+        wicket:
+          player_out: Rasheed Ali Mamadkhel
+          fielders:
+          - Khaibar Deldar
+          kind: caught
+    - 9.1:
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Izaz Ali
+        batsman: Muhammad Siddiqui
+    - 9.2:
+        non_striker: Muhammad Siddiqui
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 9.3:
+        non_striker: Izaz Ali
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 9.4:
+        non_striker: Muhammad Siddiqui
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 9.5:
+        non_striker: Izaz Ali
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 9.6:
+        non_striker: Muhammad Siddiqui
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 10.1:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 10.2:
+        non_striker: Izaz Ali
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 10.3:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Izaz Ali
+    - 10.4:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Izaz Ali
+    - 10.5:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 10.6:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 11.1:
+        non_striker: Muhammad Siddiqui
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 11.2:
+        non_striker: Izaz Ali
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 11.3:
+        non_striker: Izaz Ali
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 11.4:
+        non_striker: Muhammad Siddiqui
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 11.5:
+        non_striker: Izaz Ali
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Siddiqui
+    - 11.6:
+        non_striker: Izaz Ali
+        bowler: A Prashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 12.1:
+        non_striker: Izaz Ali
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 12.2:
+        non_striker: Izaz Ali
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 12.3:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Izaz Ali
+    - 12.4:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Izaz Ali
+    - 12.5:
+        non_striker: Muhammad Siddiqui
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 12.6:
+        non_striker: Izaz Ali
+        bowler: Abbas Ghani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammad Siddiqui
+    - 13.1:
+        non_striker: Izaz Ali
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 13.2:
+        non_striker: Muhammad Siddiqui
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Izaz Ali
+    - 13.3:
+        non_striker: Muhammad Siddiqui
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 13.4:
+        non_striker: Izaz Ali
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 13.5:
+        non_striker: Muhammad Siddiqui
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 13.6:
+        non_striker: Izaz Ali
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Siddiqui
+    - 14.1:
+        non_striker: Izaz Ali
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+        wicket:
+          player_out: Muhammad Siddiqui
+          kind: bowled
+    - 14.2:
+        non_striker: Izaz Ali
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Koppolu
+    - 14.3:
+        non_striker: Izaz Ali
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 14.4:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+        wicket:
+          player_out: Izaz Ali
+          fielders:
+          - Abbas Ghani
+          kind: caught
+    - 14.5:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Matla
+    - 14.6:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Matla
+    - 14.7:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Matla
+    - 14.8:
+        non_striker: D Matla
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 15.1:
+        non_striker: S Koppolu
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Matla
+    - 15.2:
+        non_striker: S Koppolu
+        bowler: JM Polarouthu
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: D Matla
+    - 15.3:
+        non_striker: D Matla
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Koppolu
+    - 15.4:
+        non_striker: D Matla
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 15.5:
+        non_striker: S Koppolu
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Matla
+    - 15.6:
+        non_striker: D Matla
+        bowler: JM Polarouthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Koppolu
+    - 15.7:
+        non_striker: D Matla
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 15.8:
+        non_striker: S Koppolu
+        bowler: JM Polarouthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Matla
+    - 16.1:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Matla
+        wicket:
+          player_out: D Matla
+          fielders:
+          - Khaibar Deldar
+          kind: caught
+    - 16.2:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waqar Khan
+    - 16.3:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 16.4:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+        wicket:
+          player_out: Waqar Khan
+          fielders:
+          - A Prashar
+          kind: caught
+    - 16.5:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayal Joy
+    - 16.6:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayal Joy
+    - 17.1:
+        non_striker: S Koppolu
+        bowler: MP Ainsworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Dayal Joy
+    - 17.2:
+        non_striker: Dayal Joy
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Koppolu
+    - 17.3:
+        non_striker: Dayal Joy
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Koppolu
+    - 17.4:
+        non_striker: Dayal Joy
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 17.5:
+        non_striker: Dayal Joy
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Koppolu
+    - 17.6:
+        non_striker: Dayal Joy
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 18.1:
+        non_striker: Dayal Joy
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Koppolu
+    - 18.2:
+        non_striker: Dayal Joy
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Koppolu
+    - 18.3:
+        non_striker: Dayal Joy
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Koppolu
+    - 18.4:
+        non_striker: Dayal Joy
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 18.5:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayal Joy
+        wicket:
+          player_out: Dayal Joy
+          kind: bowled
+    - 18.6:
+        non_striker: S Koppolu
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DK Pallekonda
+    - 19.1:
+        non_striker: DK Pallekonda
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 19.2:
+        non_striker: S Koppolu
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Pallekonda
+    - 19.3:
+        non_striker: DK Pallekonda
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Koppolu
+    - 19.4:
+        non_striker: DK Pallekonda
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+        wicket:
+          player_out: S Koppolu
+          fielders:
+          - V Ravindran
+          kind: caught
+    - 19.5:
+        non_striker: DK Pallekonda
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rizwan Zahoor
+    - 19.6:
+        non_striker: Rizwan Zahoor
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DK Pallekonda
+    - 19.7:
+        non_striker: Rizwan Zahoor
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DK Pallekonda
+    - 19.8:
+        non_striker: Rizwan Zahoor
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Pallekonda

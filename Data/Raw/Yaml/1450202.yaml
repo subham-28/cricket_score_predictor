@@ -1,0 +1,2475 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Koge
+  dates:
+  - '2024-09-15'
+  gender: female
+  match_type: T20
+  match_type_number: 2023
+  outcome:
+    winner: Denmark
+    by:
+      runs: 43
+  overs: 20
+  player_of_match:
+  - L Holmgaard
+  players:
+    Denmark:
+    - K Brock-Nielsen
+    - L Ostergaard
+    - AB Slebsager
+    - TS Erichsen
+    - L Leisner
+    - A Ostergaard
+    - NP Dalgaard
+    - ML Karlsen
+    - D Golechha
+    - L Holmgaard
+    - C Ostergaard
+    Luxembourg:
+    - SH Lawlor
+    - PN Agarwal
+    - Kerry Fraser
+    - GEM Brealey
+    - Aarti Priya
+    - Jagrat Dubey
+    - Khusboo Kandpal
+    - Shivani Sati
+    - Navneet Bamrah
+    - Mounica Chowdary
+    - Divya Kandpal
+  registry:
+    people:
+      A Ostergaard: 36ffe914
+      AB Slebsager: 4ae7048b
+      Aarti Priya: ec11ad0b
+      C Ostergaard: e212b0fd
+      D Golechha: c2c12f2a
+      Divya Kandpal: 32b8d4fe
+      G O'Grady: e5f74630
+      GEM Brealey: f2b769ad
+      Jagrat Dubey: a4051019
+      K Brock-Nielsen: c14ba87c
+      Kerry Fraser: 8bebbcd4
+      Khusboo Kandpal: 54a10889
+      L Holmgaard: 8ea1f4c4
+      L Leisner: ed614ded
+      L Ostergaard: 3a5160d9
+      ML Karlsen: 4302af3d
+      Mounica Chowdary: b2118a44
+      NP Dalgaard: '40283617'
+      Navneet Bamrah: edcd403f
+      PN Agarwal: f34a3a74
+      SH Lawlor: 29342bbe
+      Shivani Sati: b49ab82b
+      TS Erichsen: 9894e7b9
+      Zeb Pirzada: 716e41af
+  teams:
+  - Denmark
+  - Luxembourg
+  toss:
+    winner: Luxembourg
+    decision: field
+  umpires:
+  - G O'Grady
+  - Zeb Pirzada
+  venue: Koge Cricket Club
+innings:
+- 1st innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Ostergaard
+        batsman: K Brock-Nielsen
+    - 0.2:
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        batsman: K Brock-Nielsen
+    - 0.3:
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        batsman: K Brock-Nielsen
+    - 0.4:
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        batsman: K Brock-Nielsen
+    - 0.5:
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Ostergaard
+        batsman: K Brock-Nielsen
+        wicket:
+          player_out: K Brock-Nielsen
+          fielders:
+          - GEM Brealey
+          - Jagrat Dubey
+          kind: run out
+    - 0.6:
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AB Slebsager
+        batsman: L Ostergaard
+    - 0.7:
+        non_striker: AB Slebsager
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ostergaard
+    - 1.1:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+        wicket:
+          player_out: AB Slebsager
+          kind: bowled
+    - 1.2:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 1.3:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 1.4:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 1.5:
+        non_striker: TS Erichsen
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 1.6:
+        non_striker: TS Erichsen
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 1.7:
+        non_striker: TS Erichsen
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 2.1:
+        non_striker: TS Erichsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 2.2:
+        non_striker: TS Erichsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 2.3:
+        non_striker: TS Erichsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 2.4:
+        non_striker: TS Erichsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 2.5:
+        non_striker: TS Erichsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 2.6:
+        non_striker: TS Erichsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Ostergaard
+    - 2.7:
+        non_striker: L Ostergaard
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 3.1:
+        non_striker: TS Erichsen
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 3.2:
+        non_striker: TS Erichsen
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 3.3:
+        non_striker: TS Erichsen
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 3.4:
+        non_striker: TS Erichsen
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 3.5:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 3.6:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Erichsen
+    - 3.7:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 3.8:
+        non_striker: TS Erichsen
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 4.1:
+        non_striker: TS Erichsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ostergaard
+    - 4.2:
+        non_striker: TS Erichsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 4.3:
+        non_striker: TS Erichsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 4.4:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 4.5:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Erichsen
+    - 4.6:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Erichsen
+    - 5.1:
+        non_striker: TS Erichsen
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 5.2:
+        non_striker: TS Erichsen
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 5.3:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 5.4:
+        non_striker: TS Erichsen
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 5.5:
+        non_striker: TS Erichsen
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 5.6:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Erichsen
+    - 5.7:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 6.1:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 6.2:
+        non_striker: TS Erichsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Ostergaard
+    - 6.3:
+        non_striker: TS Erichsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 6.4:
+        non_striker: TS Erichsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 6.5:
+        non_striker: TS Erichsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 6.6:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 6.7:
+        non_striker: TS Erichsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 7.1:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Erichsen
+    - 7.2:
+        non_striker: TS Erichsen
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 7.3:
+        non_striker: TS Erichsen
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ostergaard
+    - 7.4:
+        non_striker: TS Erichsen
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 7.5:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+    - 7.6:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Erichsen
+        wicket:
+          player_out: TS Erichsen
+          kind: lbw
+    - 8.1:
+        bowler: GEM Brealey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: L Leisner
+        batsman: L Ostergaard
+    - 8.2:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 8.3:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Leisner
+    - 8.4:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 8.5:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 8.6:
+        non_striker: L Leisner
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 8.7:
+        non_striker: L Leisner
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 8.8:
+        non_striker: L Leisner
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 9.1:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 9.2:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 9.3:
+        non_striker: L Leisner
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 9.4:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 9.5:
+        non_striker: L Leisner
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ostergaard
+    - 9.6:
+        non_striker: L Leisner
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 10.1:
+        non_striker: L Leisner
+        bowler: GEM Brealey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Ostergaard
+    - 10.2:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 10.3:
+        non_striker: L Leisner
+        bowler: GEM Brealey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Ostergaard
+    - 10.4:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+    - 10.5:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Leisner
+    - 10.6:
+        non_striker: L Leisner
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 10.7:
+        non_striker: L Leisner
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 10.8:
+        non_striker: L Leisner
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 10.9:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Leisner
+        wicket:
+          player_out: L Leisner
+          kind: bowled
+    - 10.10:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 11.1:
+        non_striker: A Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 11.2:
+        non_striker: A Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 11.3:
+        non_striker: A Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 11.4:
+        non_striker: A Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 11.5:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 11.6:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 11.7:
+        non_striker: L Ostergaard
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+    - 12.1:
+        non_striker: A Ostergaard
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 12.2:
+        non_striker: A Ostergaard
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 12.3:
+        non_striker: A Ostergaard
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 12.4:
+        non_striker: L Ostergaard
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ostergaard
+        wicket:
+          player_out: A Ostergaard
+          kind: lbw
+    - 12.5:
+        non_striker: L Ostergaard
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 12.6:
+        non_striker: NP Dalgaard
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 13.1:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NP Dalgaard
+    - 13.2:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NP Dalgaard
+    - 13.3:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+    - 13.4:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+    - 13.5:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 13.6:
+        non_striker: NP Dalgaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 13.7:
+        non_striker: NP Dalgaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 13.8:
+        non_striker: NP Dalgaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 13.9:
+        non_striker: L Ostergaard
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 14.1:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 14.2:
+        non_striker: NP Dalgaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 14.3:
+        non_striker: NP Dalgaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 14.4:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+    - 14.5:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 14.6:
+        non_striker: NP Dalgaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 15.1:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 15.2:
+        non_striker: NP Dalgaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 15.3:
+        non_striker: NP Dalgaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Ostergaard
+    - 15.4:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+        wicket:
+          player_out: NP Dalgaard
+          kind: bowled
+    - 15.5:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 15.6:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 15.7:
+        non_striker: ML Karlsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 16.1:
+        non_striker: ML Karlsen
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+    - 16.2:
+        non_striker: ML Karlsen
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 16.3:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 16.4:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 16.5:
+        non_striker: ML Karlsen
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 16.6:
+        non_striker: L Ostergaard
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 17.1:
+        non_striker: ML Karlsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 17.2:
+        non_striker: ML Karlsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Ostergaard
+    - 17.3:
+        non_striker: ML Karlsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ostergaard
+    - 17.4:
+        non_striker: L Ostergaard
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 17.5:
+        non_striker: ML Karlsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ostergaard
+        wicket:
+          player_out: L Ostergaard
+          fielders:
+          - Kerry Fraser
+          kind: caught
+    - 17.6:
+        non_striker: ML Karlsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Golechha
+    - 17.7:
+        non_striker: ML Karlsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Golechha
+    - 17.8:
+        non_striker: ML Karlsen
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Golechha
+    - 18.1:
+        non_striker: D Golechha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Karlsen
+    - 18.2:
+        non_striker: D Golechha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 18.3:
+        non_striker: D Golechha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 18.4:
+        non_striker: D Golechha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 18.5:
+        non_striker: ML Karlsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Golechha
+    - 18.6:
+        non_striker: ML Karlsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Golechha
+    - 18.7:
+        non_striker: ML Karlsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Golechha
+    - 18.8:
+        non_striker: ML Karlsen
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Golechha
+    - 19.1:
+        non_striker: ML Karlsen
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Golechha
+    - 19.2:
+        non_striker: ML Karlsen
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Golechha
+    - 19.3:
+        non_striker: ML Karlsen
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Golechha
+    - 19.4:
+        non_striker: D Golechha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Karlsen
+    - 19.5:
+        non_striker: D Golechha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 19.6:
+        non_striker: D Golechha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Karlsen
+    - 19.7:
+        non_striker: D Golechha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Karlsen
+    - 19.8:
+        non_striker: D Golechha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+        wicket:
+          player_out: ML Karlsen
+          fielders:
+          - SH Lawlor
+          kind: caught
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PN Agarwal
+        batsman: SH Lawlor
+    - 0.2:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PN Agarwal
+        batsman: SH Lawlor
+    - 0.3:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PN Agarwal
+        batsman: SH Lawlor
+    - 0.4:
+        non_striker: SH Lawlor
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 0.5:
+        non_striker: SH Lawlor
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 0.6:
+        non_striker: SH Lawlor
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PN Agarwal
+    - 1.1:
+        non_striker: SH Lawlor
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 1.2:
+        non_striker: SH Lawlor
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 1.3:
+        non_striker: SH Lawlor
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 1.4:
+        non_striker: SH Lawlor
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 1.5:
+        non_striker: SH Lawlor
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 1.6:
+        non_striker: SH Lawlor
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 2.1:
+        non_striker: PN Agarwal
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 2.2:
+        non_striker: PN Agarwal
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 2.3:
+        non_striker: PN Agarwal
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 2.4:
+        non_striker: PN Agarwal
+        bowler: D Golechha
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SH Lawlor
+    - 2.5:
+        non_striker: SH Lawlor
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 2.6:
+        non_striker: SH Lawlor
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PN Agarwal
+    - 2.7:
+        non_striker: SH Lawlor
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Agarwal
+    - 3.1:
+        non_striker: PN Agarwal
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 3.2:
+        non_striker: PN Agarwal
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 3.3:
+        non_striker: PN Agarwal
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+        wicket:
+          player_out: PN Agarwal
+          fielders:
+          - L Holmgaard
+          - C Ostergaard
+          kind: run out
+    - 3.4:
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kerry Fraser
+        batsman: SH Lawlor
+    - 3.5:
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Kerry Fraser
+        batsman: SH Lawlor
+    - 3.6:
+        non_striker: Kerry Fraser
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 4.1:
+        non_striker: SH Lawlor
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 4.2:
+        non_striker: SH Lawlor
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 4.3:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 4.4:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 4.5:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 4.6:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SH Lawlor
+    - 4.7:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 5.1:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 5.2:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 5.3:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 5.4:
+        non_striker: Kerry Fraser
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 5.5:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 5.6:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 6.1:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 6.2:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 6.3:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 6.4:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 6.5:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 6.6:
+        non_striker: Kerry Fraser
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 7.1:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 7.2:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 7.3:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kerry Fraser
+    - 7.4:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kerry Fraser
+    - 7.5:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 7.6:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 7.7:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 7.8:
+        non_striker: SH Lawlor
+        bowler: A Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 8.1:
+        non_striker: Kerry Fraser
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 8.2:
+        non_striker: Kerry Fraser
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 8.3:
+        non_striker: Kerry Fraser
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 8.4:
+        non_striker: Kerry Fraser
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 8.5:
+        non_striker: SH Lawlor
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kerry Fraser
+    - 8.6:
+        non_striker: Kerry Fraser
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 9.1:
+        non_striker: Kerry Fraser
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+    - 9.2:
+        non_striker: Kerry Fraser
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Lawlor
+    - 9.3:
+        non_striker: SH Lawlor
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 9.4:
+        non_striker: SH Lawlor
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kerry Fraser
+    - 9.5:
+        non_striker: SH Lawlor
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+    - 9.6:
+        non_striker: SH Lawlor
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kerry Fraser
+        wicket:
+          player_out: Kerry Fraser
+          fielders:
+          - ML Karlsen
+          kind: caught
+    - 9.7:
+        non_striker: SH Lawlor
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEM Brealey
+    - 10.1:
+        non_striker: GEM Brealey
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Lawlor
+    - 10.2:
+        non_striker: GEM Brealey
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Lawlor
+        wicket:
+          player_out: SH Lawlor
+          fielders:
+          - NP Dalgaard
+          kind: caught
+    - 10.3:
+        non_striker: GEM Brealey
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aarti Priya
+    - 10.4:
+        non_striker: GEM Brealey
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+    - 10.5:
+        non_striker: GEM Brealey
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+    - 10.6:
+        non_striker: GEM Brealey
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+    - 10.7:
+        non_striker: GEM Brealey
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarti Priya
+        wicket:
+          player_out: Aarti Priya
+          kind: bowled
+    - 11.1:
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jagrat Dubey
+        batsman: GEM Brealey
+    - 11.2:
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jagrat Dubey
+        batsman: GEM Brealey
+    - 11.3:
+        non_striker: GEM Brealey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 11.4:
+        non_striker: GEM Brealey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jagrat Dubey
+    - 11.5:
+        non_striker: Jagrat Dubey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GEM Brealey
+    - 11.6:
+        non_striker: GEM Brealey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 12.1:
+        non_striker: Jagrat Dubey
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GEM Brealey
+    - 12.2:
+        non_striker: GEM Brealey
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 12.3:
+        non_striker: GEM Brealey
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 12.4:
+        non_striker: GEM Brealey
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 12.5:
+        non_striker: GEM Brealey
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 12.6:
+        non_striker: GEM Brealey
+        bowler: L Holmgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jagrat Dubey
+    - 12.7:
+        non_striker: GEM Brealey
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jagrat Dubey
+    - 13.1:
+        non_striker: GEM Brealey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 13.2:
+        non_striker: GEM Brealey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jagrat Dubey
+    - 13.3:
+        non_striker: Jagrat Dubey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GEM Brealey
+    - 13.4:
+        non_striker: GEM Brealey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+    - 13.5:
+        non_striker: GEM Brealey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jagrat Dubey
+    - 13.6:
+        non_striker: Jagrat Dubey
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEM Brealey
+    - 14.1:
+        non_striker: GEM Brealey
+        bowler: L Holmgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jagrat Dubey
+    - 14.2:
+        non_striker: GEM Brealey
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jagrat Dubey
+    - 14.3:
+        non_striker: Jagrat Dubey
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEM Brealey
+    - 14.4:
+        non_striker: Jagrat Dubey
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEM Brealey
+        wicket:
+          player_out: GEM Brealey
+          fielders:
+          - K Brock-Nielsen
+          - L Holmgaard
+          kind: run out
+    - 14.5:
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khusboo Kandpal
+        batsman: Jagrat Dubey
+    - 14.6:
+        non_striker: Khusboo Kandpal
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jagrat Dubey
+        wicket:
+          player_out: Jagrat Dubey
+          kind: caught and bowled
+    - 14.7:
+        non_striker: Khusboo Kandpal
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+    - 15.1:
+        non_striker: Shivani Sati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khusboo Kandpal
+    - 15.2:
+        non_striker: Shivani Sati
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khusboo Kandpal
+    - 15.3:
+        non_striker: Shivani Sati
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khusboo Kandpal
+    - 15.4:
+        non_striker: Khusboo Kandpal
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+    - 15.5:
+        non_striker: Khusboo Kandpal
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shivani Sati
+    - 15.6:
+        non_striker: Khusboo Kandpal
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shivani Sati
+    - 15.7:
+        non_striker: Khusboo Kandpal
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivani Sati
+        wicket:
+          player_out: Shivani Sati
+          kind: bowled
+    - 15.8:
+        non_striker: Khusboo Kandpal
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah
+    - 16.1:
+        non_striker: Navneet Bamrah
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khusboo Kandpal
+    - 16.2:
+        non_striker: Khusboo Kandpal
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah
+    - 16.3:
+        non_striker: Khusboo Kandpal
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Navneet Bamrah
+    - 16.4:
+        non_striker: Navneet Bamrah
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khusboo Kandpal
+    - 16.5:
+        non_striker: Navneet Bamrah
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khusboo Kandpal
+    - 16.6:
+        non_striker: Navneet Bamrah
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khusboo Kandpal
+        wicket:
+          player_out: Khusboo Kandpal
+          kind: bowled
+    - 17.1:
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mounica Chowdary
+        batsman: Navneet Bamrah
+    - 17.2:
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mounica Chowdary
+        batsman: Navneet Bamrah
+    - 17.3:
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mounica Chowdary
+        batsman: Navneet Bamrah
+    - 17.4:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mounica Chowdary
+    - 17.5:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mounica Chowdary
+    - 17.6:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mounica Chowdary
+    - 17.7:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mounica Chowdary
+    - 18.1:
+        non_striker: Mounica Chowdary
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah
+    - 18.2:
+        non_striker: Mounica Chowdary
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah
+    - 18.3:
+        non_striker: Mounica Chowdary
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah
+    - 18.4:
+        non_striker: Mounica Chowdary
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah
+    - 18.5:
+        non_striker: Mounica Chowdary
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah
+    - 18.6:
+        non_striker: Mounica Chowdary
+        bowler: L Holmgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah
+    - 19.1:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mounica Chowdary
+    - 19.2:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mounica Chowdary
+    - 19.3:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mounica Chowdary
+    - 19.4:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mounica Chowdary
+    - 19.5:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mounica Chowdary
+    - 19.6:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mounica Chowdary
+    - 19.7:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mounica Chowdary
+    - 19.8:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mounica Chowdary
+    - 19.9:
+        non_striker: Mounica Chowdary
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Navneet Bamrah
+    - 19.10:
+        non_striker: Navneet Bamrah
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mounica Chowdary
+    - 19.11:
+        non_striker: Mounica Chowdary
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Navneet Bamrah

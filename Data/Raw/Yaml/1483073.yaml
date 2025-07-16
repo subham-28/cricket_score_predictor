@@ -1,0 +1,1820 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Corfu
+  dates:
+  - '2025-05-11'
+  gender: female
+  match_type: T20
+  match_type_number: 2288
+  outcome:
+    winner: Germany
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - JE Ronalds
+  players:
+    Greece:
+    - M Syrioti
+    - A Argyropoulou
+    - A Makri
+    - S Georgota
+    - M Polimeri
+    - K Tereza
+    - M Vervitsioti
+    - E Kallous
+    - A Kourkoulou
+    - C Kanta
+    - N Dolianiti
+    Germany:
+    - JE Ronalds
+    - CM Gough
+    - W Hornero-Garcia
+    - K Vijayaraghavan
+    - N Kingsley
+    - S Kolcharam
+    - A Kohli
+    - I Edwards
+    - Ashwini Balaji
+    - A Bierwisch
+    - Rameesha Shahid
+  registry:
+    people:
+      A Argyropoulou: 3f1bfd19
+      A Bierwisch: b51d654f
+      A Kohli: eb9082b2
+      A Kourkoulou: 637f6ae5
+      A Makri: 98affc04
+      Ashwini Balaji: 81283f75
+      C Kanta: 96c936d7
+      CM Gough: f1328a90
+      E Kallous: '0680ff7f'
+      I Edwards: '42095275'
+      JE Ronalds: d4f98302
+      K Tereza: 1314d6f8
+      K Vijayaraghavan: '048da365'
+      M Polimeri: 35ccd83f
+      M Syrioti: f9df0aa2
+      M Vervitsioti: 6fd40892
+      N Dolianiti: '096149b4'
+      N Kingsley: 31036a1d
+      Rameesha Shahid: b810425e
+      S Georgota: d07b6842
+      S Kolcharam: 761c929e
+      W Hornero-Garcia: 7d5fef52
+  teams:
+  - Greece
+  - Germany
+  toss:
+    winner: Greece
+    decision: bat
+  venue: Marina Ground, Corfu
+innings:
+- 1st innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: Rameesha Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: A Argyropoulou
+        batsman: M Syrioti
+    - 0.2:
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Argyropoulou
+        batsman: M Syrioti
+    - 0.3:
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Argyropoulou
+        batsman: M Syrioti
+    - 0.4:
+        bowler: Rameesha Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: A Argyropoulou
+        batsman: M Syrioti
+    - 0.5:
+        bowler: Rameesha Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Argyropoulou
+        batsman: M Syrioti
+    - 0.6:
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Argyropoulou
+        batsman: M Syrioti
+    - 0.7:
+        non_striker: M Syrioti
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 0.8:
+        non_striker: M Syrioti
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+        wicket:
+          player_out: A Argyropoulou
+          fielders:
+          - W Hornero-Garcia
+          kind: caught
+    - 0.9:
+        non_striker: M Syrioti
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 1.1:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 1.2:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 1.3:
+        non_striker: M Syrioti
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 1.4:
+        non_striker: M Syrioti
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 1.5:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 1.6:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 2.1:
+        non_striker: M Syrioti
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 2.2:
+        non_striker: M Syrioti
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 2.3:
+        non_striker: M Syrioti
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 2.4:
+        non_striker: M Syrioti
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Makri
+    - 2.5:
+        non_striker: M Syrioti
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 2.6:
+        non_striker: M Syrioti
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 3.1:
+        non_striker: M Syrioti
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 3.2:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 3.3:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 3.4:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 3.5:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: M Syrioti
+    - 3.6:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 3.7:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 3.8:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 4.1:
+        non_striker: M Syrioti
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 4.2:
+        non_striker: M Syrioti
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Makri
+    - 4.3:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 4.4:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 4.5:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 4.6:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Syrioti
+    - 4.7:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 4.8:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 4.9:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 5.1:
+        non_striker: M Syrioti
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 5.2:
+        non_striker: M Syrioti
+        bowler: CM Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 5.3:
+        non_striker: M Syrioti
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 5.4:
+        non_striker: M Syrioti
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 5.5:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 5.6:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 5.7:
+        non_striker: A Makri
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syrioti
+    - 6.1:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 6.2:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 6.3:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+        wicket:
+          player_out: M Syrioti
+          fielders:
+          - K Vijayaraghavan
+          kind: caught
+    - 6.4:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 6.5:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 6.6:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 7.1:
+        non_striker: S Georgota
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 7.2:
+        non_striker: A Makri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 7.3:
+        non_striker: S Georgota
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 7.4:
+        non_striker: S Georgota
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 7.5:
+        non_striker: S Georgota
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 7.6:
+        non_striker: S Georgota
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 8.1:
+        non_striker: S Georgota
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 8.2:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 8.3:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 8.4:
+        non_striker: S Georgota
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 8.5:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Georgota
+    - 8.6:
+        non_striker: A Makri
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Georgota
+    - 9.1:
+        non_striker: S Georgota
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 9.2:
+        non_striker: S Georgota
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 9.3:
+        non_striker: A Makri
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Georgota
+    - 9.4:
+        non_striker: A Makri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+        wicket:
+          player_out: S Georgota
+          fielders:
+          - A Bierwisch
+          kind: caught
+    - 9.5:
+        non_striker: A Makri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 9.6:
+        non_striker: A Makri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 9.7:
+        non_striker: M Polimeri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+        wicket:
+          player_out: A Makri
+          kind: lbw
+    - 10.1:
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Tereza
+        batsman: M Polimeri
+    - 10.2:
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Tereza
+        batsman: M Polimeri
+    - 10.3:
+        non_striker: M Polimeri
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tereza
+    - 10.4:
+        non_striker: M Polimeri
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tereza
+    - 10.5:
+        non_striker: K Tereza
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Polimeri
+    - 10.6:
+        non_striker: K Tereza
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 11.1:
+        non_striker: M Polimeri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tereza
+    - 11.2:
+        non_striker: M Polimeri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tereza
+        wicket:
+          player_out: K Tereza
+          fielders:
+          - K Vijayaraghavan
+          kind: stumped
+    - 11.3:
+        non_striker: M Polimeri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 11.4:
+        non_striker: M Polimeri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 11.5:
+        non_striker: M Polimeri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 11.6:
+        non_striker: M Polimeri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vervitsioti
+    - 12.1:
+        non_striker: M Vervitsioti
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 12.2:
+        non_striker: M Vervitsioti
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Polimeri
+    - 12.3:
+        non_striker: M Vervitsioti
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Polimeri
+    - 12.4:
+        non_striker: M Vervitsioti
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 12.5:
+        non_striker: M Polimeri
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 12.6:
+        non_striker: M Polimeri
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 12.7:
+        non_striker: M Polimeri
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vervitsioti
+    - 12.8:
+        non_striker: M Vervitsioti
+        bowler: W Hornero-Garcia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 13.1:
+        non_striker: M Vervitsioti
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Polimeri
+    - 13.2:
+        non_striker: M Vervitsioti
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Polimeri
+    - 13.3:
+        non_striker: M Vervitsioti
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 13.4:
+        non_striker: M Vervitsioti
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 13.5:
+        non_striker: M Vervitsioti
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 13.6:
+        non_striker: M Polimeri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 13.7:
+        non_striker: M Polimeri
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vervitsioti
+    - 14.1:
+        non_striker: M Polimeri
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 14.2:
+        non_striker: M Polimeri
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 14.3:
+        non_striker: M Polimeri
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 14.4:
+        non_striker: M Polimeri
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 14.5:
+        non_striker: M Polimeri
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+        wicket:
+          player_out: M Vervitsioti
+          fielders:
+          - W Hornero-Garcia
+          kind: caught
+    - 14.6:
+        non_striker: M Polimeri
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 15.1:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 15.2:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Polimeri
+    - 15.3:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 15.4:
+        non_striker: M Polimeri
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kallous
+    - 15.5:
+        non_striker: M Polimeri
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kallous
+    - 15.6:
+        non_striker: M Polimeri
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 15.7:
+        non_striker: M Polimeri
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Kallous
+    - 15.8:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Polimeri
+    - 15.9:
+        non_striker: M Polimeri
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 16.1:
+        non_striker: E Kallous
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 16.2:
+        non_striker: E Kallous
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 16.3:
+        non_striker: E Kallous
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+        wicket:
+          player_out: M Polimeri
+          fielders:
+          - Ashwini Balaji
+          kind: caught
+    - 16.4:
+        non_striker: E Kallous
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 16.5:
+        non_striker: E Kallous
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 16.6:
+        non_striker: E Kallous
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kourkoulou
+    - 17.1:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 17.2:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 17.3:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 17.4:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 17.5:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 17.6:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 18.1:
+        non_striker: A Kourkoulou
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kallous
+    - 18.2:
+        non_striker: A Kourkoulou
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 18.3:
+        non_striker: A Kourkoulou
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 18.4:
+        non_striker: A Kourkoulou
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 18.5:
+        non_striker: A Kourkoulou
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 18.6:
+        non_striker: A Kourkoulou
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kallous
+    - 18.7:
+        non_striker: A Kourkoulou
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 19.1:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kourkoulou
+    - 19.2:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Kourkoulou
+    - 19.3:
+        non_striker: A Kourkoulou
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 19.4:
+        non_striker: A Kourkoulou
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kallous
+    - 19.5:
+        non_striker: A Kourkoulou
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kallous
+    - 19.6:
+        non_striker: A Kourkoulou
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kallous
+    - 19.7:
+        non_striker: A Kourkoulou
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kallous
+    - 19.8:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kourkoulou
+    - 19.9:
+        non_striker: E Kallous
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kourkoulou
+        wicket:
+          player_out: A Kourkoulou
+          fielders:
+          - CM Gough
+          - K Vijayaraghavan
+          kind: run out
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CM Gough
+        batsman: JE Ronalds
+    - 0.2:
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CM Gough
+        batsman: JE Ronalds
+    - 0.3:
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CM Gough
+        batsman: JE Ronalds
+    - 0.4:
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CM Gough
+        batsman: JE Ronalds
+    - 0.5:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 0.6:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 0.7:
+        non_striker: CM Gough
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 1.1:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 1.2:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 1.3:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 1.4:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 1.5:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 1.6:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 1.7:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 2.1:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 2.2:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 2.3:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 2.4:
+        non_striker: CM Gough
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: JE Ronalds
+    - 2.5:
+        non_striker: CM Gough
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 2.6:
+        non_striker: CM Gough
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 2.7:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Gough
+    - 3.1:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 3.2:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 3.3:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 3.4:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 3.5:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Ronalds
+    - 3.6:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JE Ronalds
+    - 3.7:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 3.8:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 4.1:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 4.2:
+        non_striker: CM Gough
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 4.3:
+        non_striker: CM Gough
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 4.4:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 4.5:
+        non_striker: CM Gough
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 4.6:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 5.1:
+        non_striker: CM Gough
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JE Ronalds
+    - 5.2:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 5.3:
+        non_striker: CM Gough
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Ronalds
+    - 5.4:
+        non_striker: CM Gough
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 5.5:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 5.6:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 5.7:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 6.1:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 6.2:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 6.3:
+        non_striker: CM Gough
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 6.4:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 6.5:
+        non_striker: CM Gough
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 6.6:
+        non_striker: JE Ronalds
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 7.1:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 7.2:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 7.3:
+        non_striker: CM Gough
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 7.4:
+        non_striker: CM Gough
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 7.5:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Gough
+    - 7.6:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 8.1:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 8.2:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 8.3:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 8.4:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 8.5:
+        non_striker: CM Gough
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 8.6:
+        non_striker: JE Ronalds
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 9.1:
+        non_striker: CM Gough
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Ronalds
+    - 9.2:
+        non_striker: CM Gough
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 9.3:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 9.4:
+        non_striker: JE Ronalds
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 9.5:
+        non_striker: CM Gough
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds

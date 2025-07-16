@@ -1,0 +1,2767 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Oslo
+  dates:
+  - '2024-08-10'
+  gender: female
+  match_type: T20
+  match_type_number: 1982
+  outcome:
+    winner: Norway
+    by:
+      runs: 35
+  overs: 20
+  player_of_match:
+  - P Agrawal
+  players:
+    Norway:
+    - Ayesha Hasan
+    - Nayab Razwan
+    - Bijeyata Kumari
+    - R Immadi
+    - Alina Aslam
+    - Mirab Razwan
+    - Prachi Kumari
+    - Lopamudra
+    - AS Gorad
+    - P Agrawal
+    - VB Viyala
+    Estonia:
+    - N Zholudz
+    - B Wani
+    - H Kerge
+    - L Sormus
+    - A Vessik
+    - N Tykhonravova
+    - Ragne Hallik
+    - M Valner
+    - Viktoria Frey
+    - E Ellermaa
+    - S Pattenden
+  registry:
+    people:
+      A Vessik: d30d4a0c
+      AS Gorad: 2c8d0953
+      Alina Aslam: fbffb752
+      Ayesha Hasan: 6a3de477
+      B Wani: a651cd4d
+      Bijeyata Kumari: a5fc18a7
+      E Ellermaa: 37c085d2
+      H Kerge: 76207d36
+      L Sormus: 3486a171
+      Lopamudra: ff4509d5
+      M Valner: b5472435
+      Mirab Razwan: 498031f9
+      N Tykhonravova: b9f09828
+      N Zholudz: a60bff88
+      Nayab Razwan: f12e21a0
+      P Agrawal: bb1fcd51
+      Prachi Kumari: dc4f97bf
+      R Immadi: baeae6dd
+      Ragne Hallik: 1ac4b030
+      S Pattenden: b7880d1d
+      VB Viyala: 228a747d
+      Viktoria Frey: fed9a316
+  teams:
+  - Norway
+  - Estonia
+  toss:
+    winner: Estonia
+    decision: field
+  venue: Ekeberg Cricket Ground 1, Oslo
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nayab Razwan
+        batsman: Ayesha Hasan
+    - 0.2:
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Nayab Razwan
+        batsman: Ayesha Hasan
+    - 0.3:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: Ayesha Hasan
+          kind: bowled
+    - 0.4:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 0.5:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 0.6:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Bijeyata Kumari
+    - 0.7:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+    - 0.8:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bijeyata Kumari
+        wicket:
+          player_out: Bijeyata Kumari
+          fielders:
+          - M Valner
+          kind: caught
+    - 1.1:
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Immadi
+        batsman: Nayab Razwan
+    - 1.2:
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Immadi
+        batsman: Nayab Razwan
+    - 1.3:
+        non_striker: Nayab Razwan
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 1.4:
+        non_striker: Nayab Razwan
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 1.5:
+        non_striker: Nayab Razwan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 1.6:
+        non_striker: Nayab Razwan
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 1.7:
+        non_striker: Nayab Razwan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+    - 1.8:
+        non_striker: Nayab Razwan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Immadi
+    - 1.9:
+        non_striker: R Immadi
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 2.1:
+        non_striker: R Immadi
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 2.2:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Immadi
+    - 2.3:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Immadi
+        wicket:
+          player_out: R Immadi
+          kind: bowled
+    - 2.4:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alina Aslam
+        wicket:
+          player_out: Alina Aslam
+          kind: bowled
+    - 2.5:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 2.6:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 2.7:
+        non_striker: Nayab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mirab Razwan
+    - 2.8:
+        non_striker: Mirab Razwan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 3.1:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 3.2:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 3.3:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 3.4:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 3.5:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 3.6:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mirab Razwan
+    - 3.7:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mirab Razwan
+    - 3.8:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirab Razwan
+    - 3.9:
+        non_striker: Mirab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 3.10:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+    - 4.1:
+        non_striker: Mirab Razwan
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 4.2:
+        non_striker: Mirab Razwan
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 4.3:
+        non_striker: Mirab Razwan
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+    - 4.4:
+        non_striker: Mirab Razwan
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nayab Razwan
+    - 4.5:
+        non_striker: Mirab Razwan
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 4.6:
+        non_striker: Nayab Razwan
+        bowler: Viktoria Frey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mirab Razwan
+    - 4.7:
+        non_striker: Mirab Razwan
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayab Razwan
+    - 4.8:
+        non_striker: Nayab Razwan
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirab Razwan
+    - 4.9:
+        non_striker: Nayab Razwan
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirab Razwan
+        wicket:
+          player_out: Mirab Razwan
+          kind: bowled
+    - 5.1:
+        bowler: L Sormus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Prachi Kumari
+        batsman: Nayab Razwan
+    - 5.2:
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Prachi Kumari
+        batsman: Nayab Razwan
+    - 5.3:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Prachi Kumari
+    - 5.4:
+        non_striker: Prachi Kumari
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nayab Razwan
+    - 5.5:
+        non_striker: Prachi Kumari
+        bowler: L Sormus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Nayab Razwan
+    - 5.6:
+        non_striker: Prachi Kumari
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Nayab Razwan
+    - 5.7:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Prachi Kumari
+    - 5.8:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Prachi Kumari
+    - 5.9:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 5.10:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 5.11:
+        non_striker: Nayab Razwan
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Prachi Kumari
+    - 6.1:
+        non_striker: Nayab Razwan
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Prachi Kumari
+    - 6.2:
+        non_striker: Nayab Razwan
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Prachi Kumari
+    - 6.3:
+        non_striker: Prachi Kumari
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayab Razwan
+        wicket:
+          player_out: Nayab Razwan
+          kind: bowled
+    - 6.4:
+        non_striker: Prachi Kumari
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Lopamudra
+    - 6.5:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Prachi Kumari
+    - 6.6:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prachi Kumari
+    - 6.7:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Prachi Kumari
+    - 6.8:
+        non_striker: Prachi Kumari
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 6.9:
+        non_striker: Prachi Kumari
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lopamudra
+    - 7.1:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 7.2:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 7.3:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 7.4:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Lopamudra
+    - 7.5:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Lopamudra
+    - 7.6:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Lopamudra
+    - 7.7:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 7.8:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 7.9:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Lopamudra
+    - 7.10:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Lopamudra
+    - 7.11:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 7.12:
+        non_striker: Prachi Kumari
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+        wicket:
+          player_out: Prachi Kumari
+          fielders:
+          - N Tykhonravova
+          - M Valner
+          kind: run out
+    - 7.13:
+        non_striker: Lopamudra
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 7.14:
+        non_striker: AS Gorad
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 7.15:
+        non_striker: AS Gorad
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 7.16:
+        non_striker: AS Gorad
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lopamudra
+    - 8.1:
+        non_striker: AS Gorad
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 8.2:
+        non_striker: AS Gorad
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 8.3:
+        non_striker: AS Gorad
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 8.4:
+        non_striker: AS Gorad
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Lopamudra
+    - 8.5:
+        non_striker: AS Gorad
+        bowler: Viktoria Frey
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: Lopamudra
+    - 8.6:
+        non_striker: AS Gorad
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 8.7:
+        non_striker: AS Gorad
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 8.8:
+        non_striker: AS Gorad
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lopamudra
+    - 8.9:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Gorad
+    - 9.1:
+        non_striker: AS Gorad
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 9.2:
+        non_striker: AS Gorad
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 9.3:
+        non_striker: AS Gorad
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 9.4:
+        non_striker: AS Gorad
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 9.5:
+        non_striker: AS Gorad
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lopamudra
+    - 9.6:
+        non_striker: Lopamudra
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AS Gorad
+    - 9.7:
+        non_striker: Lopamudra
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 9.8:
+        non_striker: AS Gorad
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lopamudra
+    - 9.9:
+        non_striker: Lopamudra
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 9.10:
+        non_striker: AS Gorad
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 9.11:
+        non_striker: AS Gorad
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 10.1:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Gorad
+    - 10.2:
+        non_striker: AS Gorad
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 10.3:
+        non_striker: AS Gorad
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 10.4:
+        non_striker: AS Gorad
+        bowler: A Vessik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: Lopamudra
+    - 10.5:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+    - 10.6:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Gorad
+        wicket:
+          player_out: AS Gorad
+          fielders:
+          - H Kerge
+          kind: caught
+    - 10.7:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 11.1:
+        non_striker: P Agrawal
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 11.2:
+        non_striker: P Agrawal
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 11.3:
+        non_striker: P Agrawal
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lopamudra
+    - 11.4:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 11.5:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 11.6:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Agrawal
+    - 11.7:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Agrawal
+    - 12.1:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 12.2:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 12.3:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 12.4:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 12.5:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 12.6:
+        non_striker: Lopamudra
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+    - 13.1:
+        non_striker: P Agrawal
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 13.2:
+        non_striker: P Agrawal
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lopamudra
+    - 13.3:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Agrawal
+        wicket:
+          player_out: P Agrawal
+          fielders:
+          - E Ellermaa
+          kind: caught
+    - 13.4:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 13.5:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 13.6:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 13.7:
+        non_striker: Lopamudra
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: VB Viyala
+    - 13.8:
+        non_striker: VB Viyala
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 14.1:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 14.2:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 14.3:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 14.4:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 14.5:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 14.6:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: VB Viyala
+    - 14.7:
+        non_striker: VB Viyala
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 14.8:
+        non_striker: VB Viyala
+        bowler: Viktoria Frey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Lopamudra
+    - 14.9:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 14.10:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 14.11:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 15.1:
+        non_striker: VB Viyala
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 15.2:
+        non_striker: VB Viyala
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 15.3:
+        non_striker: VB Viyala
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 15.4:
+        non_striker: VB Viyala
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 15.5:
+        non_striker: VB Viyala
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 15.6:
+        non_striker: VB Viyala
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lopamudra
+    - 15.7:
+        non_striker: VB Viyala
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 15.8:
+        non_striker: VB Viyala
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 16.1:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 16.2:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 16.3:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 16.4:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 16.5:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 16.6:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VB Viyala
+    - 16.7:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 16.8:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VB Viyala
+    - 16.9:
+        non_striker: Lopamudra
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB Viyala
+    - 17.1:
+        non_striker: VB Viyala
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 17.2:
+        non_striker: VB Viyala
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+    - 17.3:
+        non_striker: VB Viyala
+        bowler: L Sormus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lopamudra
+        wicket:
+          player_out: Lopamudra
+          kind: bowled
+- 2nd innings:
+    team: Estonia
+    deliveries:
+    - 0.1:
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Wani
+        batsman: N Zholudz
+    - 0.2:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Wani
+        batsman: N Zholudz
+    - 0.3:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Wani
+        batsman: N Zholudz
+    - 0.4:
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Wani
+        batsman: N Zholudz
+    - 0.5:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Wani
+        batsman: N Zholudz
+    - 0.6:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Wani
+        batsman: N Zholudz
+    - 0.7:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Wani
+        batsman: N Zholudz
+    - 0.8:
+        non_striker: B Wani
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 1.1:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Wani
+    - 1.2:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+    - 1.3:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Wani
+    - 1.4:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+    - 1.5:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Wani
+        wicket:
+          player_out: B Wani
+          fielders:
+          - Alina Aslam
+          kind: run out
+    - 1.6:
+        non_striker: H Kerge
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 1.7:
+        non_striker: H Kerge
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zholudz
+    - 2.1:
+        non_striker: H Kerge
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 2.2:
+        non_striker: H Kerge
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zholudz
+    - 2.3:
+        non_striker: N Zholudz
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerge
+    - 2.4:
+        non_striker: N Zholudz
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerge
+    - 2.5:
+        non_striker: N Zholudz
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerge
+    - 2.6:
+        non_striker: H Kerge
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 3.1:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerge
+    - 3.2:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerge
+    - 3.3:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kerge
+    - 3.4:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerge
+    - 3.5:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: H Kerge
+    - 3.6:
+        non_striker: H Kerge
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Zholudz
+    - 3.7:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerge
+    - 3.8:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kerge
+    - 3.9:
+        non_striker: N Zholudz
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerge
+    - 4.1:
+        non_striker: H Kerge
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 4.2:
+        non_striker: H Kerge
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 4.3:
+        non_striker: H Kerge
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zholudz
+    - 4.4:
+        non_striker: N Zholudz
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerge
+    - 4.5:
+        non_striker: H Kerge
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Zholudz
+    - 4.6:
+        non_striker: H Kerge
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 5.1:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerge
+    - 5.2:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerge
+    - 5.3:
+        non_striker: H Kerge
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zholudz
+    - 5.4:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerge
+        wicket:
+          player_out: H Kerge
+          kind: bowled
+    - 5.5:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Sormus
+    - 5.6:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sormus
+    - 5.7:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Sormus
+    - 5.8:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Sormus
+    - 5.9:
+        non_striker: L Sormus
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zholudz
+    - 6.1:
+        non_striker: L Sormus
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 6.2:
+        non_striker: L Sormus
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Zholudz
+    - 6.3:
+        non_striker: L Sormus
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 6.4:
+        non_striker: L Sormus
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zholudz
+    - 6.5:
+        non_striker: N Zholudz
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sormus
+        wicket:
+          player_out: L Sormus
+          fielders:
+          - VB Viyala
+          kind: caught
+    - 6.6:
+        non_striker: N Zholudz
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 6.7:
+        non_striker: N Zholudz
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vessik
+    - 6.8:
+        non_striker: N Zholudz
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 7.1:
+        non_striker: A Vessik
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+    - 7.2:
+        non_striker: A Vessik
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zholudz
+    - 7.3:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 7.4:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 7.5:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+        wicket:
+          player_out: A Vessik
+          kind: lbw
+    - 7.6:
+        non_striker: N Zholudz
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 8.1:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zholudz
+        wicket:
+          player_out: N Zholudz
+          kind: bowled
+    - 8.2:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.3:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ragne Hallik
+    - 8.4:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.5:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 8.6:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 8.7:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.8:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.9:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.10:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.11:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 8.12:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.13:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 9.1:
+        non_striker: Ragne Hallik
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tykhonravova
+    - 9.2:
+        non_striker: N Tykhonravova
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 9.3:
+        non_striker: N Tykhonravova
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 9.4:
+        non_striker: N Tykhonravova
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 9.5:
+        non_striker: N Tykhonravova
+        bowler: P Agrawal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 9.6:
+        non_striker: N Tykhonravova
+        bowler: P Agrawal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 9.7:
+        non_striker: N Tykhonravova
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 9.8:
+        non_striker: N Tykhonravova
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+        wicket:
+          player_out: Ragne Hallik
+          kind: bowled
+    - 10.1:
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Valner
+        batsman: N Tykhonravova
+    - 10.2:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 10.3:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 10.4:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Valner
+    - 10.5:
+        non_striker: M Valner
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Tykhonravova
+    - 10.6:
+        non_striker: M Valner
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Tykhonravova
+    - 11.1:
+        non_striker: N Tykhonravova
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 11.2:
+        non_striker: N Tykhonravova
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Valner
+    - 11.3:
+        non_striker: M Valner
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 11.4:
+        non_striker: M Valner
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 11.5:
+        non_striker: M Valner
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 11.6:
+        non_striker: M Valner
+        bowler: P Agrawal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Tykhonravova
+    - 12.1:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 12.2:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Valner
+    - 12.3:
+        non_striker: M Valner
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 12.4:
+        non_striker: M Valner
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Tykhonravova
+    - 12.5:
+        non_striker: M Valner
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Tykhonravova
+    - 12.6:
+        non_striker: M Valner
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tykhonravova
+    - 12.7:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Valner
+    - 12.8:
+        non_striker: M Valner
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 13.1:
+        non_striker: N Tykhonravova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 13.2:
+        non_striker: N Tykhonravova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 13.3:
+        non_striker: N Tykhonravova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 13.4:
+        non_striker: N Tykhonravova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 13.5:
+        non_striker: N Tykhonravova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 13.6:
+        non_striker: N Tykhonravova
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Valner
+    - 14.1:
+        non_striker: N Tykhonravova
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+    - 14.2:
+        non_striker: N Tykhonravova
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Valner
+        wicket:
+          player_out: M Valner
+          kind: caught and bowled
+    - 14.3:
+        non_striker: N Tykhonravova
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 14.4:
+        non_striker: N Tykhonravova
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Viktoria Frey
+    - 14.5:
+        non_striker: Viktoria Frey
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 14.6:
+        non_striker: Viktoria Frey
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 14.7:
+        non_striker: Viktoria Frey
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 15.1:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 15.2:
+        non_striker: N Tykhonravova
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 15.3:
+        non_striker: Viktoria Frey
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+        wicket:
+          player_out: N Tykhonravova
+          kind: bowled
+    - 15.4:
+        non_striker: Viktoria Frey
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 15.5:
+        non_striker: Viktoria Frey
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 15.6:
+        non_striker: Viktoria Frey
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 16.1:
+        non_striker: E Ellermaa
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 16.2:
+        non_striker: E Ellermaa
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 16.3:
+        non_striker: E Ellermaa
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 16.4:
+        non_striker: Viktoria Frey
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 16.5:
+        non_striker: Viktoria Frey
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 16.6:
+        non_striker: Viktoria Frey
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Ellermaa
+    - 16.7:
+        non_striker: Viktoria Frey
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 17.1:
+        non_striker: E Ellermaa
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+        wicket:
+          player_out: Viktoria Frey
+          kind: bowled
+    - 17.2:
+        non_striker: E Ellermaa
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pattenden
+    - 17.3:
+        non_striker: E Ellermaa
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Pattenden
+    - 17.4:
+        non_striker: E Ellermaa
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pattenden
+    - 17.5:
+        non_striker: E Ellermaa
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pattenden
+    - 17.6:
+        non_striker: E Ellermaa
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pattenden
+    - 17.7:
+        non_striker: E Ellermaa
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pattenden
+    - 18.1:
+        non_striker: S Pattenden
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 18.2:
+        non_striker: S Pattenden
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 18.3:
+        non_striker: S Pattenden
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 18.4:
+        non_striker: S Pattenden
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ellermaa
+    - 18.5:
+        non_striker: E Ellermaa
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pattenden
+    - 18.6:
+        non_striker: E Ellermaa
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Pattenden
+    - 18.7:
+        non_striker: S Pattenden
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ellermaa
+    - 19.1:
+        non_striker: S Pattenden
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 19.2:
+        non_striker: S Pattenden
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 19.3:
+        non_striker: S Pattenden
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 19.4:
+        non_striker: S Pattenden
+        bowler: R Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Ellermaa
+    - 19.5:
+        non_striker: S Pattenden
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ellermaa
+    - 19.6:
+        non_striker: S Pattenden
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Ellermaa
+    - 19.7:
+        non_striker: E Ellermaa
+        bowler: R Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pattenden

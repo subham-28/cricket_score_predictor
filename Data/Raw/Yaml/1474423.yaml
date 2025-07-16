@@ -1,0 +1,2402 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-03-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Noumea
+  dates:
+  - '2025-03-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2188
+  outcome:
+    winner: Vanuatu
+    by:
+      runs: 8
+  overs: 20
+  player_of_match:
+  - N Navaika
+  players:
+    Vanuatu:
+    - R Andrew
+    - V Langiatu
+    - N Navaika
+    - S Solman
+    - A Chilia
+    - S Stephen
+    - V Mansale
+    - G Chilia
+    - V Vira
+    - M Tarimiala
+    - N Kakor
+    Samoa:
+    - F Sisifo
+    - J Sanele
+    - NJM Salima
+    - AF Aoina
+    - TH Semau
+    - T Iosefo
+    - O Lefaga
+    - AF Mapu
+    - A Sootaga
+    - F Malotutoatasi
+    - MFL Tafea
+  registry:
+    people:
+      A Chilia: a0d07fd6
+      A Sootaga: 967984d0
+      AF Aoina: 217f5194
+      AF Mapu: d9238aee
+      F Malotutoatasi: 3e2a2df8
+      F Sisifo: eff8319a
+      G Chilia: daf255ce
+      J Sanele: 67bd483c
+      M Tarimiala: 0030a57d
+      MFL Tafea: '01733928'
+      N Kakor: 1bc685ee
+      N Navaika: b0023708
+      NJM Salima: 13cc5f9d
+      O Lefaga: 540fb139
+      R Andrew: 66c1accf
+      S Solman: 24ed1f75
+      S Stephen: b48304b5
+      T Iosefo: 335b2768
+      TH Semau: 175d59dd
+      V Langiatu: fdd18ca0
+      V Mansale: 7163637f
+      V Vira: '94271647'
+  teams:
+  - Vanuatu
+  - Samoa
+  toss:
+    winner: Vanuatu
+    decision: bat
+  venue: N'Du Stadium, Noumea, New Caledonia
+innings:
+- 1st innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: J Sanele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.2:
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.3:
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.4:
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.5:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 0.6:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+        wicket:
+          player_out: V Langiatu
+          fielders:
+          - A Sootaga
+          kind: caught
+    - 0.7:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Navaika
+    - 0.8:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 1.1:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 1.2:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 1.3:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 1.4:
+        non_striker: R Andrew
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 1.5:
+        non_striker: R Andrew
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 1.6:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 2.1:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 2.2:
+        non_striker: N Navaika
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 2.3:
+        non_striker: N Navaika
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 2.4:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Navaika
+    - 2.5:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+    - 2.6:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Navaika
+    - 3.1:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.2:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.3:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.4:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.5:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 3.6:
+        non_striker: N Navaika
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 4.1:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Navaika
+    - 4.2:
+        non_striker: N Navaika
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 4.3:
+        non_striker: N Navaika
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 4.4:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Navaika
+        wicket:
+          player_out: N Navaika
+          fielders:
+          - NJM Salima
+          kind: caught
+    - 4.5:
+        non_striker: R Andrew
+        bowler: J Sanele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Solman
+    - 4.6:
+        non_striker: S Solman
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 5.1:
+        non_striker: R Andrew
+        bowler: O Lefaga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Solman
+    - 5.2:
+        non_striker: R Andrew
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 5.3:
+        non_striker: R Andrew
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Solman
+    - 5.4:
+        non_striker: R Andrew
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 5.5:
+        non_striker: S Solman
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 5.6:
+        non_striker: S Solman
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 5.7:
+        non_striker: R Andrew
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 6.1:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 6.2:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 6.3:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 6.4:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 6.5:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 6.6:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 7.1:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 7.2:
+        non_striker: S Solman
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 7.3:
+        non_striker: S Solman
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 7.4:
+        non_striker: S Solman
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 7.5:
+        non_striker: S Solman
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 7.6:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 7.7:
+        non_striker: S Solman
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.1:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 8.2:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 8.3:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.4:
+        non_striker: R Andrew
+        bowler: T Iosefo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Solman
+    - 8.5:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Andrew
+    - 8.6:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 8.7:
+        non_striker: R Andrew
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 9.1:
+        non_striker: S Solman
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 9.2:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 9.3:
+        non_striker: S Solman
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 9.4:
+        non_striker: S Solman
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 9.5:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 9.6:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 9.7:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 10.1:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 10.2:
+        non_striker: R Andrew
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 10.3:
+        non_striker: S Solman
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 10.4:
+        non_striker: R Andrew
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+        wicket:
+          player_out: S Solman
+          kind: bowled
+    - 10.5:
+        non_striker: R Andrew
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 10.6:
+        non_striker: R Andrew
+        bowler: T Iosefo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 11.1:
+        non_striker: A Chilia
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 11.2:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 11.3:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 11.4:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chilia
+    - 11.5:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Chilia
+    - 11.6:
+        non_striker: R Andrew
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 11.7:
+        non_striker: A Chilia
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+    - 11.8:
+        non_striker: A Chilia
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 12.1:
+        non_striker: A Chilia
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+        wicket:
+          player_out: R Andrew
+          kind: bowled
+    - 12.2:
+        non_striker: A Chilia
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 12.3:
+        non_striker: A Chilia
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 12.4:
+        non_striker: A Chilia
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 12.5:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 12.6:
+        non_striker: A Chilia
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 13.1:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chilia
+    - 13.2:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 13.3:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 13.4:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chilia
+    - 13.5:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 13.6:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 13.7:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 14.1:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 14.2:
+        non_striker: A Chilia
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 14.3:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 14.4:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 14.5:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chilia
+    - 14.6:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 14.7:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 15.1:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 15.2:
+        non_striker: A Chilia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Stephen
+    - 15.3:
+        non_striker: A Chilia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stephen
+    - 15.4:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chilia
+    - 15.5:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+        wicket:
+          player_out: A Chilia
+          kind: bowled
+    - 15.6:
+        non_striker: S Stephen
+        bowler: TH Semau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Mansale
+    - 16.1:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mansale
+    - 16.2:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mansale
+    - 16.3:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mansale
+    - 16.4:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Mansale
+    - 16.5:
+        non_striker: S Stephen
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mansale
+    - 16.6:
+        non_striker: V Mansale
+        bowler: F Sisifo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: S Stephen
+        wicket:
+          player_out: S Stephen
+          fielders:
+          - A Sootaga
+          kind: run out
+    - 16.7:
+        non_striker: V Mansale
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+    - 16.8:
+        non_striker: V Mansale
+        bowler: F Sisifo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+    - 17.1:
+        non_striker: G Chilia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Mansale
+    - 17.2:
+        non_striker: G Chilia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mansale
+    - 17.3:
+        non_striker: G Chilia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Mansale
+    - 17.4:
+        non_striker: G Chilia
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mansale
+    - 17.5:
+        non_striker: V Mansale
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+    - 17.6:
+        non_striker: V Mansale
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+    - 18.1:
+        non_striker: G Chilia
+        bowler: J Sanele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: V Mansale
+    - 18.2:
+        non_striker: V Mansale
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+    - 18.3:
+        non_striker: V Mansale
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+    - 18.4:
+        non_striker: V Mansale
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Chilia
+    - 18.5:
+        non_striker: G Chilia
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mansale
+    - 18.6:
+        non_striker: V Mansale
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+    - 19.1:
+        non_striker: G Chilia
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mansale
+        wicket:
+          player_out: V Mansale
+          kind: bowled
+    - 19.2:
+        non_striker: G Chilia
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vira
+    - 19.3:
+        non_striker: G Chilia
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vira
+    - 19.4:
+        non_striker: G Chilia
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vira
+    - 19.5:
+        non_striker: G Chilia
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vira
+    - 19.6:
+        non_striker: V Vira
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chilia
+        wicket:
+          player_out: G Chilia
+          fielders:
+          - O Lefaga
+          kind: run out
+- 2nd innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Sanele
+        batsman: F Sisifo
+    - 0.2:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Sanele
+        batsman: F Sisifo
+    - 0.3:
+        non_striker: F Sisifo
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 0.4:
+        non_striker: F Sisifo
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 0.5:
+        non_striker: F Sisifo
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sanele
+    - 0.6:
+        non_striker: J Sanele
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 1.1:
+        non_striker: F Sisifo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sanele
+    - 1.2:
+        non_striker: F Sisifo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 1.3:
+        non_striker: F Sisifo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sanele
+    - 1.4:
+        non_striker: J Sanele
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 1.5:
+        non_striker: J Sanele
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 1.6:
+        non_striker: J Sanele
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 2.1:
+        non_striker: F Sisifo
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+        wicket:
+          player_out: J Sanele
+          fielders:
+          - A Chilia
+          kind: caught
+    - 2.2:
+        non_striker: F Sisifo
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJM Salima
+    - 2.3:
+        non_striker: F Sisifo
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJM Salima
+    - 2.4:
+        non_striker: F Sisifo
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJM Salima
+    - 2.5:
+        non_striker: NJM Salima
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 2.6:
+        non_striker: NJM Salima
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 2.7:
+        non_striker: NJM Salima
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 3.1:
+        non_striker: NJM Salima
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 3.2:
+        non_striker: NJM Salima
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 3.3:
+        non_striker: F Sisifo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJM Salima
+    - 3.4:
+        non_striker: F Sisifo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJM Salima
+    - 3.5:
+        non_striker: F Sisifo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJM Salima
+    - 3.6:
+        non_striker: NJM Salima
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 4.1:
+        non_striker: F Sisifo
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJM Salima
+    - 4.2:
+        non_striker: NJM Salima
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 4.3:
+        non_striker: F Sisifo
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJM Salima
+    - 4.4:
+        non_striker: F Sisifo
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJM Salima
+        wicket:
+          player_out: NJM Salima
+          fielders:
+          - V Mansale
+          kind: caught
+    - 4.5:
+        non_striker: F Sisifo
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Aoina
+    - 4.6:
+        non_striker: AF Aoina
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 5.1:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Aoina
+    - 5.2:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+    - 5.3:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+    - 5.4:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Aoina
+    - 5.5:
+        non_striker: AF Aoina
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Sisifo
+    - 5.6:
+        non_striker: AF Aoina
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 5.7:
+        non_striker: AF Aoina
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 5.8:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Aoina
+    - 5.9:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Aoina
+    - 5.10:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+    - 6.1:
+        non_striker: AF Aoina
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 6.2:
+        non_striker: AF Aoina
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 6.3:
+        non_striker: AF Aoina
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 6.4:
+        non_striker: AF Aoina
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 6.5:
+        non_striker: F Sisifo
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Aoina
+    - 6.6:
+        non_striker: AF Aoina
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 7.1:
+        non_striker: AF Aoina
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: F Sisifo
+    - 7.2:
+        non_striker: AF Aoina
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 7.3:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Aoina
+    - 7.4:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Aoina
+    - 7.5:
+        non_striker: AF Aoina
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 7.6:
+        non_striker: AF Aoina
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 7.7:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Aoina
+    - 7.8:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Aoina
+    - 7.9:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+    - 7.10:
+        non_striker: F Sisifo
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Aoina
+    - 8.1:
+        non_striker: F Sisifo
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+    - 8.2:
+        non_striker: F Sisifo
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+    - 8.3:
+        non_striker: F Sisifo
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Aoina
+    - 8.4:
+        non_striker: AF Aoina
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 8.5:
+        non_striker: F Sisifo
+        bowler: N Kakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Aoina
+    - 8.6:
+        non_striker: F Sisifo
+        bowler: N Kakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Aoina
+    - 8.7:
+        non_striker: F Sisifo
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Aoina
+    - 8.8:
+        non_striker: AF Aoina
+        bowler: N Kakor
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: F Sisifo
+    - 8.9:
+        non_striker: F Sisifo
+        bowler: N Kakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AF Aoina
+    - 9.1:
+        non_striker: AF Aoina
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 9.2:
+        non_striker: F Sisifo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+        wicket:
+          player_out: AF Aoina
+          kind: caught and bowled
+    - 9.3:
+        non_striker: F Sisifo
+        bowler: N Navaika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TH Semau
+    - 9.4:
+        non_striker: F Sisifo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Semau
+    - 9.5:
+        non_striker: TH Semau
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 9.6:
+        non_striker: TH Semau
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 9.7:
+        non_striker: TH Semau
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 10.1:
+        non_striker: TH Semau
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 10.2:
+        non_striker: TH Semau
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 10.3:
+        non_striker: TH Semau
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+        wicket:
+          player_out: TH Semau
+          fielders:
+          - N Navaika
+          kind: run out
+    - 10.4:
+        non_striker: F Sisifo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Iosefo
+    - 10.5:
+        non_striker: T Iosefo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 10.6:
+        non_striker: T Iosefo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 11.1:
+        non_striker: T Iosefo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+        wicket:
+          player_out: F Sisifo
+          fielders:
+          - V Vira
+          kind: caught
+    - 11.2:
+        non_striker: T Iosefo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 11.3:
+        non_striker: T Iosefo
+        bowler: N Navaika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Lefaga
+    - 11.4:
+        non_striker: T Iosefo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 11.5:
+        non_striker: T Iosefo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 11.6:
+        non_striker: T Iosefo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 11.7:
+        non_striker: T Iosefo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 12.1:
+        non_striker: O Lefaga
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Iosefo
+    - 12.2:
+        non_striker: T Iosefo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 12.3:
+        non_striker: T Iosefo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Lefaga
+    - 12.4:
+        non_striker: O Lefaga
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Iosefo
+    - 12.5:
+        non_striker: T Iosefo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Lefaga
+    - 12.6:
+        non_striker: T Iosefo
+        bowler: V Vira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 13.1:
+        non_striker: O Lefaga
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Iosefo
+    - 13.2:
+        non_striker: O Lefaga
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Iosefo
+    - 13.3:
+        non_striker: T Iosefo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 13.4:
+        non_striker: T Iosefo
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Lefaga
+    - 13.5:
+        non_striker: O Lefaga
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Iosefo
+        wicket:
+          player_out: T Iosefo
+          fielders:
+          - R Andrew
+          kind: caught
+    - 13.6:
+        non_striker: O Lefaga
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Mapu
+    - 14.1:
+        non_striker: AF Mapu
+        bowler: G Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 14.2:
+        non_striker: AF Mapu
+        bowler: G Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 14.3:
+        non_striker: AF Mapu
+        bowler: G Chilia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Lefaga
+    - 14.4:
+        non_striker: AF Mapu
+        bowler: G Chilia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Lefaga
+    - 14.5:
+        non_striker: AF Mapu
+        bowler: G Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 14.6:
+        non_striker: AF Mapu
+        bowler: G Chilia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Lefaga
+    - 14.7:
+        non_striker: AF Mapu
+        bowler: G Chilia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Lefaga
+    - 14.8:
+        non_striker: AF Mapu
+        bowler: G Chilia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Lefaga
+    - 14.9:
+        non_striker: O Lefaga
+        bowler: G Chilia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Mapu
+    - 15.1:
+        non_striker: AF Mapu
+        bowler: N Navaika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Lefaga
+    - 15.2:
+        non_striker: AF Mapu
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 15.3:
+        non_striker: AF Mapu
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 15.4:
+        non_striker: AF Mapu
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 15.5:
+        non_striker: AF Mapu
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Lefaga
+    - 15.6:
+        non_striker: O Lefaga
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Mapu
+        wicket:
+          player_out: AF Mapu
+          fielders:
+          - M Tarimiala
+          kind: caught
+    - 15.7:
+        non_striker: O Lefaga
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sootaga
+    - 16.1:
+        non_striker: O Lefaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sootaga
+    - 16.2:
+        non_striker: A Sootaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 16.3:
+        non_striker: A Sootaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 16.4:
+        non_striker: A Sootaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Lefaga
+    - 16.5:
+        non_striker: O Lefaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 16.6:
+        non_striker: O Lefaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sootaga
+    - 17.1:
+        non_striker: O Lefaga
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 17.2:
+        non_striker: O Lefaga
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sootaga
+    - 17.3:
+        non_striker: O Lefaga
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 17.4:
+        non_striker: O Lefaga
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 17.5:
+        non_striker: O Lefaga
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 17.6:
+        non_striker: O Lefaga
+        bowler: R Andrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sootaga
+    - 17.7:
+        non_striker: O Lefaga
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sootaga
+    - 17.8:
+        non_striker: O Lefaga
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 18.1:
+        non_striker: A Sootaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 18.2:
+        non_striker: A Sootaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Lefaga
+    - 18.3:
+        non_striker: A Sootaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 18.4:
+        non_striker: A Sootaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+    - 18.5:
+        non_striker: A Sootaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lefaga
+        wicket:
+          player_out: O Lefaga
+          fielders:
+          - M Tarimiala
+          kind: caught
+    - 18.6:
+        non_striker: A Sootaga
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malotutoatasi
+    - 19.1:
+        non_striker: F Malotutoatasi
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sootaga
+    - 19.2:
+        non_striker: A Sootaga
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malotutoatasi
+    - 19.3:
+        non_striker: A Sootaga
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Malotutoatasi
+    - 19.4:
+        non_striker: F Malotutoatasi
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sootaga
+    - 19.5:
+        non_striker: F Malotutoatasi
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sootaga
+    - 19.6:
+        non_striker: A Sootaga
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Malotutoatasi

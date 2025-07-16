@@ -1,0 +1,2234 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Port  Soif
+  dates:
+  - '2024-08-28'
+  gender: male
+  match_type: T20
+  match_type_number: 2821
+  outcome:
+    winner: Cyprus
+    by:
+      runs: 6
+  overs: 20
+  player_of_match:
+  - S Burdekin
+  players:
+    Cyprus:
+    - R Mazumder
+    - MPGT Ketiyage
+    - CPPM Sadun
+    - S Austin
+    - S Burdekin
+    - J Chialoufas
+    - R Siriwardena
+    - Taranjit Singh
+    - P Deol
+    - SN Pathirana
+    - B Mahesh
+    Malta:
+    - R Dianish
+    - Zeeshan Khan
+    - B George
+    - Jaspal Singh
+    - Jaswinder Singh
+    - DR Patankar
+    - E Mathew
+    - C Sudarsanan
+    - VRB Arachchige
+    - G Thakur
+    - J Shaju
+  registry:
+    people:
+      B George: 1bdbf53b
+      B Mahesh: 90bd1f11
+      C Sudarsanan: 391a825b
+      CPPM Sadun: 2cf2fc9e
+      DR Patankar: e661915c
+      E Mathew: e00acf74
+      G Thakur: '93720584'
+      GH Pienaar: 3516e46b
+      J Chialoufas: 90eac542
+      J Shaju: d8bee9a1
+      Jareth McCready: 84fa5232
+      Jaspal Singh: adca37a2
+      Jaswinder Singh: 63aa8148
+      MPGT Ketiyage: 2d45d7d2
+      P Deol: ecfa6005
+      R Dianish: 17e2a2d6
+      R Mazumder: b23d3ec5
+      R Siriwardena: c3ba4942
+      RJ Warren: 9d1c62d7
+      S Austin: 40ee633c
+      S Burdekin: 98e3f1de
+      S Wood: fe38aa0b
+      SN Pathirana: f4000a7d
+      Taranjit Singh: 985b649e
+      VRB Arachchige: 70e1b3a8
+      Zeeshan Khan: 3f9b1a96
+  teams:
+  - Cyprus
+  - Malta
+  toss:
+    winner: Malta
+    decision: field
+  umpires:
+  - Jareth McCready
+  - S Wood
+  venue: Guernsey Rovers Athletic Club Ground, Port Soif
+innings:
+- 1st innings:
+    team: Cyprus
+    deliveries:
+    - 0.1:
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MPGT Ketiyage
+        batsman: R Mazumder
+    - 0.2:
+        non_striker: R Mazumder
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 0.3:
+        non_striker: R Mazumder
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPGT Ketiyage
+    - 0.4:
+        non_striker: R Mazumder
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 0.5:
+        non_striker: R Mazumder
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 0.6:
+        non_striker: MPGT Ketiyage
+        bowler: E Mathew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Mazumder
+    - 0.7:
+        non_striker: MPGT Ketiyage
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mazumder
+    - 1.1:
+        non_striker: R Mazumder
+        bowler: J Shaju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPGT Ketiyage
+    - 1.2:
+        non_striker: R Mazumder
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 1.3:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mazumder
+        wicket:
+          player_out: R Mazumder
+          fielders:
+          - DR Patankar
+          kind: caught
+    - 1.4:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CPPM Sadun
+    - 1.5:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CPPM Sadun
+    - 1.6:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CPPM Sadun
+    - 1.7:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CPPM Sadun
+    - 1.8:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CPPM Sadun
+    - 2.1:
+        non_striker: CPPM Sadun
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPGT Ketiyage
+    - 2.2:
+        non_striker: CPPM Sadun
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 2.3:
+        non_striker: CPPM Sadun
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 2.4:
+        non_striker: CPPM Sadun
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 2.5:
+        non_striker: CPPM Sadun
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 2.6:
+        non_striker: MPGT Ketiyage
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 3.1:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CPPM Sadun
+    - 3.2:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 3.3:
+        non_striker: CPPM Sadun
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 3.4:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CPPM Sadun
+    - 3.5:
+        non_striker: MPGT Ketiyage
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 3.6:
+        non_striker: CPPM Sadun
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPGT Ketiyage
+    - 3.7:
+        non_striker: CPPM Sadun
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 4.1:
+        non_striker: MPGT Ketiyage
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 4.2:
+        non_striker: CPPM Sadun
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 4.3:
+        non_striker: MPGT Ketiyage
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 4.4:
+        non_striker: CPPM Sadun
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 4.5:
+        non_striker: CPPM Sadun
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MPGT Ketiyage
+    - 4.6:
+        non_striker: CPPM Sadun
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 5.1:
+        non_striker: MPGT Ketiyage
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 5.2:
+        non_striker: CPPM Sadun
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 5.3:
+        non_striker: MPGT Ketiyage
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CPPM Sadun
+    - 5.4:
+        non_striker: MPGT Ketiyage
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 5.5:
+        non_striker: CPPM Sadun
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPGT Ketiyage
+    - 5.6:
+        non_striker: CPPM Sadun
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 6.1:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 6.2:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 6.3:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPGT Ketiyage
+    - 6.4:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 6.5:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 6.6:
+        non_striker: MPGT Ketiyage
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CPPM Sadun
+    - 7.1:
+        non_striker: CPPM Sadun
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+        wicket:
+          player_out: MPGT Ketiyage
+          kind: bowled
+    - 7.2:
+        non_striker: CPPM Sadun
+        bowler: Jaswinder Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Austin
+    - 7.3:
+        non_striker: CPPM Sadun
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Austin
+    - 7.4:
+        non_striker: CPPM Sadun
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Austin
+    - 7.5:
+        non_striker: CPPM Sadun
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Austin
+    - 7.6:
+        non_striker: S Austin
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 7.7:
+        non_striker: CPPM Sadun
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Austin
+    - 8.1:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Austin
+    - 8.2:
+        non_striker: S Austin
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 8.3:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Austin
+    - 8.4:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Austin
+    - 8.5:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Austin
+    - 8.6:
+        non_striker: CPPM Sadun
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Austin
+    - 9.1:
+        non_striker: CPPM Sadun
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Austin
+    - 9.2:
+        non_striker: S Austin
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CPPM Sadun
+    - 9.3:
+        non_striker: S Austin
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CPPM Sadun
+    - 9.4:
+        non_striker: S Austin
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 9.5:
+        non_striker: CPPM Sadun
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Austin
+    - 9.6:
+        non_striker: CPPM Sadun
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Austin
+    - 10.1:
+        non_striker: CPPM Sadun
+        bowler: B George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Austin
+    - 10.2:
+        non_striker: S Austin
+        bowler: B George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CPPM Sadun
+    - 10.3:
+        non_striker: S Austin
+        bowler: B George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CPPM Sadun
+    - 10.4:
+        non_striker: S Austin
+        bowler: B George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 10.5:
+        non_striker: CPPM Sadun
+        bowler: B George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Austin
+    - 10.6:
+        non_striker: CPPM Sadun
+        bowler: B George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Austin
+    - 11.1:
+        non_striker: S Austin
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 11.2:
+        non_striker: CPPM Sadun
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Austin
+    - 11.3:
+        non_striker: CPPM Sadun
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Austin
+    - 11.4:
+        non_striker: S Austin
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CPPM Sadun
+    - 11.5:
+        non_striker: CPPM Sadun
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Austin
+    - 11.6:
+        non_striker: S Austin
+        bowler: R Dianish
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CPPM Sadun
+        wicket:
+          player_out: CPPM Sadun
+          fielders:
+          - C Sudarsanan
+          kind: caught
+    - 12.1:
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Burdekin
+        batsman: S Austin
+    - 12.2:
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Burdekin
+        batsman: S Austin
+    - 12.3:
+        non_striker: S Austin
+        bowler: Jaspal Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Burdekin
+    - 12.4:
+        non_striker: S Austin
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Burdekin
+    - 12.5:
+        non_striker: S Austin
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Burdekin
+        wicket:
+          player_out: S Burdekin
+          fielders:
+          - B George
+          kind: caught
+    - 12.6:
+        non_striker: S Austin
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chialoufas
+    - 12.7:
+        non_striker: S Austin
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chialoufas
+    - 13.1:
+        non_striker: S Austin
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chialoufas
+    - 13.2:
+        non_striker: S Austin
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chialoufas
+    - 13.3:
+        non_striker: J Chialoufas
+        bowler: Jaswinder Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Austin
+    - 13.4:
+        non_striker: S Austin
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chialoufas
+    - 13.5:
+        non_striker: J Chialoufas
+        bowler: Jaswinder Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Austin
+    - 13.6:
+        non_striker: J Chialoufas
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Austin
+        wicket:
+          player_out: S Austin
+          fielders:
+          - VRB Arachchige
+          kind: caught
+    - 13.7:
+        non_striker: J Chialoufas
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Siriwardena
+    - 14.1:
+        non_striker: J Chialoufas
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Siriwardena
+    - 14.2:
+        non_striker: R Siriwardena
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chialoufas
+    - 14.3:
+        non_striker: J Chialoufas
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Siriwardena
+    - 14.4:
+        non_striker: J Chialoufas
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Siriwardena
+    - 14.5:
+        non_striker: J Chialoufas
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Siriwardena
+    - 14.6:
+        non_striker: R Siriwardena
+        bowler: Jaspal Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chialoufas
+    - 15.1:
+        non_striker: R Siriwardena
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chialoufas
+    - 15.2:
+        non_striker: J Chialoufas
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Siriwardena
+    - 15.3:
+        non_striker: R Siriwardena
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Chialoufas
+    - 15.4:
+        non_striker: R Siriwardena
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Chialoufas
+    - 15.5:
+        non_striker: J Chialoufas
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Siriwardena
+    - 15.6:
+        non_striker: J Chialoufas
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Siriwardena
+        wicket:
+          player_out: R Siriwardena
+          kind: bowled
+    - 16.1:
+        non_striker: Taranjit Singh
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Chialoufas
+        wicket:
+          player_out: J Chialoufas
+          fielders:
+          - R Dianish
+          kind: caught
+    - 16.2:
+        non_striker: Taranjit Singh
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Deol
+    - 16.3:
+        non_striker: P Deol
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjit Singh
+    - 16.4:
+        non_striker: P Deol
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjit Singh
+        wicket:
+          player_out: Taranjit Singh
+          fielders:
+          - B George
+          kind: caught
+    - 16.5:
+        non_striker: P Deol
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Pathirana
+    - 16.6:
+        non_striker: P Deol
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Pathirana
+    - 17.1:
+        non_striker: P Deol
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Pathirana
+    - 17.2:
+        non_striker: SN Pathirana
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Deol
+    - 17.3:
+        non_striker: SN Pathirana
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Deol
+    - 17.4:
+        non_striker: SN Pathirana
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Deol
+    - 17.5:
+        non_striker: SN Pathirana
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Deol
+    - 17.6:
+        non_striker: SN Pathirana
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Deol
+    - 18.1:
+        non_striker: SN Pathirana
+        bowler: VRB Arachchige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Deol
+    - 18.2:
+        non_striker: P Deol
+        bowler: VRB Arachchige
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SN Pathirana
+    - 18.3:
+        non_striker: P Deol
+        bowler: VRB Arachchige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Pathirana
+    - 18.4:
+        non_striker: SN Pathirana
+        bowler: VRB Arachchige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Deol
+    - 18.5:
+        non_striker: P Deol
+        bowler: VRB Arachchige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Pathirana
+    - 18.6:
+        non_striker: P Deol
+        bowler: VRB Arachchige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Pathirana
+    - 18.7:
+        non_striker: SN Pathirana
+        bowler: VRB Arachchige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Deol
+        wicket:
+          player_out: P Deol
+          fielders:
+          - C Sudarsanan
+          kind: caught
+    - 19.1:
+        bowler: Jaswinder Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: B Mahesh
+        batsman: SN Pathirana
+    - 19.2:
+        non_striker: SN Pathirana
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Mahesh
+    - 19.3:
+        non_striker: B Mahesh
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Pathirana
+        wicket:
+          player_out: SN Pathirana
+          fielders:
+          - C Sudarsanan
+          kind: caught
+- 2nd innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Khan
+        batsman: R Dianish
+    - 0.2:
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Khan
+        batsman: R Dianish
+    - 0.3:
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Khan
+        batsman: R Dianish
+    - 0.4:
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Zeeshan Khan
+        batsman: R Dianish
+    - 0.5:
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Khan
+        batsman: R Dianish
+    - 0.6:
+        non_striker: Zeeshan Khan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 1.1:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 1.2:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 1.3:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 1.4:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 1.5:
+        non_striker: Zeeshan Khan
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 1.6:
+        non_striker: Zeeshan Khan
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 2.1:
+        non_striker: R Dianish
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 2.2:
+        non_striker: Zeeshan Khan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 2.3:
+        non_striker: R Dianish
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 2.4:
+        non_striker: R Dianish
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeeshan Khan
+    - 2.5:
+        non_striker: R Dianish
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 2.6:
+        non_striker: R Dianish
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 2.7:
+        non_striker: R Dianish
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 3.1:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 3.2:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 3.3:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 3.4:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 3.5:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 3.6:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 4.1:
+        non_striker: Zeeshan Khan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 4.2:
+        non_striker: Zeeshan Khan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 4.3:
+        non_striker: Zeeshan Khan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 4.4:
+        non_striker: Zeeshan Khan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 4.5:
+        non_striker: Zeeshan Khan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 4.6:
+        non_striker: Zeeshan Khan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 5.1:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 5.2:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 5.3:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 5.4:
+        non_striker: Zeeshan Khan
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 5.5:
+        non_striker: Zeeshan Khan
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 5.6:
+        non_striker: Zeeshan Khan
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 6.1:
+        non_striker: R Dianish
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 6.2:
+        non_striker: Zeeshan Khan
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 6.3:
+        non_striker: Zeeshan Khan
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 6.4:
+        non_striker: R Dianish
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 6.5:
+        non_striker: R Dianish
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 6.6:
+        non_striker: Zeeshan Khan
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 7.1:
+        non_striker: Zeeshan Khan
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 7.2:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+        wicket:
+          player_out: Zeeshan Khan
+          fielders:
+          - MPGT Ketiyage
+          kind: caught
+    - 7.3:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 7.4:
+        non_striker: B George
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dianish
+    - 7.5:
+        non_striker: B George
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 7.6:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 8.1:
+        non_striker: B George
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 8.2:
+        non_striker: B George
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 8.3:
+        non_striker: B George
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 8.4:
+        non_striker: R Dianish
+        bowler: CPPM Sadun
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: B George
+    - 8.5:
+        non_striker: B George
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 8.6:
+        non_striker: B George
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 8.7:
+        non_striker: B George
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dianish
+    - 9.1:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 9.2:
+        non_striker: B George
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 9.3:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+        wicket:
+          player_out: B George
+          fielders:
+          - MPGT Ketiyage
+          kind: caught
+    - 9.4:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 9.5:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspal Singh
+    - 9.6:
+        non_striker: Jaspal Singh
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 10.1:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 10.2:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 10.3:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspal Singh
+    - 10.4:
+        non_striker: Jaspal Singh
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 10.5:
+        non_striker: Jaspal Singh
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 10.6:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspal Singh
+    - 11.1:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 11.2:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 11.3:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 11.4:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 11.5:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Jaspal Singh
+    - 11.6:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jaspal Singh
+    - 11.7:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jaspal Singh
+    - 12.1:
+        non_striker: Jaspal Singh
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 12.2:
+        non_striker: Jaspal Singh
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dianish
+    - 12.3:
+        non_striker: Jaspal Singh
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 12.4:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 12.5:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 12.6:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspal Singh
+    - 13.1:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+        wicket:
+          player_out: Jaspal Singh
+          fielders:
+          - R Mazumder
+          kind: caught
+    - 13.2:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaswinder Singh
+    - 13.3:
+        non_striker: Jaswinder Singh
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 13.4:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaswinder Singh
+        wicket:
+          player_out: Jaswinder Singh
+          fielders:
+          - SN Pathirana
+          kind: stumped
+    - 13.5:
+        non_striker: R Dianish
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 13.6:
+        non_striker: DR Patankar
+        bowler: S Burdekin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dianish
+    - 14.1:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 14.2:
+        non_striker: DR Patankar
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 14.3:
+        non_striker: DR Patankar
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 14.4:
+        non_striker: DR Patankar
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 14.5:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 14.6:
+        non_striker: DR Patankar
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dianish
+    - 15.1:
+        non_striker: R Dianish
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 15.2:
+        non_striker: DR Patankar
+        bowler: CPPM Sadun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Dianish
+    - 15.3:
+        non_striker: DR Patankar
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 15.4:
+        non_striker: DR Patankar
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 15.5:
+        non_striker: R Dianish
+        bowler: CPPM Sadun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Patankar
+    - 15.6:
+        non_striker: R Dianish
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Patankar
+    - 15.7:
+        non_striker: R Dianish
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 15.8:
+        non_striker: DR Patankar
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 16.1:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Patankar
+    - 16.2:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Patankar
+    - 16.3:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Patankar
+    - 16.4:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Patankar
+    - 16.5:
+        non_striker: R Dianish
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 16.6:
+        non_striker: DR Patankar
+        bowler: P Deol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 17.1:
+        non_striker: R Dianish
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 17.2:
+        non_striker: DR Patankar
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 17.3:
+        non_striker: DR Patankar
+        bowler: Taranjit Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Dianish
+    - 17.4:
+        non_striker: DR Patankar
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dianish
+    - 17.5:
+        non_striker: DR Patankar
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 17.6:
+        non_striker: DR Patankar
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+        wicket:
+          player_out: R Dianish
+          fielders:
+          - CPPM Sadun
+          kind: caught
+    - 17.7:
+        non_striker: DR Patankar
+        bowler: Taranjit Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Mathew
+    - 18.1:
+        non_striker: DR Patankar
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Mathew
+    - 18.2:
+        non_striker: DR Patankar
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Mathew
+        wicket:
+          player_out: E Mathew
+          fielders:
+          - P Deol
+          kind: caught
+    - 18.3:
+        non_striker: DR Patankar
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Sudarsanan
+    - 18.4:
+        non_striker: C Sudarsanan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Patankar
+    - 18.5:
+        non_striker: C Sudarsanan
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 18.6:
+        non_striker: DR Patankar
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sudarsanan
+    - 19.1:
+        non_striker: C Sudarsanan
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Patankar
+    - 19.2:
+        non_striker: C Sudarsanan
+        bowler: CPPM Sadun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Patankar
+    - 19.3:
+        non_striker: C Sudarsanan
+        bowler: CPPM Sadun
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DR Patankar
+    - 19.4:
+        non_striker: DR Patankar
+        bowler: CPPM Sadun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: C Sudarsanan
+    - 19.5:
+        non_striker: C Sudarsanan
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 19.6:
+        non_striker: DR Patankar
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sudarsanan
+        wicket:
+          player_out: C Sudarsanan
+          fielders:
+          - CPPM Sadun
+          - SN Pathirana
+          kind: run out
+    - 19.7:
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: VRB Arachchige
+        batsman: DR Patankar
+    - 19.8:
+        non_striker: VRB Arachchige
+        bowler: CPPM Sadun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar

@@ -1,0 +1,2183 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-08'
+  gender: male
+  match_type: T20
+  match_type_number: 3019
+  outcome:
+    winner: Bahamas
+    by:
+      runs: 18
+  overs: 20
+  player_of_match:
+  - Festus Benn
+  players:
+    Bahamas:
+    - M Taylor
+    - K Hinds
+    - E Duff
+    - D Wheatley
+    - J Jemison
+    - Festus Benn
+    - Rudolph Fox
+    - Sandeep Goud
+    - R Davson
+    - A Harris
+    - DG Weakley
+    Argentina:
+    - Lucas Rossi
+    - Guido Angeletti
+    - P Baron
+    - A Kirschbaum
+    - T Rossi
+    - AAP Rivero
+    - A Ferguson
+    - A Mustafa
+    - H Fennell
+    - Manuel Iturbe
+    - Santiago Iturbe
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Harris: bbafa5d6
+      A Kirschbaum: d953bf92
+      A Mustafa: a4571ba9
+      AAP Rivero: 1911dcbc
+      C La Borde: 32157f67
+      D Wheatley: '04539335'
+      DG Weakley: 224a9f5e
+      E Duff: b7873c81
+      Festus Benn: de6b3760
+      Guido Angeletti: 6d6f52fc
+      H Fennell: 0d38ab25
+      H Grewal: 1172f36e
+      J Jemison: ce1abd25
+      K Hinds: a268c07b
+      Lucas Rossi: 2064e555
+      M Taylor: 92075cdc
+      Manuel Iturbe: bddbf5ec
+      P Baron: c6d1b1e4
+      Phil Whitticase: 99d5f6fa
+      R Davson: 7804d401
+      Rudolph Fox: fd1041d2
+      Sandeep Goud: c83ef4d6
+      Santiago Iturbe: 851b0636
+      T Rossi: 5470418a
+      Vijaya Mallela: 85b6244a
+  teams:
+  - Bahamas
+  - Argentina
+  toss:
+    winner: Bahamas
+    decision: bat
+  umpires:
+  - C La Borde
+  - Vijaya Mallela
+  venue: Hurlingham Club Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.2:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.3:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.4:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.5:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.6:
+        non_striker: K Hinds
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 1.1:
+        non_striker: K Hinds
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 1.2:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 1.3:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 1.4:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 1.5:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 1.6:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 2.1:
+        non_striker: K Hinds
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 2.2:
+        non_striker: K Hinds
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 2.3:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+        wicket:
+          player_out: K Hinds
+          fielders:
+          - Santiago Iturbe
+          kind: caught
+    - 2.4:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 2.5:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 2.6:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 2.7:
+        non_striker: E Duff
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.1:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 3.2:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 3.3:
+        non_striker: E Duff
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.4:
+        non_striker: E Duff
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 3.5:
+        non_striker: E Duff
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.6:
+        non_striker: E Duff
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 4.1:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 4.2:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 4.3:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 4.4:
+        non_striker: E Duff
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 4.5:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 4.6:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.1:
+        non_striker: E Duff
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 5.2:
+        non_striker: E Duff
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 5.3:
+        non_striker: E Duff
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 5.4:
+        non_striker: M Taylor
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.5:
+        non_striker: M Taylor
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 5.6:
+        non_striker: E Duff
+        bowler: Guido Angeletti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 5.7:
+        non_striker: E Duff
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 6.1:
+        non_striker: M Taylor
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 6.2:
+        non_striker: M Taylor
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 6.3:
+        non_striker: E Duff
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 6.4:
+        non_striker: E Duff
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 6.5:
+        non_striker: E Duff
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 6.6:
+        non_striker: E Duff
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Taylor
+    - 6.7:
+        non_striker: E Duff
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 6.8:
+        non_striker: E Duff
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 6.9:
+        non_striker: M Taylor
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 7.1:
+        non_striker: E Duff
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 7.2:
+        non_striker: M Taylor
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 7.3:
+        non_striker: M Taylor
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 7.4:
+        non_striker: E Duff
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 7.5:
+        non_striker: M Taylor
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 7.6:
+        non_striker: E Duff
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 8.1:
+        non_striker: M Taylor
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 8.2:
+        non_striker: M Taylor
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 8.3:
+        non_striker: E Duff
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 8.4:
+        non_striker: E Duff
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 8.5:
+        non_striker: M Taylor
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+        wicket:
+          player_out: E Duff
+          fielders:
+          - Santiago Iturbe
+          kind: caught
+    - 8.6:
+        non_striker: M Taylor
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 9.1:
+        non_striker: D Wheatley
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+        wicket:
+          player_out: M Taylor
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 9.2:
+        non_striker: D Wheatley
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 9.3:
+        non_striker: D Wheatley
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 9.4:
+        non_striker: D Wheatley
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 9.5:
+        non_striker: D Wheatley
+        bowler: Guido Angeletti
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: J Jemison
+    - 9.6:
+        non_striker: J Jemison
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 9.7:
+        non_striker: J Jemison
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 10.1:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 10.2:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 10.3:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 10.4:
+        non_striker: D Wheatley
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 10.5:
+        non_striker: D Wheatley
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 10.6:
+        non_striker: D Wheatley
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 11.1:
+        non_striker: J Jemison
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 11.2:
+        non_striker: J Jemison
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 11.3:
+        non_striker: D Wheatley
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 11.4:
+        non_striker: J Jemison
+        bowler: Guido Angeletti
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: D Wheatley
+    - 11.5:
+        non_striker: D Wheatley
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 11.6:
+        non_striker: J Jemison
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 11.7:
+        non_striker: D Wheatley
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 12.1:
+        non_striker: D Wheatley
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 12.2:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 12.3:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+        wicket:
+          player_out: D Wheatley
+          fielders:
+          - A Mustafa
+          kind: caught
+    - 12.4:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 12.5:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 12.6:
+        non_striker: Festus Benn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Jemison
+    - 13.1:
+        non_striker: J Jemison
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 13.2:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 13.3:
+        non_striker: J Jemison
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Festus Benn
+    - 13.4:
+        non_striker: J Jemison
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 13.5:
+        non_striker: J Jemison
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 13.6:
+        non_striker: J Jemison
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 14.1:
+        non_striker: Festus Benn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Jemison
+    - 14.2:
+        non_striker: Festus Benn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 14.3:
+        non_striker: Festus Benn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 14.4:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Festus Benn
+    - 14.5:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 14.6:
+        non_striker: J Jemison
+        bowler: Lucas Rossi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Festus Benn
+    - 14.7:
+        non_striker: Festus Benn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 15.1:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Jemison
+    - 15.2:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 15.3:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+        wicket:
+          player_out: J Jemison
+          fielders:
+          - Guido Angeletti
+          kind: caught
+    - 15.4:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 15.5:
+        non_striker: Rudolph Fox
+        bowler: AAP Rivero
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Festus Benn
+    - 15.6:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 16.1:
+        non_striker: Festus Benn
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+        wicket:
+          player_out: Rudolph Fox
+          fielders:
+          - AAP Rivero
+          kind: caught
+    - 16.2:
+        non_striker: Festus Benn
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 16.3:
+        non_striker: Festus Benn
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sandeep Goud
+    - 16.4:
+        non_striker: Sandeep Goud
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Festus Benn
+    - 16.5:
+        non_striker: Festus Benn
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 16.6:
+        non_striker: Festus Benn
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sandeep Goud
+    - 16.7:
+        non_striker: Festus Benn
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 17.1:
+        non_striker: Sandeep Goud
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 17.2:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 17.3:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 17.4:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 17.5:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+        wicket:
+          player_out: Sandeep Goud
+          kind: bowled
+    - 17.6:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 18.1:
+        non_striker: R Davson
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 18.2:
+        non_striker: Festus Benn
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 18.3:
+        non_striker: R Davson
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 18.4:
+        non_striker: Festus Benn
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 18.5:
+        non_striker: Festus Benn
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 18.6:
+        non_striker: R Davson
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Festus Benn
+    - 19.1:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 19.2:
+        non_striker: R Davson
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Festus Benn
+    - 19.3:
+        non_striker: R Davson
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 19.4:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+        wicket:
+          player_out: R Davson
+          kind: bowled
+    - 19.5:
+        non_striker: Festus Benn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Harris
+    - 19.6:
+        non_striker: A Harris
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Festus Benn
+- 2nd innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.2:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.3:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 0.4:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 0.5:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 0.6:
+        non_striker: Guido Angeletti
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 1.1:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 1.2:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 1.3:
+        non_striker: Guido Angeletti
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 1.4:
+        non_striker: Guido Angeletti
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 1.5:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 1.6:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Guido Angeletti
+    - 2.1:
+        non_striker: Guido Angeletti
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 2.2:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 2.3:
+        non_striker: Guido Angeletti
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Lucas Rossi
+    - 2.4:
+        non_striker: Guido Angeletti
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 2.5:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 2.6:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Guido Angeletti
+    - 3.1:
+        non_striker: Guido Angeletti
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 3.2:
+        non_striker: Guido Angeletti
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 3.3:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 3.4:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 3.5:
+        non_striker: Guido Angeletti
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 3.6:
+        non_striker: Guido Angeletti
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 4.1:
+        non_striker: Guido Angeletti
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 4.2:
+        non_striker: Guido Angeletti
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Lucas Rossi
+    - 4.3:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 4.4:
+        non_striker: Guido Angeletti
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 4.5:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 4.6:
+        non_striker: Guido Angeletti
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 5.1:
+        non_striker: Guido Angeletti
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 5.2:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 5.3:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 5.4:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 5.5:
+        non_striker: Lucas Rossi
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 5.6:
+        non_striker: Guido Angeletti
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 6.1:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 6.2:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 6.3:
+        non_striker: Guido Angeletti
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Lucas Rossi
+    - 6.4:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 6.5:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 6.6:
+        non_striker: Lucas Rossi
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 7.1:
+        non_striker: Guido Angeletti
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 7.2:
+        non_striker: Guido Angeletti
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 7.3:
+        non_striker: Guido Angeletti
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 7.4:
+        non_striker: Guido Angeletti
+        bowler: K Hinds
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Lucas Rossi
+    - 7.5:
+        non_striker: Lucas Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 7.6:
+        non_striker: Guido Angeletti
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 7.7:
+        non_striker: Guido Angeletti
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+        wicket:
+          player_out: Guido Angeletti
+          fielders:
+          - DG Weakley
+          kind: run out
+    - 8.1:
+        non_striker: Lucas Rossi
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 8.2:
+        non_striker: P Baron
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lucas Rossi
+    - 8.3:
+        non_striker: P Baron
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 8.4:
+        non_striker: Lucas Rossi
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 8.5:
+        non_striker: Lucas Rossi
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 8.6:
+        non_striker: P Baron
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Lucas Rossi
+    - 9.1:
+        non_striker: Lucas Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 9.2:
+        non_striker: Lucas Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 9.3:
+        non_striker: Lucas Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 9.4:
+        non_striker: Lucas Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 9.5:
+        non_striker: Lucas Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 9.6:
+        non_striker: Lucas Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 10.1:
+        non_striker: P Baron
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 10.2:
+        non_striker: Lucas Rossi
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 10.3:
+        non_striker: Lucas Rossi
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          kind: caught and bowled
+    - 10.4:
+        non_striker: Lucas Rossi
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 10.5:
+        non_striker: Lucas Rossi
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 10.6:
+        non_striker: Lucas Rossi
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 11.1:
+        non_striker: Lucas Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 11.2:
+        non_striker: A Kirschbaum
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+        wicket:
+          player_out: Lucas Rossi
+          fielders:
+          - E Duff
+          kind: caught
+    - 11.3:
+        non_striker: A Kirschbaum
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 11.4:
+        non_striker: A Kirschbaum
+        bowler: K Hinds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Rossi
+    - 11.5:
+        non_striker: T Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 11.6:
+        non_striker: T Rossi
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 12.1:
+        non_striker: T Rossi
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 12.2:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 12.3:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 12.4:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 12.5:
+        non_striker: T Rossi
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 12.6:
+        non_striker: T Rossi
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 13.1:
+        non_striker: A Kirschbaum
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 13.2:
+        non_striker: A Kirschbaum
+        bowler: Rudolph Fox
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Rossi
+    - 13.3:
+        non_striker: A Kirschbaum
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 13.4:
+        non_striker: T Rossi
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 13.5:
+        non_striker: T Rossi
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 13.6:
+        non_striker: A Kirschbaum
+        bowler: Rudolph Fox
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Rossi
+    - 13.7:
+        non_striker: T Rossi
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 14.1:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 14.2:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+        wicket:
+          player_out: T Rossi
+          kind: bowled
+    - 14.3:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 14.4:
+        non_striker: AAP Rivero
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 14.5:
+        non_striker: AAP Rivero
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 14.6:
+        non_striker: AAP Rivero
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 15.1:
+        non_striker: A Kirschbaum
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 15.2:
+        non_striker: A Kirschbaum
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 15.3:
+        non_striker: AAP Rivero
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Kirschbaum
+    - 15.4:
+        non_striker: AAP Rivero
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 15.5:
+        non_striker: AAP Rivero
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 15.6:
+        non_striker: A Kirschbaum
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 16.1:
+        non_striker: AAP Rivero
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 16.2:
+        non_striker: AAP Rivero
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 16.3:
+        non_striker: A Kirschbaum
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 16.4:
+        non_striker: AAP Rivero
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 16.5:
+        non_striker: A Kirschbaum
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 16.6:
+        non_striker: A Kirschbaum
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 17.1:
+        non_striker: A Kirschbaum
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 17.2:
+        non_striker: A Kirschbaum
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 17.3:
+        non_striker: A Kirschbaum
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 17.4:
+        non_striker: A Kirschbaum
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 17.5:
+        non_striker: AAP Rivero
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 17.6:
+        non_striker: A Kirschbaum
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 18.1:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 18.2:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+        wicket:
+          player_out: AAP Rivero
+          fielders:
+          - J Jemison
+          kind: stumped
+    - 18.3:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 18.4:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 18.5:
+        non_striker: A Ferguson
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 18.6:
+        non_striker: A Kirschbaum
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 19.1:
+        non_striker: A Ferguson
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kirschbaum
+    - 19.2:
+        non_striker: A Kirschbaum
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 19.3:
+        non_striker: A Ferguson
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 19.4:
+        non_striker: A Ferguson
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 19.5:
+        non_striker: A Ferguson
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 19.6:
+        non_striker: A Ferguson
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum

@@ -1,0 +1,2298 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2024-10-22'
+  gender: female
+  match_type: T20
+  match_type_number: 2100
+  outcome:
+    winner: Kuwait
+    by:
+      runs: 27
+  overs: 20
+  player_of_match:
+  - Zeefa Jilani
+  players:
+    Kuwait:
+    - Priyada Murali
+    - Zeefa Jilani
+    - Khadija Khalil
+    - B Shanti
+    - Amna Tariq
+    - S Lita D'Sa
+    - SL Gomez
+    - Mariamma Hyder
+    - Maryyam Ashraf
+    - Maria Jasvi
+    - CJ Dias
+    Myanmar:
+    - TT Aung
+    - Zon Lin
+    - MPP San
+    - KM Myat
+    - TT Soe
+    - ZL Win
+    - ZT Kyaw
+    - LL Htun
+    - HH Aung
+    - Pan Ei Phyu
+    - SY Win
+  registry:
+    people:
+      Amna Tariq: 44b53fba
+      B Shanti: f50ca46d
+      CJ Dias: 7e6a3f17
+      HH Aung: 860042f6
+      KK Ghosh: eea3fd8e
+      KM Myat: c1b4e25c
+      Khadija Khalil: 7c61a686
+      LL Htun: ec687c3a
+      MPP San: 5bc290a2
+      Maria Jasvi: 4bed6af7
+      Mariamma Hyder: c8ae2573
+      Maryyam Ashraf: 1b9d3eb3
+      Pan Ei Phyu: 9fcaeb60
+      Priyada Murali: f4b942ae
+      S Lita D'Sa: a289cfa0
+      SL Gomez: 02264be0
+      SY Win: 33d65ab4
+      T Kalaivanan: 40f1b6b3
+      T Senthil Kumar: 961ddfac
+      TT Aung: 57fb24e6
+      TT Soe: 59f44fde
+      VL Sinha: 93cfdc7e
+      ZL Win: b5714cf9
+      ZT Kyaw: cdf63aaa
+      Zeefa Jilani: 3f2b40f0
+      Zon Lin: 3b492b8d
+  teams:
+  - Kuwait
+  - Myanmar
+  toss:
+    winner: Kuwait
+    decision: bat
+  umpires:
+  - KK Ghosh
+  - VL Sinha
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Kuwait
+    deliveries:
+    - 0.1:
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Zeefa Jilani
+        batsman: Priyada Murali
+    - 0.2:
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeefa Jilani
+        batsman: Priyada Murali
+    - 0.3:
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Zeefa Jilani
+        batsman: Priyada Murali
+    - 0.4:
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zeefa Jilani
+        batsman: Priyada Murali
+    - 0.5:
+        non_striker: Priyada Murali
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 0.6:
+        non_striker: Priyada Murali
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 0.7:
+        non_striker: Priyada Murali
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 1.1:
+        non_striker: Priyada Murali
+        bowler: ZT Kyaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeefa Jilani
+    - 1.2:
+        non_striker: Priyada Murali
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 1.3:
+        non_striker: Priyada Murali
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeefa Jilani
+    - 1.4:
+        non_striker: Priyada Murali
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeefa Jilani
+    - 1.5:
+        non_striker: Priyada Murali
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 1.6:
+        non_striker: Priyada Murali
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeefa Jilani
+    - 1.7:
+        non_striker: Priyada Murali
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 2.1:
+        non_striker: Priyada Murali
+        bowler: MPP San
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeefa Jilani
+    - 2.2:
+        non_striker: Priyada Murali
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 2.3:
+        non_striker: Zeefa Jilani
+        bowler: MPP San
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Priyada Murali
+    - 2.4:
+        non_striker: Priyada Murali
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 2.5:
+        non_striker: Zeefa Jilani
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 2.6:
+        non_striker: Zeefa Jilani
+        bowler: MPP San
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Priyada Murali
+    - 2.7:
+        non_striker: Priyada Murali
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeefa Jilani
+    - 3.1:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 3.2:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 3.3:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 3.4:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 3.5:
+        non_striker: Priyada Murali
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 3.6:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 4.1:
+        non_striker: Priyada Murali
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 4.2:
+        non_striker: Zeefa Jilani
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 4.3:
+        non_striker: Priyada Murali
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeefa Jilani
+    - 4.4:
+        non_striker: Priyada Murali
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 4.5:
+        non_striker: Zeefa Jilani
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 4.6:
+        non_striker: Zeefa Jilani
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 5.1:
+        non_striker: Priyada Murali
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 5.2:
+        non_striker: Priyada Murali
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 5.3:
+        non_striker: Priyada Murali
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeefa Jilani
+    - 5.4:
+        non_striker: Priyada Murali
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 5.5:
+        non_striker: Priyada Murali
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 5.6:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 6.1:
+        non_striker: Zeefa Jilani
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 6.2:
+        non_striker: Priyada Murali
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 6.3:
+        non_striker: Priyada Murali
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeefa Jilani
+    - 6.4:
+        non_striker: Priyada Murali
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 6.5:
+        non_striker: Priyada Murali
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 6.6:
+        non_striker: Priyada Murali
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeefa Jilani
+    - 7.1:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 7.2:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 7.3:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 7.4:
+        non_striker: Priyada Murali
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeefa Jilani
+    - 7.5:
+        non_striker: Priyada Murali
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 7.6:
+        non_striker: Priyada Murali
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeefa Jilani
+    - 8.1:
+        non_striker: Zeefa Jilani
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 8.2:
+        non_striker: Zeefa Jilani
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+        wicket:
+          player_out: Priyada Murali
+          fielders:
+          - Zon Lin
+          kind: caught
+    - 8.3:
+        non_striker: Zeefa Jilani
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 8.4:
+        non_striker: Khadija Khalil
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeefa Jilani
+    - 8.5:
+        non_striker: Khadija Khalil
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 8.6:
+        non_striker: Zeefa Jilani
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 9.1:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Khadija Khalil
+    - 9.2:
+        non_striker: Khadija Khalil
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 9.3:
+        non_striker: Khadija Khalil
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeefa Jilani
+    - 9.4:
+        non_striker: Khadija Khalil
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 9.5:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khadija Khalil
+    - 9.6:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 9.7:
+        non_striker: Khadija Khalil
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 9.8:
+        non_striker: Zeefa Jilani
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 10.1:
+        non_striker: Khadija Khalil
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeefa Jilani
+    - 10.2:
+        non_striker: Khadija Khalil
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 10.3:
+        non_striker: Khadija Khalil
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Zeefa Jilani
+    - 10.4:
+        non_striker: Zeefa Jilani
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khadija Khalil
+    - 10.5:
+        non_striker: Zeefa Jilani
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 10.6:
+        non_striker: Khadija Khalil
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 10.7:
+        non_striker: Khadija Khalil
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 10.8:
+        non_striker: Zeefa Jilani
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 11.1:
+        non_striker: Zeefa Jilani
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 11.2:
+        non_striker: Khadija Khalil
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 11.3:
+        non_striker: Zeefa Jilani
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 11.4:
+        non_striker: Khadija Khalil
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 11.5:
+        non_striker: Zeefa Jilani
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 11.6:
+        non_striker: Khadija Khalil
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeefa Jilani
+    - 12.1:
+        non_striker: Zeefa Jilani
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 12.2:
+        non_striker: Khadija Khalil
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeefa Jilani
+    - 12.3:
+        non_striker: Khadija Khalil
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeefa Jilani
+    - 12.4:
+        non_striker: Khadija Khalil
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 12.5:
+        non_striker: Khadija Khalil
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 12.6:
+        non_striker: Zeefa Jilani
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 13.1:
+        non_striker: Zeefa Jilani
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khadija Khalil
+    - 13.2:
+        non_striker: Zeefa Jilani
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 13.3:
+        non_striker: Zeefa Jilani
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 13.4:
+        non_striker: Khadija Khalil
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 13.5:
+        non_striker: Zeefa Jilani
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 13.6:
+        non_striker: Zeefa Jilani
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+        wicket:
+          player_out: Khadija Khalil
+          fielders:
+          - TT Aung
+          kind: caught
+    - 14.1:
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Shanti
+        batsman: Zeefa Jilani
+    - 14.2:
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Shanti
+        batsman: Zeefa Jilani
+    - 14.3:
+        non_striker: Zeefa Jilani
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shanti
+    - 14.4:
+        non_striker: B Shanti
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 14.5:
+        non_striker: Zeefa Jilani
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shanti
+        wicket:
+          player_out: B Shanti
+          kind: lbw
+    - 14.6:
+        non_striker: Zeefa Jilani
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 15.1:
+        non_striker: Amna Tariq
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeefa Jilani
+    - 15.2:
+        non_striker: Amna Tariq
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeefa Jilani
+    - 15.3:
+        non_striker: Zeefa Jilani
+        bowler: MPP San
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Amna Tariq
+    - 15.4:
+        non_striker: Amna Tariq
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+        wicket:
+          player_out: Zeefa Jilani
+          fielders:
+          - ZL Win
+          kind: caught
+    - 15.5:
+        non_striker: Amna Tariq
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lita D'Sa
+    - 15.6:
+        non_striker: Amna Tariq
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lita D'Sa
+    - 15.7:
+        non_striker: Amna Tariq
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lita D'Sa
+        wicket:
+          player_out: S Lita D'Sa
+          kind: bowled
+    - 16.1:
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SL Gomez
+        batsman: Amna Tariq
+    - 16.2:
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SL Gomez
+        batsman: Amna Tariq
+    - 16.3:
+        non_striker: Amna Tariq
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 16.4:
+        non_striker: Amna Tariq
+        bowler: TT Soe
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: SL Gomez
+    - 16.5:
+        non_striker: Amna Tariq
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 16.6:
+        non_striker: SL Gomez
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 16.7:
+        non_striker: Amna Tariq
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 17.1:
+        non_striker: SL Gomez
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+        wicket:
+          player_out: Amna Tariq
+          kind: bowled
+    - 17.2:
+        non_striker: SL Gomez
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 17.3:
+        non_striker: SL Gomez
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 17.4:
+        non_striker: SL Gomez
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mariamma Hyder
+    - 17.5:
+        non_striker: SL Gomez
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mariamma Hyder
+    - 17.6:
+        non_striker: Mariamma Hyder
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 18.1:
+        non_striker: SL Gomez
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mariamma Hyder
+    - 18.2:
+        non_striker: SL Gomez
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 18.3:
+        non_striker: SL Gomez
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 18.4:
+        non_striker: SL Gomez
+        bowler: Zon Lin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mariamma Hyder
+    - 18.5:
+        non_striker: Mariamma Hyder
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 18.6:
+        non_striker: Mariamma Hyder
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 18.7:
+        non_striker: Mariamma Hyder
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 18.8:
+        non_striker: Mariamma Hyder
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 18.9:
+        non_striker: SL Gomez
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 18.10:
+        non_striker: SL Gomez
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+        wicket:
+          player_out: Mariamma Hyder
+          kind: bowled
+    - 19.1:
+        non_striker: Maryyam Ashraf
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+        wicket:
+          player_out: SL Gomez
+          fielders:
+          - ZL Win
+          kind: caught
+    - 19.2:
+        non_striker: Maryyam Ashraf
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maria Jasvi
+    - 19.3:
+        non_striker: Maria Jasvi
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryyam Ashraf
+        wicket:
+          player_out: Maryyam Ashraf
+          kind: bowled
+    - 19.4:
+        non_striker: Maria Jasvi
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Dias
+    - 19.5:
+        non_striker: Maria Jasvi
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Dias
+    - 19.6:
+        non_striker: Maria Jasvi
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Dias
+    - 19.7:
+        non_striker: Maria Jasvi
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Dias
+- 2nd innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zon Lin
+        batsman: TT Aung
+    - 0.2:
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zon Lin
+        batsman: TT Aung
+    - 0.3:
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Zon Lin
+        batsman: TT Aung
+    - 0.4:
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Zon Lin
+        batsman: TT Aung
+    - 0.5:
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Zon Lin
+        batsman: TT Aung
+    - 0.6:
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zon Lin
+        batsman: TT Aung
+    - 0.7:
+        non_striker: TT Aung
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 0.8:
+        non_striker: TT Aung
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 1.1:
+        non_striker: Zon Lin
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 1.2:
+        non_striker: Zon Lin
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 1.3:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 1.4:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 1.5:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zon Lin
+    - 1.6:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 2.1:
+        non_striker: Zon Lin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 2.2:
+        non_striker: Zon Lin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 2.3:
+        non_striker: Zon Lin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Aung
+    - 2.4:
+        non_striker: Zon Lin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 2.5:
+        non_striker: TT Aung
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 2.6:
+        non_striker: TT Aung
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 3.1:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 3.2:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 3.3:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 3.4:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 3.5:
+        non_striker: Zon Lin
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Aung
+    - 3.6:
+        non_striker: Zon Lin
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Aung
+    - 4.1:
+        non_striker: TT Aung
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.2:
+        non_striker: TT Aung
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zon Lin
+    - 4.3:
+        non_striker: TT Aung
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zon Lin
+    - 4.4:
+        non_striker: TT Aung
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 4.5:
+        non_striker: Zon Lin
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 4.6:
+        non_striker: Zon Lin
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 5.1:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 5.2:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 5.3:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 5.4:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 5.5:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zon Lin
+    - 5.6:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 6.1:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zon Lin
+    - 6.2:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 6.3:
+        non_striker: Zon Lin
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 6.4:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 6.5:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 6.6:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 7.1:
+        non_striker: Zon Lin
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 7.2:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 7.3:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 7.4:
+        non_striker: Zon Lin
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 7.5:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 7.6:
+        non_striker: TT Aung
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+        wicket:
+          player_out: Zon Lin
+          fielders:
+          - Zeefa Jilani
+          kind: caught
+    - 8.1:
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPP San
+        batsman: TT Aung
+    - 8.2:
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MPP San
+        batsman: TT Aung
+    - 8.3:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 8.4:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 8.5:
+        non_striker: MPP San
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 8.6:
+        non_striker: MPP San
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 9.1:
+        non_striker: MPP San
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 9.2:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 9.3:
+        non_striker: MPP San
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 9.4:
+        non_striker: MPP San
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Aung
+    - 9.5:
+        non_striker: MPP San
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 9.6:
+        non_striker: MPP San
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Aung
+    - 10.1:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 10.2:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPP San
+    - 10.3:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 10.4:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPP San
+    - 10.5:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 10.6:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 11.1:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 11.2:
+        non_striker: MPP San
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 11.3:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPP San
+    - 11.4:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 11.5:
+        non_striker: MPP San
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 11.6:
+        non_striker: MPP San
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 11.7:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 12.1:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPP San
+    - 12.2:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 12.3:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 12.4:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+        wicket:
+          player_out: MPP San
+          fielders:
+          - S Lita D'Sa
+          kind: stumped
+    - 12.5:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 12.6:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 12.7:
+        non_striker: TT Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Myat
+    - 13.1:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 13.2:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Myat
+    - 13.3:
+        non_striker: KM Myat
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 13.4:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Myat
+    - 13.5:
+        non_striker: KM Myat
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 13.6:
+        non_striker: KM Myat
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 14.1:
+        non_striker: KM Myat
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Aung
+    - 14.2:
+        non_striker: KM Myat
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 14.3:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 14.4:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Myat
+    - 14.5:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Myat
+    - 14.6:
+        non_striker: TT Aung
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+        wicket:
+          player_out: KM Myat
+          fielders:
+          - Priyada Murali
+          - Amna Tariq
+          kind: run out
+    - 15.1:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 15.2:
+        non_striker: TT Soe
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 15.3:
+        non_striker: TT Aung
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 15.4:
+        non_striker: TT Soe
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 15.5:
+        non_striker: TT Soe
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+        wicket:
+          player_out: TT Aung
+          kind: bowled
+    - 15.6:
+        non_striker: TT Soe
+        bowler: Zeefa Jilani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 16.1:
+        non_striker: ZL Win
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Soe
+    - 16.2:
+        non_striker: ZL Win
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 16.3:
+        non_striker: TT Soe
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 16.4:
+        non_striker: TT Soe
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+        wicket:
+          player_out: ZL Win
+          kind: bowled
+    - 16.5:
+        non_striker: TT Soe
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZT Kyaw
+        wicket:
+          player_out: ZT Kyaw
+          fielders:
+          - Amna Tariq
+          - S Lita D'Sa
+          kind: run out
+    - 16.6:
+        non_striker: TT Soe
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+    - 16.7:
+        non_striker: TT Soe
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: LL Htun
+    - 17.1:
+        non_striker: TT Soe
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Htun
+    - 17.2:
+        non_striker: LL Htun
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 17.3:
+        non_striker: TT Soe
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Htun
+    - 17.4:
+        non_striker: LL Htun
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 17.5:
+        non_striker: TT Soe
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Htun
+    - 17.6:
+        non_striker: LL Htun
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 18.1:
+        non_striker: LL Htun
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 18.2:
+        non_striker: LL Htun
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Soe
+    - 18.3:
+        non_striker: LL Htun
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+        wicket:
+          player_out: TT Soe
+          kind: bowled
+    - 18.4:
+        non_striker: LL Htun
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Aung
+    - 18.5:
+        non_striker: LL Htun
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Aung
+    - 18.6:
+        non_striker: LL Htun
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Aung
+    - 19.1:
+        non_striker: LL Htun
+        bowler: Mariamma Hyder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Aung
+    - 19.2:
+        non_striker: LL Htun
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Aung
+    - 19.3:
+        non_striker: HH Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+    - 19.4:
+        non_striker: HH Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Htun
+    - 19.5:
+        non_striker: LL Htun
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Aung
+    - 19.6:
+        non_striker: HH Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+        wicket:
+          player_out: LL Htun
+          fielders:
+          - S Lita D'Sa
+          - Maria Jasvi
+          kind: run out
+    - 19.7:
+        non_striker: HH Aung
+        bowler: Mariamma Hyder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Pan Ei Phyu
+        wicket:
+          player_out: Pan Ei Phyu
+          fielders:
+          - S Lita D'Sa
+          - Maria Jasvi
+          kind: run out

@@ -1,0 +1,2206 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Apia
+  dates:
+  - '2024-08-20'
+  gender: male
+  match_type: T20
+  match_type_number: 2779
+  outcome:
+    winner: Samoa
+    by:
+      runs: 10
+  overs: 20
+  player_of_match:
+  - D Visser
+  players:
+    Samoa:
+    - S Cotter
+    - DE Burgess
+    - SM Nash
+    - D Visser
+    - SF Tiai
+    - CK Jasmat
+    - F Suluoto
+    - A Ilaoa
+    - D Finau
+    - Noah Mead
+    - T Misi
+    Vanuatu:
+    - N Nipiko
+    - JP Kaltapau
+    - A Mansale
+    - R Tari
+    - W Wotu
+    - J Rasu
+    - TL Cutler
+    - C Tommy
+    - D Wotu
+    - W Nalisa
+    - SH Obed
+  registry:
+    people:
+      A Ilaoa: 4d733a54
+      A Mansale: a22b4f3f
+      C Tommy: c6d4cff0
+      CK Jasmat: 5299063a
+      D Finau: 63772ee4
+      D Visser: bb4da4d3
+      D Wotu: 9585854d
+      DE Burgess: 7bf39e5c
+      F Suluoto: ae380321
+      J Rasu: 1021b6e5
+      JP Kaltapau: d8dccff5
+      Kent Hannam: 8cc171e7
+      Kim Cotton: 67a7c2ee
+      L Oala: 48a506ab
+      N Nipiko: c498c510
+      Noah Mead: '0095a0e3'
+      PJ Gillespie: 3e253a50
+      R Tari: c4d19735
+      S Cotter: e6127436
+      SF Tiai: bf19d427
+      SH Obed: f49c401e
+      SM Nash: 4f3a89ae
+      T Misi: 2c789867
+      TL Cutler: 384fa385
+      W Nalisa: 673be48f
+      W Wotu: 6b25ef46
+  teams:
+  - Samoa
+  - Vanuatu
+  toss:
+    winner: Samoa
+    decision: bat
+  umpires:
+  - L Oala
+  - PJ Gillespie
+  venue: Faleata Oval No 2, Apia
+innings:
+- 1st innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DE Burgess
+        batsman: S Cotter
+    - 0.2:
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DE Burgess
+        batsman: S Cotter
+    - 0.3:
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DE Burgess
+        batsman: S Cotter
+    - 0.4:
+        non_striker: S Cotter
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Burgess
+    - 0.5:
+        non_striker: DE Burgess
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+        wicket:
+          player_out: S Cotter
+          fielders:
+          - W Wotu
+          kind: caught
+    - 0.6:
+        non_striker: DE Burgess
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 0.7:
+        non_striker: DE Burgess
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 1.1:
+        non_striker: SM Nash
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 1.2:
+        non_striker: SM Nash
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 1.3:
+        non_striker: SM Nash
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Burgess
+    - 1.4:
+        non_striker: DE Burgess
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 1.5:
+        non_striker: DE Burgess
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+        wicket:
+          player_out: SM Nash
+          fielders:
+          - A Mansale
+          kind: caught
+    - 1.6:
+        non_striker: DE Burgess
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 2.1:
+        non_striker: D Visser
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Burgess
+    - 2.2:
+        non_striker: DE Burgess
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 2.3:
+        non_striker: DE Burgess
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 2.4:
+        non_striker: DE Burgess
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 2.5:
+        non_striker: D Visser
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 2.6:
+        non_striker: D Visser
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Burgess
+    - 3.1:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Burgess
+    - 3.2:
+        non_striker: DE Burgess
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 3.3:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DE Burgess
+    - 3.4:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 3.5:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+    - 3.6:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Burgess
+        wicket:
+          player_out: DE Burgess
+          fielders:
+          - W Nalisa
+          kind: caught
+    - 3.7:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 4.1:
+        non_striker: SF Tiai
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 4.2:
+        non_striker: SF Tiai
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 4.3:
+        non_striker: SF Tiai
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 4.4:
+        non_striker: D Visser
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 4.5:
+        non_striker: D Visser
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 4.6:
+        non_striker: SF Tiai
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Visser
+    - 5.1:
+        non_striker: D Visser
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 5.2:
+        non_striker: D Visser
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+        wicket:
+          player_out: SF Tiai
+          fielders:
+          - A Mansale
+          kind: caught
+    - 5.3:
+        non_striker: D Visser
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CK Jasmat
+    - 5.4:
+        non_striker: D Visser
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Jasmat
+    - 5.5:
+        non_striker: D Visser
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 5.6:
+        non_striker: D Visser
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 5.7:
+        non_striker: CK Jasmat
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 6.1:
+        non_striker: D Visser
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CK Jasmat
+    - 6.2:
+        non_striker: D Visser
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 6.3:
+        non_striker: CK Jasmat
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 6.4:
+        non_striker: CK Jasmat
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 6.5:
+        non_striker: D Visser
+        bowler: W Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CK Jasmat
+    - 6.6:
+        non_striker: CK Jasmat
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 7.1:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 7.2:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 7.3:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 7.4:
+        non_striker: CK Jasmat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 7.5:
+        non_striker: CK Jasmat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 7.6:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 8.1:
+        non_striker: D Visser
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 8.2:
+        non_striker: D Visser
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 8.3:
+        non_striker: CK Jasmat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Visser
+    - 8.4:
+        non_striker: CK Jasmat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 8.5:
+        non_striker: D Visser
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 8.6:
+        non_striker: D Visser
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 9.1:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 9.2:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 9.3:
+        non_striker: CK Jasmat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Visser
+    - 9.4:
+        non_striker: CK Jasmat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 9.5:
+        non_striker: CK Jasmat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 9.6:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 10.1:
+        non_striker: D Visser
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 10.2:
+        non_striker: CK Jasmat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 10.3:
+        non_striker: CK Jasmat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 10.4:
+        non_striker: CK Jasmat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 10.5:
+        non_striker: D Visser
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 10.6:
+        non_striker: CK Jasmat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 11.1:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 11.2:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+        wicket:
+          player_out: CK Jasmat
+          kind: bowled
+    - 11.3:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 11.4:
+        non_striker: F Suluoto
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 11.5:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 11.6:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 12.1:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 12.2:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 12.3:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 12.4:
+        non_striker: D Visser
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 12.5:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 12.6:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 13.1:
+        non_striker: F Suluoto
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 13.2:
+        non_striker: F Suluoto
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 13.3:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 13.4:
+        non_striker: F Suluoto
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 13.5:
+        non_striker: D Visser
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 13.6:
+        non_striker: F Suluoto
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 14.1:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 14.2:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 14.3:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 14.4:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Visser
+    - 14.5:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 14.6:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 14.7:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Visser
+    - 14.8:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: D Visser
+    - 14.9:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 15.1:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 15.2:
+        non_striker: F Suluoto
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 15.3:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Suluoto
+    - 15.4:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 15.5:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 15.6:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 15.7:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 16.1:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 16.2:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 16.3:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 16.4:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 16.5:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 16.6:
+        non_striker: F Suluoto
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 17.1:
+        non_striker: F Suluoto
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 17.2:
+        non_striker: F Suluoto
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 17.3:
+        non_striker: F Suluoto
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 17.4:
+        non_striker: F Suluoto
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 17.5:
+        non_striker: F Suluoto
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Visser
+    - 17.6:
+        non_striker: D Visser
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 18.1:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Visser
+    - 18.2:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 18.3:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 18.4:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: D Visser
+    - 18.5:
+        non_striker: F Suluoto
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 18.6:
+        non_striker: D Visser
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 18.7:
+        non_striker: D Visser
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+        wicket:
+          player_out: F Suluoto
+          fielders:
+          - A Mansale
+          kind: caught
+    - 18.8:
+        non_striker: D Visser
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ilaoa
+        wicket:
+          player_out: A Ilaoa
+          kind: bowled
+    - 19.1:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Finau
+        batsman: D Visser
+    - 19.2:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: D Finau
+        batsman: D Visser
+    - 19.3:
+        non_striker: D Finau
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+        wicket:
+          player_out: D Visser
+          fielders:
+          - R Tari
+          kind: caught
+    - 19.4:
+        non_striker: D Finau
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noah Mead
+    - 19.5:
+        non_striker: D Finau
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noah Mead
+        wicket:
+          player_out: Noah Mead
+          fielders:
+          - J Rasu
+          - C Tommy
+          kind: run out
+    - 19.6:
+        non_striker: D Finau
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Misi
+        wicket:
+          player_out: T Misi
+          fielders:
+          - J Rasu
+          - C Tommy
+          kind: run out
+- 2nd innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JP Kaltapau
+        batsman: N Nipiko
+    - 0.2:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 0.3:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 0.4:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+        wicket:
+          player_out: JP Kaltapau
+          fielders:
+          - F Suluoto
+          kind: caught
+    - 0.5:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 0.6:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 1.1:
+        non_striker: N Nipiko
+        bowler: SM Nash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Mansale
+    - 1.2:
+        non_striker: A Mansale
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 1.3:
+        non_striker: A Mansale
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 1.4:
+        non_striker: A Mansale
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 1.5:
+        non_striker: A Mansale
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Nipiko
+    - 1.6:
+        non_striker: A Mansale
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Nipiko
+    - 2.1:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mansale
+    - 2.2:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mansale
+    - 2.3:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 2.4:
+        non_striker: A Mansale
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 2.5:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 2.6:
+        non_striker: A Mansale
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 3.1:
+        non_striker: A Mansale
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 3.2:
+        non_striker: A Mansale
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 3.3:
+        non_striker: N Nipiko
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 3.4:
+        non_striker: A Mansale
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 3.5:
+        non_striker: N Nipiko
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 3.6:
+        non_striker: N Nipiko
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mansale
+    - 4.1:
+        non_striker: A Mansale
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 4.2:
+        non_striker: A Mansale
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Nipiko
+    - 4.3:
+        non_striker: A Mansale
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 4.4:
+        non_striker: N Nipiko
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 4.5:
+        non_striker: N Nipiko
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 4.6:
+        non_striker: A Mansale
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 5.1:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 5.2:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 5.3:
+        non_striker: A Mansale
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Nipiko
+    - 5.4:
+        non_striker: A Mansale
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 5.5:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 5.6:
+        non_striker: A Mansale
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 6.1:
+        non_striker: A Mansale
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Nipiko
+    - 6.2:
+        non_striker: A Mansale
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 6.3:
+        non_striker: A Mansale
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 6.4:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: A Mansale
+    - 6.5:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 6.6:
+        non_striker: A Mansale
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 7.1:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+        wicket:
+          player_out: A Mansale
+          kind: lbw
+    - 7.2:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: R Tari
+    - 7.3:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 7.4:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 7.5:
+        non_striker: R Tari
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 7.6:
+        non_striker: R Tari
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 8.1:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 8.2:
+        non_striker: R Tari
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Nipiko
+    - 8.3:
+        non_striker: R Tari
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 8.4:
+        non_striker: R Tari
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 8.5:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 8.6:
+        non_striker: R Tari
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 9.1:
+        non_striker: R Tari
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 9.2:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 9.3:
+        non_striker: R Tari
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 9.4:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 9.5:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: R Tari
+    - 9.6:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+        wicket:
+          player_out: R Tari
+          kind: bowled
+    - 10.1:
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: W Wotu
+        batsman: N Nipiko
+    - 10.2:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Wotu
+        wicket:
+          player_out: W Wotu
+          kind: bowled
+    - 10.3:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 10.4:
+        non_striker: J Rasu
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 10.5:
+        non_striker: N Nipiko
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 10.6:
+        non_striker: J Rasu
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 11.1:
+        non_striker: J Rasu
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Nipiko
+    - 11.2:
+        non_striker: J Rasu
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 11.3:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 11.4:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 11.5:
+        non_striker: J Rasu
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Nipiko
+    - 11.6:
+        non_striker: J Rasu
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 12.1:
+        non_striker: J Rasu
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 12.2:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 12.3:
+        non_striker: J Rasu
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 12.4:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 12.5:
+        non_striker: N Nipiko
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 12.6:
+        non_striker: J Rasu
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Nipiko
+    - 13.1:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 13.2:
+        non_striker: J Rasu
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 13.3:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 13.4:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 13.5:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 13.6:
+        non_striker: J Rasu
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 14.1:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 14.2:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Rasu
+    - 14.3:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+        wicket:
+          player_out: J Rasu
+          fielders:
+          - A Ilaoa
+          kind: caught
+    - 14.4:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Cutler
+    - 14.5:
+        non_striker: TL Cutler
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 14.6:
+        non_striker: TL Cutler
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 15.1:
+        non_striker: TL Cutler
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 15.2:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Cutler
+    - 15.3:
+        non_striker: TL Cutler
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 15.4:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Cutler
+    - 15.5:
+        non_striker: N Nipiko
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Cutler
+    - 15.6:
+        non_striker: TL Cutler
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Nipiko
+    - 16.1:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Cutler
+    - 16.2:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Cutler
+    - 16.3:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Cutler
+    - 16.4:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Cutler
+    - 16.5:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Cutler
+    - 16.6:
+        non_striker: N Nipiko
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Cutler
+    - 17.1:
+        non_striker: TL Cutler
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 17.2:
+        non_striker: TL Cutler
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 17.3:
+        non_striker: N Nipiko
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Cutler
+        wicket:
+          player_out: TL Cutler
+          kind: bowled
+    - 17.4:
+        non_striker: N Nipiko
+        bowler: DE Burgess
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: C Tommy
+    - 17.5:
+        non_striker: N Nipiko
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+        wicket:
+          player_out: C Tommy
+          fielders:
+          - D Finau
+          kind: caught
+    - 17.6:
+        non_striker: N Nipiko
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+    - 18.1:
+        non_striker: D Wotu
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Nipiko
+    - 18.2:
+        non_striker: D Wotu
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Nipiko
+    - 18.3:
+        non_striker: D Wotu
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+        wicket:
+          player_out: N Nipiko
+          kind: bowled
+    - 18.4:
+        non_striker: D Wotu
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+    - 18.5:
+        non_striker: W Nalisa
+        bowler: D Finau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wotu
+    - 18.6:
+        non_striker: W Nalisa
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wotu
+    - 18.7:
+        non_striker: W Nalisa
+        bowler: D Finau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wotu
+    - 19.1:
+        non_striker: D Wotu
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+        wicket:
+          player_out: W Nalisa
+          fielders:
+          - A Ilaoa
+          - T Misi
+          kind: run out
+    - 19.2:
+        non_striker: D Wotu
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Obed
+    - 19.3:
+        non_striker: SH Obed
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+    - 19.4:
+        non_striker: SH Obed
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wotu
+    - 19.5:
+        non_striker: D Wotu
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Obed
+    - 19.6:
+        non_striker: D Wotu
+        bowler: DE Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Obed

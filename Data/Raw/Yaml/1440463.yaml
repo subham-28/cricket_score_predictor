@@ -1,0 +1,1618 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2024-09-04'
+  gender: male
+  match_type: T20
+  match_type_number: 2838
+  outcome:
+    winner: Australia
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - TM Head
+  players:
+    Scotland:
+    - HG Munsey
+    - OJ Hairs
+    - BJ McMullen
+    - RD Berrington
+    - MH Cross
+    - MA Leask
+    - MRJ Watt
+    - J Jarvis
+    - C Cassell
+    - JJ Davidson
+    - BTJ Wheal
+    Australia:
+    - J Fraser-McGurk
+    - TM Head
+    - MR Marsh
+    - JP Inglis
+    - MP Stoinis
+    - TH David
+    - C Green
+    - SA Abbott
+    - XC Bartlett
+    - A Zampa
+    - RP Meredith
+  registry:
+    people:
+      A Zampa: 14f96089
+      BJ McMullen: 436c763a
+      BTJ Wheal: 3f61a062
+      C Cassell: 2d03c3f8
+      C Green: eaa76d3c
+      DH Mclean: 281d4749
+      HG Munsey: ff014c34
+      I McDonald: 37b55799
+      J Fraser-McGurk: 9b6e1b3f
+      J Jarvis: ab54f9e7
+      JJ Davidson: '068c47d2'
+      JP Inglis: 989889ff
+      MA Leask: '28131839'
+      MH Cross: 8b261d84
+      MP Stoinis: d9273ee7
+      MR Marsh: 3d8feaf8
+      MRJ Watt: 1252f71a
+      OJ Hairs: c8a7b014
+      RB Richardson: 410e2f12
+      RD Berrington: e21bc7f3
+      RP Meredith: '64775749'
+      Ryan Milne: d2343b26
+      SA Abbott: 1a2676c5
+      TH David: f1f99156
+      TM Head: 12b610c2
+      XC Bartlett: 3b53243a
+  teams:
+  - Scotland
+  - Australia
+  toss:
+    winner: Australia
+    decision: field
+  umpires:
+  - DH Mclean
+  - I McDonald
+  venue: Grange Cricket Club Ground, Raeburn Place, Edinburgh
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: OJ Hairs
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.2:
+        non_striker: OJ Hairs
+        bowler: RP Meredith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HG Munsey
+    - 0.3:
+        non_striker: HG Munsey
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Hairs
+    - 0.4:
+        non_striker: HG Munsey
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hairs
+    - 0.5:
+        non_striker: HG Munsey
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Hairs
+    - 0.6:
+        non_striker: OJ Hairs
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 1.1:
+        non_striker: HG Munsey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Hairs
+    - 1.2:
+        non_striker: OJ Hairs
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 1.3:
+        non_striker: HG Munsey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hairs
+    - 1.4:
+        non_striker: HG Munsey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hairs
+        wicket:
+          player_out: OJ Hairs
+          fielders:
+          - MR Marsh
+          kind: caught
+    - 1.5:
+        non_striker: HG Munsey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 1.6:
+        non_striker: HG Munsey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 2.1:
+        non_striker: BJ McMullen
+        bowler: SA Abbott
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HG Munsey
+    - 2.2:
+        non_striker: HG Munsey
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 2.3:
+        non_striker: HG Munsey
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 2.4:
+        non_striker: HG Munsey
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 2.5:
+        non_striker: HG Munsey
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 2.6:
+        non_striker: HG Munsey
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 2.7:
+        non_striker: HG Munsey
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 3.1:
+        non_striker: BJ McMullen
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 3.2:
+        non_striker: BJ McMullen
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.3:
+        non_striker: BJ McMullen
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.4:
+        non_striker: BJ McMullen
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 3.5:
+        non_striker: HG Munsey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 3.6:
+        non_striker: HG Munsey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 4.1:
+        non_striker: BJ McMullen
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 4.2:
+        non_striker: BJ McMullen
+        bowler: RP Meredith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HG Munsey
+    - 4.3:
+        non_striker: HG Munsey
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 4.4:
+        non_striker: BJ McMullen
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 4.5:
+        non_striker: BJ McMullen
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 4.6:
+        non_striker: BJ McMullen
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 5.1:
+        non_striker: HG Munsey
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 5.2:
+        non_striker: BJ McMullen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 5.3:
+        non_striker: BJ McMullen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 5.4:
+        non_striker: BJ McMullen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 5.5:
+        non_striker: BJ McMullen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.6:
+        non_striker: BJ McMullen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 6.1:
+        non_striker: RD Berrington
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 6.2:
+        non_striker: BJ McMullen
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.3:
+        non_striker: RD Berrington
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 6.4:
+        non_striker: RD Berrington
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+        wicket:
+          player_out: BJ McMullen
+          fielders:
+          - J Fraser-McGurk
+          kind: caught
+    - 6.5:
+        non_striker: RD Berrington
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 6.6:
+        non_striker: MH Cross
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 7.1:
+        non_striker: RD Berrington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 7.2:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 7.3:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 7.4:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 7.5:
+        non_striker: RD Berrington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 7.6:
+        non_striker: RD Berrington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 8.1:
+        non_striker: MH Cross
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.2:
+        non_striker: MH Cross
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 8.3:
+        non_striker: RD Berrington
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 8.4:
+        non_striker: MH Cross
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Berrington
+    - 8.5:
+        non_striker: MH Cross
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.6:
+        non_striker: MH Cross
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 8.7:
+        non_striker: RD Berrington
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 9.1:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 9.2:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 9.3:
+        non_striker: RD Berrington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 9.4:
+        non_striker: RD Berrington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 9.5:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 9.6:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 10.1:
+        non_striker: MH Cross
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 10.2:
+        non_striker: MH Cross
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 10.3:
+        non_striker: MH Cross
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 10.4:
+        non_striker: RD Berrington
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 10.5:
+        non_striker: RD Berrington
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 10.6:
+        non_striker: RD Berrington
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 11.1:
+        non_striker: RD Berrington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 11.2:
+        non_striker: RD Berrington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 11.3:
+        non_striker: RD Berrington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 11.4:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 11.5:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+        wicket:
+          player_out: RD Berrington
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 11.6:
+        non_striker: MH Cross
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 12.1:
+        non_striker: MH Cross
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 12.2:
+        non_striker: MH Cross
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 12.3:
+        non_striker: MA Leask
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 12.4:
+        non_striker: MA Leask
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 12.5:
+        non_striker: MH Cross
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 12.6:
+        non_striker: MA Leask
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 13.1:
+        non_striker: MH Cross
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 13.2:
+        non_striker: MH Cross
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.3:
+        non_striker: MA Leask
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 13.4:
+        non_striker: MH Cross
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.5:
+        non_striker: MA Leask
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 13.6:
+        non_striker: MA Leask
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 14.1:
+        non_striker: MA Leask
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+        wicket:
+          player_out: MH Cross
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 14.2:
+        non_striker: MA Leask
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 14.3:
+        non_striker: MRJ Watt
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 14.4:
+        non_striker: MA Leask
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 14.5:
+        non_striker: MA Leask
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 14.6:
+        non_striker: MRJ Watt
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 15.1:
+        non_striker: MRJ Watt
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+        wicket:
+          player_out: MA Leask
+          kind: lbw
+    - 15.2:
+        non_striker: MRJ Watt
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jarvis
+    - 15.3:
+        non_striker: J Jarvis
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 15.4:
+        non_striker: J Jarvis
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 15.5:
+        non_striker: MRJ Watt
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Jarvis
+    - 15.6:
+        non_striker: MRJ Watt
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jarvis
+    - 16.1:
+        non_striker: J Jarvis
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 16.2:
+        non_striker: MRJ Watt
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jarvis
+    - 16.3:
+        non_striker: MRJ Watt
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jarvis
+    - 16.4:
+        non_striker: J Jarvis
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 16.5:
+        non_striker: MRJ Watt
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jarvis
+    - 16.6:
+        non_striker: J Jarvis
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 17.1:
+        non_striker: J Jarvis
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MRJ Watt
+    - 17.2:
+        non_striker: J Jarvis
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 17.3:
+        non_striker: MRJ Watt
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jarvis
+    - 17.4:
+        non_striker: J Jarvis
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 17.5:
+        non_striker: MRJ Watt
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jarvis
+        wicket:
+          player_out: J Jarvis
+          fielders:
+          - C Green
+          kind: caught
+    - 17.6:
+        non_striker: MRJ Watt
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cassell
+    - 18.1:
+        non_striker: C Cassell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MRJ Watt
+    - 18.2:
+        non_striker: C Cassell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+        wicket:
+          player_out: MRJ Watt
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 18.3:
+        non_striker: C Cassell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Davidson
+    - 18.4:
+        non_striker: JJ Davidson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Cassell
+    - 18.5:
+        non_striker: C Cassell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Davidson
+    - 18.6:
+        non_striker: C Cassell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Davidson
+    - 19.1:
+        non_striker: C Cassell
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Davidson
+    - 19.2:
+        non_striker: JJ Davidson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Cassell
+        wicket:
+          player_out: C Cassell
+          fielders:
+          - MR Marsh
+          kind: caught
+    - 19.3:
+        non_striker: JJ Davidson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BTJ Wheal
+    - 19.4:
+        non_striker: JJ Davidson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BTJ Wheal
+    - 19.5:
+        non_striker: JJ Davidson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BTJ Wheal
+    - 19.6:
+        non_striker: JJ Davidson
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BTJ Wheal
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: TM Head
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 0.2:
+        non_striker: TM Head
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 0.3:
+        non_striker: TM Head
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+        wicket:
+          player_out: J Fraser-McGurk
+          fielders:
+          - C Cassell
+          kind: caught
+    - 0.4:
+        non_striker: TM Head
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 0.5:
+        non_striker: TM Head
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.6:
+        non_striker: TM Head
+        bowler: BJ McMullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 0.7:
+        non_striker: TM Head
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.1:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.2:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 1.3:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 1.4:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.5:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 1.6:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 2.1:
+        non_striker: MR Marsh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.2:
+        non_striker: MR Marsh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 2.3:
+        non_striker: MR Marsh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 2.4:
+        non_striker: MR Marsh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.5:
+        non_striker: MR Marsh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 2.6:
+        non_striker: MR Marsh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 3.1:
+        non_striker: TM Head
+        bowler: C Cassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 3.2:
+        non_striker: TM Head
+        bowler: C Cassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 3.3:
+        non_striker: MR Marsh
+        bowler: C Cassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 3.4:
+        non_striker: MR Marsh
+        bowler: C Cassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.5:
+        non_striker: MR Marsh
+        bowler: C Cassell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 3.6:
+        non_striker: MR Marsh
+        bowler: C Cassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 4.1:
+        non_striker: TM Head
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 4.2:
+        non_striker: TM Head
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 4.3:
+        non_striker: TM Head
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 4.4:
+        non_striker: TM Head
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 4.5:
+        non_striker: TM Head
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 4.6:
+        non_striker: TM Head
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 5.1:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 5.2:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 5.3:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 5.4:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 5.5:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 5.6:
+        non_striker: MR Marsh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 6.1:
+        non_striker: TM Head
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - MA Leask
+          kind: caught
+    - 6.2:
+        non_striker: TM Head
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 6.3:
+        non_striker: JP Inglis
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 6.4:
+        non_striker: JP Inglis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 6.5:
+        non_striker: TM Head
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 6.6:
+        non_striker: JP Inglis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 6.7:
+        non_striker: JP Inglis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - MA Leask
+          kind: caught
+    - 7.1:
+        non_striker: MP Stoinis
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 7.2:
+        non_striker: MP Stoinis
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 7.3:
+        non_striker: JP Inglis
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.4:
+        non_striker: MP Stoinis
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 7.5:
+        non_striker: MP Stoinis
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 7.6:
+        non_striker: MP Stoinis
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 8.1:
+        non_striker: MP Stoinis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 8.2:
+        non_striker: MP Stoinis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 8.3:
+        non_striker: JP Inglis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.4:
+        non_striker: MP Stoinis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 8.5:
+        non_striker: JP Inglis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.6:
+        non_striker: JP Inglis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.1:
+        non_striker: MP Stoinis
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 9.2:
+        non_striker: MP Stoinis
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 9.3:
+        non_striker: MP Stoinis
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 9.4:
+        non_striker: JP Inglis
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis

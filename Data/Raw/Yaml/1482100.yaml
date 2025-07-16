@@ -1,0 +1,2180 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2025-05-02'
+  gender: male
+  match_type: T20
+  match_type_number: 3171
+  outcome:
+    winner: Singapore
+    by:
+      runs: 30
+  overs: 20
+  player_of_match:
+  - H Venkataram
+  players:
+    Singapore:
+    - JS Iggo
+    - Aritra Dutta
+    - HK Kukreja
+    - C Sridev
+    - SH Venugopal
+    - Manpreet Singh
+    - Kashif Khan
+    - H Venkataram
+    - Aslan Jafri
+    - DPS Tyagi
+    - V Nagpaul
+    Thailand:
+    - AP Yadav
+    - C Chatphaisan
+    - Y Saranonnakkun
+    - S Desungnoen
+    - AV Lazarus
+    - N Nuntarach
+    - P Thongsa
+    - N Senamontree
+    - K Senamontree
+    - Sarawut Maliwan
+    - W Ngowhuad
+  registry:
+    people:
+      AP Yadav: a5501504
+      AV Lazarus: 30c917bf
+      Aritra Dutta: f3a5c378
+      Aslan Jafri: a14b5f3c
+      C Chatphaisan: 85c56be8
+      C Sridev: 5d17f075
+      D Sevakumaran: b235cb97
+      DPS Tyagi: d5f96736
+      H Venkataram: e61cee7b
+      HK Kukreja: b67bfbf8
+      JS Iggo: 6af31962
+      K Senamontree: e553e27f
+      Kashif Khan: c6e87b1c
+      Manpreet Singh: e9d6a2ce
+      N Nuntarach: 9e3575ce
+      N Senamontree: 44e00a4c
+      N Sivan: 8f4a0102
+      P Thongsa: '62318525'
+      R Madhavan: d0cff8fd
+      S Desungnoen: 3eb26dc4
+      SH Venugopal: 9f542219
+      Sarawut Maliwan: 36a0a88c
+      V Kalidas: 42d76418
+      V Nagpaul: 6d1db278
+      W Ngowhuad: b8cd9955
+      Y Saranonnakkun: 9c93c0a3
+  teams:
+  - Singapore
+  - Thailand
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - D Sevakumaran
+  - V Kalidas
+  venue: Bayuemas Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aritra Dutta
+        batsman: JS Iggo
+    - 0.2:
+        non_striker: JS Iggo
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 0.3:
+        non_striker: JS Iggo
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 0.4:
+        non_striker: JS Iggo
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+        wicket:
+          player_out: Aritra Dutta
+          fielders:
+          - Sarawut Maliwan
+          kind: caught
+    - 0.5:
+        non_striker: JS Iggo
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Kukreja
+    - 0.6:
+        non_striker: JS Iggo
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 1.1:
+        non_striker: HK Kukreja
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Iggo
+    - 1.2:
+        non_striker: HK Kukreja
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Iggo
+    - 1.3:
+        non_striker: HK Kukreja
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Iggo
+    - 1.4:
+        non_striker: JS Iggo
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 1.5:
+        non_striker: JS Iggo
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 1.6:
+        non_striker: JS Iggo
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 2.1:
+        non_striker: HK Kukreja
+        bowler: W Ngowhuad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JS Iggo
+    - 2.2:
+        non_striker: JS Iggo
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 2.3:
+        non_striker: JS Iggo
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Kukreja
+    - 2.4:
+        non_striker: JS Iggo
+        bowler: W Ngowhuad
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HK Kukreja
+    - 2.5:
+        non_striker: HK Kukreja
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JS Iggo
+    - 2.6:
+        non_striker: HK Kukreja
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Iggo
+        wicket:
+          player_out: JS Iggo
+          kind: bowled
+    - 2.7:
+        non_striker: HK Kukreja
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sridev
+        wicket:
+          player_out: C Sridev
+          kind: bowled
+    - 3.1:
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Venugopal
+        batsman: HK Kukreja
+    - 3.2:
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Venugopal
+        batsman: HK Kukreja
+    - 3.3:
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Venugopal
+        batsman: HK Kukreja
+    - 3.4:
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Venugopal
+        batsman: HK Kukreja
+    - 3.5:
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SH Venugopal
+        batsman: HK Kukreja
+    - 3.6:
+        non_striker: HK Kukreja
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 4.1:
+        non_striker: SH Venugopal
+        bowler: W Ngowhuad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Kukreja
+    - 4.2:
+        non_striker: SH Venugopal
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Kukreja
+    - 4.3:
+        non_striker: SH Venugopal
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 4.4:
+        non_striker: HK Kukreja
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 4.5:
+        non_striker: HK Kukreja
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Venugopal
+    - 4.6:
+        non_striker: HK Kukreja
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 4.7:
+        non_striker: HK Kukreja
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 5.1:
+        non_striker: SH Venugopal
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 5.2:
+        non_striker: HK Kukreja
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SH Venugopal
+    - 5.3:
+        non_striker: HK Kukreja
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 5.4:
+        non_striker: HK Kukreja
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 5.5:
+        non_striker: SH Venugopal
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 5.6:
+        non_striker: SH Venugopal
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 5.7:
+        non_striker: HK Kukreja
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 6.1:
+        non_striker: HK Kukreja
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 6.2:
+        non_striker: HK Kukreja
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 6.3:
+        non_striker: SH Venugopal
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 6.4:
+        non_striker: HK Kukreja
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 6.5:
+        non_striker: SH Venugopal
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 6.6:
+        non_striker: HK Kukreja
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Venugopal
+    - 7.1:
+        non_striker: SH Venugopal
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 7.2:
+        non_striker: HK Kukreja
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 7.3:
+        non_striker: SH Venugopal
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 7.4:
+        non_striker: SH Venugopal
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Kukreja
+    - 7.5:
+        non_striker: SH Venugopal
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 7.6:
+        non_striker: HK Kukreja
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 8.1:
+        non_striker: HK Kukreja
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 8.2:
+        non_striker: HK Kukreja
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 8.3:
+        non_striker: HK Kukreja
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 8.4:
+        non_striker: HK Kukreja
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 8.5:
+        non_striker: HK Kukreja
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 8.6:
+        non_striker: SH Venugopal
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 9.1:
+        non_striker: HK Kukreja
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 9.2:
+        non_striker: SH Venugopal
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 9.3:
+        non_striker: SH Venugopal
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 9.4:
+        non_striker: HK Kukreja
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 9.5:
+        non_striker: HK Kukreja
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 9.6:
+        non_striker: SH Venugopal
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 10.1:
+        non_striker: HK Kukreja
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 10.2:
+        non_striker: SH Venugopal
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 10.3:
+        non_striker: SH Venugopal
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 10.4:
+        non_striker: HK Kukreja
+        bowler: P Thongsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SH Venugopal
+    - 10.5:
+        non_striker: SH Venugopal
+        bowler: P Thongsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Kukreja
+    - 10.6:
+        non_striker: SH Venugopal
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Kukreja
+    - 10.7:
+        non_striker: SH Venugopal
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+        wicket:
+          player_out: HK Kukreja
+          kind: bowled
+    - 11.1:
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Manpreet Singh
+        batsman: SH Venugopal
+    - 11.2:
+        non_striker: SH Venugopal
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 11.3:
+        non_striker: Manpreet Singh
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 11.4:
+        non_striker: SH Venugopal
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 11.5:
+        non_striker: Manpreet Singh
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+        wicket:
+          player_out: SH Venugopal
+          kind: lbw
+    - 11.6:
+        non_striker: Manpreet Singh
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Khan
+    - 12.1:
+        non_striker: Manpreet Singh
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kashif Khan
+    - 12.2:
+        non_striker: Manpreet Singh
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Khan
+    - 12.3:
+        non_striker: Kashif Khan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Manpreet Singh
+    - 12.4:
+        non_striker: Kashif Khan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 12.5:
+        non_striker: Kashif Khan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 12.6:
+        non_striker: Manpreet Singh
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Khan
+    - 12.7:
+        non_striker: Kashif Khan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 12.8:
+        non_striker: Kashif Khan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 13.1:
+        non_striker: Kashif Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 13.2:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Khan
+    - 13.3:
+        non_striker: Kashif Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 13.4:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Khan
+    - 13.5:
+        non_striker: Kashif Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 13.6:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Khan
+    - 14.1:
+        non_striker: Manpreet Singh
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Khan
+    - 14.2:
+        non_striker: Kashif Khan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 14.3:
+        non_striker: Manpreet Singh
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Khan
+    - 14.4:
+        non_striker: Manpreet Singh
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Khan
+        wicket:
+          player_out: Kashif Khan
+          fielders:
+          - P Thongsa
+          kind: caught
+    - 14.5:
+        non_striker: Manpreet Singh
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Venkataram
+    - 14.6:
+        non_striker: Manpreet Singh
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 14.7:
+        non_striker: H Venkataram
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 15.1:
+        non_striker: H Venkataram
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 15.2:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 15.3:
+        non_striker: H Venkataram
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 15.4:
+        non_striker: H Venkataram
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 15.5:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 15.6:
+        non_striker: H Venkataram
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 16.1:
+        non_striker: H Venkataram
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+        wicket:
+          player_out: H Venkataram
+          fielders:
+          - N Senamontree
+          kind: run out
+    - 16.2:
+        non_striker: Manpreet Singh
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslan Jafri
+    - 16.3:
+        non_striker: Aslan Jafri
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 16.4:
+        non_striker: Manpreet Singh
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 16.5:
+        non_striker: Manpreet Singh
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 16.6:
+        non_striker: Manpreet Singh
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 17.1:
+        non_striker: Aslan Jafri
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 17.2:
+        non_striker: Aslan Jafri
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 17.3:
+        non_striker: Aslan Jafri
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 17.4:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aslan Jafri
+    - 17.5:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+        wicket:
+          player_out: Aslan Jafri
+          fielders:
+          - AV Lazarus
+          kind: caught
+    - 17.6:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 18.1:
+        non_striker: DPS Tyagi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 18.2:
+        non_striker: Manpreet Singh
+        bowler: S Desungnoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DPS Tyagi
+    - 18.3:
+        non_striker: DPS Tyagi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 18.4:
+        non_striker: DPS Tyagi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 18.5:
+        non_striker: DPS Tyagi
+        bowler: S Desungnoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Manpreet Singh
+    - 18.6:
+        non_striker: DPS Tyagi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          kind: bowled
+    - 18.7:
+        non_striker: DPS Tyagi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Nagpaul
+    - 18.8:
+        non_striker: DPS Tyagi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nagpaul
+    - 19.1:
+        non_striker: V Nagpaul
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Tyagi
+    - 19.2:
+        non_striker: DPS Tyagi
+        bowler: W Ngowhuad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nagpaul
+    - 19.3:
+        non_striker: DPS Tyagi
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nagpaul
+        wicket:
+          player_out: V Nagpaul
+          fielders:
+          - C Chatphaisan
+          kind: caught
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.2:
+        non_striker: AP Yadav
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 0.3:
+        non_striker: AP Yadav
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 0.4:
+        non_striker: AP Yadav
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Chatphaisan
+    - 0.5:
+        non_striker: AP Yadav
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 0.6:
+        non_striker: AP Yadav
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 0.7:
+        non_striker: C Chatphaisan
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 1.1:
+        non_striker: AP Yadav
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 1.2:
+        non_striker: AP Yadav
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 1.3:
+        non_striker: C Chatphaisan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 1.4:
+        non_striker: C Chatphaisan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 1.5:
+        non_striker: AP Yadav
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 1.6:
+        non_striker: AP Yadav
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 2.1:
+        non_striker: C Chatphaisan
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.2:
+        non_striker: C Chatphaisan
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Yadav
+    - 2.3:
+        non_striker: C Chatphaisan
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.4:
+        non_striker: C Chatphaisan
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 2.5:
+        non_striker: C Chatphaisan
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.6:
+        non_striker: C Chatphaisan
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 2.7:
+        non_striker: AP Yadav
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 3.1:
+        non_striker: C Chatphaisan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 3.2:
+        non_striker: C Chatphaisan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 3.3:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 3.4:
+        non_striker: C Chatphaisan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 3.5:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 3.6:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 4.1:
+        non_striker: C Chatphaisan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.2:
+        non_striker: C Chatphaisan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 4.3:
+        non_striker: AP Yadav
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 4.4:
+        non_striker: C Chatphaisan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.5:
+        non_striker: C Chatphaisan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.6:
+        non_striker: C Chatphaisan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 5.1:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          kind: bowled
+    - 5.2:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 5.3:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          kind: bowled
+    - 5.4:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 5.5:
+        non_striker: S Desungnoen
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 5.6:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 6.1:
+        non_striker: S Desungnoen
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 6.2:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 6.3:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 6.4:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          kind: bowled
+    - 6.5:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 6.6:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 7.1:
+        non_striker: AV Lazarus
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 7.2:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 7.3:
+        non_striker: AV Lazarus
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 7.4:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 7.5:
+        non_striker: AP Yadav
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 7.6:
+        non_striker: AV Lazarus
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 8.1:
+        non_striker: AV Lazarus
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 8.2:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 8.3:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 8.4:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 8.5:
+        non_striker: AV Lazarus
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 8.6:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 9.1:
+        non_striker: AP Yadav
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 9.2:
+        non_striker: AV Lazarus
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 9.3:
+        non_striker: AV Lazarus
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 9.4:
+        non_striker: AP Yadav
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 9.5:
+        non_striker: AP Yadav
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 9.6:
+        non_striker: AV Lazarus
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 10.1:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 10.2:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 10.3:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 10.4:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 10.5:
+        non_striker: AP Yadav
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 10.6:
+        non_striker: AV Lazarus
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+        wicket:
+          player_out: AP Yadav
+          kind: bowled
+    - 11.1:
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Nuntarach
+        batsman: AV Lazarus
+    - 11.2:
+        non_striker: AV Lazarus
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 11.3:
+        non_striker: N Nuntarach
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 11.4:
+        non_striker: AV Lazarus
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 11.5:
+        non_striker: AV Lazarus
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 11.6:
+        non_striker: AV Lazarus
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 12.1:
+        non_striker: N Nuntarach
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 12.2:
+        non_striker: N Nuntarach
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 12.3:
+        non_striker: AV Lazarus
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 12.4:
+        non_striker: N Nuntarach
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 12.5:
+        non_striker: N Nuntarach
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 12.6:
+        non_striker: AV Lazarus
+        bowler: Kashif Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 13.1:
+        non_striker: N Nuntarach
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 13.2:
+        non_striker: N Nuntarach
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 13.3:
+        non_striker: N Nuntarach
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 13.4:
+        non_striker: N Nuntarach
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: AV Lazarus
+    - 13.5:
+        non_striker: N Nuntarach
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 13.6:
+        non_striker: AV Lazarus
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 13.7:
+        non_striker: N Nuntarach
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 14.1:
+        non_striker: N Nuntarach
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 14.2:
+        non_striker: AV Lazarus
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Nuntarach
+    - 14.3:
+        non_striker: AV Lazarus
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+        wicket:
+          player_out: N Nuntarach
+          fielders:
+          - C Sridev
+          kind: caught
+    - 14.4:
+        non_striker: AV Lazarus
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 14.5:
+        non_striker: AV Lazarus
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Thongsa
+    - 14.6:
+        non_striker: AV Lazarus
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 15.1:
+        non_striker: P Thongsa
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AV Lazarus
+    - 15.2:
+        non_striker: P Thongsa
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 15.3:
+        non_striker: AV Lazarus
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 15.4:
+        non_striker: AV Lazarus
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 15.5:
+        non_striker: AV Lazarus
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 15.6:
+        non_striker: AV Lazarus
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 15.7:
+        non_striker: AV Lazarus
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 16.1:
+        non_striker: P Thongsa
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 16.2:
+        non_striker: P Thongsa
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 16.3:
+        non_striker: AV Lazarus
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+        wicket:
+          player_out: P Thongsa
+          kind: bowled
+    - 16.4:
+        non_striker: AV Lazarus
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 16.5:
+        non_striker: AV Lazarus
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 16.6:
+        non_striker: N Senamontree
+        bowler: C Sridev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AV Lazarus
+    - 16.7:
+        non_striker: N Senamontree
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 17.1:
+        non_striker: N Senamontree
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+        wicket:
+          player_out: AV Lazarus
+          fielders:
+          - DPS Tyagi
+          kind: caught
+    - 17.2:
+        non_striker: N Senamontree
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Senamontree
+    - 17.3:
+        non_striker: N Senamontree
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 17.4:
+        non_striker: N Senamontree
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 17.5:
+        non_striker: K Senamontree
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 17.6:
+        non_striker: K Senamontree
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 17.7:
+        non_striker: N Senamontree
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+        wicket:
+          player_out: K Senamontree
+          kind: bowled
+    - 18.1:
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sarawut Maliwan
+        batsman: N Senamontree
+    - 18.2:
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sarawut Maliwan
+        batsman: N Senamontree
+    - 18.3:
+        non_striker: N Senamontree
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 18.4:
+        non_striker: N Senamontree
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarawut Maliwan
+    - 18.5:
+        non_striker: N Senamontree
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+        wicket:
+          player_out: Sarawut Maliwan
+          fielders:
+          - DPS Tyagi
+          kind: caught
+    - 18.6:
+        non_striker: N Senamontree
+        bowler: C Sridev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Ngowhuad
+    - 19.1:
+        non_striker: N Senamontree
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ngowhuad
+        wicket:
+          player_out: W Ngowhuad
+          kind: bowled

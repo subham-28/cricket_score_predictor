@@ -1,0 +1,1795 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2024-08-27'
+  gender: male
+  match_type: T20
+  match_type_number: 2814
+  outcome:
+    winner: Kuwait
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - R Sandaruwan
+  players:
+    Hong Kong:
+    - M Coetzee
+    - Zeeshan Ali
+    - Nizakat Khan
+    - Babar Hayat
+    - Yasim Murtaza
+    - Nasrulla Rana
+    - Rajab Hussain
+    - Ehsan Khan
+    - A Shukla
+    - Ateeq Iqbal
+    - Anas Khan
+    Kuwait:
+    - CV Anto
+    - R Sandaruwan
+    - Meet Bhavsar
+    - Usman Patel
+    - MNM Aslam
+    - Shiraz Khan
+    - Yasin Patel
+    - Mohamed Shafeeq
+    - Bilal Tahir
+    - Adnan Idrees
+    - Muhammad Umar
+  registry:
+    people:
+      A Shukla: a1e80d06
+      Adnan Idrees: 0e34c23a
+      Anas Khan: 66a7f213
+      Ateeq Iqbal: 29b322c7
+      Babar Hayat: fbb657bb
+      Bilal Tahir: 3cf06094
+      CV Anto: c01ca5af
+      Ehsan Khan: d3851cd8
+      John Prakash: b5f3d429
+      M Coetzee: 3f149080
+      MNM Aslam: '20481563'
+      Meet Bhavsar: b25a3800
+      Mohamed Shafeeq: ff13b10c
+      Mudassar Rasool: d5bf4c14
+      Muhammad Umar: 0abc33ff
+      N Sivan: 8f4a0102
+      Nasrulla Rana: 9ffb7550
+      Nizakat Khan: e3eb9e46
+      R Madhavan: d0cff8fd
+      R Sandaruwan: cf6acc0d
+      Rajab Hussain: b5a62769
+      Shiraz Khan: f310704c
+      Usman Patel: 415c6ccf
+      Yasim Murtaza: c9d05f1a
+      Yasin Patel: ecdd8d60
+      Zeeshan Ali: 987187b9
+  teams:
+  - Hong Kong
+  - Kuwait
+  toss:
+    winner: Kuwait
+    decision: field
+  umpires:
+  - John Prakash
+  - Mudassar Rasool
+  venue: Selangor Turf Club, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Ali
+        batsman: M Coetzee
+    - 0.2:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Ali
+        batsman: M Coetzee
+    - 0.3:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Zeeshan Ali
+        batsman: M Coetzee
+    - 0.4:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Ali
+        batsman: M Coetzee
+    - 0.5:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Ali
+        batsman: M Coetzee
+        wicket:
+          player_out: M Coetzee
+          fielders:
+          - Muhammad Umar
+          kind: run out
+    - 0.6:
+        non_striker: Nizakat Khan
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 1.1:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 1.2:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 1.3:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 1.4:
+        non_striker: Zeeshan Ali
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 1.5:
+        non_striker: Zeeshan Ali
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 1.6:
+        non_striker: Zeeshan Ali
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 2.1:
+        non_striker: Nizakat Khan
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 2.2:
+        non_striker: Zeeshan Ali
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 2.3:
+        non_striker: Zeeshan Ali
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 2.4:
+        non_striker: Zeeshan Ali
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nizakat Khan
+    - 2.5:
+        non_striker: Zeeshan Ali
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 2.6:
+        non_striker: Nizakat Khan
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 3.1:
+        non_striker: Zeeshan Ali
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 3.2:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 3.3:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 3.4:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 3.5:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 3.6:
+        non_striker: Zeeshan Ali
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 4.1:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 4.2:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 4.3:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Ali
+    - 4.4:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 4.5:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 4.6:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 5.1:
+        non_striker: Zeeshan Ali
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 5.2:
+        non_striker: Zeeshan Ali
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 5.3:
+        non_striker: Zeeshan Ali
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 5.4:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 5.5:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 5.6:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 6.1:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nizakat Khan
+    - 6.2:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 6.3:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 6.4:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Nizakat Khan
+    - 6.5:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 6.6:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 7.1:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 7.2:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 7.3:
+        non_striker: Zeeshan Ali
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 7.4:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 7.5:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Ali
+    - 7.6:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 8.1:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 8.2:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 8.3:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 8.4:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 8.5:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 8.6:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 9.1:
+        non_striker: Zeeshan Ali
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 9.2:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 9.3:
+        non_striker: Zeeshan Ali
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 9.4:
+        non_striker: Zeeshan Ali
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 9.5:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 9.6:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 10.1:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 10.2:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 10.3:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 10.4:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 10.5:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nizakat Khan
+    - 10.6:
+        non_striker: Zeeshan Ali
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nizakat Khan
+    - 11.1:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 11.2:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Ali
+    - 11.3:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Ali
+    - 11.4:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 11.5:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 11.6:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 12.1:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+        wicket:
+          player_out: Zeeshan Ali
+          fielders:
+          - Bilal Tahir
+          kind: caught
+    - 12.2:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 12.3:
+        non_striker: Babar Hayat
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 12.4:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 12.5:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 12.6:
+        non_striker: Nizakat Khan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 13.1:
+        non_striker: Babar Hayat
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nizakat Khan
+    - 13.2:
+        non_striker: Babar Hayat
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 13.3:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 13.4:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Hayat
+    - 13.5:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 13.6:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 14.1:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 14.2:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+        wicket:
+          player_out: Babar Hayat
+          fielders:
+          - Muhammad Umar
+          kind: caught
+    - 14.3:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 14.4:
+        non_striker: Yasim Murtaza
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 14.5:
+        non_striker: Yasim Murtaza
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 14.6:
+        non_striker: Nizakat Khan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+    - 15.1:
+        non_striker: Yasim Murtaza
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 15.2:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 15.3:
+        non_striker: Yasim Murtaza
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 15.4:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+    - 15.5:
+        non_striker: Nizakat Khan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 15.6:
+        non_striker: Yasim Murtaza
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 16.1:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+    - 16.2:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 16.3:
+        non_striker: Yasim Murtaza
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 16.4:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasim Murtaza
+    - 16.5:
+        non_striker: Nizakat Khan
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 16.6:
+        non_striker: Yasim Murtaza
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+        wicket:
+          player_out: Nizakat Khan
+          fielders:
+          - Shiraz Khan
+          kind: caught
+    - 16.7:
+        non_striker: Yasim Murtaza
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasrulla Rana
+    - 17.1:
+        non_striker: Yasim Murtaza
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nasrulla Rana
+    - 17.2:
+        non_striker: Yasim Murtaza
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasrulla Rana
+    - 17.3:
+        non_striker: Nasrulla Rana
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yasim Murtaza
+    - 17.4:
+        non_striker: Yasim Murtaza
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 17.5:
+        non_striker: Yasim Murtaza
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasrulla Rana
+    - 17.6:
+        non_striker: Nasrulla Rana
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasim Murtaza
+    - 18.1:
+        non_striker: Yasim Murtaza
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nasrulla Rana
+    - 18.2:
+        non_striker: Yasim Murtaza
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 18.3:
+        non_striker: Yasim Murtaza
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasrulla Rana
+    - 18.4:
+        non_striker: Nasrulla Rana
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 18.5:
+        non_striker: Yasim Murtaza
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasrulla Rana
+    - 18.6:
+        non_striker: Nasrulla Rana
+        bowler: Yasin Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+        wicket:
+          player_out: Yasim Murtaza
+          fielders:
+          - Muhammad Umar
+          kind: caught
+    - 19.1:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Rajab Hussain
+        batsman: Nasrulla Rana
+    - 19.2:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Rajab Hussain
+        batsman: Nasrulla Rana
+    - 19.3:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rajab Hussain
+        batsman: Nasrulla Rana
+    - 19.4:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Rajab Hussain
+        batsman: Nasrulla Rana
+    - 19.5:
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rajab Hussain
+        batsman: Nasrulla Rana
+    - 19.6:
+        non_striker: Nasrulla Rana
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajab Hussain
+    - 19.7:
+        non_striker: Nasrulla Rana
+        bowler: Mohamed Shafeeq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajab Hussain
+- 2nd innings:
+    team: Kuwait
+    deliveries:
+    - 0.1:
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Sandaruwan
+        batsman: CV Anto
+    - 0.2:
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Sandaruwan
+        batsman: CV Anto
+    - 0.3:
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Sandaruwan
+        batsman: CV Anto
+    - 0.4:
+        non_striker: CV Anto
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 0.5:
+        non_striker: CV Anto
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 0.6:
+        non_striker: CV Anto
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 1.1:
+        non_striker: R Sandaruwan
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 1.2:
+        non_striker: CV Anto
+        bowler: Anas Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Sandaruwan
+    - 1.3:
+        non_striker: CV Anto
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sandaruwan
+    - 1.4:
+        non_striker: CV Anto
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Sandaruwan
+    - 1.5:
+        non_striker: CV Anto
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sandaruwan
+    - 1.6:
+        non_striker: CV Anto
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sandaruwan
+    - 1.7:
+        non_striker: CV Anto
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sandaruwan
+    - 2.1:
+        non_striker: R Sandaruwan
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 2.2:
+        non_striker: CV Anto
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 2.3:
+        non_striker: CV Anto
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sandaruwan
+    - 2.4:
+        non_striker: CV Anto
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 2.5:
+        non_striker: R Sandaruwan
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CV Anto
+    - 2.6:
+        non_striker: R Sandaruwan
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CV Anto
+    - 3.1:
+        non_striker: CV Anto
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Sandaruwan
+    - 3.2:
+        non_striker: CV Anto
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 3.3:
+        non_striker: CV Anto
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 3.4:
+        non_striker: CV Anto
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 3.5:
+        non_striker: R Sandaruwan
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CV Anto
+    - 3.6:
+        non_striker: R Sandaruwan
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 4.1:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 4.2:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 4.3:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 4.4:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Sandaruwan
+    - 4.5:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sandaruwan
+    - 4.6:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sandaruwan
+    - 5.1:
+        non_striker: R Sandaruwan
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 5.2:
+        non_striker: CV Anto
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sandaruwan
+    - 5.3:
+        non_striker: CV Anto
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 5.4:
+        non_striker: CV Anto
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 5.5:
+        non_striker: CV Anto
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 5.6:
+        non_striker: CV Anto
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sandaruwan
+    - 6.1:
+        non_striker: R Sandaruwan
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 6.2:
+        non_striker: CV Anto
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sandaruwan
+    - 6.3:
+        non_striker: CV Anto
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Sandaruwan
+    - 6.4:
+        non_striker: CV Anto
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 6.5:
+        non_striker: R Sandaruwan
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 6.6:
+        non_striker: CV Anto
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sandaruwan
+    - 7.1:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CV Anto
+    - 7.2:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 7.3:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 7.4:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 7.5:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 7.6:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 8.1:
+        non_striker: CV Anto
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 8.2:
+        non_striker: R Sandaruwan
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Anto
+    - 8.3:
+        non_striker: CV Anto
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sandaruwan
+    - 8.4:
+        non_striker: CV Anto
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 8.5:
+        non_striker: R Sandaruwan
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CV Anto
+    - 8.6:
+        non_striker: R Sandaruwan
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CV Anto
+    - 9.1:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Sandaruwan
+    - 9.2:
+        non_striker: CV Anto
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 9.3:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CV Anto
+    - 9.4:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CV Anto
+    - 9.5:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CV Anto
+        wicket:
+          player_out: CV Anto
+          fielders:
+          - Ehsan Khan
+          kind: caught
+    - 9.6:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meet Bhavsar
+    - 10.1:
+        non_striker: R Sandaruwan
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meet Bhavsar
+    - 10.2:
+        non_striker: Meet Bhavsar
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 10.3:
+        non_striker: R Sandaruwan
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meet Bhavsar
+    - 10.4:
+        non_striker: R Sandaruwan
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meet Bhavsar
+    - 10.5:
+        non_striker: Meet Bhavsar
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 10.6:
+        non_striker: R Sandaruwan
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meet Bhavsar
+    - 11.1:
+        non_striker: Meet Bhavsar
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+    - 11.2:
+        non_striker: Meet Bhavsar
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 11.3:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Meet Bhavsar
+    - 11.4:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Meet Bhavsar
+    - 11.5:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Meet Bhavsar
+    - 11.6:
+        non_striker: R Sandaruwan
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Meet Bhavsar
+    - 12.1:
+        non_striker: Meet Bhavsar
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Sandaruwan
+    - 12.2:
+        non_striker: Meet Bhavsar
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 12.3:
+        non_striker: R Sandaruwan
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Meet Bhavsar
+        wicket:
+          player_out: Meet Bhavsar
+          fielders:
+          - Babar Hayat
+          kind: caught
+    - 12.4:
+        non_striker: R Sandaruwan
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Patel
+    - 12.5:
+        non_striker: R Sandaruwan
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Patel
+    - 12.6:
+        non_striker: Usman Patel
+        bowler: Nizakat Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 13.1:
+        non_striker: Usman Patel
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan
+    - 13.2:
+        non_striker: R Sandaruwan
+        bowler: Ehsan Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Usman Patel
+    - 13.3:
+        non_striker: R Sandaruwan
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Patel
+    - 13.4:
+        non_striker: Usman Patel
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Sandaruwan
+    - 13.5:
+        non_striker: Usman Patel
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sandaruwan
+    - 13.6:
+        non_striker: Usman Patel
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandaruwan

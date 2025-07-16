@@ -1,0 +1,1988 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Incheon
+  dates:
+  - '2024-10-05'
+  gender: male
+  match_type: T20
+  match_type_number: 2894
+  outcome:
+    winner: Philippines
+    by:
+      runs: 101
+  overs: 20
+  player_of_match:
+  - KDA Lukies
+  players:
+    Philippines:
+    - Rhys Burinaga
+    - DC Smith
+    - AS Samra
+    - N Tanner
+    - J Tuffin
+    - G Chohan
+    - HER Tyler
+    - Huzaifa Mohammed
+    - ASF Sirah
+    - KDA Lukies
+    - A Donovan
+    South Korea:
+    - Raja Shoaib
+    - Jun Hyunwoo
+    - S Maduranga
+    - Alam Nakash
+    - F Pieters
+    - Aamir Lal
+    - S Pitabeddara
+    - Mudassir Iqbal
+    - Altaf Gill
+    - Fazil Muhammad
+    - Kim Daeyeon
+  registry:
+    people:
+      A Donovan: '02888f23'
+      AK Rana: 562d74d0
+      AS Samra: bf976fb0
+      ASF Sirah: 06bcade5
+      Aamir Lal: 2472ad2c
+      Alam Nakash: 90830f8d
+      Altaf Gill: b9b194d6
+      DC Smith: a968d39b
+      F Pieters: a07c24ea
+      Fazil Muhammad: 4551ed03
+      G Chohan: b978780e
+      HER Tyler: 0ba9de33
+      Huzaifa Mohammed: 65a29a30
+      J Tuffin: 8069f81f
+      Jun Hyunwoo: 431f2dd4
+      KDA Lukies: 14af45c4
+      Kim Daeyeon: 4a51c045
+      M Podosky: c46999c7
+      Mudassir Iqbal: 63f306ac
+      N Tanner: 5f5efae1
+      Raja Shoaib: 7b0ea09e
+      Rhys Burinaga: a6cbe67b
+      S Maduranga: 68f24545
+      S Pitabeddara: b04e6811
+      Sarika Prasad: 8ff397fa
+      Suresh Subramanian: 4e869e23
+      TL Anderson: f52ddf8d
+      Tanvir Ahmed: ea2df1f1
+  teams:
+  - Philippines
+  - South Korea
+  toss:
+    winner: Philippines
+    decision: bat
+  umpires:
+  - Suresh Subramanian
+  - Tanvir Ahmed
+  venue: Yeonhui Cricket Ground, Incheon
+innings:
+- 1st innings:
+    team: Philippines
+    deliveries:
+    - 0.1:
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DC Smith
+        batsman: Rhys Burinaga
+    - 0.2:
+        non_striker: Rhys Burinaga
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 0.3:
+        non_striker: DC Smith
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 0.4:
+        non_striker: DC Smith
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 0.5:
+        non_striker: DC Smith
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rhys Burinaga
+    - 0.6:
+        non_striker: Rhys Burinaga
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 1.1:
+        non_striker: Rhys Burinaga
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 1.2:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 1.3:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rhys Burinaga
+    - 1.4:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+        wicket:
+          player_out: Rhys Burinaga
+          fielders:
+          - Alam Nakash
+          kind: caught
+    - 1.5:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Samra
+    - 1.6:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Samra
+    - 1.7:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Samra
+    - 2.1:
+        non_striker: AS Samra
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 2.2:
+        non_striker: DC Smith
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Samra
+    - 2.3:
+        non_striker: DC Smith
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Samra
+    - 2.4:
+        non_striker: DC Smith
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Samra
+    - 2.5:
+        non_striker: AS Samra
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 2.6:
+        non_striker: AS Samra
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 3.1:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AS Samra
+    - 3.2:
+        non_striker: AS Samra
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 3.3:
+        non_striker: AS Samra
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 3.4:
+        non_striker: AS Samra
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 3.5:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Samra
+    - 3.6:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AS Samra
+    - 3.7:
+        non_striker: DC Smith
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Samra
+    - 4.1:
+        non_striker: AS Samra
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 4.2:
+        non_striker: DC Smith
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Samra
+    - 4.3:
+        non_striker: AS Samra
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 4.4:
+        non_striker: DC Smith
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AS Samra
+    - 4.5:
+        non_striker: AS Samra
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 4.6:
+        non_striker: AS Samra
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 5.1:
+        non_striker: AS Samra
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 5.2:
+        non_striker: AS Samra
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 5.3:
+        non_striker: DC Smith
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Samra
+    - 5.4:
+        non_striker: DC Smith
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Samra
+    - 5.5:
+        non_striker: DC Smith
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Samra
+    - 5.6:
+        non_striker: AS Samra
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 6.1:
+        non_striker: DC Smith
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Samra
+    - 6.2:
+        non_striker: DC Smith
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Samra
+    - 6.3:
+        non_striker: DC Smith
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Samra
+    - 6.4:
+        non_striker: DC Smith
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Samra
+    - 6.5:
+        non_striker: DC Smith
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Samra
+    - 6.6:
+        non_striker: AS Samra
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Smith
+    - 7.1:
+        non_striker: DC Smith
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Samra
+    - 7.2:
+        non_striker: DC Smith
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Samra
+    - 7.3:
+        non_striker: AS Samra
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 7.4:
+        non_striker: DC Smith
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Samra
+    - 7.5:
+        non_striker: DC Smith
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Samra
+    - 7.6:
+        non_striker: AS Samra
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Smith
+    - 8.1:
+        non_striker: DC Smith
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Samra
+    - 8.2:
+        non_striker: DC Smith
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Samra
+    - 8.3:
+        non_striker: AS Samra
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 8.4:
+        non_striker: AS Samra
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Smith
+    - 8.5:
+        non_striker: AS Samra
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Smith
+    - 8.6:
+        non_striker: AS Samra
+        bowler: S Pitabeddara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 9.1:
+        non_striker: AS Samra
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Smith
+    - 9.2:
+        non_striker: AS Samra
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 9.3:
+        non_striker: AS Samra
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 9.4:
+        non_striker: AS Samra
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 9.5:
+        non_striker: DC Smith
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Samra
+    - 9.6:
+        non_striker: DC Smith
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Samra
+    - 10.1:
+        non_striker: DC Smith
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Samra
+    - 10.2:
+        non_striker: DC Smith
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Samra
+    - 10.3:
+        non_striker: AS Samra
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 10.4:
+        non_striker: AS Samra
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 10.5:
+        non_striker: DC Smith
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Samra
+        wicket:
+          player_out: AS Samra
+          fielders:
+          - S Pitabeddara
+          kind: caught
+    - 10.6:
+        non_striker: DC Smith
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 11.1:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 11.2:
+        non_striker: DC Smith
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 11.3:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 11.4:
+        non_striker: DC Smith
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 11.5:
+        non_striker: DC Smith
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 11.6:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 12.1:
+        non_striker: DC Smith
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 12.2:
+        non_striker: N Tanner
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Smith
+    - 12.3:
+        non_striker: N Tanner
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Smith
+    - 12.4:
+        non_striker: N Tanner
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 12.5:
+        non_striker: N Tanner
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+        wicket:
+          player_out: DC Smith
+          fielders:
+          - Mudassir Iqbal
+          kind: caught
+    - 12.6:
+        non_striker: N Tanner
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 13.1:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 13.2:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 13.3:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 13.4:
+        non_striker: J Tuffin
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 13.5:
+        non_striker: J Tuffin
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 13.6:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 14.1:
+        non_striker: N Tanner
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 14.2:
+        non_striker: N Tanner
+        bowler: S Maduranga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Tuffin
+    - 14.3:
+        non_striker: J Tuffin
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 14.4:
+        non_striker: N Tanner
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 14.5:
+        non_striker: N Tanner
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 14.6:
+        non_striker: J Tuffin
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Tanner
+    - 15.1:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 15.2:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 15.3:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tuffin
+    - 15.4:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 15.5:
+        non_striker: N Tanner
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 15.6:
+        non_striker: J Tuffin
+        bowler: Jun Hyunwoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 16.1:
+        non_striker: J Tuffin
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Tanner
+    - 16.2:
+        non_striker: J Tuffin
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 16.3:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Tuffin
+    - 16.4:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Tuffin
+    - 16.5:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 16.6:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 17.1:
+        non_striker: N Tanner
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tuffin
+    - 17.2:
+        non_striker: N Tanner
+        bowler: Kim Daeyeon
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: J Tuffin
+    - 17.3:
+        non_striker: N Tanner
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 17.4:
+        non_striker: J Tuffin
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 17.5:
+        non_striker: J Tuffin
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 17.6:
+        non_striker: N Tanner
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 18.1:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 18.2:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+        wicket:
+          player_out: J Tuffin
+          kind: bowled
+    - 18.3:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Chohan
+    - 18.4:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chohan
+    - 18.5:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Chohan
+    - 18.6:
+        non_striker: N Tanner
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Chohan
+    - 19.1:
+        non_striker: G Chohan
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 19.2:
+        non_striker: G Chohan
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Tanner
+    - 19.3:
+        non_striker: G Chohan
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 19.4:
+        non_striker: N Tanner
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Chohan
+    - 19.5:
+        non_striker: N Tanner
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Chohan
+    - 19.6:
+        non_striker: N Tanner
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chohan
+        wicket:
+          player_out: G Chohan
+          fielders:
+          - Altaf Gill
+          kind: caught
+- 2nd innings:
+    team: South Korea
+    deliveries:
+    - 0.1:
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jun Hyunwoo
+        batsman: Raja Shoaib
+    - 0.2:
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jun Hyunwoo
+        batsman: Raja Shoaib
+    - 0.3:
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jun Hyunwoo
+        batsman: Raja Shoaib
+    - 0.4:
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jun Hyunwoo
+        batsman: Raja Shoaib
+    - 0.5:
+        non_striker: Raja Shoaib
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 0.6:
+        non_striker: Raja Shoaib
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 1.1:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raja Shoaib
+    - 1.2:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Shoaib
+    - 1.3:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Shoaib
+    - 1.4:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Shoaib
+    - 1.5:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raja Shoaib
+    - 1.6:
+        non_striker: Raja Shoaib
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+        wicket:
+          player_out: Raja Shoaib
+          fielders:
+          - M Podosky (sub)
+          kind: run out
+    - 2.1:
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Maduranga
+        batsman: Jun Hyunwoo
+    - 2.2:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Maduranga
+    - 2.3:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Maduranga
+    - 2.4:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 2.5:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 2.6:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+        wicket:
+          player_out: S Maduranga
+          kind: lbw
+    - 2.7:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Alam Nakash
+    - 2.8:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alam Nakash
+    - 3.1:
+        non_striker: Alam Nakash
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jun Hyunwoo
+    - 3.2:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alam Nakash
+    - 3.3:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alam Nakash
+        wicket:
+          player_out: Alam Nakash
+          kind: lbw
+    - 3.4:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Pieters
+    - 3.5:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Pieters
+        wicket:
+          player_out: F Pieters
+          kind: bowled
+    - 3.6:
+        non_striker: Jun Hyunwoo
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 4.1:
+        non_striker: Aamir Lal
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 4.2:
+        non_striker: Aamir Lal
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 4.3:
+        non_striker: Aamir Lal
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jun Hyunwoo
+    - 4.4:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 4.5:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 4.6:
+        non_striker: Jun Hyunwoo
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+        wicket:
+          player_out: Jun Hyunwoo
+          fielders:
+          - Rhys Burinaga
+          - HER Tyler
+          kind: run out
+    - 5.1:
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Pitabeddara
+        batsman: Aamir Lal
+    - 5.2:
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Pitabeddara
+        batsman: Aamir Lal
+    - 5.3:
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Pitabeddara
+        batsman: Aamir Lal
+    - 5.4:
+        non_striker: Aamir Lal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Pitabeddara
+    - 5.5:
+        non_striker: Aamir Lal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pitabeddara
+    - 5.6:
+        non_striker: Aamir Lal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pitabeddara
+        wicket:
+          player_out: S Pitabeddara
+          fielders:
+          - N Tanner
+          kind: caught
+    - 6.1:
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mudassir Iqbal
+        batsman: Aamir Lal
+    - 6.2:
+        non_striker: Aamir Lal
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mudassir Iqbal
+    - 6.3:
+        non_striker: Aamir Lal
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mudassir Iqbal
+    - 6.4:
+        non_striker: Mudassir Iqbal
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 6.5:
+        non_striker: Aamir Lal
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mudassir Iqbal
+    - 6.6:
+        non_striker: Aamir Lal
+        bowler: Huzaifa Mohammed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mudassir Iqbal
+    - 7.1:
+        non_striker: Aamir Lal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mudassir Iqbal
+    - 7.2:
+        non_striker: Aamir Lal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mudassir Iqbal
+        wicket:
+          player_out: Mudassir Iqbal
+          fielders:
+          - AS Samra
+          kind: caught
+    - 7.3:
+        non_striker: Aamir Lal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 7.4:
+        non_striker: Aamir Lal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 7.5:
+        non_striker: Aamir Lal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 7.6:
+        non_striker: Aamir Lal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 8.1:
+        non_striker: Altaf Gill
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 8.2:
+        non_striker: Aamir Lal
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 8.3:
+        non_striker: Aamir Lal
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 8.4:
+        non_striker: Aamir Lal
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 8.5:
+        non_striker: Aamir Lal
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Altaf Gill
+    - 8.6:
+        non_striker: Altaf Gill
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 9.1:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Altaf Gill
+    - 9.2:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+        wicket:
+          player_out: Altaf Gill
+          kind: lbw
+    - 9.3:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 9.4:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Muhammad
+    - 9.5:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aamir Lal
+    - 9.6:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 9.7:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 9.8:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 10.1:
+        non_striker: Aamir Lal
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 10.2:
+        non_striker: Aamir Lal
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Muhammad
+    - 10.3:
+        non_striker: Fazil Muhammad
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 10.4:
+        non_striker: Aamir Lal
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fazil Muhammad
+    - 10.5:
+        non_striker: Aamir Lal
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fazil Muhammad
+    - 10.6:
+        non_striker: Aamir Lal
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Muhammad
+    - 11.1:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 11.2:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Muhammad
+    - 11.3:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aamir Lal
+    - 11.4:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 11.5:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fazil Muhammad
+    - 11.6:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fazil Muhammad
+    - 11.7:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Fazil Muhammad
+    - 12.1:
+        non_striker: Aamir Lal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 12.2:
+        non_striker: Aamir Lal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Muhammad
+    - 12.3:
+        non_striker: Fazil Muhammad
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 12.4:
+        non_striker: Aamir Lal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 12.5:
+        non_striker: Aamir Lal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Muhammad
+    - 12.6:
+        non_striker: Fazil Muhammad
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 13.1:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 13.2:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 13.3:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 13.4:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 13.5:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fazil Muhammad
+    - 13.6:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 13.7:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 14.1:
+        non_striker: Fazil Muhammad
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 14.2:
+        non_striker: Aamir Lal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Muhammad
+    - 14.3:
+        non_striker: Fazil Muhammad
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 14.4:
+        non_striker: Fazil Muhammad
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 14.5:
+        non_striker: Aamir Lal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 14.6:
+        non_striker: Aamir Lal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fazil Muhammad
+    - 15.1:
+        non_striker: Fazil Muhammad
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Lal
+    - 15.2:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+        wicket:
+          player_out: Fazil Muhammad
+          kind: bowled
+    - 15.3:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kim Daeyeon
+    - 15.4:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kim Daeyeon
+    - 15.5:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kim Daeyeon
+    - 15.6:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kim Daeyeon
+    - 15.7:
+        non_striker: Aamir Lal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kim Daeyeon
+    - 16.1:
+        non_striker: Kim Daeyeon
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+        wicket:
+          player_out: Aamir Lal
+          fielders:
+          - KDA Lukies
+          kind: caught

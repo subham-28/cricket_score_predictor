@@ -1,0 +1,1987 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-15'
+  gender: male
+  match_type: T20
+  match_type_number: 3058
+  outcome:
+    winner: Belize
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - L Bonner
+  players:
+    Brazil:
+    - G Caisley
+    - LH Rodrigues
+    - LF Muller
+    - Muhammad Saleem
+    - Yasar Haroon
+    - W Maximo
+    - MFI Assuncao
+    - L Maximo
+    - R Avery
+    - G Oliveira
+    - IC Simao
+    Belize:
+    - O Casasola
+    - L Bonner
+    - GG Banner
+    - Kristan Tillett
+    - NN Banner
+    - ML Castillo
+    - Garret Banner
+    - BS Stephenson
+    - B Lewis
+    - A Oxley
+    - J Pakeman
+  registry:
+    people:
+      A Oxley: d1317833
+      B Lewis: f68bac56
+      BS Stephenson: db571b24
+      C La Borde: 32157f67
+      G Caisley: 0f06d3cd
+      G Oliveira: b4c52f5f
+      GG Banner: aeb893b4
+      Garret Banner: ac1ddea1
+      H Grewal: 1172f36e
+      IC Simao: dcc76384
+      J Pakeman: 0cea2730
+      Kristan Tillett: 4e31ea36
+      L Bonner: fd94c29f
+      L Maximo: 58c0c30c
+      LF Muller: f6411545
+      LH Rodrigues: 57c95c3c
+      M Abbott: 3e5f0c04
+      MFI Assuncao: d8e48e1b
+      ML Castillo: 9853b404
+      Muhammad Saleem: a025c156
+      NN Banner: '0697b5a1'
+      O Casasola: 15fe1668
+      Phil Whitticase: 99d5f6fa
+      R Avery: '094ebfb6'
+      W Maximo: e41dee27
+      Yasar Haroon: 5a8dc41e
+  teams:
+  - Brazil
+  - Belize
+  toss:
+    winner: Brazil
+    decision: bat
+  umpires:
+  - C La Borde
+  - H Grewal
+  venue: Belgrano Athletic Club Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: G Caisley
+    - 0.2:
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: G Caisley
+    - 0.3:
+        non_striker: G Caisley
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 0.4:
+        non_striker: G Caisley
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 0.5:
+        non_striker: G Caisley
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 0.6:
+        non_striker: G Caisley
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+        wicket:
+          player_out: LH Rodrigues
+          fielders:
+          - Garret Banner
+          kind: caught
+    - 1.1:
+        bowler: Garret Banner
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: LF Muller
+        batsman: G Caisley
+    - 1.2:
+        non_striker: G Caisley
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 1.3:
+        non_striker: G Caisley
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 1.4:
+        non_striker: G Caisley
+        bowler: Garret Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Muller
+    - 1.5:
+        non_striker: G Caisley
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LF Muller
+    - 1.6:
+        non_striker: G Caisley
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 1.7:
+        non_striker: G Caisley
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LF Muller
+    - 1.8:
+        non_striker: LF Muller
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Caisley
+    - 2.1:
+        non_striker: LF Muller
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Caisley
+    - 2.2:
+        non_striker: G Caisley
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 2.3:
+        non_striker: G Caisley
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 2.4:
+        non_striker: G Caisley
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 2.5:
+        non_striker: G Caisley
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 2.6:
+        non_striker: G Caisley
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.1:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Caisley
+    - 3.2:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Caisley
+    - 3.3:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Caisley
+    - 3.4:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Caisley
+    - 3.5:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Caisley
+    - 3.6:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Caisley
+        wicket:
+          player_out: G Caisley
+          fielders:
+          - Garret Banner
+          kind: caught
+    - 4.1:
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Saleem
+        batsman: LF Muller
+    - 4.2:
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Saleem
+        batsman: LF Muller
+    - 4.3:
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Saleem
+        batsman: LF Muller
+    - 4.4:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Saleem
+    - 4.5:
+        non_striker: Muhammad Saleem
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Muller
+    - 4.6:
+        non_striker: Muhammad Saleem
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LF Muller
+    - 5.1:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 5.2:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Saleem
+    - 5.3:
+        non_striker: Muhammad Saleem
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 5.4:
+        non_striker: Muhammad Saleem
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 5.5:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Saleem
+    - 5.6:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammad Saleem
+    - 6.1:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 6.2:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+        wicket:
+          player_out: Muhammad Saleem
+          kind: bowled
+    - 6.3:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yasar Haroon
+    - 6.4:
+        non_striker: Yasar Haroon
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 6.5:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 6.6:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 7.1:
+        non_striker: Yasar Haroon
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 7.2:
+        non_striker: Yasar Haroon
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 7.3:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 7.4:
+        non_striker: Yasar Haroon
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LF Muller
+    - 7.5:
+        non_striker: Yasar Haroon
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 7.6:
+        non_striker: Yasar Haroon
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 8.1:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 8.2:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasar Haroon
+    - 8.3:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 8.4:
+        non_striker: Yasar Haroon
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 8.5:
+        non_striker: Yasar Haroon
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 8.6:
+        non_striker: Yasar Haroon
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Muller
+    - 9.1:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 9.2:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 9.3:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasar Haroon
+    - 9.4:
+        non_striker: LF Muller
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 9.5:
+        non_striker: Yasar Haroon
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 9.6:
+        non_striker: Yasar Haroon
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 10.1:
+        non_striker: LF Muller
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 10.2:
+        non_striker: Yasar Haroon
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 10.3:
+        non_striker: Yasar Haroon
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+        wicket:
+          player_out: LF Muller
+          fielders:
+          - NN Banner
+          kind: caught
+    - 10.4:
+        non_striker: Yasar Haroon
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 10.5:
+        non_striker: Yasar Haroon
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 10.6:
+        non_striker: Yasar Haroon
+        bowler: B Lewis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 11.1:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 11.2:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 11.3:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasar Haroon
+    - 11.4:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 11.5:
+        non_striker: Yasar Haroon
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 11.6:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 12.1:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasar Haroon
+    - 12.2:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 12.3:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 12.4:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+        wicket:
+          player_out: Yasar Haroon
+          kind: bowled
+    - 12.5:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 12.6:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 13.1:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 13.2:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 13.3:
+        non_striker: MFI Assuncao
+        bowler: ML Castillo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: W Maximo
+    - 13.4:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 13.5:
+        non_striker: MFI Assuncao
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 13.6:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 13.7:
+        non_striker: MFI Assuncao
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 14.1:
+        non_striker: MFI Assuncao
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 14.2:
+        non_striker: MFI Assuncao
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 14.3:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MFI Assuncao
+    - 14.4:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 14.5:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MFI Assuncao
+    - 14.6:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 15.1:
+        non_striker: MFI Assuncao
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 15.2:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+        wicket:
+          player_out: MFI Assuncao
+          fielders:
+          - L Bonner
+          kind: caught
+    - 15.3:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 15.4:
+        non_striker: L Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 15.5:
+        non_striker: L Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 15.6:
+        non_striker: W Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 16.1:
+        non_striker: L Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 16.2:
+        non_striker: L Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 16.3:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Maximo
+    - 16.4:
+        non_striker: L Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 16.5:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 16.6:
+        non_striker: W Maximo
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 17.1:
+        non_striker: L Maximo
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+        wicket:
+          player_out: W Maximo
+          fielders:
+          - Garret Banner
+          kind: caught
+    - 17.2:
+        non_striker: L Maximo
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Avery
+        wicket:
+          player_out: R Avery
+          kind: bowled
+    - 17.3:
+        non_striker: L Maximo
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Oliveira
+    - 17.4:
+        non_striker: L Maximo
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Oliveira
+    - 17.5:
+        non_striker: L Maximo
+        bowler: L Bonner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Oliveira
+    - 17.6:
+        non_striker: L Maximo
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Oliveira
+    - 17.7:
+        non_striker: L Maximo
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Oliveira
+    - 18.1:
+        non_striker: G Oliveira
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 18.2:
+        non_striker: G Oliveira
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 18.3:
+        non_striker: L Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Oliveira
+    - 18.4:
+        non_striker: G Oliveira
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 18.5:
+        non_striker: L Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Oliveira
+    - 18.6:
+        non_striker: L Maximo
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Oliveira
+    - 19.1:
+        non_striker: G Oliveira
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Maximo
+    - 19.2:
+        non_striker: G Oliveira
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 19.3:
+        non_striker: G Oliveira
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 19.4:
+        non_striker: L Maximo
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Oliveira
+        wicket:
+          player_out: G Oliveira
+          kind: bowled
+    - 19.5:
+        non_striker: L Maximo
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Simao
+        wicket:
+          player_out: IC Simao
+          kind: bowled
+- 2nd innings:
+    team: Belize
+    deliveries:
+    - 0.1:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bonner
+        batsman: O Casasola
+    - 0.2:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bonner
+        batsman: O Casasola
+    - 0.3:
+        non_striker: O Casasola
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bonner
+    - 0.4:
+        non_striker: O Casasola
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bonner
+    - 0.5:
+        non_striker: O Casasola
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bonner
+    - 0.6:
+        non_striker: O Casasola
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Bonner
+    - 1.1:
+        non_striker: O Casasola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bonner
+    - 1.2:
+        non_striker: O Casasola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bonner
+    - 1.3:
+        non_striker: O Casasola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bonner
+    - 1.4:
+        non_striker: O Casasola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bonner
+    - 1.5:
+        non_striker: O Casasola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bonner
+    - 1.6:
+        non_striker: L Bonner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Casasola
+    - 2.1:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 2.2:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 2.3:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: O Casasola
+    - 2.4:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 2.5:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 2.6:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 3.1:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bonner
+    - 3.2:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bonner
+    - 3.3:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bonner
+    - 3.4:
+        non_striker: L Bonner
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 3.5:
+        non_striker: L Bonner
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Casasola
+    - 3.6:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bonner
+    - 4.1:
+        non_striker: O Casasola
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Bonner
+    - 4.2:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Casasola
+    - 4.3:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 4.4:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Casasola
+    - 4.5:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 4.6:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 4.7:
+        non_striker: L Bonner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 5.1:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bonner
+    - 5.2:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Bonner
+    - 5.3:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Bonner
+    - 5.4:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bonner
+    - 5.5:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bonner
+    - 5.6:
+        non_striker: O Casasola
+        bowler: IC Simao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Bonner
+    - 5.7:
+        non_striker: L Bonner
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+    - 6.1:
+        non_striker: O Casasola
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bonner
+        wicket:
+          player_out: L Bonner
+          fielders:
+          - LF Muller
+          kind: caught
+    - 6.2:
+        non_striker: O Casasola
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 6.3:
+        non_striker: O Casasola
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 6.4:
+        non_striker: O Casasola
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 6.5:
+        non_striker: O Casasola
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 6.6:
+        non_striker: O Casasola
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GG Banner
+    - 7.1:
+        non_striker: GG Banner
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Casasola
+    - 7.2:
+        non_striker: GG Banner
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Casasola
+        wicket:
+          player_out: O Casasola
+          fielders:
+          - Yasar Haroon
+          kind: caught
+    - 7.3:
+        non_striker: GG Banner
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kristan Tillett
+    - 7.4:
+        non_striker: Kristan Tillett
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GG Banner
+    - 7.5:
+        non_striker: Kristan Tillett
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 7.6:
+        non_striker: Kristan Tillett
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GG Banner
+    - 8.1:
+        non_striker: GG Banner
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kristan Tillett
+    - 8.2:
+        non_striker: GG Banner
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kristan Tillett
+    - 8.3:
+        non_striker: Kristan Tillett
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GG Banner
+    - 8.4:
+        non_striker: Kristan Tillett
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GG Banner
+    - 8.5:
+        non_striker: Kristan Tillett
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GG Banner
+    - 8.6:
+        non_striker: GG Banner
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kristan Tillett
+    - 9.1:
+        non_striker: Kristan Tillett
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 9.2:
+        non_striker: Kristan Tillett
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 9.3:
+        non_striker: Kristan Tillett
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Banner
+    - 9.4:
+        non_striker: GG Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kristan Tillett
+    - 9.5:
+        non_striker: GG Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kristan Tillett
+    - 9.6:
+        non_striker: GG Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kristan Tillett
+        wicket:
+          player_out: Kristan Tillett
+          fielders:
+          - MFI Assuncao
+          - L Maximo
+          kind: run out
+    - 10.1:
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NN Banner
+        batsman: GG Banner
+    - 10.2:
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NN Banner
+        batsman: GG Banner
+    - 10.3:
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NN Banner
+        batsman: GG Banner
+    - 10.4:
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NN Banner
+        batsman: GG Banner
+    - 10.5:
+        non_striker: NN Banner
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+        wicket:
+          player_out: GG Banner
+          fielders:
+          - L Maximo
+          kind: stumped
+    - 10.6:
+        non_striker: NN Banner
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 11.1:
+        non_striker: ML Castillo
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NN Banner
+    - 11.2:
+        non_striker: ML Castillo
+        bowler: Yasar Haroon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NN Banner
+    - 11.3:
+        non_striker: ML Castillo
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+    - 11.4:
+        non_striker: ML Castillo
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+    - 11.5:
+        non_striker: ML Castillo
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NN Banner
+    - 11.6:
+        non_striker: ML Castillo
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Banner
+    - 11.7:
+        non_striker: NN Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 12.1:
+        non_striker: NN Banner
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 12.2:
+        non_striker: ML Castillo
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Banner
+    - 12.3:
+        non_striker: NN Banner
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 12.4:
+        non_striker: ML Castillo
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+    - 12.5:
+        non_striker: ML Castillo
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+    - 12.6:
+        non_striker: ML Castillo
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NN Banner
+    - 13.1:
+        non_striker: NN Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 13.2:
+        non_striker: NN Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 13.3:
+        non_striker: NN Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ML Castillo
+    - 13.4:
+        non_striker: NN Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Castillo
+    - 13.5:
+        non_striker: NN Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ML Castillo
+    - 13.6:
+        non_striker: NN Banner
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 14.1:
+        non_striker: ML Castillo
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Banner
+    - 14.2:
+        non_striker: NN Banner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Castillo
+    - 14.3:
+        non_striker: ML Castillo
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NN Banner
+    - 14.4:
+        non_striker: ML Castillo
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+    - 14.5:
+        non_striker: ML Castillo
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+    - 14.6:
+        non_striker: ML Castillo
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Banner
+    - 14.7:
+        non_striker: NN Banner
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Castillo
+    - 14.8:
+        non_striker: NN Banner
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Castillo
+    - 15.1:
+        non_striker: ML Castillo
+        bowler: Muhammad Saleem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NN Banner
+    - 15.2:
+        non_striker: NN Banner
+        bowler: Muhammad Saleem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Castillo
+    - 15.3:
+        non_striker: NN Banner
+        bowler: Muhammad Saleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 15.4:
+        non_striker: NN Banner
+        bowler: Muhammad Saleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 15.5:
+        non_striker: NN Banner
+        bowler: Muhammad Saleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 15.6:
+        non_striker: NN Banner
+        bowler: Muhammad Saleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 16.1:
+        non_striker: ML Castillo
+        bowler: G Oliveira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NN Banner

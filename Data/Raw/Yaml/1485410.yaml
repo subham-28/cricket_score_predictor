@@ -1,0 +1,2183 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2025-06-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2337
+  outcome:
+    winner: Japan
+    by:
+      runs: 24
+  overs: 20
+  player_of_match:
+  - A Kato-Stafford
+  players:
+    Japan:
+    - A Kato-Stafford
+    - K Ota
+    - M Yanagida
+    - Seika Sumi
+    - H Iwasaki
+    - H Goto
+    - A Chandel
+    - A Fujikawa
+    - A Kano
+    - Nonoha Yasumoto
+    - E Toguchi-Quinn
+    China:
+    - Jiaping Li
+    - Wei Haiting
+    - Zi Mei
+    - M Zhu
+    - Gong Yuting
+    - Wang Huiying
+    - Cai Yuzhi
+    - Mengting Liu
+    - Xu Qian
+    - Ma Ruike
+    - Yan Zuying
+  registry:
+    people:
+      A Chandel: 78fa5f6d
+      A Fujikawa: 9543a4fe
+      A Kano: e92841c0
+      A Kato-Stafford: 034e7939
+      Cai Yuzhi: 80d30c5f
+      D Natarajan: aa3ea16d
+      E Toguchi-Quinn: d144423b
+      Gong Yuting: edcd847a
+      H Goto: b3af5bff
+      H Iwasaki: f2698c78
+      Jiaping Li: 35cac794
+      K Ota: 211f48fe
+      M Yanagida: f20e7e23
+      M Zhu: 36c3302e
+      Ma Ruike: 8ccef7e2
+      Mengting Liu: 1119a645
+      Nonoha Yasumoto: eb33378d
+      Seika Sumi: 704b4c30
+      Vipin Sukhwal: f7094357
+      Wang Huiying: c84a3e06
+      Wei Haiting: a1e30490
+      Xu Qian: 4d382b64
+      Yan Zuying: 0311d9ec
+      Zi Mei: 72070f05
+  teams:
+  - Japan
+  - China
+  toss:
+    winner: Japan
+    decision: bat
+  umpires:
+  - D Natarajan
+  - Vipin Sukhwal
+  venue: Sano International Cricket Ground
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Ota
+        batsman: A Kato-Stafford
+    - 0.2:
+        non_striker: A Kato-Stafford
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 0.3:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 0.4:
+        non_striker: A Kato-Stafford
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Ota
+    - 0.5:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 0.6:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 1.1:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 1.2:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 1.3:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ota
+    - 1.4:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 1.5:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 1.6:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 2.1:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 2.2:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 2.3:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 2.4:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 2.5:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 2.6:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 2.7:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 3.1:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 3.2:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Ota
+    - 3.3:
+        non_striker: K Ota
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 3.4:
+        non_striker: K Ota
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 3.5:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 3.6:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 4.1:
+        non_striker: K Ota
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 4.2:
+        non_striker: K Ota
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 4.3:
+        non_striker: K Ota
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 4.4:
+        non_striker: K Ota
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 4.5:
+        non_striker: K Ota
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 4.6:
+        non_striker: K Ota
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 5.1:
+        non_striker: A Kato-Stafford
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 5.2:
+        non_striker: K Ota
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 5.3:
+        non_striker: K Ota
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 5.4:
+        non_striker: A Kato-Stafford
+        bowler: Wang Huiying
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Ota
+    - 5.5:
+        non_striker: K Ota
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 5.6:
+        non_striker: K Ota
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 6.1:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 6.2:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 6.3:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 6.4:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ota
+    - 6.5:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 6.6:
+        non_striker: K Ota
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 7.1:
+        non_striker: A Kato-Stafford
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ota
+    - 7.2:
+        non_striker: A Kato-Stafford
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 7.3:
+        non_striker: K Ota
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 7.4:
+        non_striker: K Ota
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 7.5:
+        non_striker: K Ota
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 7.6:
+        non_striker: K Ota
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 8.1:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 8.2:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 8.3:
+        non_striker: K Ota
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 8.4:
+        non_striker: K Ota
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 8.5:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 8.6:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 9.1:
+        non_striker: A Kato-Stafford
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 9.2:
+        non_striker: K Ota
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 9.3:
+        non_striker: K Ota
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 9.4:
+        non_striker: A Kato-Stafford
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 9.5:
+        non_striker: K Ota
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 9.6:
+        non_striker: A Kato-Stafford
+        bowler: Cai Yuzhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Ota
+    - 10.1:
+        non_striker: A Kato-Stafford
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ota
+    - 10.2:
+        non_striker: A Kato-Stafford
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 10.3:
+        non_striker: A Kato-Stafford
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 10.4:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 10.5:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 10.6:
+        non_striker: A Kato-Stafford
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 10.7:
+        non_striker: K Ota
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 11.1:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+        wicket:
+          player_out: K Ota
+          fielders:
+          - Xu Qian
+          kind: caught
+    - 11.2:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 11.3:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 11.4:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 11.5:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 11.6:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 12.1:
+        non_striker: M Yanagida
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 12.2:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 12.3:
+        non_striker: A Kato-Stafford
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 12.4:
+        non_striker: M Yanagida
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 12.5:
+        non_striker: M Yanagida
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 12.6:
+        non_striker: M Yanagida
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 13.1:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 13.2:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 13.3:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 13.4:
+        non_striker: M Yanagida
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 13.5:
+        non_striker: A Kato-Stafford
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 13.6:
+        non_striker: M Yanagida
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+        wicket:
+          player_out: A Kato-Stafford
+          fielders:
+          - Zi Mei
+          kind: stumped
+    - 14.1:
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Seika Sumi
+        batsman: M Yanagida
+    - 14.2:
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Seika Sumi
+        batsman: M Yanagida
+    - 14.3:
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Seika Sumi
+        batsman: M Yanagida
+    - 14.4:
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Seika Sumi
+        batsman: M Yanagida
+    - 14.5:
+        non_striker: M Yanagida
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 14.6:
+        non_striker: Seika Sumi
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 14.7:
+        non_striker: Seika Sumi
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 15.1:
+        non_striker: M Yanagida
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 15.2:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+        wicket:
+          player_out: M Yanagida
+          fielders:
+          - Jiaping Li
+          - Zi Mei
+          kind: run out
+    - 15.3:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 15.4:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 15.5:
+        non_striker: H Iwasaki
+        bowler: Cai Yuzhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Seika Sumi
+    - 15.6:
+        non_striker: H Iwasaki
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 15.7:
+        non_striker: H Iwasaki
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 16.1:
+        non_striker: H Iwasaki
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 16.2:
+        non_striker: Seika Sumi
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 16.3:
+        non_striker: H Iwasaki
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 16.4:
+        non_striker: Seika Sumi
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 16.5:
+        non_striker: Seika Sumi
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 16.6:
+        non_striker: H Iwasaki
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 17.1:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Iwasaki
+    - 17.2:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Iwasaki
+    - 17.3:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Iwasaki
+    - 17.4:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H Iwasaki
+    - 17.5:
+        non_striker: H Iwasaki
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 17.6:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 17.7:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 18.1:
+        non_striker: Seika Sumi
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 18.2:
+        non_striker: Seika Sumi
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 18.3:
+        non_striker: H Iwasaki
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 18.4:
+        non_striker: Seika Sumi
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+        wicket:
+          player_out: H Iwasaki
+          kind: bowled
+    - 18.5:
+        non_striker: Seika Sumi
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 18.6:
+        non_striker: Seika Sumi
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 19.1:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+        wicket:
+          player_out: H Goto
+          fielders:
+          - Mengting Liu
+          kind: caught
+    - 19.2:
+        non_striker: Seika Sumi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 19.3:
+        non_striker: A Chandel
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+        wicket:
+          player_out: Seika Sumi
+          fielders:
+          - Cai Yuzhi
+          - Yan Zuying
+          kind: run out
+    - 19.4:
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Fujikawa
+        batsman: A Chandel
+    - 19.5:
+        non_striker: A Chandel
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Fujikawa
+    - 19.6:
+        non_striker: A Chandel
+        bowler: Cai Yuzhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Fujikawa
+    - 19.7:
+        non_striker: A Chandel
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Fujikawa
+        wicket:
+          player_out: A Fujikawa
+          kind: caught and bowled
+- 2nd innings:
+    team: China
+    deliveries:
+    - 0.1:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wei Haiting
+        batsman: Jiaping Li
+    - 0.2:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Wei Haiting
+        batsman: Jiaping Li
+    - 0.3:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wei Haiting
+        batsman: Jiaping Li
+    - 0.4:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wei Haiting
+        batsman: Jiaping Li
+    - 0.5:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Wei Haiting
+        batsman: Jiaping Li
+    - 0.6:
+        non_striker: Jiaping Li
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 1.1:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 1.2:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 1.3:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 1.4:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 1.5:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 1.6:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jiaping Li
+    - 2.1:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jiaping Li
+    - 2.2:
+        non_striker: Jiaping Li
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 2.3:
+        non_striker: Jiaping Li
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 2.4:
+        non_striker: Jiaping Li
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Wei Haiting
+    - 2.5:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 2.6:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jiaping Li
+    - 3.1:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 3.2:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 3.3:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jiaping Li
+    - 3.4:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 3.5:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 3.6:
+        non_striker: Wei Haiting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jiaping Li
+    - 4.1:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+    - 4.2:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jiaping Li
+        wicket:
+          player_out: Jiaping Li
+          fielders:
+          - A Fujikawa
+          kind: caught
+    - 4.3:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 4.4:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 4.5:
+        non_striker: Zi Mei
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 4.6:
+        non_striker: Zi Mei
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 5.1:
+        non_striker: Wei Haiting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 5.2:
+        non_striker: Wei Haiting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 5.3:
+        non_striker: Wei Haiting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 5.4:
+        non_striker: Wei Haiting
+        bowler: A Fujikawa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Zi Mei
+    - 5.5:
+        non_striker: Wei Haiting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 5.6:
+        non_striker: Zi Mei
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 6.1:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 6.2:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zi Mei
+    - 6.3:
+        non_striker: Zi Mei
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 6.4:
+        non_striker: Zi Mei
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wei Haiting
+    - 6.5:
+        non_striker: Wei Haiting
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 6.6:
+        non_striker: Zi Mei
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 7.1:
+        non_striker: Wei Haiting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 7.2:
+        non_striker: Wei Haiting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 7.3:
+        non_striker: Zi Mei
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 7.4:
+        non_striker: Zi Mei
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 7.5:
+        non_striker: Zi Mei
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wei Haiting
+    - 7.6:
+        non_striker: Wei Haiting
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zi Mei
+    - 7.7:
+        non_striker: Wei Haiting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 8.1:
+        non_striker: Zi Mei
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 8.2:
+        non_striker: Zi Mei
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 8.3:
+        non_striker: Zi Mei
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 8.4:
+        non_striker: Zi Mei
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+        wicket:
+          player_out: Wei Haiting
+          kind: bowled
+    - 8.5:
+        non_striker: Zi Mei
+        bowler: A Chandel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Zhu
+    - 8.6:
+        non_striker: Zi Mei
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Zhu
+    - 8.7:
+        non_striker: M Zhu
+        bowler: A Chandel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Zi Mei
+    - 9.1:
+        non_striker: M Zhu
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 9.2:
+        non_striker: M Zhu
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 9.3:
+        non_striker: M Zhu
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+        wicket:
+          player_out: Zi Mei
+          fielders:
+          - A Chandel
+          - A Kano
+          kind: run out
+    - 9.4:
+        non_striker: M Zhu
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gong Yuting
+    - 9.5:
+        non_striker: M Zhu
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gong Yuting
+    - 9.6:
+        non_striker: M Zhu
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gong Yuting
+    - 10.1:
+        non_striker: M Zhu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gong Yuting
+    - 10.2:
+        non_striker: Gong Yuting
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Zhu
+    - 10.3:
+        non_striker: M Zhu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gong Yuting
+    - 10.4:
+        non_striker: Gong Yuting
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Zhu
+    - 10.5:
+        non_striker: M Zhu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Gong Yuting
+    - 10.6:
+        non_striker: M Zhu
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gong Yuting
+    - 11.1:
+        non_striker: Gong Yuting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Zhu
+    - 11.2:
+        non_striker: Gong Yuting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Zhu
+    - 11.3:
+        non_striker: Gong Yuting
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Zhu
+    - 11.4:
+        non_striker: Gong Yuting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Zhu
+    - 11.5:
+        non_striker: Gong Yuting
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Zhu
+    - 11.6:
+        non_striker: M Zhu
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gong Yuting
+    - 11.7:
+        non_striker: M Zhu
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gong Yuting
+    - 12.1:
+        non_striker: Gong Yuting
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Zhu
+    - 12.2:
+        non_striker: M Zhu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gong Yuting
+    - 12.3:
+        non_striker: M Zhu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gong Yuting
+    - 12.4:
+        non_striker: M Zhu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gong Yuting
+    - 12.5:
+        non_striker: Gong Yuting
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Zhu
+    - 12.6:
+        non_striker: Gong Yuting
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Zhu
+    - 13.1:
+        non_striker: Gong Yuting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Zhu
+    - 13.2:
+        non_striker: M Zhu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gong Yuting
+    - 13.3:
+        non_striker: Gong Yuting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Zhu
+    - 13.4:
+        non_striker: M Zhu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gong Yuting
+    - 13.5:
+        non_striker: Gong Yuting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Zhu
+    - 13.6:
+        non_striker: Gong Yuting
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Zhu
+    - 14.1:
+        non_striker: Gong Yuting
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Zhu
+        wicket:
+          player_out: M Zhu
+          fielders:
+          - E Toguchi-Quinn
+          kind: caught
+    - 14.2:
+        non_striker: Gong Yuting
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wang Huiying
+    - 14.3:
+        non_striker: Gong Yuting
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wang Huiying
+    - 14.4:
+        non_striker: Gong Yuting
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wang Huiying
+    - 14.5:
+        non_striker: Wang Huiying
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gong Yuting
+    - 14.6:
+        non_striker: Gong Yuting
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wang Huiying
+        wicket:
+          player_out: Wang Huiying
+          kind: caught and bowled
+    - 15.1:
+        non_striker: Cai Yuzhi
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gong Yuting
+        wicket:
+          player_out: Gong Yuting
+          kind: caught and bowled
+    - 15.2:
+        non_striker: Cai Yuzhi
+        bowler: A Kato-Stafford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mengting Liu
+    - 15.3:
+        non_striker: Cai Yuzhi
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 15.4:
+        non_striker: Cai Yuzhi
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 15.5:
+        non_striker: Cai Yuzhi
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 15.6:
+        non_striker: Mengting Liu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Cai Yuzhi
+        wicket:
+          player_out: Cai Yuzhi
+          fielders:
+          - H Goto
+          - A Kano
+          kind: run out
+    - 15.7:
+        non_striker: Mengting Liu
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Xu Qian
+    - 16.1:
+        non_striker: Xu Qian
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 16.2:
+        non_striker: Mengting Liu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Xu Qian
+        wicket:
+          player_out: Xu Qian
+          fielders:
+          - E Toguchi-Quinn
+          kind: caught
+    - 16.3:
+        non_striker: Mengting Liu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 16.4:
+        non_striker: Mengting Liu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 16.5:
+        non_striker: Mengting Liu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ma Ruike
+    - 16.6:
+        non_striker: Mengting Liu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 17.1:
+        non_striker: Ma Ruike
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 17.2:
+        non_striker: Ma Ruike
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 17.3:
+        non_striker: Ma Ruike
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 17.4:
+        non_striker: Mengting Liu
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 17.5:
+        non_striker: Mengting Liu
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ma Ruike
+    - 17.6:
+        non_striker: Ma Ruike
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 18.1:
+        non_striker: Ma Ruike
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 18.2:
+        non_striker: Ma Ruike
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 18.3:
+        non_striker: Ma Ruike
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 18.4:
+        non_striker: Ma Ruike
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 18.5:
+        non_striker: Mengting Liu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 18.6:
+        non_striker: Mengting Liu
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ma Ruike
+    - 19.1:
+        non_striker: Mengting Liu
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ma Ruike
+    - 19.2:
+        non_striker: Ma Ruike
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+        wicket:
+          player_out: Mengting Liu
+          kind: bowled
+    - 19.3:
+        non_striker: Ma Ruike
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+        wicket:
+          player_out: Yan Zuying
+          fielders:
+          - A Kato-Stafford
+          kind: run out

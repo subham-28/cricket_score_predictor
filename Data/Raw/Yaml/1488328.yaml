@@ -1,0 +1,2259 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: King City
+  dates:
+  - '2025-06-16'
+  gender: male
+  match_type: T20
+  match_type_number: 3244
+  outcome:
+    winner: Canada
+    by:
+      runs: 59
+  overs: 20
+  player_of_match:
+  - K Tathgur
+  players:
+    Canada:
+    - YS Samra
+    - A Johnson
+    - Pargat Singh
+    - NR Kirton
+    - H Thaker
+    - K Tathgur
+    - Jaskaran Singh
+    - Saad Bin Zafar
+    - D Heyliger
+    - Shivam Sharma
+    - Kaleem Sana
+    Cayman Islands:
+    - J Baker
+    - AR Naidoo
+    - RA Sealy
+    - S Foster
+    - ROC Dunka
+    - BKB Corbin
+    - C Wright
+    - KR Ebanks
+    - A Morris
+    - A Wright
+    - T Taylor
+  registry:
+    people:
+      A Johnson: a28a7fba
+      A Morris: 04cf2e94
+      A Wright: 4bb7f51e
+      AR Maddela: 5c861579
+      AR Naidoo: 68886c16
+      BKB Corbin: 036b8660
+      C Wright: d465c6d7
+      D Heyliger: f8c72766
+      DK Butler: 671398e3
+      Dave Gilbert: aa782370
+      GO Brathwaite: 1ace56d4
+      H Thaker: c01d7726
+      J Baker: a12672e0
+      Jaskaran Singh: d7b3a420
+      K Tathgur: f190c775
+      KR Ebanks: e52eb657
+      Kaleem Sana: 14810ee7
+      NR Kirton: 6b75c2b1
+      Pargat Singh: d2e67105
+      R Walker: be37d889
+      RA Sealy: 1e98804a
+      ROC Dunka: 762f43b7
+      S Foster: 3595ad3b
+      Saad Bin Zafar: f28a60e0
+      Shivam Sharma: 5bdeeed4
+      T Taylor: 1d6e8f52
+      YS Samra: d02c40ab
+      Zahid Bassarath: ca6bf044
+  teams:
+  - Canada
+  - Cayman Islands
+  toss:
+    winner: Cayman Islands
+    decision: field
+  umpires:
+  - GO Brathwaite
+  - Zahid Bassarath
+  venue: Maple Leaf North-West Ground, King City
+innings:
+- 1st innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Johnson
+        batsman: YS Samra
+    - 0.2:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Johnson
+        batsman: YS Samra
+    - 0.3:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 0.4:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 0.5:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 0.6:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+        wicket:
+          player_out: A Johnson
+          fielders:
+          - RA Sealy
+          kind: caught
+    - 0.7:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 1.1:
+        non_striker: YS Samra
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+        wicket:
+          player_out: Pargat Singh
+          kind: lbw
+    - 1.2:
+        non_striker: YS Samra
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 1.3:
+        non_striker: YS Samra
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 1.4:
+        non_striker: YS Samra
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 1.5:
+        non_striker: NR Kirton
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 1.6:
+        non_striker: NR Kirton
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 2.1:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NR Kirton
+    - 2.2:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 2.3:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 2.4:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 2.5:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 2.6:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 2.7:
+        non_striker: YS Samra
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 3.1:
+        non_striker: YS Samra
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 3.2:
+        non_striker: YS Samra
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 3.3:
+        non_striker: H Thaker
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          role:
+          - in: H Thaker
+            out: NR Kirton
+            reason: unknown
+            role: batter
+        batsman: YS Samra
+    - 3.4:
+        non_striker: H Thaker
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 3.5:
+        non_striker: YS Samra
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 3.6:
+        non_striker: YS Samra
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 4.1:
+        non_striker: H Thaker
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Samra
+    - 4.2:
+        non_striker: H Thaker
+        bowler: T Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YS Samra
+    - 4.3:
+        non_striker: H Thaker
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Samra
+    - 4.4:
+        non_striker: H Thaker
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 4.5:
+        non_striker: YS Samra
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 4.6:
+        non_striker: H Thaker
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YS Samra
+    - 4.7:
+        non_striker: H Thaker
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 5.1:
+        non_striker: YS Samra
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Thaker
+    - 5.2:
+        non_striker: YS Samra
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 5.3:
+        non_striker: YS Samra
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 5.4:
+        non_striker: H Thaker
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 5.5:
+        non_striker: H Thaker
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Samra
+    - 5.6:
+        non_striker: H Thaker
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 6.1:
+        non_striker: H Thaker
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Samra
+    - 6.2:
+        non_striker: H Thaker
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 6.3:
+        non_striker: YS Samra
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 6.4:
+        non_striker: H Thaker
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 6.5:
+        non_striker: YS Samra
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 6.6:
+        non_striker: YS Samra
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 7.1:
+        non_striker: YS Samra
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 7.2:
+        non_striker: H Thaker
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+        wicket:
+          player_out: YS Samra
+          kind: lbw
+    - 7.3:
+        non_striker: H Thaker
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 7.4:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 7.5:
+        non_striker: H Thaker
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+    - 7.6:
+        non_striker: H Thaker
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 8.1:
+        non_striker: H Thaker
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 8.2:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 8.3:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 8.4:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 8.5:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 8.6:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 9.1:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 9.2:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: H Thaker
+    - 9.3:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 9.4:
+        non_striker: H Thaker
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 9.5:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 9.6:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 10.1:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Thaker
+    - 10.2:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 10.3:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+        wicket:
+          player_out: H Thaker
+          kind: lbw
+    - 10.4:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 10.5:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 10.6:
+        non_striker: NR Kirton
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 11.1:
+        non_striker: NR Kirton
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 11.2:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 11.3:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 11.4:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 11.5:
+        non_striker: NR Kirton
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 11.6:
+        non_striker: K Tathgur
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 12.1:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 12.2:
+        non_striker: NR Kirton
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Tathgur
+    - 12.3:
+        non_striker: NR Kirton
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 12.4:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 12.5:
+        non_striker: NR Kirton
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 12.6:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 13.1:
+        non_striker: NR Kirton
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Tathgur
+    - 13.2:
+        non_striker: NR Kirton
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+    - 13.3:
+        non_striker: NR Kirton
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Tathgur
+    - 13.4:
+        non_striker: NR Kirton
+        bowler: KR Ebanks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Tathgur
+    - 13.5:
+        non_striker: NR Kirton
+        bowler: KR Ebanks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Tathgur
+    - 13.6:
+        non_striker: K Tathgur
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 13.7:
+        non_striker: NR Kirton
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Tathgur
+    - 14.1:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 14.2:
+        non_striker: NR Kirton
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 14.3:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 14.4:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NR Kirton
+    - 14.5:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 14.6:
+        non_striker: NR Kirton
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 14.7:
+        non_striker: K Tathgur
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 15.1:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NR Kirton
+    - 15.2:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 15.3:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 15.4:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Kirton
+    - 15.5:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 15.6:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 15.7:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 16.1:
+        non_striker: K Tathgur
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 16.2:
+        non_striker: K Tathgur
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 16.3:
+        non_striker: NR Kirton
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+    - 16.4:
+        non_striker: NR Kirton
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 16.5:
+        non_striker: K Tathgur
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 16.6:
+        non_striker: NR Kirton
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Tathgur
+    - 17.1:
+        non_striker: K Tathgur
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 17.2:
+        non_striker: K Tathgur
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: C Wright
+            out: T Taylor
+            reason: unknown
+            role: bowler
+        batsman: NR Kirton
+    - 17.3:
+        non_striker: NR Kirton
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Tathgur
+    - 17.4:
+        non_striker: NR Kirton
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+    - 17.5:
+        non_striker: NR Kirton
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Tathgur
+    - 17.6:
+        non_striker: NR Kirton
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 18.1:
+        non_striker: NR Kirton
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Tathgur
+    - 18.2:
+        non_striker: NR Kirton
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 18.3:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NR Kirton
+    - 18.4:
+        non_striker: NR Kirton
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 18.5:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+        wicket:
+          player_out: NR Kirton
+          fielders:
+          - R Walker (sub)
+          kind: caught
+    - 18.6:
+        non_striker: K Tathgur
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 19.1:
+        non_striker: K Tathgur
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Jaskaran Singh
+    - 19.2:
+        non_striker: K Tathgur
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jaskaran Singh
+    - 19.3:
+        non_striker: K Tathgur
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jaskaran Singh
+    - 19.4:
+        non_striker: K Tathgur
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jaskaran Singh
+    - 19.5:
+        non_striker: K Tathgur
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 19.6:
+        non_striker: Jaskaran Singh
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Tathgur
+    - 19.7:
+        non_striker: Jaskaran Singh
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+    - 19.8:
+        non_striker: Jaskaran Singh
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Tathgur
+    - 19.9:
+        non_striker: Jaskaran Singh
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Tathgur
+- 2nd innings:
+    team: Cayman Islands
+    deliveries:
+    - 0.1:
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 0.2:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 0.3:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 0.4:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 0.5:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 0.6:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 0.7:
+        non_striker: J Baker
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 1.1:
+        non_striker: AR Naidoo
+        bowler: D Heyliger
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: J Baker
+    - 1.2:
+        non_striker: AR Naidoo
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 1.3:
+        non_striker: AR Naidoo
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 1.4:
+        non_striker: AR Naidoo
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 1.5:
+        non_striker: AR Naidoo
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 1.6:
+        non_striker: AR Naidoo
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 2.1:
+        non_striker: AR Naidoo
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 2.2:
+        non_striker: AR Naidoo
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 2.3:
+        non_striker: AR Naidoo
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 2.4:
+        non_striker: AR Naidoo
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 2.5:
+        non_striker: AR Naidoo
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 2.6:
+        non_striker: AR Naidoo
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 3.1:
+        non_striker: J Baker
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 3.2:
+        non_striker: AR Naidoo
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 3.3:
+        non_striker: AR Naidoo
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 3.4:
+        non_striker: AR Naidoo
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 3.5:
+        non_striker: J Baker
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 3.6:
+        non_striker: AR Naidoo
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 4.1:
+        non_striker: J Baker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 4.2:
+        non_striker: J Baker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 4.3:
+        non_striker: J Baker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 4.4:
+        non_striker: AR Naidoo
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 4.5:
+        non_striker: J Baker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 4.6:
+        non_striker: J Baker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 5.1:
+        non_striker: J Baker
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 5.2:
+        non_striker: AR Naidoo
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+        wicket:
+          player_out: J Baker
+          fielders:
+          - D Heyliger
+          kind: caught
+    - 5.3:
+        non_striker: AR Naidoo
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 5.4:
+        non_striker: AR Naidoo
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 5.5:
+        non_striker: RA Sealy
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 5.6:
+        non_striker: RA Sealy
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 6.1:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 6.2:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 6.3:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 6.4:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 6.5:
+        non_striker: AR Naidoo
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 6.6:
+        non_striker: AR Naidoo
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 6.7:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 6.8:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 7.1:
+        non_striker: AR Naidoo
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 7.2:
+        non_striker: RA Sealy
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 7.3:
+        non_striker: RA Sealy
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 7.4:
+        non_striker: RA Sealy
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 7.5:
+        non_striker: RA Sealy
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 7.6:
+        non_striker: AR Naidoo
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 8.1:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Naidoo
+    - 8.2:
+        non_striker: AR Naidoo
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 8.3:
+        non_striker: AR Naidoo
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 8.4:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 8.5:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 8.6:
+        non_striker: RA Sealy
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 8.7:
+        non_striker: AR Naidoo
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+        wicket:
+          player_out: RA Sealy
+          fielders:
+          - Kaleem Sana
+          kind: caught
+    - 9.1:
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Foster
+        batsman: AR Naidoo
+    - 9.2:
+        non_striker: AR Naidoo
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 9.3:
+        non_striker: AR Naidoo
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 9.4:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+        wicket:
+          player_out: AR Naidoo
+          fielders:
+          - Kaleem Sana
+          kind: caught
+    - 9.5:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ROC Dunka
+    - 9.6:
+        non_striker: ROC Dunka
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 10.1:
+        non_striker: ROC Dunka
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 10.2:
+        non_striker: S Foster
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ROC Dunka
+    - 10.3:
+        non_striker: ROC Dunka
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 10.4:
+        non_striker: S Foster
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ROC Dunka
+    - 10.5:
+        non_striker: S Foster
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ROC Dunka
+    - 10.6:
+        non_striker: ROC Dunka
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 11.1:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ROC Dunka
+        wicket:
+          player_out: ROC Dunka
+          kind: lbw
+    - 11.2:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+    - 11.3:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKB Corbin
+    - 11.4:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+        wicket:
+          player_out: BKB Corbin
+          fielders:
+          - K Tathgur
+          kind: caught
+    - 11.5:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 11.6:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: C Wright
+    - 11.7:
+        non_striker: C Wright
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 12.1:
+        non_striker: S Foster
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 12.2:
+        non_striker: S Foster
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+        wicket:
+          player_out: C Wright
+          kind: bowled
+    - 12.3:
+        non_striker: S Foster
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Ebanks
+    - 12.4:
+        non_striker: KR Ebanks
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 12.5:
+        non_striker: KR Ebanks
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 12.6:
+        non_striker: S Foster
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Ebanks
+    - 13.1:
+        non_striker: KR Ebanks
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 13.2:
+        non_striker: KR Ebanks
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 13.3:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Ebanks
+    - 13.4:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Ebanks
+    - 13.5:
+        non_striker: KR Ebanks
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 13.6:
+        non_striker: S Foster
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Ebanks
+    - 14.1:
+        non_striker: KR Ebanks
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Foster
+    - 14.2:
+        non_striker: KR Ebanks
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 14.3:
+        non_striker: S Foster
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Ebanks
+    - 14.4:
+        non_striker: KR Ebanks
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 14.5:
+        non_striker: KR Ebanks
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 14.6:
+        non_striker: KR Ebanks
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 15.1:
+        non_striker: S Foster
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Ebanks
+        wicket:
+          player_out: KR Ebanks
+          fielders:
+          - K Tathgur
+          kind: caught
+    - 15.2:
+        non_striker: S Foster
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 15.3:
+        non_striker: S Foster
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 15.4:
+        non_striker: S Foster
+        bowler: H Thaker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Morris
+    - 15.5:
+        non_striker: A Morris
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 15.6:
+        non_striker: A Morris
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 16.1:
+        non_striker: S Foster
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 16.2:
+        non_striker: S Foster
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 16.3:
+        non_striker: S Foster
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 16.4:
+        non_striker: S Foster
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 16.5:
+        non_striker: S Foster
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 16.6:
+        non_striker: S Foster
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 17.1:
+        non_striker: A Morris
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Foster
+    - 17.2:
+        non_striker: A Morris
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 17.3:
+        non_striker: S Foster
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 17.4:
+        non_striker: S Foster
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Morris
+    - 17.5:
+        non_striker: S Foster
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 17.6:
+        non_striker: S Foster
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 18.1:
+        non_striker: A Morris
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+        wicket:
+          player_out: S Foster
+          fielders:
+          - K Tathgur
+          kind: caught
+    - 18.2:
+        non_striker: A Morris
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wright
+    - 18.3:
+        non_striker: A Morris
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wright
+    - 18.4:
+        non_striker: A Morris
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wright
+        wicket:
+          player_out: A Wright
+          fielders:
+          - K Tathgur
+          - Jaskaran Singh
+          kind: run out
+    - 18.5:
+        non_striker: A Morris
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+    - 18.6:
+        non_striker: A Morris
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+    - 19.1:
+        non_striker: T Taylor
+        bowler: D Heyliger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Morris
+    - 19.2:
+        non_striker: T Taylor
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 19.3:
+        non_striker: T Taylor
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 19.4:
+        non_striker: T Taylor
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Morris
+    - 19.5:
+        non_striker: T Taylor
+        bowler: D Heyliger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Morris
+    - 19.6:
+        non_striker: T Taylor
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 19.7:
+        non_striker: T Taylor
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 19.8:
+        non_striker: T Taylor
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris

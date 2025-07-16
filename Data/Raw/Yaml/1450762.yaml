@@ -1,0 +1,744 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dar-es-Salaam
+  dates:
+  - '2024-09-25'
+  gender: male
+  match_type: T20
+  match_type_number: 2864
+  outcome:
+    winner: Malawi
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - MA Baig
+  players:
+    Cameroon:
+    - AR Balla
+    - I Tchakou
+    - BN Toube
+    - RD Atangana
+    - AN Toube
+    - DB Loic
+    - JB Abega
+    - AN Aminou
+    - FJ Mpegna
+    - VF Bomnyuy
+    - SYS Assegon
+    Malawi:
+    - D Kansonkho
+    - G Kansonkho
+    - Sami Sohail
+    - GM Ntambalika
+    - D Jakiel
+    - A Limdawala
+    - MA Baig
+    - M Choamba
+    - B Pondani
+    - P Zuze
+    - SZ Vayani
+  registry:
+    people:
+      A Limdawala: 2bcbcac3
+      AN Aminou: 6d9d2de7
+      AN Toube: 7f929ebe
+      AR Balla: 4b83e65a
+      Aasif Iqbal: 42c41e1a
+      B Pondani: e5117568
+      BN Toube: 75f3aa00
+      D Jakiel: 8b7ce771
+      D Kansonkho: 45ca12a7
+      D Odhiambo: '45994517'
+      DB Loic: '01679383'
+      FJ Mpegna: d3893060
+      G Kansonkho: f3ca5af8
+      GM Ntambalika: 8c8a3f08
+      I Tchakou: 4d2b96b4
+      JB Abega: b7abb123
+      M Choamba: 5570c4c1
+      MA Baig: '89394502'
+      P Zuze: '04420914'
+      Patric Makumbi: e4c69c16
+      RD Atangana: 490f475a
+      S Wadvalla: c1a1acf3
+      SYS Assegon: be48d2e5
+      SZ Vayani: a4afc486
+      Sami Sohail: 602ebd4c
+      VF Bomnyuy: 3bc18521
+  teams:
+  - Cameroon
+  - Malawi
+  toss:
+    winner: Malawi
+    decision: field
+  umpires:
+  - D Odhiambo
+  - Patric Makumbi
+  venue: University of Dar-es-Salaam Ground
+innings:
+- 1st innings:
+    team: Cameroon
+    deliveries:
+    - 0.1:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Tchakou
+        batsman: AR Balla
+    - 0.2:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Tchakou
+        batsman: AR Balla
+    - 0.3:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Tchakou
+        batsman: AR Balla
+    - 0.4:
+        non_striker: AR Balla
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Tchakou
+    - 0.5:
+        non_striker: AR Balla
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Tchakou
+    - 0.6:
+        non_striker: AR Balla
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Tchakou
+        wicket:
+          player_out: I Tchakou
+          fielders:
+          - GM Ntambalika
+          kind: caught
+    - 1.1:
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BN Toube
+        batsman: AR Balla
+    - 1.2:
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BN Toube
+        batsman: AR Balla
+    - 1.3:
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BN Toube
+        batsman: AR Balla
+    - 1.4:
+        non_striker: AR Balla
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Toube
+    - 1.5:
+        non_striker: AR Balla
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Toube
+    - 1.6:
+        non_striker: AR Balla
+        bowler: B Pondani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BN Toube
+    - 1.7:
+        non_striker: AR Balla
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Toube
+    - 2.1:
+        non_striker: BN Toube
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Balla
+    - 2.2:
+        non_striker: BN Toube
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Balla
+    - 2.3:
+        non_striker: BN Toube
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Balla
+    - 2.4:
+        non_striker: BN Toube
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Balla
+    - 2.5:
+        non_striker: BN Toube
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Balla
+        wicket:
+          player_out: AR Balla
+          fielders:
+          - GM Ntambalika
+          kind: caught
+    - 2.6:
+        non_striker: BN Toube
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Atangana
+    - 3.1:
+        non_striker: RD Atangana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BN Toube
+    - 3.2:
+        non_striker: RD Atangana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Toube
+    - 3.3:
+        non_striker: RD Atangana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Toube
+    - 3.4:
+        non_striker: RD Atangana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Toube
+    - 3.5:
+        non_striker: BN Toube
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Atangana
+    - 3.6:
+        non_striker: BN Toube
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Atangana
+    - 4.1:
+        non_striker: RD Atangana
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Toube
+    - 4.2:
+        non_striker: RD Atangana
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BN Toube
+    - 4.3:
+        non_striker: RD Atangana
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Toube
+        wicket:
+          player_out: BN Toube
+          kind: lbw
+    - 4.4:
+        non_striker: RD Atangana
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Toube
+    - 4.5:
+        non_striker: AN Toube
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Atangana
+    - 4.6:
+        non_striker: AN Toube
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Atangana
+    - 4.7:
+        non_striker: AN Toube
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Atangana
+    - 5.1:
+        non_striker: RD Atangana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Toube
+    - 5.2:
+        non_striker: RD Atangana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Toube
+    - 5.3:
+        non_striker: AN Toube
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Atangana
+    - 5.4:
+        non_striker: AN Toube
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Atangana
+    - 5.5:
+        non_striker: AN Toube
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Atangana
+        wicket:
+          player_out: RD Atangana
+          kind: lbw
+    - 5.6:
+        non_striker: AN Toube
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Loic
+    - 6.1:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Toube
+        wicket:
+          player_out: AN Toube
+          kind: lbw
+    - 6.2:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Abega
+        wicket:
+          player_out: JB Abega
+          kind: bowled
+    - 6.3:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Aminou
+    - 6.4:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AN Aminou
+    - 6.5:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: AN Aminou
+    - 6.6:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Aminou
+        wicket:
+          player_out: AN Aminou
+          kind: lbw
+    - 6.7:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FJ Mpegna
+        wicket:
+          player_out: FJ Mpegna
+          kind: bowled
+    - 7.1:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: VF Bomnyuy
+        batsman: DB Loic
+    - 7.2:
+        non_striker: DB Loic
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VF Bomnyuy
+    - 7.3:
+        non_striker: DB Loic
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VF Bomnyuy
+    - 7.4:
+        non_striker: DB Loic
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VF Bomnyuy
+    - 7.5:
+        non_striker: DB Loic
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VF Bomnyuy
+    - 7.6:
+        non_striker: DB Loic
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VF Bomnyuy
+        wicket:
+          player_out: VF Bomnyuy
+          fielders:
+          - M Choamba
+          - P Zuze
+          kind: run out
+    - 8.1:
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: SYS Assegon
+        batsman: DB Loic
+    - 8.2:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SYS Assegon
+    - 8.3:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SYS Assegon
+    - 8.4:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SYS Assegon
+    - 8.5:
+        non_striker: DB Loic
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SYS Assegon
+        wicket:
+          player_out: SYS Assegon
+          kind: bowled
+- 2nd innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: BN Toube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Kansonkho
+        batsman: D Kansonkho
+    - 0.2:
+        non_striker: D Kansonkho
+        bowler: BN Toube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 0.3:
+        non_striker: D Kansonkho
+        bowler: BN Toube
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kansonkho
+    - 0.4:
+        non_striker: D Kansonkho
+        bowler: BN Toube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+        wicket:
+          player_out: G Kansonkho
+          fielders:
+          - AN Toube
+          kind: caught
+    - 0.5:
+        non_striker: D Kansonkho
+        bowler: BN Toube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 0.6:
+        non_striker: D Kansonkho
+        bowler: BN Toube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 1.1:
+        non_striker: Sami Sohail
+        bowler: DB Loic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kansonkho
+    - 1.2:
+        non_striker: Sami Sohail
+        bowler: DB Loic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 1.3:
+        non_striker: D Kansonkho
+        bowler: DB Loic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 1.4:
+        non_striker: Sami Sohail
+        bowler: DB Loic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Kansonkho
+    - 1.5:
+        non_striker: Sami Sohail
+        bowler: DB Loic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 1.6:
+        non_striker: D Kansonkho
+        bowler: DB Loic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 1.7:
+        non_striker: D Kansonkho
+        bowler: DB Loic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 2.1:
+        non_striker: D Kansonkho
+        bowler: RD Atangana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 2.2:
+        non_striker: D Kansonkho
+        bowler: RD Atangana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 2.3:
+        non_striker: D Kansonkho
+        bowler: RD Atangana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 2.4:
+        non_striker: D Kansonkho
+        bowler: RD Atangana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: Sami Sohail
+    - 2.5:
+        non_striker: Sami Sohail
+        bowler: RD Atangana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 2.6:
+        non_striker: Sami Sohail
+        bowler: RD Atangana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho

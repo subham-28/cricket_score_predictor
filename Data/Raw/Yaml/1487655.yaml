@@ -1,0 +1,2123 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Utrecht
+  dates:
+  - '2025-06-13'
+  gender: female
+  match_type: T20
+  match_type_number: 2371
+  outcome:
+    winner: Netherlands
+    by:
+      runs: 75
+  overs: 20
+  player_of_match:
+  - IJR Zwilling
+  players:
+    Netherlands:
+    - HDJ Siegers
+    - P Molkenboer
+    - B de Leede
+    - SL Kalis
+    - R Rijke
+    - F Overdijk
+    - IJR Zwilling
+    - C de Lange
+    - HWA Landheer
+    - L Hamilton
+    - S Siegers
+    United States of America:
+    - D Dhingra
+    - CR Pagydyala
+    - RP Singh
+    - AI Chudasama
+    - G Kodali
+    - JM Willathgamuwa
+    - Pooja Ganesh
+    - M Patwardhan
+    - JL Aras
+    - L Shetty
+    - S Immadi
+  registry:
+    people:
+      AI Chudasama: 9414a81c
+      Adriaan van den Dries: 94b5ec3b
+      B de Leede: b3020075
+      C de Lange: c6a019f5
+      CR Pagydyala: d7c02672
+      D Dhingra: b0dc5d0d
+      F Overdijk: 022745d5
+      G Kodali: f606177e
+      HDJ Siegers: 6d48df01
+      HWA Landheer: a6ec88f4
+      IJR Zwilling: 47b32a5a
+      J Westerberg: eaad0353
+      JL Aras: e21475a5
+      JM Willathgamuwa: 0a10b268
+      L Hamilton: 4fbe9e03
+      L Shetty: f0a0ed1d
+      M Patwardhan: 2e2233df
+      M Prabhudesa: c36bcd1e
+      P Molkenboer: fa9db243
+      Pooja Ganesh: a186b627
+      R Rijke: 42e4b276
+      RP Singh: 0ab3c788
+      S Immadi: a6dd06d6
+      S Siegers: 9a58f2c8
+      SL Kalis: 2b150c6b
+      WPM van Liemt: 2bd48588
+  teams:
+  - Netherlands
+  - United States of America
+  toss:
+    winner: Netherlands
+    decision: bat
+  umpires:
+  - M Prabhudesa
+  - WPM van Liemt
+  venue: Sportpark Maarschalkerweerd, Utrecht
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+        wicket:
+          player_out: HDJ Siegers
+          fielders:
+          - Pooja Ganesh
+          kind: caught
+    - 0.2:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 0.3:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 0.4:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 0.5:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 0.6:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 0.7:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 1.1:
+        non_striker: P Molkenboer
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 1.2:
+        non_striker: P Molkenboer
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 1.3:
+        non_striker: P Molkenboer
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 1.4:
+        non_striker: P Molkenboer
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 1.5:
+        non_striker: P Molkenboer
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: B de Leede
+    - 1.6:
+        non_striker: B de Leede
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 2.1:
+        non_striker: B de Leede
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Molkenboer
+    - 2.2:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 2.3:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 2.4:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 2.5:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 2.6:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 2.7:
+        non_striker: B de Leede
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 2.8:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 2.9:
+        non_striker: P Molkenboer
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 3.1:
+        non_striker: B de Leede
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 3.2:
+        non_striker: B de Leede
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 3.3:
+        non_striker: B de Leede
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 3.4:
+        non_striker: B de Leede
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 3.5:
+        non_striker: B de Leede
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 3.6:
+        non_striker: P Molkenboer
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 4.1:
+        non_striker: B de Leede
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 4.2:
+        non_striker: B de Leede
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 4.3:
+        non_striker: B de Leede
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 4.4:
+        non_striker: P Molkenboer
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 4.5:
+        non_striker: P Molkenboer
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 4.6:
+        non_striker: P Molkenboer
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 5.1:
+        non_striker: B de Leede
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 5.2:
+        non_striker: B de Leede
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 5.3:
+        non_striker: B de Leede
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 5.4:
+        non_striker: P Molkenboer
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 5.5:
+        non_striker: B de Leede
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+        wicket:
+          player_out: P Molkenboer
+          fielders:
+          - D Dhingra
+          kind: caught
+    - 5.6:
+        non_striker: B de Leede
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.1:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 6.2:
+        non_striker: B de Leede
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 6.3:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.4:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 6.5:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 6.6:
+        non_striker: B de Leede
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 7.1:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 7.2:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 7.3:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 7.4:
+        non_striker: B de Leede
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 7.5:
+        non_striker: B de Leede
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 7.6:
+        non_striker: B de Leede
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 8.1:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 8.2:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 8.3:
+        non_striker: B de Leede
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 8.4:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 8.5:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 8.6:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 9.1:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 9.2:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          fielders:
+          - M Patwardhan
+          kind: stumped
+    - 9.3:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 9.4:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 9.5:
+        non_striker: R Rijke
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 9.6:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 10.1:
+        non_striker: R Rijke
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 10.2:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 10.3:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 10.4:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 10.5:
+        non_striker: R Rijke
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 10.6:
+        non_striker: R Rijke
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 11.1:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 11.2:
+        non_striker: R Rijke
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 11.3:
+        non_striker: SL Kalis
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 11.4:
+        non_striker: R Rijke
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 11.5:
+        non_striker: R Rijke
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 11.6:
+        non_striker: R Rijke
+        bowler: RP Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 11.7:
+        non_striker: R Rijke
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 12.1:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Rijke
+    - 12.2:
+        non_striker: R Rijke
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 12.3:
+        non_striker: R Rijke
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SL Kalis
+    - 12.4:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 12.5:
+        non_striker: R Rijke
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 12.6:
+        non_striker: SL Kalis
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 13.1:
+        non_striker: SL Kalis
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+        wicket:
+          player_out: R Rijke
+          fielders:
+          - M Patwardhan
+          kind: caught
+    - 13.2:
+        non_striker: SL Kalis
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 13.3:
+        non_striker: F Overdijk
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 13.4:
+        non_striker: F Overdijk
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 13.5:
+        non_striker: SL Kalis
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 13.6:
+        non_striker: SL Kalis
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 14.1:
+        non_striker: F Overdijk
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 14.2:
+        non_striker: F Overdijk
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 14.3:
+        non_striker: F Overdijk
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 14.4:
+        non_striker: F Overdijk
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 14.5:
+        non_striker: SL Kalis
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 14.6:
+        non_striker: SL Kalis
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Overdijk
+    - 15.1:
+        non_striker: F Overdijk
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 15.2:
+        non_striker: SL Kalis
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 15.3:
+        non_striker: F Overdijk
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 15.4:
+        non_striker: F Overdijk
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 15.5:
+        non_striker: SL Kalis
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 15.6:
+        non_striker: SL Kalis
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Overdijk
+    - 16.1:
+        non_striker: F Overdijk
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          fielders:
+          - CR Pagydyala
+          kind: caught
+    - 16.2:
+        non_striker: F Overdijk
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 16.3:
+        non_striker: F Overdijk
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 16.4:
+        non_striker: IJR Zwilling
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 16.5:
+        non_striker: IJR Zwilling
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 16.6:
+        non_striker: F Overdijk
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 17.1:
+        non_striker: IJR Zwilling
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 17.2:
+        non_striker: F Overdijk
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJR Zwilling
+    - 17.3:
+        non_striker: F Overdijk
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 17.4:
+        non_striker: F Overdijk
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IJR Zwilling
+    - 17.5:
+        non_striker: F Overdijk
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 17.6:
+        non_striker: F Overdijk
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 18.1:
+        non_striker: F Overdijk
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 18.2:
+        non_striker: IJR Zwilling
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Overdijk
+    - 18.3:
+        non_striker: IJR Zwilling
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 18.4:
+        non_striker: IJR Zwilling
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 18.5:
+        non_striker: IJR Zwilling
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 18.6:
+        non_striker: F Overdijk
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          fielders:
+          - JM Willathgamuwa
+          kind: caught
+    - 19.1:
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C de Lange
+        batsman: F Overdijk
+    - 19.2:
+        non_striker: F Overdijk
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Lange
+    - 19.3:
+        non_striker: C de Lange
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Overdijk
+    - 19.4:
+        non_striker: C de Lange
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Overdijk
+    - 19.5:
+        non_striker: C de Lange
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+        wicket:
+          player_out: F Overdijk
+          fielders:
+          - RP Singh
+          kind: caught
+    - 19.6:
+        non_striker: C de Lange
+        bowler: L Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWA Landheer
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CR Pagydyala
+        batsman: D Dhingra
+    - 0.2:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CR Pagydyala
+        batsman: D Dhingra
+    - 0.3:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CR Pagydyala
+        batsman: D Dhingra
+    - 0.4:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CR Pagydyala
+        batsman: D Dhingra
+    - 0.5:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CR Pagydyala
+        batsman: D Dhingra
+    - 0.6:
+        non_striker: D Dhingra
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 1.1:
+        non_striker: CR Pagydyala
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 1.2:
+        non_striker: CR Pagydyala
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.3:
+        non_striker: CR Pagydyala
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.4:
+        non_striker: CR Pagydyala
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.5:
+        non_striker: CR Pagydyala
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+        wicket:
+          player_out: D Dhingra
+          kind: lbw
+    - 1.6:
+        non_striker: CR Pagydyala
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 2.1:
+        non_striker: RP Singh
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 2.2:
+        non_striker: RP Singh
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 2.3:
+        non_striker: RP Singh
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 2.4:
+        non_striker: RP Singh
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 2.5:
+        non_striker: RP Singh
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 2.6:
+        non_striker: RP Singh
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 3.1:
+        non_striker: CR Pagydyala
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 3.2:
+        non_striker: CR Pagydyala
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Singh
+    - 3.3:
+        non_striker: CR Pagydyala
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 3.4:
+        non_striker: CR Pagydyala
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Singh
+    - 3.5:
+        non_striker: CR Pagydyala
+        bowler: HDJ Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Singh
+    - 3.6:
+        non_striker: CR Pagydyala
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 3.7:
+        non_striker: CR Pagydyala
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+        wicket:
+          player_out: RP Singh
+          fielders:
+          - SL Kalis
+          kind: caught
+    - 4.1:
+        non_striker: AI Chudasama
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+        wicket:
+          player_out: CR Pagydyala
+          fielders:
+          - HDJ Siegers
+          kind: caught
+    - 4.2:
+        non_striker: AI Chudasama
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 4.3:
+        non_striker: G Kodali
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 4.4:
+        non_striker: G Kodali
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 4.5:
+        non_striker: G Kodali
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+        wicket:
+          player_out: AI Chudasama
+          fielders:
+          - HDJ Siegers
+          kind: caught
+    - 4.6:
+        non_striker: G Kodali
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Willathgamuwa
+    - 5.1:
+        non_striker: JM Willathgamuwa
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 5.2:
+        non_striker: JM Willathgamuwa
+        bowler: L Hamilton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Kodali
+    - 5.3:
+        non_striker: JM Willathgamuwa
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+        wicket:
+          player_out: JM Willathgamuwa
+          fielders:
+          - L Hamilton
+          kind: run out
+    - 5.4:
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Pooja Ganesh
+        batsman: G Kodali
+    - 5.5:
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Pooja Ganesh
+        batsman: G Kodali
+    - 5.6:
+        non_striker: G Kodali
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 5.7:
+        non_striker: Pooja Ganesh
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 6.1:
+        non_striker: G Kodali
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 6.2:
+        non_striker: G Kodali
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pooja Ganesh
+    - 6.3:
+        non_striker: G Kodali
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 6.4:
+        non_striker: Pooja Ganesh
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kodali
+    - 6.5:
+        non_striker: Pooja Ganesh
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+        wicket:
+          player_out: G Kodali
+          kind: bowled
+    - 6.6:
+        non_striker: Pooja Ganesh
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Patwardhan
+    - 7.1:
+        non_striker: M Patwardhan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 7.2:
+        non_striker: Pooja Ganesh
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Patwardhan
+    - 7.3:
+        non_striker: Pooja Ganesh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Patwardhan
+    - 7.4:
+        non_striker: M Patwardhan
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Pooja Ganesh
+    - 7.5:
+        non_striker: M Patwardhan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 7.6:
+        non_striker: M Patwardhan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 7.7:
+        non_striker: Pooja Ganesh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Patwardhan
+        wicket:
+          player_out: M Patwardhan
+          kind: bowled
+    - 7.8:
+        non_striker: Pooja Ganesh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Aras
+    - 8.1:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 8.2:
+        non_striker: Pooja Ganesh
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Aras
+    - 8.3:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 8.4:
+        non_striker: Pooja Ganesh
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Aras
+    - 8.5:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 8.6:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 9.1:
+        non_striker: Pooja Ganesh
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: JL Aras
+    - 9.2:
+        non_striker: JL Aras
+        bowler: S Siegers
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Pooja Ganesh
+    - 9.3:
+        non_striker: JL Aras
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 9.4:
+        non_striker: JL Aras
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 9.5:
+        non_striker: Pooja Ganesh
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Aras
+    - 9.6:
+        non_striker: JL Aras
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pooja Ganesh
+    - 9.7:
+        non_striker: JL Aras
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pooja Ganesh
+    - 9.8:
+        non_striker: JL Aras
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 10.1:
+        non_striker: Pooja Ganesh
+        bowler: C de Lange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JL Aras
+    - 10.2:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 10.3:
+        non_striker: Pooja Ganesh
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Aras
+    - 10.4:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 10.5:
+        non_striker: Pooja Ganesh
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Aras
+    - 10.6:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 11.1:
+        non_striker: JL Aras
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 11.2:
+        non_striker: JL Aras
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 11.3:
+        non_striker: JL Aras
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pooja Ganesh
+    - 11.4:
+        non_striker: Pooja Ganesh
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Aras
+    - 11.5:
+        non_striker: Pooja Ganesh
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Aras
+    - 11.6:
+        non_striker: Pooja Ganesh
+        bowler: HWA Landheer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Aras
+    - 11.7:
+        non_striker: Pooja Ganesh
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Aras
+    - 12.1:
+        non_striker: Pooja Ganesh
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Aras
+    - 12.2:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+    - 12.3:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pooja Ganesh
+        wicket:
+          player_out: Pooja Ganesh
+          kind: bowled
+    - 12.4:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 12.5:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 12.6:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shetty
+    - 13.1:
+        non_striker: JL Aras
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 13.2:
+        non_striker: JL Aras
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 13.3:
+        non_striker: JL Aras
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Shetty
+    - 13.4:
+        non_striker: JL Aras
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 13.5:
+        non_striker: JL Aras
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 13.6:
+        non_striker: JL Aras
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 14.1:
+        non_striker: L Shetty
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Aras
+    - 14.2:
+        non_striker: L Shetty
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Aras
+    - 14.3:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shetty
+    - 14.4:
+        non_striker: L Shetty
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Aras
+    - 14.5:
+        non_striker: JL Aras
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shetty
+    - 14.6:
+        non_striker: L Shetty
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Aras
+        wicket:
+          player_out: JL Aras
+          fielders:
+          - R Rijke
+          kind: caught
+    - 15.1:
+        bowler: HWA Landheer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Immadi
+        batsman: L Shetty
+    - 15.2:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Immadi
+        batsman: L Shetty
+    - 15.3:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Immadi
+        batsman: L Shetty
+    - 15.4:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Immadi
+        batsman: L Shetty
+    - 15.5:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Immadi
+        batsman: L Shetty
+    - 15.6:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Immadi
+        batsman: L Shetty
+    - 15.7:
+        non_striker: L Shetty
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Immadi
+    - 16.1:
+        non_striker: S Immadi
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 16.2:
+        non_striker: S Immadi
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 16.3:
+        non_striker: S Immadi
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 16.4:
+        non_striker: S Immadi
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 16.5:
+        non_striker: S Immadi
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shetty
+    - 16.6:
+        non_striker: L Shetty
+        bowler: L Hamilton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Immadi
+    - 17.1:
+        non_striker: S Immadi
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 17.2:
+        non_striker: S Immadi
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 17.3:
+        non_striker: S Immadi
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shetty
+    - 17.4:
+        non_striker: S Immadi
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shetty
+    - 17.5:
+        non_striker: L Shetty
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Immadi
+    - 17.6:
+        non_striker: L Shetty
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Immadi
+        wicket:
+          player_out: S Immadi
+          kind: caught and bowled

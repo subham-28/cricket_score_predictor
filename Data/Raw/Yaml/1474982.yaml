@@ -1,0 +1,2055 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-03-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2025-03-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2192
+  outcome:
+    winner: Brazil
+    by:
+      runs: 25
+  overs: 20
+  player_of_match:
+  - NC Monteiro
+  players:
+    Brazil:
+    - LV Boas
+    - L Agatha
+    - RMAM Avery
+    - L Cardoso
+    - MR Machado
+    - CS Nascimento
+    - AC Sabino
+    - MLG Silva
+    - NC Monteiro
+    - M Ribeiro
+    - L Moises
+    Argentina:
+    - A Galan
+    - M Lollo
+    - M Castineiras
+    - L Taylor
+    - M Martinez
+    - A Stocks
+    - JC Cullen
+    - C Sosa
+    - M Bestani
+    - A Prince
+    - MV Lehmann
+  registry:
+    people:
+      A Galan: ad5165c2
+      A Prince: da994dd7
+      A Stocks: c999c416
+      AC Sabino: dd45b04b
+      C La Borde: 32157f67
+      C Sosa: b2f4cb0d
+      CS Nascimento: df997334
+      Denavon Hayles: 5cbeeb02
+      JC Cullen: 22595a2d
+      JM Williams: b61d9d70
+      Jermaine Lindo: 1154bf4f
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      L Moises: b27f9716
+      L Taylor: 8af91a3e
+      LV Boas: 3a00d34f
+      M Abbott: 3e5f0c04
+      M Bestani: e8045847
+      M Castineiras: b9094958
+      M Lollo: e6d1f4bb
+      M Martinez: f0ddeafb
+      M Ribeiro: 38424a4d
+      MLG Silva: 3b62a6b4
+      MR Machado: 4a4f94fa
+      MV Lehmann: d2c61d83
+      NC Monteiro: 752af5a4
+      RMAM Avery: 4cf645c9
+  teams:
+  - Brazil
+  - Argentina
+  toss:
+    winner: Argentina
+    decision: field
+  umpires:
+  - C La Borde
+  - Jermaine Lindo
+  venue: St Albans Club, Buenos Aires
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: A Galan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Agatha
+        batsman: LV Boas
+    - 0.2:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+        wicket:
+          player_out: LV Boas
+          fielders:
+          - A Prince
+          kind: caught
+    - 0.3:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 0.4:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          fielders:
+          - A Stocks
+          kind: caught
+    - 0.5:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 0.6:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 0.7:
+        non_striker: L Cardoso
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 1.1:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 1.2:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 1.3:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Cardoso
+    - 1.4:
+        non_striker: L Cardoso
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Agatha
+    - 1.5:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 1.6:
+        non_striker: L Cardoso
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 1.7:
+        non_striker: L Cardoso
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 1.8:
+        non_striker: L Cardoso
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 1.9:
+        non_striker: L Cardoso
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: L Agatha
+    - 1.10:
+        non_striker: L Cardoso
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 2.1:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 2.2:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 2.3:
+        non_striker: L Cardoso
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 2.4:
+        non_striker: L Cardoso
+        bowler: A Galan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Agatha
+    - 2.5:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 2.6:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 3.1:
+        non_striker: L Cardoso
+        bowler: L Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 3.2:
+        non_striker: L Cardoso
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 3.3:
+        non_striker: L Agatha
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 3.4:
+        non_striker: L Cardoso
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.5:
+        non_striker: L Cardoso
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 3.6:
+        non_striker: L Agatha
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 3.7:
+        non_striker: L Agatha
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 4.1:
+        non_striker: L Cardoso
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 4.2:
+        non_striker: L Cardoso
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 4.3:
+        non_striker: L Cardoso
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 4.4:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 4.5:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.6:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.1:
+        non_striker: L Cardoso
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 5.2:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.3:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.4:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.5:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.6:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 6.1:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+        wicket:
+          player_out: L Cardoso
+          fielders:
+          - M Lollo
+          - M Castineiras
+          kind: run out
+    - 6.2:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Machado
+    - 6.3:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 6.4:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 6.5:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 6.6:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 6.7:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 7.1:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 7.2:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 7.3:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 7.4:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 7.5:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 7.6:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 8.1:
+        non_striker: MR Machado
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 8.2:
+        non_striker: MR Machado
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 8.3:
+        non_striker: MR Machado
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 8.4:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Machado
+    - 8.5:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 8.6:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 8.7:
+        non_striker: L Agatha
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 9.1:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 9.2:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 9.3:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 9.4:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 9.5:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 9.6:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 10.1:
+        non_striker: MR Machado
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 10.2:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 10.3:
+        non_striker: MR Machado
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 10.4:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 10.5:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 10.6:
+        non_striker: L Agatha
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 11.1:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 11.2:
+        non_striker: L Agatha
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 11.3:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 11.4:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 11.5:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          fielders:
+          - MV Lehmann
+          kind: caught
+    - 11.6:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 11.7:
+        non_striker: MR Machado
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 12.1:
+        non_striker: CS Nascimento
+        bowler: MV Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 12.2:
+        non_striker: CS Nascimento
+        bowler: MV Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 12.3:
+        non_striker: CS Nascimento
+        bowler: MV Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 12.4:
+        non_striker: CS Nascimento
+        bowler: MV Lehmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 12.5:
+        non_striker: MR Machado
+        bowler: MV Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 12.6:
+        non_striker: MR Machado
+        bowler: MV Lehmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 13.1:
+        non_striker: CS Nascimento
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 13.2:
+        non_striker: CS Nascimento
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 13.3:
+        non_striker: MR Machado
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 13.4:
+        non_striker: MR Machado
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 13.5:
+        non_striker: MR Machado
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 13.6:
+        non_striker: MR Machado
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 14.1:
+        non_striker: MR Machado
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 14.2:
+        non_striker: MR Machado
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 14.3:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Machado
+    - 14.4:
+        non_striker: MR Machado
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 14.5:
+        non_striker: MR Machado
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 14.6:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+    - 15.1:
+        non_striker: MR Machado
+        bowler: L Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CS Nascimento
+    - 15.2:
+        non_striker: CS Nascimento
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+        wicket:
+          player_out: MR Machado
+          kind: bowled
+    - 15.3:
+        non_striker: CS Nascimento
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 15.4:
+        non_striker: CS Nascimento
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 15.5:
+        non_striker: AC Sabino
+        bowler: L Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS Nascimento
+    - 15.6:
+        non_striker: AC Sabino
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 15.7:
+        non_striker: CS Nascimento
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 16.1:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 16.2:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 16.3:
+        non_striker: AC Sabino
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 16.4:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 16.5:
+        non_striker: AC Sabino
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 16.6:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 17.1:
+        non_striker: AC Sabino
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 17.2:
+        non_striker: AC Sabino
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 17.3:
+        non_striker: CS Nascimento
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 17.4:
+        non_striker: CS Nascimento
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 17.5:
+        non_striker: AC Sabino
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 17.6:
+        non_striker: AC Sabino
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 18.1:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 18.2:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 18.3:
+        non_striker: AC Sabino
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 18.4:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 18.5:
+        non_striker: CS Nascimento
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 18.6:
+        non_striker: AC Sabino
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 18.7:
+        non_striker: AC Sabino
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 19.1:
+        non_striker: CS Nascimento
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+        wicket:
+          player_out: AC Sabino
+          fielders:
+          - M Lollo
+          kind: stumped
+    - 19.2:
+        non_striker: CS Nascimento
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+        wicket:
+          player_out: MLG Silva
+          kind: bowled
+    - 19.3:
+        non_striker: CS Nascimento
+        bowler: C Sosa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: NC Monteiro
+    - 19.4:
+        non_striker: NC Monteiro
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 19.5:
+        non_striker: NC Monteiro
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS Nascimento
+    - 19.6:
+        non_striker: NC Monteiro
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 19.7:
+        non_striker: NC Monteiro
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 19.8:
+        non_striker: NC Monteiro
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+        wicket:
+          player_out: CS Nascimento
+          kind: bowled
+- 2nd innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Lollo
+        batsman: A Galan
+    - 0.2:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Lollo
+        batsman: A Galan
+    - 0.3:
+        non_striker: A Galan
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 0.4:
+        non_striker: A Galan
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 0.5:
+        non_striker: M Lollo
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Galan
+    - 0.6:
+        non_striker: A Galan
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 1.1:
+        non_striker: M Lollo
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 1.2:
+        non_striker: M Lollo
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 1.3:
+        non_striker: M Lollo
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 1.4:
+        non_striker: M Lollo
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Galan
+    - 1.5:
+        non_striker: A Galan
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 1.6:
+        non_striker: M Lollo
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Galan
+    - 2.1:
+        non_striker: M Lollo
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Galan
+    - 2.2:
+        non_striker: A Galan
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 2.3:
+        non_striker: M Lollo
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Galan
+    - 2.4:
+        non_striker: A Galan
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 2.5:
+        non_striker: A Galan
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 2.6:
+        non_striker: A Galan
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 3.1:
+        non_striker: A Galan
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Lollo
+    - 3.2:
+        non_striker: A Galan
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 3.3:
+        non_striker: M Lollo
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 3.4:
+        non_striker: M Lollo
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 3.5:
+        non_striker: M Lollo
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 3.6:
+        non_striker: M Lollo
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 4.1:
+        non_striker: A Galan
+        bowler: CS Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Lollo
+    - 4.2:
+        non_striker: A Galan
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 4.3:
+        non_striker: M Lollo
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 4.4:
+        non_striker: M Lollo
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 4.5:
+        non_striker: M Lollo
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 4.6:
+        non_striker: M Lollo
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Galan
+    - 4.7:
+        non_striker: M Lollo
+        bowler: CS Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Galan
+    - 5.1:
+        non_striker: M Lollo
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Galan
+    - 5.2:
+        non_striker: M Lollo
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Galan
+    - 5.3:
+        non_striker: A Galan
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Lollo
+    - 5.4:
+        non_striker: A Galan
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+        wicket:
+          player_out: M Lollo
+          fielders:
+          - MR Machado
+          kind: stumped
+    - 5.5:
+        non_striker: A Galan
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+        wicket:
+          player_out: M Castineiras
+          kind: bowled
+    - 5.6:
+        non_striker: A Galan
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 5.7:
+        non_striker: A Galan
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 6.1:
+        non_striker: L Taylor
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 6.2:
+        non_striker: L Taylor
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 6.3:
+        non_striker: L Taylor
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+        wicket:
+          player_out: A Galan
+          kind: bowled
+    - 6.4:
+        non_striker: L Taylor
+        bowler: CS Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Martinez
+    - 6.5:
+        non_striker: L Taylor
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Martinez
+    - 6.6:
+        non_striker: M Martinez
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 6.7:
+        non_striker: M Martinez
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 7.1:
+        non_striker: M Martinez
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 7.2:
+        non_striker: L Taylor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+    - 7.3:
+        non_striker: L Taylor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+        wicket:
+          player_out: M Martinez
+          kind: bowled
+    - 7.4:
+        non_striker: L Taylor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 7.5:
+        non_striker: L Taylor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 7.6:
+        non_striker: L Taylor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 8.1:
+        non_striker: A Stocks
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 8.2:
+        non_striker: A Stocks
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 8.3:
+        non_striker: L Taylor
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 8.4:
+        non_striker: L Taylor
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 8.5:
+        non_striker: A Stocks
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 8.6:
+        non_striker: L Taylor
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Stocks
+    - 9.1:
+        non_striker: A Stocks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 9.2:
+        non_striker: A Stocks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+        wicket:
+          player_out: L Taylor
+          fielders:
+          - LV Boas
+          kind: caught
+    - 9.3:
+        non_striker: A Stocks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Cullen
+        wicket:
+          player_out: JC Cullen
+          kind: bowled
+    - 9.4:
+        non_striker: A Stocks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 9.5:
+        non_striker: A Stocks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 9.6:
+        non_striker: A Stocks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 10.1:
+        non_striker: C Sosa
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 10.2:
+        non_striker: C Sosa
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Stocks
+    - 10.3:
+        non_striker: C Sosa
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 10.4:
+        non_striker: C Sosa
+        bowler: CS Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Stocks
+    - 10.5:
+        non_striker: C Sosa
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+        wicket:
+          player_out: A Stocks
+          fielders:
+          - MR Machado
+          - NC Monteiro
+          kind: run out
+    - 10.6:
+        non_striker: C Sosa
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bestani
+    - 10.7:
+        non_striker: M Bestani
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Sosa
+    - 11.1:
+        non_striker: M Bestani
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 11.2:
+        non_striker: M Bestani
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Sosa
+    - 11.3:
+        non_striker: C Sosa
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bestani
+    - 11.4:
+        non_striker: M Bestani
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Sosa
+    - 11.5:
+        non_striker: C Sosa
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bestani
+    - 11.6:
+        non_striker: C Sosa
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bestani
+    - 12.1:
+        non_striker: M Bestani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 12.2:
+        non_striker: M Bestani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 12.3:
+        non_striker: M Bestani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 12.4:
+        non_striker: M Bestani
+        bowler: L Moises
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Sosa
+    - 12.5:
+        non_striker: M Bestani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 12.6:
+        non_striker: M Bestani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 12.7:
+        non_striker: M Bestani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 13.1:
+        non_striker: C Sosa
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bestani
+    - 13.2:
+        non_striker: C Sosa
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bestani
+    - 13.3:
+        non_striker: M Bestani
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Sosa
+    - 13.4:
+        non_striker: M Bestani
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Sosa
+    - 13.5:
+        non_striker: C Sosa
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bestani
+    - 13.6:
+        non_striker: C Sosa
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bestani
+        wicket:
+          player_out: M Bestani
+          fielders:
+          - M Ribeiro
+          kind: caught
+    - 13.7:
+        non_striker: C Sosa
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+    - 14.1:
+        non_striker: A Prince
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 14.2:
+        non_striker: A Prince
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 14.3:
+        non_striker: A Prince
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Sosa
+    - 14.4:
+        non_striker: C Sosa
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+        wicket:
+          player_out: A Prince
+          kind: lbw
+    - 14.5:
+        non_striker: C Sosa
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 14.6:
+        non_striker: C Sosa
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 15.1:
+        non_striker: MV Lehmann
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+        wicket:
+          player_out: C Sosa
+          fielders:
+          - CS Nascimento
+          kind: caught

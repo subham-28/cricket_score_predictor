@@ -1,0 +1,2278 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Spinaceto
+  dates:
+  - '2025-05-25'
+  gender: female
+  match_type: T20
+  match_type_number: 2304
+  outcome:
+    winner: Italy
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - D Nanayakkara
+  players:
+    Jersey:
+    - A Merritt
+    - A Aikenhead
+    - G Wetherall
+    - T Smith
+    - F Tanguy
+    - M Maguire
+    - CM Greechan
+    - L Greig
+    - A Mossop
+    - N Greig
+    - O Bastin
+    Italy:
+    - M Rathnayake
+    - D Nanayakkara
+    - Ilenia Sims
+    - C Piparo
+    - AS Wikman
+    - EL Bartram
+    - S Kanankege
+    - A Kontopirakis
+    - K Peddrick
+    - C Mahamalage
+    - T Araliya
+  registry:
+    people:
+      A Aikenhead: 007f121f
+      A Kontopirakis: 4f05f64e
+      A Merritt: 4c87bd01
+      A Mossop: 006b0d25
+      AS Wikman: a3b7bcbd
+      C Mahamalage: 3250b7db
+      C Piparo: 276f3dde
+      CM Greechan: 569bbcbb
+      D Nanayakkara: dbf22922
+      DH Mclean: 281d4749
+      EL Bartram: 5fa7f030
+      F Tanguy: c46400b7
+      G Wetherall: 5c77d7cb
+      Ilenia Sims: 03c98aa6
+      K Peddrick: a031b75e
+      L Greig: 0e3e8ce3
+      M Jameson: bdf1ffe3
+      M Maguire: 0441a1f5
+      M Rathnayake: a969dc4c
+      N Greig: 4dd104cf
+      O Bastin: 9b6dde07
+      S Kanankege: '01815edc'
+      T Araliya: d423f390
+      T Smith: f24ffaab
+  teams:
+  - Jersey
+  - Italy
+  toss:
+    winner: Italy
+    decision: field
+  umpires:
+  - DH Mclean
+  - M Jameson
+  venue: Roma Cricket Ground
+innings:
+- 1st innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Aikenhead
+        batsman: A Merritt
+    - 0.2:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Aikenhead
+        batsman: A Merritt
+    - 0.3:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 0.4:
+        non_striker: A Aikenhead
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Merritt
+    - 0.5:
+        non_striker: A Aikenhead
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 0.6:
+        non_striker: A Aikenhead
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 1.1:
+        non_striker: A Aikenhead
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 1.2:
+        non_striker: A Merritt
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 1.3:
+        non_striker: A Merritt
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aikenhead
+    - 1.4:
+        non_striker: A Merritt
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aikenhead
+    - 1.5:
+        non_striker: A Merritt
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Aikenhead
+    - 1.6:
+        non_striker: A Merritt
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 1.7:
+        non_striker: A Merritt
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 2.1:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 2.2:
+        non_striker: A Aikenhead
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 2.3:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+        wicket:
+          player_out: A Aikenhead
+          fielders:
+          - AS Wikman
+          kind: caught
+    - 2.4:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 2.5:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 2.6:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 3.1:
+        non_striker: G Wetherall
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 3.2:
+        non_striker: G Wetherall
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Merritt
+    - 3.3:
+        non_striker: G Wetherall
+        bowler: S Kanankege
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: A Merritt
+    - 3.4:
+        non_striker: G Wetherall
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 3.5:
+        non_striker: G Wetherall
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 3.6:
+        non_striker: G Wetherall
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 3.7:
+        non_striker: G Wetherall
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 3.8:
+        non_striker: G Wetherall
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 4.1:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wetherall
+    - 4.2:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wetherall
+    - 4.3:
+        non_striker: G Wetherall
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 4.4:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Wetherall
+    - 4.5:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wetherall
+    - 4.6:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Wetherall
+    - 4.7:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 5.1:
+        non_striker: G Wetherall
+        bowler: EL Bartram
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Merritt
+    - 5.2:
+        non_striker: A Merritt
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Wetherall
+    - 5.3:
+        non_striker: A Merritt
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 5.4:
+        non_striker: A Merritt
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 5.5:
+        non_striker: A Merritt
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wetherall
+    - 5.6:
+        non_striker: A Merritt
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 5.7:
+        non_striker: A Merritt
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Wetherall
+    - 5.8:
+        non_striker: A Merritt
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Wetherall
+    - 6.1:
+        non_striker: G Wetherall
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 6.2:
+        non_striker: G Wetherall
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 6.3:
+        non_striker: G Wetherall
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 6.4:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Wetherall
+    - 6.5:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wetherall
+    - 6.6:
+        non_striker: G Wetherall
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 6.7:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 7.1:
+        non_striker: G Wetherall
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 7.2:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 7.3:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wetherall
+    - 7.4:
+        non_striker: G Wetherall
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 7.5:
+        non_striker: G Wetherall
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 7.6:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wetherall
+    - 8.1:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wetherall
+    - 8.2:
+        non_striker: G Wetherall
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 8.3:
+        non_striker: G Wetherall
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 8.4:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wetherall
+    - 8.5:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 8.6:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Wetherall
+    - 9.1:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wetherall
+    - 9.2:
+        non_striker: G Wetherall
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 9.3:
+        non_striker: G Wetherall
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+        wicket:
+          player_out: G Wetherall
+          fielders:
+          - M Rathnayake
+          - EL Bartram
+          kind: run out
+    - 9.4:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 9.5:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+        wicket:
+          player_out: T Smith
+          kind: bowled
+    - 9.6:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: F Tanguy
+    - 9.7:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+    - 10.1:
+        non_striker: F Tanguy
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 10.2:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tanguy
+    - 10.3:
+        non_striker: F Tanguy
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 10.4:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Tanguy
+    - 10.5:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tanguy
+        wicket:
+          player_out: F Tanguy
+          fielders:
+          - C Piparo
+          kind: caught
+    - 10.6:
+        non_striker: A Merritt
+        bowler: K Peddrick
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Maguire
+    - 10.7:
+        non_striker: M Maguire
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 11.1:
+        non_striker: M Maguire
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 11.2:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Maguire
+    - 11.3:
+        non_striker: M Maguire
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Merritt
+    - 11.4:
+        non_striker: M Maguire
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 11.5:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+    - 11.6:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+    - 12.1:
+        non_striker: M Maguire
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 12.2:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Maguire
+    - 12.3:
+        non_striker: M Maguire
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 12.4:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Maguire
+        wicket:
+          player_out: M Maguire
+          fielders:
+          - S Kanankege
+          kind: run out
+    - 12.5:
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CM Greechan
+        batsman: A Merritt
+    - 12.6:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 13.1:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Greechan
+    - 13.2:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 13.3:
+        non_striker: CM Greechan
+        bowler: Ilenia Sims
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Merritt
+    - 13.4:
+        non_striker: CM Greechan
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 13.5:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 13.6:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+        wicket:
+          player_out: CM Greechan
+          kind: bowled
+    - 13.7:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 13.8:
+        non_striker: A Merritt
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 14.1:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 14.2:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 14.3:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 14.4:
+        non_striker: L Greig
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 14.5:
+        non_striker: L Greig
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 14.6:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 15.1:
+        non_striker: L Greig
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 15.2:
+        non_striker: L Greig
+        bowler: D Nanayakkara
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: A Merritt
+    - 15.3:
+        non_striker: L Greig
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 15.4:
+        non_striker: A Merritt
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 15.5:
+        non_striker: L Greig
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Merritt
+    - 15.6:
+        non_striker: L Greig
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 15.7:
+        non_striker: A Merritt
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 16.1:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+        wicket:
+          player_out: L Greig
+          kind: lbw
+    - 16.2:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 16.3:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 16.4:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 16.5:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mossop
+    - 16.6:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 16.7:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 17.1:
+        non_striker: A Mossop
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 17.2:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mossop
+    - 17.3:
+        non_striker: A Mossop
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 17.4:
+        non_striker: A Mossop
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Merritt
+    - 17.5:
+        non_striker: A Mossop
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 17.6:
+        non_striker: A Mossop
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 18.1:
+        non_striker: A Mossop
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 18.2:
+        non_striker: A Mossop
+        bowler: T Araliya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Merritt
+    - 18.3:
+        non_striker: A Mossop
+        bowler: T Araliya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Merritt
+    - 18.4:
+        non_striker: A Mossop
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Merritt
+    - 18.5:
+        non_striker: A Mossop
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 18.6:
+        non_striker: A Mossop
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 18.7:
+        non_striker: A Mossop
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 18.8:
+        non_striker: A Merritt
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mossop
+    - 19.1:
+        non_striker: A Mossop
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+        wicket:
+          player_out: A Merritt
+          kind: bowled
+    - 19.2:
+        non_striker: A Mossop
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Greig
+        wicket:
+          player_out: N Greig
+          fielders:
+          - EL Bartram
+          kind: caught
+    - 19.3:
+        non_striker: A Mossop
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Bastin
+    - 19.4:
+        non_striker: A Mossop
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Bastin
+    - 19.5:
+        non_striker: A Mossop
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Bastin
+    - 19.6:
+        non_striker: A Mossop
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Bastin
+    - 19.7:
+        non_striker: A Mossop
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Bastin
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Nanayakkara
+        batsman: M Rathnayake
+    - 0.2:
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Nanayakkara
+        batsman: M Rathnayake
+    - 0.3:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanayakkara
+    - 0.4:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 0.5:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 0.6:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 0.7:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 1.1:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanayakkara
+    - 1.2:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanayakkara
+    - 1.3:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 1.4:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanayakkara
+    - 1.5:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 1.6:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Rathnayake
+    - 1.7:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: D Nanayakkara
+    - 1.8:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 1.9:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 1.10:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Rathnayake
+    - 1.11:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 1.12:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.1:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 2.2:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.3:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.4:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.5:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.6:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 3.1:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanayakkara
+    - 3.2:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 3.3:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 3.4:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 3.5:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 3.6:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 3.7:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 4.1:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 4.2:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 4.3:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 4.4:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 4.5:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 4.6:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Rathnayake
+    - 5.1:
+        non_striker: M Rathnayake
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 5.2:
+        non_striker: M Rathnayake
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 5.3:
+        non_striker: M Rathnayake
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 5.4:
+        non_striker: M Rathnayake
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 5.5:
+        non_striker: M Rathnayake
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 5.6:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 6.1:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 6.2:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 6.3:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 6.4:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 6.5:
+        non_striker: M Rathnayake
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 6.6:
+        non_striker: D Nanayakkara
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 7.1:
+        non_striker: M Rathnayake
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 7.2:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 7.3:
+        non_striker: M Rathnayake
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 7.4:
+        non_striker: M Rathnayake
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 7.5:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 7.6:
+        non_striker: M Rathnayake
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 8.1:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 8.2:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 8.3:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 8.4:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 8.5:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 8.6:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 9.1:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 9.2:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Rathnayake
+    - 9.3:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+        wicket:
+          player_out: M Rathnayake
+          fielders:
+          - G Wetherall
+          kind: caught
+    - 9.4:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 9.5:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 9.6:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 9.7:
+        non_striker: D Nanayakkara
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 10.1:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 10.2:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 10.3:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 10.4:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Nanayakkara
+    - 10.5:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 10.6:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 11.1:
+        non_striker: Ilenia Sims
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 11.2:
+        non_striker: Ilenia Sims
+        bowler: O Bastin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanayakkara
+    - 11.3:
+        non_striker: Ilenia Sims
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 11.4:
+        non_striker: D Nanayakkara
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 11.5:
+        non_striker: D Nanayakkara
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 11.6:
+        non_striker: Ilenia Sims
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Nanayakkara
+    - 11.7:
+        non_striker: Ilenia Sims
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 12.1:
+        non_striker: Ilenia Sims
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 12.2:
+        non_striker: Ilenia Sims
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 12.3:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 12.4:
+        non_striker: Ilenia Sims
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 12.5:
+        non_striker: Ilenia Sims
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 12.6:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 13.1:
+        non_striker: D Nanayakkara
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 13.2:
+        non_striker: D Nanayakkara
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 13.3:
+        non_striker: D Nanayakkara
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 13.4:
+        non_striker: D Nanayakkara
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 13.5:
+        non_striker: Ilenia Sims
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 13.6:
+        non_striker: D Nanayakkara
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 14.1:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 14.2:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 14.3:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Nanayakkara
+    - 14.4:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 14.5:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 14.6:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 15.1:
+        non_striker: Ilenia Sims
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+        wicket:
+          player_out: D Nanayakkara
+          fielders:
+          - M Maguire
+          kind: stumped
+    - 15.2:
+        non_striker: Ilenia Sims
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 15.3:
+        non_striker: C Piparo
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 15.4:
+        non_striker: C Piparo
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 15.5:
+        non_striker: C Piparo
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 15.6:
+        non_striker: Ilenia Sims
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 16.1:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Piparo
+    - 16.2:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Piparo
+    - 16.3:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 16.4:
+        non_striker: C Piparo
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 16.5:
+        non_striker: C Piparo
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 16.6:
+        non_striker: Ilenia Sims
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Piparo
+    - 17.1:
+        non_striker: C Piparo
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ilenia Sims
+    - 17.2:
+        non_striker: C Piparo
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 17.3:
+        non_striker: Ilenia Sims
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Piparo
+    - 17.4:
+        non_striker: Ilenia Sims
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Piparo
+    - 17.5:
+        non_striker: Ilenia Sims
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 17.6:
+        non_striker: C Piparo
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 18.1:
+        non_striker: C Piparo
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 18.2:
+        non_striker: C Piparo
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 18.3:
+        non_striker: C Piparo
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+        wicket:
+          player_out: Ilenia Sims
+          fielders:
+          - A Merritt
+          kind: caught
+    - 18.4:
+        non_striker: C Piparo
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Wikman
+    - 18.5:
+        non_striker: C Piparo
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Wikman
+    - 18.6:
+        non_striker: C Piparo
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Wikman

@@ -1,0 +1,1991 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mong Kok
+  dates:
+  - '2025-04-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3131
+  outcome:
+    winner: Nepal
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - K Bhurtel
+  players:
+    Qatar:
+    - A Nagarajan
+    - R Theruvath
+    - Ikramullah Khan
+    - Shahzaib Jamil
+    - Jassim Khan
+    - Mujeeb-ur-Rehman
+    - Mohammed Irshad
+    - Mohammad Abrar
+    - Muhammad Jabir
+    - Bipin Kumar
+    - Bukhar Illikkal
+    Nepal:
+    - K Bhurtel
+    - Aasif Sheikh
+    - RK Paudel
+    - Basir Ahamad
+    - DS Airee
+    - Kushal Malla
+    - Gulsan Jha
+    - Sompal Kami
+    - Karan KC
+    - NK Yadav
+    - LN Rajbanshi
+  registry:
+    people:
+      A Nagarajan: 856dcfa8
+      Aasif Sheikh: dcbea954
+      Basir Ahamad: 218c7eab
+      Bipin Kumar: c821e504
+      Bukhar Illikkal: f4a2d087
+      DS Airee: 1747ea18
+      G Sankaranarayanan: a4a348f9
+      Gulsan Jha: 9811e35e
+      Ikramullah Khan: c6e1354c
+      Jassim Khan: 67e36e53
+      John Prakash: b5f3d429
+      K Bhurtel: e3386c8a
+      Karan KC: f53b3e1d
+      Kushal Malla: 7e9f1cde
+      LN Rajbanshi: 6ad2d5f7
+      Mohammad Abrar: 5923eebb
+      Mohammed Irshad: 1a54d618
+      Muhammad Jabir: b67af1c4
+      Mujeeb-ur-Rehman: 1a8f879b
+      NK Yadav: 737e595d
+      R Theruvath: eb6d1f4d
+      RK Paudel: 1a3cc554
+      Ramasamy Venkatesh: 8ad68ea7
+      Shahzaib Jamil: fbb6d1a7
+      Sompal Kami: 1adb8ee8
+      Tabarak Dar: 2259c12d
+  teams:
+  - Qatar
+  - Nepal
+  toss:
+    winner: Nepal
+    decision: field
+  umpires:
+  - Ramasamy Venkatesh
+  - Tabarak Dar
+  venue: Mission Road Ground, Mong Kok, Hong Kong
+innings:
+- 1st innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Theruvath
+        batsman: A Nagarajan
+    - 0.2:
+        non_striker: A Nagarajan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Theruvath
+    - 0.3:
+        non_striker: A Nagarajan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Theruvath
+    - 0.4:
+        non_striker: A Nagarajan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Theruvath
+    - 0.5:
+        non_striker: R Theruvath
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nagarajan
+    - 0.6:
+        non_striker: A Nagarajan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Theruvath
+    - 1.1:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Theruvath
+        wicket:
+          player_out: R Theruvath
+          fielders:
+          - RK Paudel
+          kind: caught
+    - 1.2:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 1.3:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 1.4:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ikramullah Khan
+    - 1.5:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 1.6:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 2.1:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nagarajan
+    - 2.2:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Nagarajan
+    - 2.3:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nagarajan
+    - 2.4:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nagarajan
+    - 2.5:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nagarajan
+    - 2.6:
+        non_striker: A Nagarajan
+        bowler: NK Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ikramullah Khan
+    - 3.1:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 3.2:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 3.3:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 3.4:
+        non_striker: A Nagarajan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 3.5:
+        non_striker: Ikramullah Khan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nagarajan
+    - 3.6:
+        non_striker: Ikramullah Khan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nagarajan
+    - 4.1:
+        non_striker: A Nagarajan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 4.2:
+        non_striker: A Nagarajan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 4.3:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nagarajan
+    - 4.4:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Nagarajan
+    - 4.5:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nagarajan
+        wicket:
+          player_out: A Nagarajan
+          kind: lbw
+    - 4.6:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 5.1:
+        non_striker: Shahzaib Jamil
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 5.2:
+        non_striker: Shahzaib Jamil
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 5.3:
+        non_striker: Shahzaib Jamil
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 5.4:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahzaib Jamil
+    - 5.5:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Shahzaib Jamil
+    - 5.6:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 5.7:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 6.1:
+        non_striker: Shahzaib Jamil
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 6.2:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 6.3:
+        non_striker: Shahzaib Jamil
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 6.4:
+        non_striker: Shahzaib Jamil
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 6.5:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahzaib Jamil
+    - 6.6:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 7.1:
+        non_striker: Ikramullah Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 7.2:
+        non_striker: Ikramullah Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahzaib Jamil
+    - 7.3:
+        non_striker: Ikramullah Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahzaib Jamil
+    - 7.4:
+        non_striker: Ikramullah Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 7.5:
+        non_striker: Ikramullah Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 7.6:
+        non_striker: Shahzaib Jamil
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 8.1:
+        non_striker: Shahzaib Jamil
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 8.2:
+        non_striker: Ikramullah Khan
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 8.3:
+        non_striker: Ikramullah Khan
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 8.4:
+        non_striker: Ikramullah Khan
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 8.5:
+        non_striker: Shahzaib Jamil
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 8.6:
+        non_striker: Ikramullah Khan
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 9.1:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shahzaib Jamil
+    - 9.2:
+        non_striker: Shahzaib Jamil
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 9.3:
+        non_striker: Shahzaib Jamil
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 9.4:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 9.5:
+        non_striker: Shahzaib Jamil
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 9.6:
+        non_striker: Shahzaib Jamil
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 10.1:
+        non_striker: Ikramullah Khan
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 10.2:
+        non_striker: Shahzaib Jamil
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 10.3:
+        non_striker: Shahzaib Jamil
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 10.4:
+        non_striker: Shahzaib Jamil
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ikramullah Khan
+    - 10.5:
+        non_striker: Shahzaib Jamil
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 10.6:
+        non_striker: Ikramullah Khan
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+        wicket:
+          player_out: Shahzaib Jamil
+          kind: caught and bowled
+    - 11.1:
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jassim Khan
+        batsman: Ikramullah Khan
+    - 11.2:
+        non_striker: Ikramullah Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Jassim Khan
+    - 11.3:
+        non_striker: Jassim Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ikramullah Khan
+    - 11.4:
+        non_striker: Jassim Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 11.5:
+        non_striker: Ikramullah Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jassim Khan
+    - 11.6:
+        non_striker: Ikramullah Khan
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jassim Khan
+        wicket:
+          player_out: Jassim Khan
+          fielders:
+          - NK Yadav
+          kind: caught
+    - 12.1:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mujeeb-ur-Rehman
+        batsman: Ikramullah Khan
+    - 12.2:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mujeeb-ur-Rehman
+        batsman: Ikramullah Khan
+    - 12.3:
+        non_striker: Ikramullah Khan
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 12.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 12.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 12.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 13.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 13.2:
+        non_striker: Ikramullah Khan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 13.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 13.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 13.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 13.6:
+        non_striker: Ikramullah Khan
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 14.1:
+        non_striker: Ikramullah Khan
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 14.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 14.3:
+        non_striker: Ikramullah Khan
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 14.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 14.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 14.6:
+        non_striker: Ikramullah Khan
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 15.1:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 15.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 15.3:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 15.4:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 15.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 15.6:
+        non_striker: Ikramullah Khan
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 16.1:
+        non_striker: Ikramullah Khan
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 16.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ikramullah Khan
+    - 16.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 16.4:
+        non_striker: Ikramullah Khan
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 16.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ikramullah Khan
+    - 16.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 17.1:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 17.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ikramullah Khan
+    - 17.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ikramullah Khan
+    - 17.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 17.5:
+        non_striker: Ikramullah Khan
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 17.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+        wicket:
+          player_out: Ikramullah Khan
+          kind: bowled
+    - 18.1:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammed Irshad
+        batsman: Mujeeb-ur-Rehman
+    - 18.2:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohammed Irshad
+        batsman: Mujeeb-ur-Rehman
+    - 18.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Irshad
+    - 18.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Irshad
+    - 18.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Irshad
+    - 18.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammed Irshad
+    - 19.1:
+        non_striker: Mohammed Irshad
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 19.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammed Irshad
+    - 19.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammed Irshad
+    - 19.4:
+        non_striker: Mohammed Irshad
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mujeeb-ur-Rehman
+    - 19.5:
+        non_striker: Mohammed Irshad
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 19.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammed Irshad
+- 2nd innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.2:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.3:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.4:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.5:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.6:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.7:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.8:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.9:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.10:
+        non_striker: Aasif Sheikh
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.1:
+        non_striker: K Bhurtel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 1.2:
+        non_striker: Aasif Sheikh
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.3:
+        non_striker: Aasif Sheikh
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 1.4:
+        non_striker: Aasif Sheikh
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 1.5:
+        non_striker: K Bhurtel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 1.6:
+        non_striker: K Bhurtel
+        bowler: Bipin Kumar
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Aasif Sheikh
+    - 1.7:
+        non_striker: K Bhurtel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.1:
+        non_striker: Aasif Sheikh
+        bowler: Mohammed Irshad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Bhurtel
+    - 2.2:
+        non_striker: Aasif Sheikh
+        bowler: Mohammed Irshad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 2.3:
+        non_striker: Aasif Sheikh
+        bowler: Mohammed Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 2.4:
+        non_striker: K Bhurtel
+        bowler: Mohammed Irshad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aasif Sheikh
+    - 2.5:
+        non_striker: K Bhurtel
+        bowler: Mohammed Irshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.6:
+        non_striker: K Bhurtel
+        bowler: Mohammed Irshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.1:
+        non_striker: Aasif Sheikh
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 3.2:
+        non_striker: K Bhurtel
+        bowler: Bipin Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aasif Sheikh
+    - 3.3:
+        non_striker: K Bhurtel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aasif Sheikh
+    - 3.4:
+        non_striker: K Bhurtel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 3.5:
+        non_striker: Aasif Sheikh
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 3.6:
+        non_striker: Aasif Sheikh
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 3.7:
+        non_striker: Aasif Sheikh
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 4.1:
+        non_striker: K Bhurtel
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 4.2:
+        non_striker: Aasif Sheikh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 4.3:
+        non_striker: K Bhurtel
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aasif Sheikh
+    - 4.4:
+        non_striker: K Bhurtel
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aasif Sheikh
+    - 4.5:
+        non_striker: K Bhurtel
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 4.6:
+        non_striker: Aasif Sheikh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Bhurtel
+    - 5.1:
+        non_striker: K Bhurtel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 5.2:
+        non_striker: K Bhurtel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 5.3:
+        non_striker: K Bhurtel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 5.4:
+        non_striker: Aasif Sheikh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+        wicket:
+          player_out: K Bhurtel
+          kind: bowled
+    - 5.5:
+        non_striker: Aasif Sheikh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 5.6:
+        non_striker: Aasif Sheikh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 6.1:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 6.2:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 6.3:
+        non_striker: Aasif Sheikh
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 6.4:
+        non_striker: Aasif Sheikh
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 6.5:
+        non_striker: Aasif Sheikh
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 6.6:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 7.1:
+        non_striker: RK Paudel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 7.2:
+        non_striker: Aasif Sheikh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 7.3:
+        non_striker: RK Paudel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 7.4:
+        non_striker: Aasif Sheikh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 7.5:
+        non_striker: Aasif Sheikh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 7.6:
+        non_striker: RK Paudel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+        wicket:
+          player_out: Aasif Sheikh
+          fielders:
+          - A Nagarajan
+          kind: caught
+    - 8.1:
+        non_striker: Basir Ahamad
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 8.2:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 8.3:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 8.4:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 8.5:
+        non_striker: Basir Ahamad
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 8.6:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 9.1:
+        non_striker: RK Paudel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 9.2:
+        non_striker: RK Paudel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 9.3:
+        non_striker: RK Paudel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 9.4:
+        non_striker: Basir Ahamad
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 9.5:
+        non_striker: Basir Ahamad
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 9.6:
+        non_striker: RK Paudel
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 10.1:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 10.2:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 10.3:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 10.4:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 10.5:
+        non_striker: Basir Ahamad
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 10.6:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 11.1:
+        non_striker: RK Paudel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Basir Ahamad
+    - 11.2:
+        non_striker: RK Paudel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Basir Ahamad
+    - 11.3:
+        non_striker: RK Paudel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 11.4:
+        non_striker: RK Paudel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 11.5:
+        non_striker: RK Paudel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 11.6:
+        non_striker: RK Paudel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 12.1:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 12.2:
+        non_striker: Basir Ahamad
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 12.3:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 12.4:
+        non_striker: Basir Ahamad
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 12.5:
+        non_striker: RK Paudel
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 12.6:
+        non_striker: Basir Ahamad
+        bowler: Bukhar Illikkal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 13.1:
+        non_striker: Basir Ahamad
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 13.2:
+        non_striker: RK Paudel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Basir Ahamad
+    - 13.3:
+        non_striker: RK Paudel
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 13.4:
+        non_striker: Basir Ahamad
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 13.5:
+        non_striker: Basir Ahamad
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 13.6:
+        non_striker: Basir Ahamad
+        bowler: Bipin Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Paudel
+    - 14.1:
+        non_striker: RK Paudel
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basir Ahamad
+    - 14.2:
+        non_striker: RK Paudel
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 14.3:
+        non_striker: Basir Ahamad
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 14.4:
+        non_striker: RK Paudel
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 14.5:
+        non_striker: Basir Ahamad
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 14.6:
+        non_striker: RK Paudel
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 15.1:
+        non_striker: RK Paudel
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 15.2:
+        non_striker: Basir Ahamad
+        bowler: Muhammad Jabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Paudel
+    - 15.3:
+        non_striker: Basir Ahamad
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 15.4:
+        non_striker: RK Paudel
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Basir Ahamad
+    - 15.5:
+        non_striker: RK Paudel
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 15.6:
+        non_striker: Basir Ahamad
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 15.7:
+        non_striker: Basir Ahamad
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 16.1:
+        non_striker: Basir Ahamad
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 16.2:
+        non_striker: RK Paudel
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 16.3:
+        non_striker: Basir Ahamad
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 16.4:
+        non_striker: RK Paudel
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basir Ahamad
+    - 16.5:
+        non_striker: Basir Ahamad
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 16.6:
+        non_striker: Basir Ahamad
+        bowler: A Nagarajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Paudel
+    - 16.7:
+        non_striker: Basir Ahamad
+        bowler: A Nagarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Paudel

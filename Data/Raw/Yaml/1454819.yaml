@@ -1,0 +1,2090 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Al Amarat
+  dates:
+  - '2024-11-13'
+  gender: male
+  match_type: T20
+  match_type_number: 2946
+  outcome:
+    winner: Oman
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - Hammad Mirza
+  players:
+    Netherlands:
+    - AT Nidamanuru
+    - MP O'Dowd
+    - Vikramjit Singh
+    - SA Edwards
+    - CN Ackermann
+    - BFW de Leede
+    - NRJ Croes
+    - T van der Gugten
+    - RE van der Merwe
+    - A Dutt
+    - PA van Meekeren
+    Oman:
+    - Jatinder Singh
+    - Aamir Kaleem
+    - AR Odedara
+    - Wasim Ali
+    - Hammad Mirza
+    - Sufyan Mehmood
+    - Mehran Khan
+    - B Siddharth
+    - Muzahir Raza
+    - S Shrivastava
+    - Shakeel Ahmed
+  registry:
+    people:
+      A Dutt: 803dbf1d
+      AR Odedara: a7a6c1c2
+      AT Nidamanuru: a319edf8
+      Aamir Kaleem: 7ecb9a14
+      B Siddharth: 80de053e
+      BFW de Leede: fc4375ef
+      CN Ackermann: e734d090
+      Hammad Mirza: 0b7b78c6
+      Harikrishna Pillai: ed918c90
+      Jatinder Singh: b80dd12c
+      MP O'Dowd: b699df47
+      Mehran Khan: d7bfcc0b
+      Muzahir Raza: '60606200'
+      NRJ Croes: f427e63e
+      Neeyamur Rashid: bd81a027
+      PA van Meekeren: 4557dc54
+      RE van der Merwe: 05c2ca46
+      Rahul Asher: 4956b0bf
+      S Shrivastava: ac166f77
+      SA Edwards: b59db04f
+      Shakeel Ahmed: e29e9c12
+      Sufyan Mehmood: bf172ae6
+      T van der Gugten: d99cc23a
+      Vikramjit Singh: 2a9eee66
+      Vinod Babu: 37e6187d
+      Wasim Ali: ea59139a
+  teams:
+  - Netherlands
+  - Oman
+  toss:
+    winner: Oman
+    decision: field
+  umpires:
+  - Rahul Asher
+  - Vinod Babu
+  venue: Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MP O'Dowd
+        batsman: AT Nidamanuru
+    - 0.2:
+        non_striker: AT Nidamanuru
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 0.3:
+        non_striker: MP O'Dowd
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Nidamanuru
+    - 0.4:
+        non_striker: MP O'Dowd
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Nidamanuru
+    - 0.5:
+        non_striker: MP O'Dowd
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Nidamanuru
+    - 0.6:
+        non_striker: MP O'Dowd
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AT Nidamanuru
+    - 1.1:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AT Nidamanuru
+    - 1.2:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Nidamanuru
+    - 1.3:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Nidamanuru
+        wicket:
+          player_out: AT Nidamanuru
+          fielders:
+          - Aamir Kaleem
+          kind: caught
+    - 1.4:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vikramjit Singh
+    - 1.5:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vikramjit Singh
+    - 1.6:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vikramjit Singh
+    - 1.7:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 1.8:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+        wicket:
+          player_out: Vikramjit Singh
+          kind: bowled
+    - 2.1:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SA Edwards
+        batsman: MP O'Dowd
+    - 2.2:
+        non_striker: MP O'Dowd
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 2.3:
+        non_striker: MP O'Dowd
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 2.4:
+        non_striker: MP O'Dowd
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 2.5:
+        non_striker: MP O'Dowd
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 2.6:
+        non_striker: SA Edwards
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 3.1:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 3.2:
+        non_striker: SA Edwards
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 3.3:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 3.4:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 3.5:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 3.6:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+        wicket:
+          player_out: SA Edwards
+          kind: lbw
+    - 4.1:
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CN Ackermann
+        batsman: MP O'Dowd
+    - 4.2:
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CN Ackermann
+        batsman: MP O'Dowd
+    - 4.3:
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CN Ackermann
+        batsman: MP O'Dowd
+    - 4.4:
+        non_striker: MP O'Dowd
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 4.5:
+        non_striker: MP O'Dowd
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 4.6:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP O'Dowd
+    - 4.7:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 5.1:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 5.2:
+        non_striker: MP O'Dowd
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 5.3:
+        non_striker: CN Ackermann
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 5.4:
+        non_striker: CN Ackermann
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 5.5:
+        non_striker: CN Ackermann
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 5.6:
+        non_striker: CN Ackermann
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.1:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.2:
+        non_striker: MP O'Dowd
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 6.3:
+        non_striker: MP O'Dowd
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 6.4:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          kind: bowled
+    - 6.5:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 6.6:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 7.1:
+        non_striker: CN Ackermann
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 7.2:
+        non_striker: BFW de Leede
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 7.3:
+        non_striker: CN Ackermann
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 7.4:
+        non_striker: BFW de Leede
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 7.5:
+        non_striker: CN Ackermann
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 7.6:
+        non_striker: CN Ackermann
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 8.1:
+        non_striker: BFW de Leede
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 8.2:
+        non_striker: BFW de Leede
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 8.3:
+        non_striker: BFW de Leede
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 8.4:
+        non_striker: BFW de Leede
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 8.5:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.6:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 9.1:
+        non_striker: BFW de Leede
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 9.2:
+        non_striker: CN Ackermann
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 9.3:
+        non_striker: CN Ackermann
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 9.4:
+        non_striker: BFW de Leede
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 9.5:
+        non_striker: BFW de Leede
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 9.6:
+        non_striker: CN Ackermann
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 10.1:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 10.2:
+        non_striker: BFW de Leede
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 10.3:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 10.4:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 10.5:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 10.6:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 11.1:
+        non_striker: CN Ackermann
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 11.2:
+        non_striker: BFW de Leede
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 11.3:
+        non_striker: CN Ackermann
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 11.4:
+        non_striker: BFW de Leede
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 11.5:
+        non_striker: CN Ackermann
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 11.6:
+        non_striker: CN Ackermann
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 12.1:
+        non_striker: BFW de Leede
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 12.2:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 12.3:
+        non_striker: BFW de Leede
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 12.4:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 12.5:
+        non_striker: BFW de Leede
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 12.6:
+        non_striker: CN Ackermann
+        bowler: S Shrivastava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 13.1:
+        non_striker: CN Ackermann
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+        wicket:
+          player_out: BFW de Leede
+          fielders:
+          - Sufyan Mehmood
+          kind: caught
+    - 13.2:
+        non_striker: CN Ackermann
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Croes
+    - 13.3:
+        non_striker: NRJ Croes
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 13.4:
+        non_striker: NRJ Croes
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 13.5:
+        non_striker: NRJ Croes
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 13.6:
+        non_striker: CN Ackermann
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Croes
+    - 14.1:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRJ Croes
+    - 14.2:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Croes
+    - 14.3:
+        non_striker: NRJ Croes
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 14.4:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRJ Croes
+    - 14.5:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRJ Croes
+    - 14.6:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Croes
+    - 15.1:
+        non_striker: CN Ackermann
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Croes
+    - 15.2:
+        non_striker: NRJ Croes
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 15.3:
+        non_striker: NRJ Croes
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 15.4:
+        non_striker: NRJ Croes
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 15.5:
+        non_striker: NRJ Croes
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 15.6:
+        non_striker: CN Ackermann
+        bowler: Mehran Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRJ Croes
+    - 16.1:
+        non_striker: NRJ Croes
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 16.2:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRJ Croes
+    - 16.3:
+        non_striker: CN Ackermann
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Croes
+    - 16.4:
+        non_striker: NRJ Croes
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+        wicket:
+          player_out: CN Ackermann
+          kind: bowled
+    - 16.5:
+        non_striker: NRJ Croes
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T van der Gugten
+    - 16.6:
+        non_striker: NRJ Croes
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T van der Gugten
+    - 17.1:
+        non_striker: NRJ Croes
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T van der Gugten
+    - 17.2:
+        non_striker: NRJ Croes
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T van der Gugten
+    - 17.3:
+        non_striker: T van der Gugten
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: NRJ Croes
+    - 17.4:
+        non_striker: T van der Gugten
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Croes
+    - 17.5:
+        non_striker: NRJ Croes
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T van der Gugten
+    - 17.6:
+        non_striker: T van der Gugten
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRJ Croes
+    - 17.7:
+        non_striker: T van der Gugten
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRJ Croes
+    - 18.1:
+        non_striker: NRJ Croes
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T van der Gugten
+    - 18.2:
+        non_striker: T van der Gugten
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRJ Croes
+    - 18.3:
+        non_striker: T van der Gugten
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Croes
+    - 18.4:
+        non_striker: NRJ Croes
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T van der Gugten
+    - 18.5:
+        non_striker: NRJ Croes
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T van der Gugten
+    - 18.6:
+        non_striker: NRJ Croes
+        bowler: Muzahir Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T van der Gugten
+    - 19.1:
+        non_striker: T van der Gugten
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRJ Croes
+    - 19.2:
+        non_striker: T van der Gugten
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Croes
+    - 19.3:
+        non_striker: NRJ Croes
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T van der Gugten
+    - 19.4:
+        non_striker: NRJ Croes
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T van der Gugten
+        wicket:
+          player_out: T van der Gugten
+          fielders:
+          - B Siddharth
+          kind: caught
+    - 19.5:
+        non_striker: NRJ Croes
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 19.6:
+        non_striker: RE van der Merwe
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRJ Croes
+- 2nd innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aamir Kaleem
+        batsman: Jatinder Singh
+    - 0.2:
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Aamir Kaleem
+        batsman: Jatinder Singh
+    - 0.3:
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Aamir Kaleem
+        batsman: Jatinder Singh
+    - 0.4:
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aamir Kaleem
+        batsman: Jatinder Singh
+    - 0.5:
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aamir Kaleem
+        batsman: Jatinder Singh
+    - 0.6:
+        bowler: A Dutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aamir Kaleem
+        batsman: Jatinder Singh
+    - 0.7:
+        non_striker: Aamir Kaleem
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jatinder Singh
+    - 1.1:
+        non_striker: Jatinder Singh
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Kaleem
+    - 1.2:
+        non_striker: Aamir Kaleem
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+        wicket:
+          player_out: Jatinder Singh
+          kind: bowled
+    - 1.3:
+        non_striker: Aamir Kaleem
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Odedara
+    - 1.4:
+        non_striker: Aamir Kaleem
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Odedara
+    - 1.5:
+        non_striker: Aamir Kaleem
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Odedara
+    - 1.6:
+        non_striker: AR Odedara
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Kaleem
+    - 2.1:
+        non_striker: AR Odedara
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+        wicket:
+          player_out: Aamir Kaleem
+          kind: bowled
+    - 2.2:
+        non_striker: AR Odedara
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 2.3:
+        non_striker: AR Odedara
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 2.4:
+        non_striker: Wasim Ali
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Odedara
+    - 2.5:
+        non_striker: AR Odedara
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 2.6:
+        non_striker: AR Odedara
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wasim Ali
+    - 3.1:
+        non_striker: Wasim Ali
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Odedara
+    - 3.2:
+        non_striker: Wasim Ali
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Odedara
+    - 3.3:
+        non_striker: AR Odedara
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+        wicket:
+          player_out: Wasim Ali
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 3.4:
+        non_striker: AR Odedara
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 3.5:
+        non_striker: AR Odedara
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 3.6:
+        non_striker: AR Odedara
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 4.1:
+        non_striker: Hammad Mirza
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Odedara
+    - 4.2:
+        non_striker: Hammad Mirza
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Odedara
+    - 4.3:
+        non_striker: Hammad Mirza
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Odedara
+    - 4.4:
+        non_striker: Hammad Mirza
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Odedara
+    - 4.5:
+        non_striker: AR Odedara
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 4.6:
+        non_striker: AR Odedara
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hammad Mirza
+    - 5.1:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Odedara
+    - 5.2:
+        non_striker: AR Odedara
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 5.3:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Odedara
+    - 5.4:
+        non_striker: AR Odedara
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 5.5:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Odedara
+        wicket:
+          player_out: AR Odedara
+          kind: lbw
+    - 5.6:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 6.1:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 6.2:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 6.3:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 6.4:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 6.5:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 6.6:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 7.1:
+        non_striker: Hammad Mirza
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 7.2:
+        non_striker: Hammad Mirza
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 7.3:
+        non_striker: Sufyan Mehmood
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hammad Mirza
+    - 7.4:
+        non_striker: Sufyan Mehmood
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 7.5:
+        non_striker: Sufyan Mehmood
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 7.6:
+        non_striker: Hammad Mirza
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 8.1:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 8.2:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 8.3:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 8.4:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 8.5:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 8.6:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hammad Mirza
+    - 9.1:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 9.2:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 9.3:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 9.4:
+        non_striker: Sufyan Mehmood
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 9.5:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 9.6:
+        non_striker: Sufyan Mehmood
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 10.1:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 10.2:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 10.3:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 10.4:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 10.5:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 10.6:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 11.1:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 11.2:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 11.3:
+        non_striker: Sufyan Mehmood
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 11.4:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 11.5:
+        non_striker: Sufyan Mehmood
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 11.6:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 12.1:
+        non_striker: Hammad Mirza
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 12.2:
+        non_striker: Sufyan Mehmood
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 12.3:
+        non_striker: Sufyan Mehmood
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 12.4:
+        non_striker: Hammad Mirza
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 12.5:
+        non_striker: Hammad Mirza
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sufyan Mehmood
+    - 12.6:
+        non_striker: Hammad Mirza
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sufyan Mehmood
+    - 13.1:
+        non_striker: Sufyan Mehmood
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 13.2:
+        non_striker: Hammad Mirza
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 13.3:
+        non_striker: Sufyan Mehmood
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 13.4:
+        non_striker: Hammad Mirza
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 13.5:
+        non_striker: Sufyan Mehmood
+        bowler: T van der Gugten
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hammad Mirza
+    - 13.6:
+        non_striker: Sufyan Mehmood
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 13.7:
+        non_striker: Sufyan Mehmood
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hammad Mirza
+    - 14.1:
+        non_striker: Hammad Mirza
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 14.2:
+        non_striker: Sufyan Mehmood
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 14.3:
+        non_striker: Hammad Mirza
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 14.4:
+        non_striker: Sufyan Mehmood
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 14.5:
+        non_striker: Hammad Mirza
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 14.6:
+        non_striker: Sufyan Mehmood
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 15.1:
+        non_striker: Hammad Mirza
+        bowler: BFW de Leede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sufyan Mehmood
+    - 15.2:
+        non_striker: Sufyan Mehmood
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 15.3:
+        non_striker: Hammad Mirza
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 15.4:
+        non_striker: Hammad Mirza
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 15.5:
+        non_striker: Hammad Mirza
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sufyan Mehmood
+    - 15.6:
+        non_striker: Hammad Mirza
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 16.1:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hammad Mirza
+    - 16.2:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hammad Mirza
+    - 16.3:
+        non_striker: Sufyan Mehmood
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 16.4:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sufyan Mehmood
+    - 16.5:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 16.6:
+        non_striker: Hammad Mirza
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+        wicket:
+          player_out: Sufyan Mehmood
+          fielders:
+          - Vikramjit Singh
+          kind: caught
+    - 17.1:
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mehran Khan
+        batsman: Hammad Mirza
+    - 17.2:
+        non_striker: Hammad Mirza
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehran Khan
+    - 17.3:
+        non_striker: Hammad Mirza
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehran Khan
+    - 17.4:
+        non_striker: Mehran Khan
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hammad Mirza
+    - 17.5:
+        non_striker: Mehran Khan
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hammad Mirza
+    - 17.6:
+        non_striker: Mehran Khan
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hammad Mirza
+    - 18.1:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehran Khan
+    - 18.2:
+        non_striker: Mehran Khan
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 18.3:
+        non_striker: Mehran Khan
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 18.4:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehran Khan
+        wicket:
+          player_out: Mehran Khan
+          fielders:
+          - PA van Meekeren
+          kind: caught
+    - 18.5:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Siddharth
+    - 18.6:
+        non_striker: Hammad Mirza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Siddharth
+        wicket:
+          player_out: B Siddharth
+          fielders:
+          - AT Nidamanuru
+          kind: caught
+    - 19.1:
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muzahir Raza
+        batsman: Hammad Mirza

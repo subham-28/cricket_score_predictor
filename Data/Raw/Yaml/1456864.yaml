@@ -1,0 +1,1721 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hangzhou
+  dates:
+  - '2024-11-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2128
+  outcome:
+    winner: Myanmar
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - ZL Thoon
+  players:
+    Mongolia:
+    - J Tugsjargal
+    - B Ichinkhorloo
+    - G Anujin
+    - B Namuunzul
+    - T Ariuntsetseg
+    - O Erdenebaatar
+    - M Batnasan
+    - G Urjindulam
+    - U Bayarjavkhlan
+    - O Amarjargal
+    - M Enkhzul
+    Myanmar:
+    - KM Myat
+    - TT Aung
+    - MPP San
+    - ZL Thoon
+    - Zon Lin
+    - Pan Ei Phyu
+    - TT Soe
+    - LL Htun
+    - ZT Kyaw
+    - ZL Win
+    - HH Aung
+  registry:
+    people:
+      Aye Min Than: 37f3bba0
+      B Ichinkhorloo: 3cc55f88
+      B Namuunzul: e14e70c0
+      G Anujin: e749f016
+      G Sankaranarayanan: a4a348f9
+      G Urjindulam: a51e7c73
+      HH Aung: 860042f6
+      Huang Zhuo: edbbe245
+      J Tugsjargal: e7af8a61
+      KM Myat: c1b4e25c
+      LL Htun: ec687c3a
+      M Batnasan: 0e01e881
+      M Enkhzul: 5f45a88b
+      MPP San: 5bc290a2
+      O Amarjargal: c054cf6f
+      O Erdenebaatar: f40bc7e3
+      Pan Ei Phyu: 9fcaeb60
+      T Ariuntsetseg: 2f8c4e6e
+      TT Aung: 57fb24e6
+      TT Soe: 59f44fde
+      U Bayarjavkhlan: 92c81a4f
+      Z Lyu: 5a058533
+      ZL Thoon: 8d0543ce
+      ZL Win: b5714cf9
+      ZT Kyaw: cdf63aaa
+      Zheng Lili: 9c2bb7da
+      Zon Lin: 3b492b8d
+  teams:
+  - Mongolia
+  - Myanmar
+  toss:
+    winner: Myanmar
+    decision: field
+  umpires:
+  - Aye Min Than
+  - Huang Zhuo
+  venue: Zhejiang University of Technology Cricket Field
+innings:
+- 1st innings:
+    team: Mongolia
+    deliveries:
+    - 0.1:
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Ichinkhorloo
+        batsman: J Tugsjargal
+    - 0.2:
+        non_striker: J Tugsjargal
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 0.3:
+        non_striker: J Tugsjargal
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ichinkhorloo
+    - 0.4:
+        non_striker: J Tugsjargal
+        bowler: MPP San
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 0.5:
+        non_striker: J Tugsjargal
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 0.6:
+        non_striker: J Tugsjargal
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 0.7:
+        non_striker: B Ichinkhorloo
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tugsjargal
+    - 1.1:
+        non_striker: B Ichinkhorloo
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 1.2:
+        non_striker: B Ichinkhorloo
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 1.3:
+        non_striker: B Ichinkhorloo
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 1.4:
+        non_striker: B Ichinkhorloo
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 1.5:
+        non_striker: B Ichinkhorloo
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Tugsjargal
+    - 1.6:
+        non_striker: B Ichinkhorloo
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+        wicket:
+          player_out: J Tugsjargal
+          kind: lbw
+    - 2.1:
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Anujin
+        batsman: B Ichinkhorloo
+    - 2.2:
+        non_striker: G Anujin
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+        wicket:
+          player_out: G Anujin
+          fielders:
+          - LL Htun
+          - HH Aung
+          kind: run out
+    - 2.3:
+        non_striker: B Ichinkhorloo
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Namuunzul
+    - 2.4:
+        non_striker: B Namuunzul
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 2.5:
+        non_striker: B Ichinkhorloo
+        bowler: TT Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Namuunzul
+    - 2.6:
+        non_striker: B Ichinkhorloo
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namuunzul
+    - 2.7:
+        non_striker: B Ichinkhorloo
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namuunzul
+    - 3.1:
+        non_striker: B Namuunzul
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 3.2:
+        non_striker: B Namuunzul
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 3.3:
+        non_striker: B Ichinkhorloo
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namuunzul
+        wicket:
+          player_out: B Namuunzul
+          fielders:
+          - LL Htun
+          kind: run out
+    - 3.4:
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Ariuntsetseg
+        batsman: B Ichinkhorloo
+    - 3.5:
+        bowler: ZL Win
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Ariuntsetseg
+        batsman: B Ichinkhorloo
+    - 3.6:
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Ariuntsetseg
+        batsman: B Ichinkhorloo
+    - 3.7:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.1:
+        non_striker: B Ichinkhorloo
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 4.2:
+        non_striker: B Ichinkhorloo
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 4.3:
+        non_striker: B Ichinkhorloo
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 4.4:
+        non_striker: B Ichinkhorloo
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ariuntsetseg
+    - 4.5:
+        non_striker: T Ariuntsetseg
+        bowler: TT Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: B Ichinkhorloo
+    - 4.6:
+        non_striker: T Ariuntsetseg
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.7:
+        non_striker: T Ariuntsetseg
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 5.1:
+        non_striker: B Ichinkhorloo
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 5.2:
+        non_striker: B Ichinkhorloo
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ariuntsetseg
+    - 5.3:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 5.4:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 5.5:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 5.6:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Win
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 5.7:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 6.1:
+        non_striker: B Ichinkhorloo
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 6.2:
+        non_striker: B Ichinkhorloo
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ariuntsetseg
+    - 6.3:
+        non_striker: B Ichinkhorloo
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 6.4:
+        non_striker: B Ichinkhorloo
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 6.5:
+        non_striker: B Ichinkhorloo
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 6.6:
+        non_striker: B Ichinkhorloo
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 6.7:
+        non_striker: B Ichinkhorloo
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 7.1:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 7.2:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 7.3:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+        wicket:
+          player_out: B Ichinkhorloo
+          kind: caught and bowled
+    - 7.4:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 7.5:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 7.6:
+        non_striker: T Ariuntsetseg
+        bowler: ZL Thoon
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: O Erdenebaatar
+    - 7.7:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 8.1:
+        non_striker: T Ariuntsetseg
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 8.2:
+        non_striker: T Ariuntsetseg
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 8.3:
+        non_striker: T Ariuntsetseg
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 8.4:
+        non_striker: T Ariuntsetseg
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 8.5:
+        non_striker: T Ariuntsetseg
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 8.6:
+        non_striker: T Ariuntsetseg
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 9.1:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 9.2:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 9.3:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+    - 9.4:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ariuntsetseg
+        wicket:
+          player_out: T Ariuntsetseg
+          fielders:
+          - HH Aung
+          kind: caught
+    - 9.5:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 9.6:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Batnasan
+    - 9.7:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 10.1:
+        non_striker: O Erdenebaatar
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 10.2:
+        non_striker: O Erdenebaatar
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 10.3:
+        non_striker: M Batnasan
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Erdenebaatar
+    - 10.4:
+        non_striker: M Batnasan
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 10.5:
+        non_striker: M Batnasan
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 10.6:
+        non_striker: M Batnasan
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Erdenebaatar
+    - 10.7:
+        non_striker: M Batnasan
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 11.1:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 11.2:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 11.3:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 11.4:
+        non_striker: M Batnasan
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 11.5:
+        non_striker: M Batnasan
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 11.6:
+        non_striker: M Batnasan
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 12.1:
+        non_striker: O Erdenebaatar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 12.2:
+        non_striker: O Erdenebaatar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 12.3:
+        non_striker: O Erdenebaatar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 12.4:
+        non_striker: O Erdenebaatar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 12.5:
+        non_striker: O Erdenebaatar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+        wicket:
+          player_out: M Batnasan
+          kind: lbw
+    - 12.6:
+        non_striker: O Erdenebaatar
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 13.1:
+        non_striker: G Urjindulam
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 13.2:
+        non_striker: G Urjindulam
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+    - 13.3:
+        non_striker: G Urjindulam
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Erdenebaatar
+    - 13.4:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 13.5:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 13.6:
+        non_striker: O Erdenebaatar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+        wicket:
+          player_out: G Urjindulam
+          kind: lbw
+    - 14.1:
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: U Bayarjavkhlan
+        batsman: O Erdenebaatar
+    - 14.2:
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: U Bayarjavkhlan
+        batsman: O Erdenebaatar
+    - 14.3:
+        non_striker: U Bayarjavkhlan
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Erdenebaatar
+        wicket:
+          player_out: O Erdenebaatar
+          fielders:
+          - HH Aung
+          kind: caught
+    - 14.4:
+        non_striker: U Bayarjavkhlan
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 14.5:
+        non_striker: U Bayarjavkhlan
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 14.6:
+        non_striker: U Bayarjavkhlan
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 15.1:
+        non_striker: U Bayarjavkhlan
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 15.2:
+        non_striker: U Bayarjavkhlan
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 15.3:
+        non_striker: O Amarjargal
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Bayarjavkhlan
+    - 15.4:
+        non_striker: O Amarjargal
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Bayarjavkhlan
+        wicket:
+          player_out: U Bayarjavkhlan
+          fielders:
+          - HH Aung
+          kind: caught
+    - 15.5:
+        non_striker: O Amarjargal
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Enkhzul
+    - 15.6:
+        non_striker: O Amarjargal
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Enkhzul
+    - 16.1:
+        non_striker: M Enkhzul
+        bowler: MPP San
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Amarjargal
+    - 16.2:
+        non_striker: M Enkhzul
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 16.3:
+        non_striker: O Amarjargal
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Enkhzul
+    - 16.4:
+        non_striker: M Enkhzul
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 16.5:
+        non_striker: M Enkhzul
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 16.6:
+        non_striker: M Enkhzul
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 16.7:
+        non_striker: M Enkhzul
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 17.1:
+        non_striker: O Amarjargal
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Enkhzul
+    - 17.2:
+        non_striker: O Amarjargal
+        bowler: ZL Win
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Enkhzul
+    - 17.3:
+        non_striker: O Amarjargal
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Enkhzul
+    - 17.4:
+        non_striker: M Enkhzul
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 17.5:
+        non_striker: M Enkhzul
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 17.6:
+        non_striker: M Enkhzul
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 17.7:
+        non_striker: M Enkhzul
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 18.1:
+        non_striker: O Amarjargal
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Enkhzul
+    - 18.2:
+        non_striker: O Amarjargal
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Enkhzul
+    - 18.3:
+        non_striker: O Amarjargal
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Enkhzul
+    - 18.4:
+        non_striker: O Amarjargal
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Enkhzul
+    - 18.5:
+        non_striker: O Amarjargal
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Enkhzul
+    - 18.6:
+        non_striker: M Enkhzul
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Amarjargal
+    - 18.7:
+        non_striker: M Enkhzul
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 18.8:
+        non_striker: M Enkhzul
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 19.1:
+        non_striker: M Enkhzul
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 19.2:
+        non_striker: M Enkhzul
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 19.3:
+        non_striker: M Enkhzul
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 19.4:
+        non_striker: M Enkhzul
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 19.5:
+        non_striker: O Amarjargal
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Enkhzul
+    - 19.6:
+        non_striker: O Amarjargal
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Enkhzul
+- 2nd innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: O Amarjargal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.2:
+        bowler: O Amarjargal
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.3:
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.4:
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.5:
+        non_striker: KM Myat
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 0.6:
+        non_striker: KM Myat
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 0.7:
+        non_striker: KM Myat
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 0.8:
+        non_striker: KM Myat
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+        wicket:
+          player_out: TT Aung
+          fielders:
+          - O Erdenebaatar
+          kind: caught
+    - 1.1:
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPP San
+        batsman: KM Myat
+    - 1.2:
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPP San
+        batsman: KM Myat
+    - 1.3:
+        bowler: M Enkhzul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: MPP San
+        batsman: KM Myat
+    - 1.4:
+        non_striker: KM Myat
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 1.5:
+        non_striker: KM Myat
+        bowler: M Enkhzul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPP San
+    - 1.6:
+        non_striker: KM Myat
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 1.7:
+        non_striker: MPP San
+        bowler: M Enkhzul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Myat
+    - 1.8:
+        non_striker: MPP San
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Myat
+    - 2.1:
+        non_striker: MPP San
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+        wicket:
+          player_out: MPP San
+          fielders:
+          - O Erdenebaatar
+          - M Batnasan
+          kind: run out
+    - 2.2:
+        non_striker: KM Myat
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZL Thoon
+    - 2.3:
+        non_striker: KM Myat
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Thoon
+    - 2.4:
+        non_striker: KM Myat
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZL Thoon
+    - 2.5:
+        non_striker: KM Myat
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Thoon
+    - 2.6:
+        non_striker: ZL Thoon
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Myat
+    - 2.7:
+        non_striker: ZL Thoon
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Myat
+    - 2.8:
+        non_striker: ZL Thoon
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 3.1:
+        non_striker: KM Myat
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Thoon
+    - 3.2:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 3.3:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 3.4:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+        wicket:
+          player_out: KM Myat
+          fielders:
+          - M Batnasan
+          kind: caught
+    - 3.5:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 3.6:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.1:
+        non_striker: Zon Lin
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Thoon
+    - 4.2:
+        non_striker: Zon Lin
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Thoon
+    - 4.3:
+        non_striker: ZL Thoon
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Zon Lin
+    - 4.4:
+        non_striker: ZL Thoon
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.5:
+        non_striker: ZL Thoon
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 4.6:
+        non_striker: Zon Lin
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Thoon
+    - 4.7:
+        non_striker: Zon Lin
+        bowler: T Ariuntsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Thoon
+    - 5.1:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 5.2:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 5.3:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 5.4:
+        non_striker: Zon Lin
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Thoon
+    - 5.5:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 5.6:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 6.1:
+        non_striker: Zon Lin
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZL Thoon
+    - 6.2:
+        non_striker: Zon Lin
+        bowler: O Amarjargal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZL Thoon
+    - 6.3:
+        non_striker: Zon Lin
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZL Thoon
+    - 6.4:
+        non_striker: Zon Lin
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Thoon
+    - 6.5:
+        non_striker: Zon Lin
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Thoon
+    - 6.6:
+        non_striker: ZL Thoon
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 6.7:
+        non_striker: Zon Lin
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Thoon
+    - 7.1:
+        non_striker: Zon Lin
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZL Thoon
+    - 7.2:
+        non_striker: Zon Lin
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Thoon
+    - 7.3:
+        non_striker: Zon Lin
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZL Thoon
+    - 7.4:
+        non_striker: ZL Thoon
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 7.5:
+        non_striker: Zon Lin
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Thoon
+    - 7.6:
+        non_striker: Zon Lin
+        bowler: M Enkhzul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZL Thoon
+    - 7.7:
+        non_striker: Zon Lin
+        bowler: M Enkhzul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Thoon
+    - 8.1:
+        non_striker: ZL Thoon
+        bowler: O Erdenebaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zon Lin

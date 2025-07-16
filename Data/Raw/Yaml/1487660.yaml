@@ -1,0 +1,2553 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Prague
+  dates:
+  - '2025-06-13'
+  gender: female
+  match_type: T20
+  match_type_number: 2370
+  outcome:
+    winner: Gibraltar
+    by:
+      runs: 77
+  overs: 20
+  player_of_match:
+  - YS Blagg
+  players:
+    Gibraltar:
+    - AIV Benatar
+    - N Caruana
+    - EAS Ferrary
+    - RA Reilly
+    - LJ Payas
+    - P Raghunath
+    - S Barton
+    - YS Blagg
+    - H Mumford
+    - A Gianani
+    - M Mumford
+    Czech Republic:
+    - S Talamarla
+    - J Souckova
+    - R Pavlickova
+    - E Kuncova
+    - Z Franova
+    - J Kominkova
+    - Mansi Parmar
+    - P Choudhary
+    - O Hamrikova
+    - E Konasova
+    - S Kolcunova
+  registry:
+    people:
+      A Gianani: 0a340589
+      AIV Benatar: e8bdbbca
+      E Konasova: d5867f82
+      E Kuncova: 7f2f40fa
+      EAS Ferrary: c3c905ae
+      H Mumford: 6462c64b
+      J Kominkova: d5595998
+      J Souckova: 9a9c0e81
+      LJ Payas: '49355360'
+      M Mumford: 55417c5f
+      Mansi Parmar: aa05263e
+      N Caruana: 00d1544c
+      O Hamrikova: caceb014
+      P Choudhary: dd7cc825
+      P Raghunath: 2e287171
+      R Pavlickova: a27d8778
+      RA Reilly: 77276fff
+      S Barton: f7dd8b46
+      S Kolcunova: 7eba546e
+      S Talamarla: bf370562
+      YS Blagg: 3aac5463
+      Z Franova: 55aabdef
+  teams:
+  - Gibraltar
+  - Czech Republic
+  toss:
+    winner: Czech Republic
+    decision: field
+  venue: Scott Page Field, Vinor
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Caruana
+        batsman: AIV Benatar
+    - 0.2:
+        non_striker: AIV Benatar
+        bowler: S Talamarla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Caruana
+    - 0.3:
+        non_striker: AIV Benatar
+        bowler: S Talamarla
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: N Caruana
+    - 0.4:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 0.5:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 0.6:
+        non_striker: AIV Benatar
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 0.7:
+        non_striker: AIV Benatar
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 0.8:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 1.1:
+        non_striker: AIV Benatar
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Caruana
+    - 1.2:
+        non_striker: AIV Benatar
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 4
+          batsman: 3
+        extras:
+          noballs: 1
+        batsman: N Caruana
+    - 1.3:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 1.4:
+        non_striker: AIV Benatar
+        bowler: S Kolcunova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Caruana
+    - 1.5:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 1.6:
+        non_striker: AIV Benatar
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 1.7:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 1.8:
+        non_striker: AIV Benatar
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Caruana
+    - 1.9:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 2.1:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 2.2:
+        non_striker: AIV Benatar
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 2.3:
+        non_striker: AIV Benatar
+        bowler: S Talamarla
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Caruana
+    - 2.4:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 2.5:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AIV Benatar
+    - 2.6:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 2.7:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 3.1:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AIV Benatar
+    - 3.2:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 3.3:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 3.4:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AIV Benatar
+    - 3.5:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 3.6:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AIV Benatar
+    - 3.7:
+        non_striker: AIV Benatar
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Caruana
+    - 3.8:
+        non_striker: AIV Benatar
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 4.1:
+        non_striker: AIV Benatar
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 4.2:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 4.3:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 4.4:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 4.5:
+        non_striker: AIV Benatar
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 4.6:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 5.1:
+        non_striker: AIV Benatar
+        bowler: Mansi Parmar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Caruana
+    - 5.2:
+        non_striker: AIV Benatar
+        bowler: Mansi Parmar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Caruana
+    - 5.3:
+        non_striker: AIV Benatar
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Caruana
+    - 5.4:
+        non_striker: AIV Benatar
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 5.5:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AIV Benatar
+    - 5.6:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 5.7:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+        wicket:
+          player_out: AIV Benatar
+          fielders:
+          - E Kuncova
+          kind: caught
+    - 5.8:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 6.1:
+        non_striker: EAS Ferrary
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 6.2:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 6.3:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 6.4:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EAS Ferrary
+    - 6.5:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 6.6:
+        non_striker: EAS Ferrary
+        bowler: R Pavlickova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Caruana
+    - 6.7:
+        non_striker: EAS Ferrary
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 7.1:
+        non_striker: EAS Ferrary
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 7.2:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EAS Ferrary
+    - 7.3:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 7.4:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 7.5:
+        non_striker: EAS Ferrary
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 7.6:
+        non_striker: EAS Ferrary
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 8.1:
+        non_striker: EAS Ferrary
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 8.2:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 8.3:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 8.4:
+        non_striker: EAS Ferrary
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 8.5:
+        non_striker: N Caruana
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 8.6:
+        non_striker: EAS Ferrary
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Caruana
+    - 8.7:
+        non_striker: EAS Ferrary
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Caruana
+    - 9.1:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 9.2:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 9.3:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 9.4:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 9.5:
+        non_striker: EAS Ferrary
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 9.6:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: EAS Ferrary
+    - 9.7:
+        non_striker: EAS Ferrary
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 10.1:
+        non_striker: EAS Ferrary
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: N Caruana
+    - 10.2:
+        non_striker: EAS Ferrary
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 10.3:
+        non_striker: EAS Ferrary
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 10.4:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 10.5:
+        non_striker: EAS Ferrary
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 10.6:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EAS Ferrary
+    - 10.7:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAS Ferrary
+    - 11.1:
+        non_striker: EAS Ferrary
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 11.2:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 11.3:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EAS Ferrary
+    - 11.4:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 11.5:
+        non_striker: EAS Ferrary
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 11.6:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EAS Ferrary
+    - 11.7:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 11.8:
+        non_striker: N Caruana
+        bowler: Mansi Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 12.1:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 12.2:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 12.3:
+        non_striker: EAS Ferrary
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 12.4:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 12.5:
+        non_striker: EAS Ferrary
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 12.6:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 13.1:
+        non_striker: EAS Ferrary
+        bowler: R Pavlickova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Caruana
+    - 13.2:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 13.3:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 13.4:
+        non_striker: EAS Ferrary
+        bowler: R Pavlickova
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: N Caruana
+    - 13.5:
+        non_striker: EAS Ferrary
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 13.6:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAS Ferrary
+    - 13.7:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 13.8:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: EAS Ferrary
+    - 13.9:
+        non_striker: EAS Ferrary
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Caruana
+    - 14.1:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EAS Ferrary
+    - 14.2:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 14.3:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 14.4:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+        wicket:
+          player_out: EAS Ferrary
+          kind: bowled
+    - 14.5:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Reilly
+    - 14.6:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 14.7:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 14.8:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 15.1:
+        non_striker: RA Reilly
+        bowler: E Kuncova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Caruana
+    - 15.2:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 15.3:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RA Reilly
+    - 15.4:
+        non_striker: RA Reilly
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Caruana
+    - 15.5:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reilly
+    - 15.6:
+        non_striker: RA Reilly
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Caruana
+    - 15.7:
+        non_striker: RA Reilly
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+    - 16.1:
+        non_striker: N Caruana
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reilly
+    - 16.2:
+        non_striker: RA Reilly
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 16.3:
+        non_striker: N Caruana
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reilly
+    - 16.4:
+        non_striker: RA Reilly
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Caruana
+    - 16.5:
+        non_striker: RA Reilly
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 16.6:
+        non_striker: N Caruana
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 17.1:
+        non_striker: RA Reilly
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 17.2:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Reilly
+    - 17.3:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Reilly
+    - 17.4:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 17.5:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: RA Reilly
+    - 17.6:
+        non_striker: RA Reilly
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 17.7:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Reilly
+    - 17.8:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reilly
+    - 17.9:
+        non_striker: RA Reilly
+        bowler: R Pavlickova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Caruana
+    - 17.10:
+        non_striker: N Caruana
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reilly
+    - 18.1:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+        wicket:
+          player_out: RA Reilly
+          kind: bowled
+    - 18.2:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Payas
+    - 18.3:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Payas
+    - 18.4:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Payas
+    - 18.5:
+        non_striker: LJ Payas
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 18.6:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Payas
+    - 18.7:
+        non_striker: N Caruana
+        bowler: S Talamarla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Payas
+    - 19.1:
+        non_striker: LJ Payas
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 19.2:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Payas
+    - 19.3:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Payas
+    - 19.4:
+        non_striker: LJ Payas
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Caruana
+    - 19.5:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: LJ Payas
+    - 19.6:
+        non_striker: LJ Payas
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Caruana
+    - 19.7:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Payas
+    - 19.8:
+        non_striker: N Caruana
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LJ Payas
+- 2nd innings:
+    team: Czech Republic
+    absent_hurt:
+    - S Kolcunova
+    deliveries:
+    - 0.1:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Souckova
+        batsman: S Talamarla
+    - 0.2:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Souckova
+        batsman: S Talamarla
+    - 0.3:
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Souckova
+        batsman: S Talamarla
+    - 0.4:
+        non_striker: J Souckova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Talamarla
+        wicket:
+          player_out: S Talamarla
+          kind: bowled
+    - 0.5:
+        non_striker: J Souckova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pavlickova
+    - 0.6:
+        non_striker: R Pavlickova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Souckova
+    - 1.1:
+        non_striker: J Souckova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 1.2:
+        non_striker: J Souckova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+        wicket:
+          player_out: R Pavlickova
+          kind: bowled
+    - 1.3:
+        non_striker: J Souckova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kuncova
+    - 1.4:
+        non_striker: J Souckova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 1.5:
+        non_striker: J Souckova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 1.6:
+        non_striker: J Souckova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 2.1:
+        non_striker: E Kuncova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Souckova
+    - 2.2:
+        non_striker: E Kuncova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Souckova
+    - 2.3:
+        non_striker: E Kuncova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Souckova
+    - 2.4:
+        non_striker: J Souckova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 2.5:
+        non_striker: J Souckova
+        bowler: EAS Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kuncova
+    - 2.6:
+        non_striker: J Souckova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 2.7:
+        non_striker: J Souckova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 3.1:
+        non_striker: E Kuncova
+        bowler: AIV Benatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Souckova
+    - 3.2:
+        non_striker: E Kuncova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Souckova
+    - 3.3:
+        non_striker: E Kuncova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Souckova
+    - 3.4:
+        non_striker: E Kuncova
+        bowler: AIV Benatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Souckova
+    - 3.5:
+        non_striker: E Kuncova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Souckova
+    - 3.6:
+        non_striker: J Souckova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 3.7:
+        non_striker: J Souckova
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 3.8:
+        non_striker: J Souckova
+        bowler: AIV Benatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Kuncova
+    - 4.1:
+        non_striker: J Souckova
+        bowler: EAS Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kuncova
+    - 4.2:
+        non_striker: J Souckova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 4.3:
+        non_striker: E Kuncova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Souckova
+    - 4.4:
+        non_striker: E Kuncova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Souckova
+    - 4.5:
+        non_striker: E Kuncova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Souckova
+        wicket:
+          player_out: J Souckova
+          fielders:
+          - LJ Payas
+          kind: caught
+    - 4.6:
+        non_striker: E Kuncova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Franova
+    - 4.7:
+        non_striker: E Kuncova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Franova
+    - 5.1:
+        non_striker: Z Franova
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Kuncova
+    - 5.2:
+        non_striker: E Kuncova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Franova
+    - 5.3:
+        non_striker: E Kuncova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Franova
+    - 5.4:
+        non_striker: E Kuncova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Franova
+        wicket:
+          player_out: Z Franova
+          kind: bowled
+    - 5.5:
+        non_striker: E Kuncova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Kominkova
+    - 5.6:
+        non_striker: J Kominkova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 6.1:
+        non_striker: E Kuncova
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Kominkova
+    - 6.2:
+        non_striker: E Kuncova
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Kominkova
+    - 6.3:
+        non_striker: E Kuncova
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 6.4:
+        non_striker: E Kuncova
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Kominkova
+    - 6.5:
+        non_striker: J Kominkova
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 6.6:
+        non_striker: E Kuncova
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 7.1:
+        non_striker: J Kominkova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+        wicket:
+          player_out: E Kuncova
+          kind: bowled
+    - 7.2:
+        non_striker: J Kominkova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansi Parmar
+    - 7.3:
+        non_striker: J Kominkova
+        bowler: YS Blagg
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Mansi Parmar
+    - 7.4:
+        non_striker: J Kominkova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansi Parmar
+    - 7.5:
+        non_striker: J Kominkova
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mansi Parmar
+    - 7.6:
+        non_striker: J Kominkova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansi Parmar
+    - 7.7:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Kominkova
+    - 7.8:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Kominkova
+    - 7.9:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Kominkova
+    - 7.10:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+        wicket:
+          player_out: J Kominkova
+          kind: bowled
+    - 7.11:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Choudhary
+    - 8.1:
+        non_striker: P Choudhary
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansi Parmar
+    - 8.2:
+        non_striker: Mansi Parmar
+        bowler: H Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Choudhary
+    - 8.3:
+        non_striker: Mansi Parmar
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Choudhary
+        wicket:
+          player_out: P Choudhary
+          fielders:
+          - H Mumford
+          kind: run out
+    - 8.4:
+        non_striker: Mansi Parmar
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 8.5:
+        non_striker: Mansi Parmar
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 8.6:
+        non_striker: Mansi Parmar
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Hamrikova
+    - 8.7:
+        non_striker: O Hamrikova
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansi Parmar
+    - 9.1:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 9.2:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 9.3:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 9.4:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+        wicket:
+          player_out: O Hamrikova
+          fielders:
+          - N Caruana
+          kind: caught
+    - 9.5:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 9.6:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 10.1:
+        non_striker: E Konasova
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansi Parmar
+    - 10.2:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 10.3:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 10.4:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 10.5:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 10.6:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 10.7:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 10.8:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 11.1:
+        non_striker: E Konasova
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mansi Parmar
+    - 11.2:
+        non_striker: E Konasova
+        bowler: M Mumford
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: Mansi Parmar
+    - 11.3:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E Konasova
+    - 11.4:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 11.5:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 11.6:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 11.7:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 11.8:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E Konasova
+    - 11.9:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 11.10:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 11.11:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 11.12:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 11.13:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 11.14:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 11.15:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 11.16:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 11.17:
+        non_striker: Mansi Parmar
+        bowler: M Mumford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 12.1:
+        non_striker: E Konasova
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansi Parmar
+    - 12.2:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 12.3:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Konasova
+    - 12.4:
+        non_striker: E Konasova
+        bowler: A Gianani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mansi Parmar
+    - 12.5:
+        non_striker: E Konasova
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansi Parmar
+    - 12.6:
+        non_striker: E Konasova
+        bowler: A Gianani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mansi Parmar
+    - 12.7:
+        non_striker: E Konasova
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansi Parmar
+    - 12.8:
+        non_striker: E Konasova
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansi Parmar
+    - 12.9:
+        non_striker: Mansi Parmar
+        bowler: A Gianani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 13.1:
+        non_striker: E Konasova
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mansi Parmar
+    - 13.2:
+        non_striker: E Konasova
+        bowler: P Raghunath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mansi Parmar
+    - 13.3:
+        non_striker: E Konasova
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansi Parmar
+    - 13.4:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 13.5:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 13.6:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 13.7:
+        non_striker: Mansi Parmar
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Konasova
+    - 14.1:
+        non_striker: E Konasova
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansi Parmar
+    - 14.2:
+        non_striker: Mansi Parmar
+        bowler: EAS Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 14.3:
+        non_striker: Mansi Parmar
+        bowler: EAS Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 14.4:
+        non_striker: Mansi Parmar
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 14.5:
+        non_striker: Mansi Parmar
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 14.6:
+        non_striker: Mansi Parmar
+        bowler: EAS Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Konasova
+    - 14.7:
+        non_striker: E Konasova
+        bowler: EAS Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mansi Parmar
+    - 14.8:
+        non_striker: Mansi Parmar
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 15.1:
+        non_striker: E Konasova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansi Parmar
+    - 15.2:
+        non_striker: E Konasova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansi Parmar
+    - 15.3:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 15.4:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 15.5:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Konasova
+    - 15.6:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: E Konasova
+    - 15.7:
+        non_striker: E Konasova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansi Parmar
+    - 15.8:
+        non_striker: E Konasova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mansi Parmar
+    - 16.1:
+        non_striker: Mansi Parmar
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 16.2:
+        non_striker: Mansi Parmar
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 16.3:
+        non_striker: Mansi Parmar
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Konasova
+    - 16.4:
+        non_striker: Mansi Parmar
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Konasova
+    - 16.5:
+        non_striker: E Konasova
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansi Parmar
+    - 16.6:
+        non_striker: E Konasova
+        bowler: LJ Payas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mansi Parmar
+    - 16.7:
+        non_striker: E Konasova
+        bowler: LJ Payas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mansi Parmar
+    - 17.1:
+        non_striker: Mansi Parmar
+        bowler: YS Blagg
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: E Konasova
+    - 17.2:
+        non_striker: E Konasova
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansi Parmar
+        wicket:
+          player_out: Mansi Parmar
+          kind: bowled

@@ -1,0 +1,2261 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  dates:
+  - '2024-09-29'
+  gender: male
+  match_type: T20
+  match_type_number: 2876
+  outcome:
+    winner: Ireland
+    by:
+      runs: 10
+  overs: 20
+  player_of_match:
+  - GR Adair
+  players:
+    Ireland:
+    - PR Stirling
+    - GR Adair
+    - HT Tector
+    - GH Dockrell
+    - C Campher
+    - NA Rock
+    - MR Adair
+    - F Hand
+    - MJ Humphreys
+    - B White
+    - GI Hume
+    South Africa:
+    - RD Rickelton
+    - RR Hendricks
+    - MP Breetzke
+    - AK Markram
+    - T Stubbs
+    - PWA Mulder
+    - PE Kruger
+    - N Peter
+    - BC Fortuin
+    - LB Williams
+    - L Ngidi
+  registry:
+    people:
+      AK Markram: 6a26221c
+      Aidan Seaver: 862c0b16
+      B White: 1a448be0
+      BC Fortuin: 9a2fc964
+      C Campher: 478a63e7
+      F Hand: e3fe4b49
+      GH Dockrell: 99cddc5e
+      GI Hume: 25550d06
+      GR Adair: 4ec96094
+      HT Tector: 59ea70a4
+      Jonathan Kennedy: f7ad4494
+      L Ngidi: f834dcfc
+      LB Williams: a1d95bd8
+      M Hawthorne: ea123ee4
+      MJ Humphreys: 2c54c49b
+      MP Breetzke: 35f173a0
+      MR Adair: fc55ec67
+      N Peter: 212aeedd
+      NA Rock: 43f4087c
+      PE Kruger: '39181592'
+      PR Stirling: cf494ffe
+      PWA Mulder: c96f6ac5
+      R Black: 156c8fb1
+      RD Rickelton: e66732f8
+      RR Hendricks: b8cc58c9
+      RS Madugalle: 766b5798
+      T Stubbs: 85b3fab2
+  teams:
+  - Ireland
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - Jonathan Kennedy
+  - M Hawthorne
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.7:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.1:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 1.3:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.1:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.5:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.6:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 3.1:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.2:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 3.3:
+        non_striker: GR Adair
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.4:
+        non_striker: GR Adair
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 3.5:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.6:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 4.1:
+        non_striker: GR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 4.2:
+        non_striker: GR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.3:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 4.4:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 4.5:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 4.6:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 4.7:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 5.1:
+        non_striker: PR Stirling
+        bowler: LB Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 5.2:
+        non_striker: PR Stirling
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 5.3:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 5.4:
+        non_striker: PR Stirling
+        bowler: LB Williams
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: GR Adair
+    - 5.5:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 5.6:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.7:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 5.8:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.1:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 6.2:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 6.3:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 6.4:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 6.5:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 6.6:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 7.1:
+        non_striker: PR Stirling
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 7.2:
+        non_striker: GR Adair
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 7.3:
+        non_striker: PR Stirling
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 7.4:
+        non_striker: PR Stirling
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 7.5:
+        non_striker: PR Stirling
+        bowler: PE Kruger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 7.6:
+        non_striker: PR Stirling
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 7.7:
+        non_striker: PR Stirling
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 8.1:
+        non_striker: GR Adair
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 8.2:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 8.3:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 8.4:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 8.5:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 8.6:
+        non_striker: PR Stirling
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 9.1:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 9.2:
+        non_striker: PR Stirling
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 9.3:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 9.4:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 9.5:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 9.6:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 10.1:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 10.2:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 10.3:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 10.4:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 10.5:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 10.6:
+        non_striker: PR Stirling
+        bowler: N Peter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 11.1:
+        non_striker: GR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 11.2:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 11.3:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 11.4:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 11.5:
+        non_striker: PR Stirling
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 11.6:
+        non_striker: GR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 12.1:
+        non_striker: GR Adair
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 12.2:
+        non_striker: PR Stirling
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 12.3:
+        non_striker: GR Adair
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 12.4:
+        non_striker: GR Adair
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 12.5:
+        non_striker: PR Stirling
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 12.6:
+        non_striker: GR Adair
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 13.1:
+        non_striker: HT Tector
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 13.2:
+        non_striker: HT Tector
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 13.3:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 13.4:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.5:
+        non_striker: HT Tector
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 13.6:
+        non_striker: HT Tector
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 14.1:
+        non_striker: HT Tector
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 14.2:
+        non_striker: GR Adair
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 14.3:
+        non_striker: GR Adair
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 14.4:
+        non_striker: HT Tector
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 14.5:
+        non_striker: GR Adair
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 14.6:
+        non_striker: GR Adair
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 15.1:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          kind: bowled
+    - 15.2:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 15.3:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.4:
+        non_striker: GH Dockrell
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 15.5:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 15.6:
+        non_striker: GR Adair
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.1:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.2:
+        non_striker: GH Dockrell
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 16.3:
+        non_striker: GH Dockrell
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: GR Adair
+    - 16.4:
+        non_striker: GH Dockrell
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 16.5:
+        non_striker: GR Adair
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.6:
+        non_striker: GH Dockrell
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          fielders:
+          - MP Breetzke
+          kind: caught
+    - 16.7:
+        non_striker: GH Dockrell
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Campher
+    - 16.8:
+        non_striker: GH Dockrell
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 16.9:
+        non_striker: GH Dockrell
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 17.1:
+        non_striker: GH Dockrell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 17.2:
+        non_striker: GH Dockrell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 17.3:
+        non_striker: GH Dockrell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          kind: bowled
+    - 17.4:
+        non_striker: GH Dockrell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 17.5:
+        non_striker: MR Adair
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 17.6:
+        non_striker: GH Dockrell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 18.1:
+        non_striker: GH Dockrell
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          fielders:
+          - RD Rickelton
+          - MP Breetzke
+          kind: run out
+    - 18.2:
+        non_striker: GH Dockrell
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Hand
+    - 18.3:
+        non_striker: GH Dockrell
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Hand
+    - 18.4:
+        non_striker: F Hand
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 18.5:
+        non_striker: F Hand
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 18.6:
+        non_striker: GH Dockrell
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Hand
+    - 19.1:
+        non_striker: GH Dockrell
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Hand
+    - 19.2:
+        non_striker: F Hand
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 19.3:
+        non_striker: F Hand
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 19.4:
+        non_striker: F Hand
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 19.5:
+        non_striker: GH Dockrell
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Hand
+    - 19.6:
+        non_striker: F Hand
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: RR Hendricks
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.2:
+        non_striker: RR Hendricks
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.3:
+        non_striker: RR Hendricks
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.4:
+        non_striker: RR Hendricks
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 0.5:
+        non_striker: RD Rickelton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 0.6:
+        non_striker: RD Rickelton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.1:
+        non_striker: RD Rickelton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.2:
+        non_striker: RD Rickelton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 1.3:
+        non_striker: RD Rickelton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.4:
+        non_striker: RD Rickelton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 1.5:
+        non_striker: RD Rickelton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.6:
+        non_striker: RR Hendricks
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.1:
+        non_striker: RR Hendricks
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.2:
+        non_striker: RR Hendricks
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.3:
+        non_striker: RR Hendricks
+        bowler: GI Hume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 2.4:
+        non_striker: RR Hendricks
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 2.5:
+        non_striker: RR Hendricks
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.6:
+        non_striker: RR Hendricks
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.7:
+        non_striker: RR Hendricks
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 3.1:
+        non_striker: RD Rickelton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.2:
+        non_striker: RR Hendricks
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 3.3:
+        non_striker: RR Hendricks
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.4:
+        non_striker: RR Hendricks
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 3.5:
+        non_striker: RD Rickelton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.6:
+        non_striker: RR Hendricks
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 4.1:
+        non_striker: RR Hendricks
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 4.2:
+        non_striker: RR Hendricks
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 4.3:
+        non_striker: RR Hendricks
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.4:
+        non_striker: RR Hendricks
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 4.5:
+        non_striker: RR Hendricks
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.6:
+        non_striker: RR Hendricks
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 5.1:
+        non_striker: RD Rickelton
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 5.2:
+        non_striker: RD Rickelton
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.3:
+        non_striker: RR Hendricks
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - C Campher
+          kind: caught
+    - 5.4:
+        non_striker: RR Hendricks
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 5.5:
+        non_striker: MP Breetzke
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 5.6:
+        non_striker: MP Breetzke
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 6.1:
+        non_striker: RR Hendricks
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 6.2:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.3:
+        non_striker: RR Hendricks
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 6.4:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.5:
+        non_striker: RR Hendricks
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 6.6:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 7.1:
+        non_striker: RR Hendricks
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 7.2:
+        non_striker: MP Breetzke
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.3:
+        non_striker: RR Hendricks
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 7.4:
+        non_striker: MP Breetzke
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.5:
+        non_striker: RR Hendricks
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 7.6:
+        non_striker: MP Breetzke
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 8.1:
+        non_striker: RR Hendricks
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 8.2:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 8.3:
+        non_striker: RR Hendricks
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 8.4:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Hendricks
+    - 8.5:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 8.6:
+        non_striker: RR Hendricks
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 9.1:
+        non_striker: RR Hendricks
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 9.2:
+        non_striker: RR Hendricks
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 9.3:
+        non_striker: RR Hendricks
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 9.4:
+        non_striker: MP Breetzke
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 9.5:
+        non_striker: RR Hendricks
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 9.6:
+        non_striker: MP Breetzke
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 10.1:
+        non_striker: MP Breetzke
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 10.2:
+        non_striker: RR Hendricks
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 10.3:
+        non_striker: MP Breetzke
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 10.4:
+        non_striker: RR Hendricks
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 10.5:
+        non_striker: MP Breetzke
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 10.6:
+        non_striker: RR Hendricks
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 11.1:
+        non_striker: MP Breetzke
+        bowler: F Hand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 11.2:
+        non_striker: MP Breetzke
+        bowler: F Hand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 11.3:
+        non_striker: MP Breetzke
+        bowler: F Hand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 11.4:
+        non_striker: MP Breetzke
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 11.5:
+        non_striker: MP Breetzke
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 11.6:
+        non_striker: MP Breetzke
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 11.7:
+        non_striker: RR Hendricks
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 11.8:
+        non_striker: RR Hendricks
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 11.9:
+        non_striker: MP Breetzke
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 12.1:
+        non_striker: RR Hendricks
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Breetzke
+    - 12.2:
+        non_striker: RR Hendricks
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 12.3:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 12.4:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 12.5:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 12.6:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.1:
+        non_striker: MP Breetzke
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.2:
+        non_striker: AK Markram
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 13.3:
+        non_striker: AK Markram
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 13.4:
+        non_striker: MP Breetzke
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          kind: bowled
+    - 13.5:
+        non_striker: MP Breetzke
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.6:
+        non_striker: T Stubbs
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 14.1:
+        non_striker: T Stubbs
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Breetzke
+    - 14.2:
+        non_striker: T Stubbs
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 14.3:
+        non_striker: T Stubbs
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 14.4:
+        non_striker: T Stubbs
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 14.5:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Stubbs
+    - 14.6:
+        non_striker: MP Breetzke
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.7:
+        non_striker: T Stubbs
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Breetzke
+    - 15.1:
+        non_striker: MP Breetzke
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 15.2:
+        non_striker: T Stubbs
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 15.3:
+        non_striker: T Stubbs
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Breetzke
+    - 15.4:
+        non_striker: T Stubbs
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 15.5:
+        non_striker: MP Breetzke
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 15.6:
+        non_striker: MP Breetzke
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 15.7:
+        non_striker: MP Breetzke
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Stubbs
+    - 15.8:
+        non_striker: MP Breetzke
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          fielders:
+          - NA Rock
+          kind: caught
+    - 16.1:
+        non_striker: PWA Mulder
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 16.2:
+        non_striker: MP Breetzke
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 16.3:
+        non_striker: MP Breetzke
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 16.4:
+        non_striker: MP Breetzke
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 16.5:
+        non_striker: PWA Mulder
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Breetzke
+    - 16.6:
+        non_striker: PWA Mulder
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 17.1:
+        non_striker: PWA Mulder
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 17.2:
+        non_striker: PWA Mulder
+        bowler: GI Hume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MP Breetzke
+    - 17.3:
+        non_striker: PWA Mulder
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 17.4:
+        non_striker: PWA Mulder
+        bowler: GI Hume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Breetzke
+    - 17.5:
+        non_striker: PWA Mulder
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 17.6:
+        non_striker: PWA Mulder
+        bowler: GI Hume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Breetzke
+    - 17.7:
+        non_striker: PWA Mulder
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 17.8:
+        non_striker: MP Breetzke
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 17.9:
+        non_striker: PWA Mulder
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 18.1:
+        non_striker: MP Breetzke
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          kind: caught and bowled
+    - 18.2:
+        non_striker: MP Breetzke
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kruger
+    - 18.3:
+        non_striker: PE Kruger
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+        wicket:
+          player_out: MP Breetzke
+          fielders:
+          - HT Tector
+          kind: caught
+    - 18.4:
+        non_striker: PE Kruger
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Peter
+    - 18.5:
+        non_striker: PE Kruger
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Peter
+    - 18.6:
+        non_striker: PE Kruger
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Peter
+        wicket:
+          player_out: N Peter
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 19.1:
+        non_striker: BC Fortuin
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 19.2:
+        non_striker: BC Fortuin
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kruger
+    - 19.3:
+        non_striker: BC Fortuin
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+        wicket:
+          player_out: PE Kruger
+          kind: bowled
+    - 19.4:
+        non_striker: BC Fortuin
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LB Williams
+        wicket:
+          player_out: LB Williams
+          fielders:
+          - MJ Humphreys
+          kind: caught
+    - 19.5:
+        non_striker: BC Fortuin
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ngidi
+    - 19.6:
+        non_striker: BC Fortuin
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ngidi

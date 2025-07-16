@@ -1,0 +1,2261 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2025-06-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2356
+  outcome:
+    winner: Rwanda
+    by:
+      runs: 8
+  overs: 20
+  player_of_match:
+  - Rosine Irera
+  players:
+    Rwanda:
+    - MD Bimenyimana
+    - M Uwase
+    - C Uwase
+    - G Ingabire
+    - H Ishimwe
+    - S Uwera
+    - A Ikuzwe
+    - Geovanis Uwase
+    - R Shimwamana
+    - Rosine Irera
+    - I Muhawenimana
+    Brazil:
+    - L Agatha
+    - L Cardoso
+    - RMAM Avery
+    - AC Sabino
+    - MLG Silva
+    - M Artur
+    - L Moises
+    - M Ribeiro
+    - NC Monteiro
+    - MB dos Santos
+    - G Ribeiro
+  registry:
+    people:
+      A Ikuzwe: 6762a445
+      AC Sabino: dd45b04b
+      C Uwase: 808bb510
+      ET Dube: 4c0891bc
+      F Mutizwa: d3e83eef
+      G Ingabire: 2c00691c
+      G Ribeiro: 556e2874
+      Geovanis Uwase: '088f22fd'
+      H Ishimwe: ffa296f7
+      I Muhawenimana: 2f37396f
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      L Moises: b27f9716
+      M Artur: 400b36cd
+      M Ribeiro: 38424a4d
+      M Uwase: 7d6ce83f
+      MB dos Santos: 8ba8dd7a
+      MD Bimenyimana: c1a0cebe
+      MLG Silva: 3b62a6b4
+      NC Monteiro: 752af5a4
+      R Shimwamana: 03fb10bd
+      R Singinzwa: 0e58e89d
+      RMAM Avery: 4cf645c9
+      Rosine Irera: b84718fd
+      S Uwera: 1ef174b8
+      V Iriho: 2853eafb
+  teams:
+  - Rwanda
+  - Brazil
+  toss:
+    winner: Brazil
+    decision: field
+  umpires:
+  - F Mutizwa
+  - R Singinzwa
+  venue: Gahanga B Ground, Rwanda
+innings:
+- 1st innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Uwase
+        batsman: MD Bimenyimana
+    - 0.2:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 0.3:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 0.4:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Uwase
+    - 0.5:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Uwase
+    - 0.6:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Uwase
+    - 0.7:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+    - 1.1:
+        non_striker: M Uwase
+        bowler: L Moises
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 1.2:
+        non_striker: M Uwase
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.3:
+        non_striker: M Uwase
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.4:
+        non_striker: M Uwase
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Bimenyimana
+    - 1.5:
+        non_striker: M Uwase
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.6:
+        non_striker: M Uwase
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 1.7:
+        non_striker: M Uwase
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 2.1:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Uwase
+    - 2.2:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Uwase
+        wicket:
+          player_out: M Uwase
+          kind: lbw
+    - 2.3:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Uwase
+    - 2.4:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 2.5:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+    - 2.6:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Uwase
+    - 2.7:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Uwase
+        wicket:
+          player_out: C Uwase
+          kind: bowled
+    - 2.8:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 2.9:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ingabire
+    - 2.10:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+    - 3.1:
+        non_striker: G Ingabire
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 3.2:
+        non_striker: MD Bimenyimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ingabire
+        wicket:
+          player_out: G Ingabire
+          kind: bowled
+    - 3.3:
+        non_striker: MD Bimenyimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 3.4:
+        non_striker: MD Bimenyimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 3.5:
+        non_striker: MD Bimenyimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 3.6:
+        non_striker: MD Bimenyimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 4.1:
+        non_striker: H Ishimwe
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 4.2:
+        non_striker: H Ishimwe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 4.3:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 4.4:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 4.5:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 4.6:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 4.7:
+        non_striker: H Ishimwe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 5.1:
+        non_striker: H Ishimwe
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 5.2:
+        non_striker: H Ishimwe
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 5.3:
+        non_striker: MD Bimenyimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 5.4:
+        non_striker: MD Bimenyimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 5.5:
+        non_striker: MD Bimenyimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 5.6:
+        non_striker: MD Bimenyimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ishimwe
+    - 6.1:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+    - 6.2:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ishimwe
+        wicket:
+          player_out: H Ishimwe
+          fielders:
+          - G Ribeiro
+          kind: caught
+    - 6.3:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Uwera
+    - 6.4:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 6.5:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 6.6:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 7.1:
+        non_striker: S Uwera
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 7.2:
+        non_striker: MD Bimenyimana
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 7.3:
+        non_striker: MD Bimenyimana
+        bowler: L Moises
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Uwera
+    - 7.4:
+        non_striker: MD Bimenyimana
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 7.5:
+        non_striker: MD Bimenyimana
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 7.6:
+        non_striker: MD Bimenyimana
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 7.7:
+        non_striker: MD Bimenyimana
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 8.1:
+        non_striker: S Uwera
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 8.2:
+        non_striker: S Uwera
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 8.3:
+        non_striker: S Uwera
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 8.4:
+        non_striker: S Uwera
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 8.5:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 8.6:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Uwera
+    - 9.1:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 9.2:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+    - 9.3:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Uwera
+        wicket:
+          player_out: S Uwera
+          fielders:
+          - RMAM Avery
+          kind: caught
+    - 9.4:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 9.5:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 9.6:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 10.1:
+        non_striker: A Ikuzwe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 10.2:
+        non_striker: MD Bimenyimana
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 10.3:
+        non_striker: MD Bimenyimana
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ikuzwe
+    - 10.4:
+        non_striker: MD Bimenyimana
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 10.5:
+        non_striker: MD Bimenyimana
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 10.6:
+        non_striker: MD Bimenyimana
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ikuzwe
+    - 10.7:
+        non_striker: MD Bimenyimana
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 10.8:
+        non_striker: MD Bimenyimana
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 11.1:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 11.2:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 11.3:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 11.4:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 11.5:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 11.6:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 12.1:
+        non_striker: A Ikuzwe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Bimenyimana
+    - 12.2:
+        non_striker: A Ikuzwe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 12.3:
+        non_striker: MD Bimenyimana
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ikuzwe
+    - 12.4:
+        non_striker: MD Bimenyimana
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 12.5:
+        non_striker: A Ikuzwe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 12.6:
+        non_striker: A Ikuzwe
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 12.7:
+        non_striker: A Ikuzwe
+        bowler: RMAM Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Bimenyimana
+    - 12.8:
+        non_striker: A Ikuzwe
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Bimenyimana
+    - 13.1:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 13.2:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 13.3:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Bimenyimana
+    - 13.4:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 13.5:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 13.6:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 14.1:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 14.2:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 14.3:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 14.4:
+        non_striker: A Ikuzwe
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Bimenyimana
+    - 14.5:
+        non_striker: A Ikuzwe
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 14.6:
+        non_striker: MD Bimenyimana
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 15.1:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+    - 15.2:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Bimenyimana
+    - 15.3:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ikuzwe
+    - 15.4:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Ikuzwe
+    - 15.5:
+        non_striker: MD Bimenyimana
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 15.6:
+        non_striker: A Ikuzwe
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Bimenyimana
+    - 16.1:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ikuzwe
+    - 16.2:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Ikuzwe
+    - 16.3:
+        non_striker: A Ikuzwe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Bimenyimana
+    - 16.4:
+        non_striker: A Ikuzwe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Bimenyimana
+    - 16.5:
+        non_striker: A Ikuzwe
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MD Bimenyimana
+    - 16.6:
+        non_striker: MD Bimenyimana
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ikuzwe
+    - 16.7:
+        non_striker: A Ikuzwe
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Bimenyimana
+        wicket:
+          player_out: MD Bimenyimana
+          fielders:
+          - L Cardoso
+          kind: caught
+    - 17.1:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Geovanis Uwase
+        batsman: A Ikuzwe
+    - 17.2:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Geovanis Uwase
+        batsman: A Ikuzwe
+    - 17.3:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Geovanis Uwase
+        batsman: A Ikuzwe
+    - 17.4:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Geovanis Uwase
+        batsman: A Ikuzwe
+    - 17.5:
+        non_striker: A Ikuzwe
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Geovanis Uwase
+        wicket:
+          player_out: Geovanis Uwase
+          fielders:
+          - NC Monteiro
+          kind: caught
+    - 17.6:
+        non_striker: A Ikuzwe
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shimwamana
+    - 18.1:
+        non_striker: A Ikuzwe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shimwamana
+        wicket:
+          player_out: R Shimwamana
+          kind: lbw
+    - 18.2:
+        non_striker: A Ikuzwe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rosine Irera
+    - 18.3:
+        non_striker: A Ikuzwe
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rosine Irera
+    - 18.4:
+        non_striker: Rosine Irera
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ikuzwe
+    - 18.5:
+        non_striker: Rosine Irera
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+    - 18.6:
+        non_striker: Rosine Irera
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ikuzwe
+        wicket:
+          player_out: A Ikuzwe
+          kind: lbw
+    - 19.1:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Muhawenimana
+        batsman: Rosine Irera
+    - 19.2:
+        non_striker: Rosine Irera
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Muhawenimana
+    - 19.3:
+        non_striker: I Muhawenimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rosine Irera
+    - 19.4:
+        non_striker: Rosine Irera
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: I Muhawenimana
+    - 19.5:
+        non_striker: I Muhawenimana
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rosine Irera
+    - 19.6:
+        non_striker: Rosine Irera
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Muhawenimana
+    - 19.7:
+        non_striker: Rosine Irera
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Muhawenimana
+        wicket:
+          player_out: I Muhawenimana
+          fielders:
+          - L Cardoso
+          - MB dos Santos
+          kind: run out
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Cardoso
+        batsman: L Agatha
+    - 0.2:
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Cardoso
+        batsman: L Agatha
+    - 0.3:
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Cardoso
+        batsman: L Agatha
+    - 0.4:
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Cardoso
+        batsman: L Agatha
+    - 0.5:
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Cardoso
+        batsman: L Agatha
+    - 0.6:
+        non_striker: L Cardoso
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 1.1:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 1.2:
+        non_striker: L Agatha
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 1.3:
+        non_striker: L Agatha
+        bowler: A Ikuzwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 1.4:
+        non_striker: L Agatha
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 1.5:
+        non_striker: L Agatha
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 1.6:
+        non_striker: L Agatha
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 1.7:
+        non_striker: L Agatha
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 2.1:
+        non_striker: L Cardoso
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 2.2:
+        non_striker: L Agatha
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 2.3:
+        non_striker: L Agatha
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 2.4:
+        non_striker: L Agatha
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 2.5:
+        non_striker: L Cardoso
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Agatha
+    - 2.6:
+        non_striker: L Cardoso
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.1:
+        non_striker: L Agatha
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 3.2:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.3:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.4:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.5:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.6:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 4.1:
+        non_striker: L Cardoso
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 4.2:
+        non_striker: L Cardoso
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 4.3:
+        non_striker: L Agatha
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.4:
+        non_striker: L Agatha
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.5:
+        non_striker: L Agatha
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 4.6:
+        non_striker: L Agatha
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.1:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 5.2:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 5.3:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 5.4:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 5.5:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 5.6:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 6.1:
+        non_striker: L Cardoso
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 6.2:
+        non_striker: L Cardoso
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 6.3:
+        non_striker: L Cardoso
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 6.4:
+        non_striker: L Agatha
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 6.5:
+        non_striker: L Agatha
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 6.6:
+        non_striker: L Agatha
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 7.1:
+        non_striker: L Agatha
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 7.2:
+        non_striker: L Agatha
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 7.3:
+        non_striker: L Agatha
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 7.4:
+        non_striker: L Agatha
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 7.5:
+        non_striker: L Agatha
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 7.6:
+        non_striker: L Agatha
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 8.1:
+        non_striker: L Agatha
+        bowler: H Ishimwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Cardoso
+    - 8.2:
+        non_striker: L Cardoso
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 8.3:
+        non_striker: L Agatha
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 8.4:
+        non_striker: L Agatha
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 8.5:
+        non_striker: L Cardoso
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 8.6:
+        non_striker: L Cardoso
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 9.1:
+        non_striker: L Agatha
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 9.2:
+        non_striker: L Cardoso
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 9.3:
+        non_striker: L Cardoso
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          kind: lbw
+    - 9.4:
+        non_striker: L Cardoso
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMAM Avery
+    - 9.5:
+        non_striker: L Cardoso
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 9.6:
+        non_striker: L Cardoso
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 10.1:
+        non_striker: RMAM Avery
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 10.2:
+        non_striker: RMAM Avery
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 10.3:
+        non_striker: RMAM Avery
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 10.4:
+        non_striker: RMAM Avery
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 10.5:
+        non_striker: RMAM Avery
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 10.6:
+        non_striker: L Cardoso
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 11.1:
+        non_striker: RMAM Avery
+        bowler: I Muhawenimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 11.2:
+        non_striker: RMAM Avery
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 11.3:
+        non_striker: RMAM Avery
+        bowler: I Muhawenimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 11.4:
+        non_striker: RMAM Avery
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 11.5:
+        non_striker: RMAM Avery
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 11.6:
+        non_striker: RMAM Avery
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 11.7:
+        non_striker: L Cardoso
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 11.8:
+        non_striker: L Cardoso
+        bowler: I Muhawenimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 12.1:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 12.2:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 12.3:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 12.4:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 12.5:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 12.6:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 13.1:
+        non_striker: RMAM Avery
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 13.2:
+        non_striker: RMAM Avery
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 13.3:
+        non_striker: RMAM Avery
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 13.4:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 13.5:
+        non_striker: RMAM Avery
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 13.6:
+        non_striker: L Cardoso
+        bowler: A Ikuzwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 14.1:
+        non_striker: L Cardoso
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 14.2:
+        non_striker: L Cardoso
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 14.3:
+        non_striker: L Cardoso
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 14.4:
+        non_striker: L Cardoso
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 14.5:
+        non_striker: RMAM Avery
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 14.6:
+        non_striker: L Cardoso
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 15.1:
+        non_striker: RMAM Avery
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 15.2:
+        non_striker: RMAM Avery
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 15.3:
+        non_striker: L Cardoso
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 15.4:
+        non_striker: L Cardoso
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 15.5:
+        non_striker: L Cardoso
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 15.6:
+        non_striker: RMAM Avery
+        bowler: R Shimwamana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 16.1:
+        non_striker: RMAM Avery
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+        wicket:
+          player_out: L Cardoso
+          kind: lbw
+    - 16.2:
+        non_striker: RMAM Avery
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 16.3:
+        non_striker: RMAM Avery
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 16.4:
+        non_striker: RMAM Avery
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 16.5:
+        non_striker: AC Sabino
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 16.6:
+        non_striker: RMAM Avery
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 17.1:
+        non_striker: AC Sabino
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 17.2:
+        non_striker: AC Sabino
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 17.3:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 17.4:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 17.5:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 17.6:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 17.7:
+        non_striker: RMAM Avery
+        bowler: MD Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 18.1:
+        non_striker: AC Sabino
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: AC Sabino
+          fielders:
+          - Rosine Irera
+          kind: run out
+    - 18.2:
+        non_striker: RMAM Avery
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 18.3:
+        non_striker: RMAM Avery
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLG Silva
+    - 18.4:
+        non_striker: RMAM Avery
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLG Silva
+    - 18.5:
+        non_striker: RMAM Avery
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+        wicket:
+          player_out: MLG Silva
+          fielders:
+          - Rosine Irera
+          kind: run out
+    - 18.6:
+        non_striker: M Artur
+        bowler: Rosine Irera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          kind: bowled
+    - 19.1:
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Moises
+        batsman: M Artur
+    - 19.2:
+        non_striker: M Artur
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moises
+    - 19.3:
+        non_striker: M Artur
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moises
+    - 19.4:
+        non_striker: L Moises
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Artur
+    - 19.5:
+        non_striker: L Moises
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Artur
+    - 19.6:
+        non_striker: M Artur
+        bowler: H Ishimwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moises
+        wicket:
+          player_out: L Moises
+          fielders:
+          - A Ikuzwe
+          kind: run out

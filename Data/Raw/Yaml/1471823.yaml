@@ -1,0 +1,536 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-02-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2025-02-20'
+  gender: male
+  match_type: T20
+  match_type_number: 3094
+  outcome:
+    winner: Bahrain
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - Imran Khan
+  players:
+    Indonesia:
+    - GA Priandana
+    - KD Kesuma
+    - IK Gamantika
+    - Ahmad Ramdoni
+    - IKEG Artawan
+    - DJ Hawoe
+    - A Alexander
+    - J Dzulfikar
+    - F Banunaek
+    - RM Koda
+    - DGAPD Wiswi
+    Bahrain:
+    - Fiaz Ahmed
+    - P Kurup
+    - Ahmer Bin Nisar
+    - Rizwan Butt
+    - Abdul Majid Abbasi
+    - Asif Shaikh
+    - S Sarthak
+    - Sohail Ahmed
+    - Muhammed Basil
+    - Imran Khan
+    - Junaid Aziz
+  registry:
+    people:
+      A Alexander: ef6d6883
+      Abdul Majid Abbasi: 0cfb42b5
+      Ahmad Ramdoni: b5f30525
+      Ahmer Bin Nisar: afbc53ba
+      Asif Shaikh: 231daa19
+      DGAPD Wiswi: d3d096f5
+      DJ Hawoe: a62f55ba
+      F Banunaek: 3c8faed4
+      Fiaz Ahmed: df1f2f29
+      GA Priandana: 2af0e3b1
+      IK Gamantika: 4d7c5b56
+      IKEG Artawan: 190957d2
+      Imran Khan: da3b91fd
+      J Dzulfikar: 05ea0342
+      Junaid Aziz: c39ee9e0
+      KD Kesuma: 4b349dc0
+      Muhammed Basil: 457e6a8e
+      P Kurup: 50ceaef6
+      RM Koda: f0a45427
+      Rizwan Butt: e741ed8f
+      S Sarthak: 9f2c6cd3
+      Sohail Ahmed: 4db71b2e
+      Suresh Subramanian: 4e869e23
+      Yeri Rosongna: 161c019d
+  teams:
+  - Indonesia
+  - Bahrain
+  toss:
+    winner: Bahrain
+    decision: field
+  umpires:
+  - Suresh Subramanian
+  - Yeri Rosongna
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: KD Kesuma
+        batsman: GA Priandana
+    - 0.2:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KD Kesuma
+        batsman: GA Priandana
+    - 0.3:
+        non_striker: GA Priandana
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 0.4:
+        non_striker: GA Priandana
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Kesuma
+    - 0.5:
+        non_striker: GA Priandana
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 0.6:
+        non_striker: GA Priandana
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 1.1:
+        non_striker: KD Kesuma
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.2:
+        non_striker: KD Kesuma
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          fielders:
+          - Abdul Majid Abbasi
+          kind: caught
+    - 1.3:
+        non_striker: KD Kesuma
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+        wicket:
+          player_out: IK Gamantika
+          fielders:
+          - Fiaz Ahmed
+          kind: caught
+    - 1.4:
+        non_striker: KD Kesuma
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 1.5:
+        non_striker: KD Kesuma
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 1.6:
+        non_striker: KD Kesuma
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 2.1:
+        non_striker: Ahmad Ramdoni
+        bowler: Rizwan Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: KD Kesuma
+    - 2.2:
+        non_striker: KD Kesuma
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 2.3:
+        non_striker: Ahmad Ramdoni
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          fielders:
+          - P Kurup
+          kind: caught
+    - 2.4:
+        non_striker: Ahmad Ramdoni
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 2.5:
+        non_striker: IKEG Artawan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+        wicket:
+          player_out: Ahmad Ramdoni
+          kind: bowled
+    - 2.6:
+        non_striker: IKEG Artawan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 3.1:
+        non_striker: IKEG Artawan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 3.2:
+        non_striker: IKEG Artawan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Hawoe
+    - 3.3:
+        non_striker: IKEG Artawan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 3.4:
+        non_striker: IKEG Artawan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Hawoe
+    - 3.5:
+        non_striker: IKEG Artawan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          fielders:
+          - Junaid Aziz
+          kind: caught
+    - 3.6:
+        non_striker: IKEG Artawan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Alexander
+    - 4.1:
+        non_striker: IKEG Artawan
+        bowler: Imran Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Alexander
+    - 4.2:
+        non_striker: IKEG Artawan
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Alexander
+    - 4.3:
+        non_striker: IKEG Artawan
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Alexander
+    - 4.4:
+        non_striker: A Alexander
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 4.5:
+        non_striker: A Alexander
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: IKEG Artawan
+    - 4.6:
+        non_striker: IKEG Artawan
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Alexander
+        wicket:
+          player_out: A Alexander
+          fielders:
+          - Junaid Aziz
+          kind: caught
+    - 4.7:
+        non_striker: IKEG Artawan
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Dzulfikar
+- 2nd innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Kurup
+        batsman: Fiaz Ahmed
+    - 0.2:
+        non_striker: Fiaz Ahmed
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 0.3:
+        non_striker: P Kurup
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 0.4:
+        non_striker: Fiaz Ahmed
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Kurup
+    - 0.5:
+        non_striker: Fiaz Ahmed
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kurup
+    - 0.6:
+        non_striker: Fiaz Ahmed
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 0.7:
+        non_striker: P Kurup
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiaz Ahmed
+    - 0.8:
+        non_striker: P Kurup
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiaz Ahmed
+    - 1.1:
+        non_striker: Fiaz Ahmed
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 1.2:
+        non_striker: Fiaz Ahmed
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 1.3:
+        non_striker: P Kurup
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 1.4:
+        non_striker: Fiaz Ahmed
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kurup
+    - 1.5:
+        non_striker: Fiaz Ahmed
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Kurup
+    - 1.6:
+        non_striker: P Kurup
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiaz Ahmed
+    - 2.1:
+        non_striker: Fiaz Ahmed
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 2.2:
+        non_striker: Fiaz Ahmed
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 2.3:
+        non_striker: P Kurup
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 2.4:
+        non_striker: P Kurup
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 2.5:
+        non_striker: Fiaz Ahmed
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Kurup
+    - 2.6:
+        non_striker: Fiaz Ahmed
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Kurup

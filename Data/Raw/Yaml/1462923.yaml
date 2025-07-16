@@ -1,0 +1,2199 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2024-12-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3036
+  outcome:
+    winner: Uganda
+    by:
+      runs: 50
+  overs: 20
+  player_of_match:
+  - AR Ramjani
+  players:
+    Uganda:
+    - S Sesazi
+    - R Obuya
+    - Raghav Dhawan
+    - SG Mangela
+    - P Murungi
+    - DM Nakrani
+    - AR Ramjani
+    - F Achelam
+    - J Miyaji
+    - J Baguma
+    - H Ssenyondo
+    Rwanda:
+    - O Manishimwe
+    - D Ndikubwimana
+    - E Dusingizimana
+    - I Niyomugabo
+    - O Tuyisenge
+    - RJ Pierre
+    - E Rukiriza
+    - M Akayezu
+    - Muhammad Nadir
+    - Z Bimenyimana
+    - I Ntirenganya
+  registry:
+    people:
+      AR Ramjani: 30d8136b
+      D Ndikubwimana: 3cbedf51
+      DM Nakrani: 46a7ac78
+      E Dusingizimana: c15e7ba4
+      E Rukiriza: 3ac13a94
+      ET Dube: 4c0891bc
+      F Achelam: b6b3ee6e
+      Gasana Christian: f5d91a1f
+      H Ssenyondo: 2b7609f1
+      Habib Enesi: fb35ab1f
+      I Niyomugabo: 72bf5103
+      I Ntirenganya: e73f6c4b
+      IO Oyieko: de4828fa
+      J Baguma: 8b46fc4f
+      J Miyaji: 414d8a10
+      M Akayezu: 1f3b9f8d
+      Muhammad Nadir: '090f96e4'
+      O Manishimwe: fb31ca49
+      O Tuyisenge: e6a6888f
+      P Murungi: fbdc5ab1
+      R Obuya: 6bc04a3e
+      RJ Pierre: 4fc115af
+      Raghav Dhawan: ac64c2ef
+      S Sesazi: c2c975f9
+      SG Mangela: eb3c3cca
+      Z Bimenyimana: ba57fb08
+  teams:
+  - Uganda
+  - Rwanda
+  toss:
+    winner: Rwanda
+    decision: field
+  umpires:
+  - Habib Enesi
+  - IO Oyieko
+  venue: Gahanga International Cricket Stadium, Rwanda
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Obuya
+        batsman: S Sesazi
+    - 0.2:
+        non_striker: S Sesazi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Obuya
+    - 0.3:
+        non_striker: S Sesazi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Obuya
+    - 0.4:
+        non_striker: R Obuya
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 0.5:
+        non_striker: R Obuya
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 0.6:
+        non_striker: S Sesazi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Obuya
+    - 1.1:
+        non_striker: R Obuya
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 1.2:
+        non_striker: R Obuya
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 1.3:
+        non_striker: R Obuya
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 1.4:
+        non_striker: R Obuya
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+        wicket:
+          player_out: S Sesazi
+          fielders:
+          - E Dusingizimana
+          kind: caught
+    - 1.5:
+        non_striker: R Obuya
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Raghav Dhawan
+    - 1.6:
+        non_striker: R Obuya
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raghav Dhawan
+    - 1.7:
+        non_striker: R Obuya
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 2.1:
+        non_striker: Raghav Dhawan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 2.2:
+        non_striker: Raghav Dhawan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+        wicket:
+          player_out: R Obuya
+          fielders:
+          - RJ Pierre
+          kind: caught
+    - 2.3:
+        non_striker: Raghav Dhawan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 2.4:
+        non_striker: Raghav Dhawan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 2.5:
+        non_striker: SG Mangela
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 2.6:
+        non_striker: SG Mangela
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 3.1:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Mangela
+    - 3.2:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 3.3:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 3.4:
+        non_striker: SG Mangela
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 3.5:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 3.6:
+        non_striker: SG Mangela
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Raghav Dhawan
+    - 3.7:
+        non_striker: SG Mangela
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 4.1:
+        non_striker: Raghav Dhawan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 4.2:
+        non_striker: SG Mangela
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 4.3:
+        non_striker: SG Mangela
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 4.4:
+        non_striker: Raghav Dhawan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Mangela
+    - 4.5:
+        non_striker: Raghav Dhawan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 4.6:
+        non_striker: Raghav Dhawan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 5.1:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Mangela
+    - 5.2:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 5.3:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Mangela
+    - 5.4:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 5.5:
+        non_striker: SG Mangela
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 5.6:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 5.7:
+        non_striker: Raghav Dhawan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 6.1:
+        non_striker: SG Mangela
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 6.2:
+        non_striker: Raghav Dhawan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 6.3:
+        non_striker: SG Mangela
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 6.4:
+        non_striker: Raghav Dhawan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 6.5:
+        non_striker: SG Mangela
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 6.6:
+        non_striker: Raghav Dhawan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 7.1:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 7.2:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Raghav Dhawan
+    - 7.3:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+        wicket:
+          player_out: Raghav Dhawan
+          kind: lbw
+    - 7.4:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+        wicket:
+          player_out: P Murungi
+          kind: lbw
+    - 7.5:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM Nakrani
+    - 7.6:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 8.1:
+        non_striker: DM Nakrani
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 8.2:
+        non_striker: DM Nakrani
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 8.3:
+        non_striker: DM Nakrani
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Mangela
+    - 8.4:
+        non_striker: DM Nakrani
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 8.5:
+        non_striker: SG Mangela
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Nakrani
+    - 8.6:
+        non_striker: DM Nakrani
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 8.7:
+        non_striker: SG Mangela
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 9.1:
+        non_striker: DM Nakrani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 9.2:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Nakrani
+    - 9.3:
+        non_striker: DM Nakrani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 9.4:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+        wicket:
+          player_out: DM Nakrani
+          fielders:
+          - I Ntirenganya
+          kind: caught
+    - 9.5:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 9.6:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 10.1:
+        non_striker: SG Mangela
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 10.2:
+        non_striker: SG Mangela
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 10.3:
+        non_striker: AR Ramjani
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 10.4:
+        non_striker: SG Mangela
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 10.5:
+        non_striker: AR Ramjani
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 10.6:
+        non_striker: SG Mangela
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 11.1:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Ramjani
+    - 11.2:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 11.3:
+        non_striker: AR Ramjani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 11.4:
+        non_striker: SG Mangela
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 11.5:
+        non_striker: AR Ramjani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+        wicket:
+          player_out: SG Mangela
+          fielders:
+          - D Ndikubwimana
+          - I Ntirenganya
+          kind: run out
+    - 11.6:
+        non_striker: AR Ramjani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 11.7:
+        non_striker: AR Ramjani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 12.1:
+        non_striker: AR Ramjani
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 12.2:
+        non_striker: F Achelam
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 12.3:
+        non_striker: F Achelam
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Ramjani
+    - 12.4:
+        non_striker: F Achelam
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 12.5:
+        non_striker: F Achelam
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 12.6:
+        non_striker: F Achelam
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 13.1:
+        non_striker: AR Ramjani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 13.2:
+        non_striker: AR Ramjani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 13.3:
+        non_striker: AR Ramjani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 13.4:
+        non_striker: F Achelam
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 13.5:
+        non_striker: AR Ramjani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 13.6:
+        non_striker: AR Ramjani
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 14.1:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 14.2:
+        non_striker: AR Ramjani
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Achelam
+    - 14.3:
+        non_striker: AR Ramjani
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 14.4:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 14.5:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AR Ramjani
+    - 14.6:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 14.7:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 15.1:
+        non_striker: AR Ramjani
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 15.2:
+        non_striker: F Achelam
+        bowler: RJ Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Ramjani
+    - 15.3:
+        non_striker: F Achelam
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 15.4:
+        non_striker: AR Ramjani
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 15.5:
+        non_striker: F Achelam
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 15.6:
+        non_striker: AR Ramjani
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 15.7:
+        non_striker: AR Ramjani
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 16.1:
+        non_striker: AR Ramjani
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 16.2:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 16.3:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 16.4:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 16.5:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Ramjani
+    - 16.6:
+        non_striker: F Achelam
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 16.7:
+        non_striker: AR Ramjani
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 17.1:
+        non_striker: F Achelam
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 17.2:
+        non_striker: F Achelam
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 17.3:
+        non_striker: AR Ramjani
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 17.4:
+        non_striker: AR Ramjani
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 17.5:
+        non_striker: AR Ramjani
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Achelam
+    - 17.6:
+        non_striker: AR Ramjani
+        bowler: RJ Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Achelam
+    - 17.7:
+        non_striker: AR Ramjani
+        bowler: RJ Pierre
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Achelam
+    - 18.1:
+        non_striker: F Achelam
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Ramjani
+    - 18.2:
+        non_striker: F Achelam
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 18.3:
+        non_striker: F Achelam
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 18.4:
+        non_striker: F Achelam
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 18.5:
+        non_striker: F Achelam
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 18.6:
+        non_striker: AR Ramjani
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 19.1:
+        non_striker: AR Ramjani
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 19.2:
+        non_striker: F Achelam
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 19.3:
+        non_striker: AR Ramjani
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 19.4:
+        non_striker: F Achelam
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 19.5:
+        non_striker: F Achelam
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 19.6:
+        non_striker: AR Ramjani
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Achelam
+- 2nd innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Ndikubwimana
+        batsman: O Manishimwe
+    - 0.2:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 0.3:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 0.4:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 0.5:
+        non_striker: D Ndikubwimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 0.6:
+        non_striker: D Ndikubwimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Manishimwe
+    - 1.1:
+        non_striker: O Manishimwe
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 1.2:
+        non_striker: O Manishimwe
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 1.3:
+        non_striker: O Manishimwe
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 1.4:
+        non_striker: D Ndikubwimana
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 1.5:
+        non_striker: D Ndikubwimana
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 1.6:
+        non_striker: D Ndikubwimana
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 2.1:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 2.2:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 2.3:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 2.4:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+        wicket:
+          player_out: D Ndikubwimana
+          kind: bowled
+    - 2.5:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 2.6:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 3.1:
+        non_striker: O Manishimwe
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 3.2:
+        non_striker: O Manishimwe
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 3.3:
+        non_striker: E Dusingizimana
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 3.4:
+        non_striker: E Dusingizimana
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 3.5:
+        non_striker: E Dusingizimana
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 3.6:
+        non_striker: E Dusingizimana
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 4.1:
+        non_striker: O Manishimwe
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 4.2:
+        non_striker: O Manishimwe
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 4.3:
+        non_striker: O Manishimwe
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 4.4:
+        non_striker: E Dusingizimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+        wicket:
+          player_out: O Manishimwe
+          fielders:
+          - S Sesazi
+          kind: caught
+    - 4.5:
+        non_striker: E Dusingizimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 4.6:
+        non_striker: E Dusingizimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Niyomugabo
+    - 5.1:
+        non_striker: I Niyomugabo
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 5.2:
+        non_striker: I Niyomugabo
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 5.3:
+        non_striker: I Niyomugabo
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 5.4:
+        non_striker: E Dusingizimana
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 5.5:
+        non_striker: E Dusingizimana
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 5.6:
+        non_striker: I Niyomugabo
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 6.1:
+        non_striker: I Niyomugabo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 6.2:
+        non_striker: E Dusingizimana
+        bowler: DM Nakrani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: I Niyomugabo
+    - 6.3:
+        non_striker: I Niyomugabo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+        wicket:
+          player_out: E Dusingizimana
+          kind: bowled
+    - 6.4:
+        non_striker: I Niyomugabo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 6.5:
+        non_striker: I Niyomugabo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 6.6:
+        non_striker: I Niyomugabo
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 7.1:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 7.2:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 7.3:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 7.4:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 7.5:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 7.6:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 8.1:
+        non_striker: O Tuyisenge
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 8.2:
+        non_striker: O Tuyisenge
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 8.3:
+        non_striker: I Niyomugabo
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 8.4:
+        non_striker: I Niyomugabo
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 8.5:
+        non_striker: I Niyomugabo
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 8.6:
+        non_striker: O Tuyisenge
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Niyomugabo
+    - 9.1:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 9.2:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 9.3:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 9.4:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Tuyisenge
+    - 9.5:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+        wicket:
+          player_out: O Tuyisenge
+          fielders:
+          - F Achelam
+          kind: stumped
+    - 9.6:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Pierre
+    - 10.1:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Niyomugabo
+    - 10.2:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 10.3:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 10.4:
+        non_striker: I Niyomugabo
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Pierre
+    - 10.5:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 10.6:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 11.1:
+        non_striker: RJ Pierre
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 11.2:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Pierre
+    - 11.3:
+        non_striker: RJ Pierre
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 11.4:
+        non_striker: RJ Pierre
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 11.5:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Pierre
+    - 11.6:
+        non_striker: I Niyomugabo
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Pierre
+    - 12.1:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 12.2:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+        wicket:
+          player_out: I Niyomugabo
+          fielders:
+          - F Achelam
+          kind: caught
+    - 12.3:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 12.4:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 12.5:
+        non_striker: E Rukiriza
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Pierre
+    - 12.6:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Rukiriza
+    - 12.7:
+        non_striker: RJ Pierre
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 13.1:
+        non_striker: E Rukiriza
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Pierre
+    - 13.2:
+        non_striker: RJ Pierre
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 13.3:
+        non_striker: RJ Pierre
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 13.4:
+        non_striker: RJ Pierre
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 13.5:
+        non_striker: RJ Pierre
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 13.6:
+        non_striker: E Rukiriza
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Pierre
+        wicket:
+          player_out: RJ Pierre
+          kind: bowled
+    - 14.1:
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Akayezu
+        batsman: E Rukiriza
+    - 14.2:
+        non_striker: E Rukiriza
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 14.3:
+        non_striker: E Rukiriza
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+        wicket:
+          player_out: E Rukiriza
+          fielders:
+          - F Achelam
+          - H Ssenyondo
+          kind: run out
+    - 14.4:
+        non_striker: M Akayezu
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadir
+    - 14.5:
+        non_striker: M Akayezu
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadir
+    - 14.6:
+        non_striker: M Akayezu
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadir
+    - 15.1:
+        non_striker: M Akayezu
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Nadir
+    - 15.2:
+        non_striker: M Akayezu
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadir
+    - 15.3:
+        non_striker: Muhammad Nadir
+        bowler: J Baguma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: M Akayezu
+    - 15.4:
+        non_striker: Muhammad Nadir
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Akayezu
+    - 15.5:
+        non_striker: Muhammad Nadir
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+        wicket:
+          player_out: M Akayezu
+          kind: caught and bowled
+    - 15.6:
+        non_striker: Muhammad Nadir
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Bimenyimana
+    - 16.1:
+        non_striker: Z Bimenyimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadir
+        wicket:
+          player_out: Muhammad Nadir
+          kind: bowled
+    - 16.2:
+        non_striker: Z Bimenyimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ntirenganya
+    - 16.3:
+        non_striker: Z Bimenyimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 16.4:
+        non_striker: I Ntirenganya
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Bimenyimana
+    - 16.5:
+        non_striker: Z Bimenyimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 16.6:
+        non_striker: I Ntirenganya
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Bimenyimana
+    - 17.1:
+        non_striker: Z Bimenyimana
+        bowler: DM Nakrani
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: I Ntirenganya
+    - 17.2:
+        non_striker: Z Bimenyimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 17.3:
+        non_striker: I Ntirenganya
+        bowler: DM Nakrani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z Bimenyimana
+    - 17.4:
+        non_striker: I Ntirenganya
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Bimenyimana
+    - 17.5:
+        non_striker: Z Bimenyimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ntirenganya
+    - 17.6:
+        non_striker: Z Bimenyimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 17.7:
+        non_striker: I Ntirenganya
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Bimenyimana
+    - 17.8:
+        non_striker: Z Bimenyimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 18.1:
+        non_striker: Z Bimenyimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 18.2:
+        non_striker: I Ntirenganya
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Bimenyimana
+    - 18.3:
+        non_striker: Z Bimenyimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 18.4:
+        non_striker: I Ntirenganya
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Bimenyimana
+    - 18.5:
+        non_striker: Z Bimenyimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ntirenganya
+    - 18.6:
+        non_striker: Z Bimenyimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ntirenganya
+    - 19.1:
+        non_striker: I Ntirenganya
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Bimenyimana
+    - 19.2:
+        non_striker: Z Bimenyimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Ntirenganya
+    - 19.3:
+        non_striker: Z Bimenyimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ntirenganya
+    - 19.4:
+        non_striker: Z Bimenyimana
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 19.5:
+        non_striker: I Ntirenganya
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z Bimenyimana
+    - 19.6:
+        non_striker: I Ntirenganya
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Z Bimenyimana

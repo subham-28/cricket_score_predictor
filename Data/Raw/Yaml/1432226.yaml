@@ -1,0 +1,2163 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Benoni
+  dates:
+  - '2024-11-27'
+  gender: female
+  match_type: T20
+  match_type_number: 2134
+  outcome:
+    winner: England
+    by:
+      runs: 36
+  overs: 20
+  player_of_match:
+  - S Glenn
+  players:
+    England:
+    - ME Bouchier
+    - DN Wyatt
+    - SIR Dunkley
+    - NR Sciver-Brunt
+    - HC Knight
+    - AE Jones
+    - FG Kemp
+    - S Ecclestone
+    - CE Dean
+    - S Glenn
+    - L Filer
+    South Africa:
+    - L Wolvaardt
+    - T Brits
+    - F Tunnicliffe
+    - A Dercksen
+    - CL Tryon
+    - N Shangase
+    - N de Klerk
+    - S Jafta
+    - E Marx
+    - N Mlaba
+    - A Hlubi
+  registry:
+    people:
+      A Dercksen: d2b1f515
+      A Hlubi: ccaa3434
+      AE Jones: b05e45e4
+      CE Dean: c6625a26
+      CL Tryon: 4d4605e6
+      DN Wyatt: a139c379
+      E Marx: be592751
+      F Tunnicliffe: 41f534cd
+      FG Kemp: abc9f8a4
+      HC Knight: 4ba0289e
+      K Klaaste: 6cc1d918
+      L Filer: 31adb911
+      L Wolvaardt: e60f81c9
+      Lauren Agenbag: 40849abd
+      ME Bouchier: c2554b59
+      N Mlaba: 686362af
+      N Perera: 129709f9
+      N Shangase: b17a4a93
+      N de Klerk: ea544967
+      NR Sciver-Brunt: f3a18a0c
+      S Ecclestone: cdb82f1c
+      S Glenn: b34e0c77
+      S Jafta: '34304210'
+      SA Fritz: d15e60c8
+      SIR Dunkley: 3a9e9cb2
+      Siphelele Gasa: e50baa87
+      T Brits: '06659caa'
+  teams:
+  - England
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - K Klaaste
+  - Siphelele Gasa
+  venue: Willowmoore Park, Benoni
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: DN Wyatt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 0.2:
+        non_striker: ME Bouchier
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.3:
+        non_striker: ME Bouchier
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.4:
+        non_striker: ME Bouchier
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 0.5:
+        non_striker: ME Bouchier
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wyatt
+    - 0.6:
+        non_striker: ME Bouchier
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.7:
+        non_striker: ME Bouchier
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.1:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bouchier
+    - 1.2:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 1.3:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 1.4:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+        wicket:
+          player_out: ME Bouchier
+          fielders:
+          - T Brits
+          kind: caught
+    - 1.5:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.6:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          kind: bowled
+    - 1.7:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 2.1:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 2.2:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 2.3:
+        non_striker: DN Wyatt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 2.4:
+        non_striker: DN Wyatt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 2.5:
+        non_striker: DN Wyatt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 2.6:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 3.1:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 3.2:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 3.3:
+        non_striker: NR Sciver-Brunt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 3.4:
+        non_striker: NR Sciver-Brunt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 3.5:
+        non_striker: NR Sciver-Brunt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 3.6:
+        non_striker: DN Wyatt
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 4.1:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 4.2:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 4.3:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 4.4:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 4.5:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 4.6:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 5.1:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 5.2:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 5.3:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 5.4:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wyatt
+    - 5.5:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 5.6:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 5.7:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 6.1:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 6.2:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dercksen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wyatt
+    - 6.3:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 6.4:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 6.5:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 6.6:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 6.7:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 7.1:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 7.2:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 7.3:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 7.4:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Wyatt
+    - 7.5:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 7.6:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 8.1:
+        non_striker: DN Wyatt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 8.2:
+        non_striker: DN Wyatt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 8.3:
+        non_striker: DN Wyatt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 8.4:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 8.5:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 8.6:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 9.1:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 9.2:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 9.3:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 9.4:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 9.5:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 9.6:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 10.1:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver-Brunt
+    - 10.2:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 10.3:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 10.4:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 10.5:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 10.6:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NR Sciver-Brunt
+    - 11.1:
+        non_striker: DN Wyatt
+        bowler: N Shangase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 11.2:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shangase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 11.3:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shangase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 11.4:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shangase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 11.5:
+        non_striker: DN Wyatt
+        bowler: N Shangase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 11.6:
+        non_striker: DN Wyatt
+        bowler: N Shangase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver-Brunt
+    - 12.1:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 12.2:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          kind: bowled
+    - 12.3:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Knight
+    - 12.4:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 12.5:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 12.6:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 12.7:
+        non_striker: HC Knight
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 13.1:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 13.2:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 13.3:
+        non_striker: HC Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 13.4:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 13.5:
+        non_striker: HC Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 13.6:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 14.1:
+        non_striker: HC Knight
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 14.2:
+        non_striker: HC Knight
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 14.3:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.4:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 14.5:
+        non_striker: HC Knight
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 14.6:
+        non_striker: HC Knight
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 15.1:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 15.2:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 15.3:
+        non_striker: HC Knight
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 15.4:
+        non_striker: HC Knight
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 15.5:
+        non_striker: HC Knight
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 15.6:
+        non_striker: HC Knight
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 16.1:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 16.2:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 16.3:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: HC Knight
+    - 16.4:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 16.5:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 16.6:
+        non_striker: NR Sciver-Brunt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 16.7:
+        non_striker: HC Knight
+        bowler: CL Tryon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NR Sciver-Brunt
+    - 17.1:
+        non_striker: HC Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 17.2:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 17.3:
+        non_striker: HC Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 17.4:
+        non_striker: NR Sciver-Brunt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 17.5:
+        non_striker: HC Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 17.6:
+        non_striker: HC Knight
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Sciver-Brunt
+    - 18.1:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          kind: caught and bowled
+    - 18.2:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 18.3:
+        non_striker: AE Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 18.4:
+        non_striker: NR Sciver-Brunt
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 18.5:
+        non_striker: AE Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 18.6:
+        non_striker: AE Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver-Brunt
+    - 19.1:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 19.2:
+        non_striker: AE Jones
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 19.3:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 19.4:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 19.5:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 19.6:
+        non_striker: NR Sciver-Brunt
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: T Brits
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: T Brits
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: T Brits
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          fielders:
+          - CE Dean
+          kind: caught
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tunnicliffe
+    - 1.1:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 1.2:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: F Tunnicliffe
+    - 1.3:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 1.4:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 1.5:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 1.6:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Tunnicliffe
+    - 1.7:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 2.1:
+        non_striker: F Tunnicliffe
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: F Tunnicliffe
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.3:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tunnicliffe
+    - 2.4:
+        non_striker: F Tunnicliffe
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.5:
+        non_striker: F Tunnicliffe
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 3.1:
+        non_striker: F Tunnicliffe
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.2:
+        non_striker: F Tunnicliffe
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 3.3:
+        non_striker: L Wolvaardt
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 3.4:
+        non_striker: L Wolvaardt
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 3.5:
+        non_striker: L Wolvaardt
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tunnicliffe
+    - 3.6:
+        non_striker: F Tunnicliffe
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 4.2:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 4.3:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Tunnicliffe
+    - 4.4:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 4.5:
+        non_striker: L Wolvaardt
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tunnicliffe
+    - 4.6:
+        non_striker: F Tunnicliffe
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 5.1:
+        non_striker: L Wolvaardt
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tunnicliffe
+    - 5.2:
+        non_striker: F Tunnicliffe
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 5.3:
+        non_striker: F Tunnicliffe
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 5.4:
+        non_striker: L Wolvaardt
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 5.5:
+        non_striker: L Wolvaardt
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 5.6:
+        non_striker: L Wolvaardt
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tunnicliffe
+    - 6.1:
+        non_striker: L Wolvaardt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tunnicliffe
+    - 6.2:
+        non_striker: F Tunnicliffe
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 6.3:
+        non_striker: L Wolvaardt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 6.4:
+        non_striker: L Wolvaardt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Tunnicliffe
+    - 6.5:
+        non_striker: L Wolvaardt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+    - 6.6:
+        non_striker: L Wolvaardt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Tunnicliffe
+    - 7.1:
+        non_striker: F Tunnicliffe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 7.2:
+        non_striker: L Wolvaardt
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Tunnicliffe
+    - 7.3:
+        non_striker: F Tunnicliffe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 7.4:
+        non_striker: L Wolvaardt
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Tunnicliffe
+        wicket:
+          player_out: F Tunnicliffe
+          kind: bowled
+    - 7.5:
+        non_striker: L Wolvaardt
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 7.6:
+        non_striker: L Wolvaardt
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 8.1:
+        non_striker: L Wolvaardt
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Dercksen
+    - 8.2:
+        non_striker: L Wolvaardt
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Dercksen
+    - 8.3:
+        non_striker: L Wolvaardt
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 8.4:
+        non_striker: A Dercksen
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 8.5:
+        non_striker: A Dercksen
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 8.6:
+        non_striker: L Wolvaardt
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 9.1:
+        non_striker: A Dercksen
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 9.2:
+        non_striker: A Dercksen
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 9.3:
+        non_striker: A Dercksen
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - L Filer
+          kind: caught
+    - 9.4:
+        non_striker: A Dercksen
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 9.5:
+        non_striker: CL Tryon
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dercksen
+    - 9.6:
+        non_striker: CL Tryon
+        bowler: CE Dean
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: A Dercksen
+    - 9.7:
+        non_striker: CL Tryon
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 10.1:
+        non_striker: A Dercksen
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 10.2:
+        non_striker: A Dercksen
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 10.3:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dercksen
+    - 10.4:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Dercksen
+    - 10.5:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 10.6:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 10.7:
+        non_striker: A Dercksen
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CL Tryon
+    - 10.8:
+        non_striker: A Dercksen
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 11.1:
+        non_striker: CL Tryon
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+    - 11.2:
+        non_striker: CL Tryon
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dercksen
+    - 11.3:
+        non_striker: A Dercksen
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 11.4:
+        non_striker: CL Tryon
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dercksen
+        wicket:
+          player_out: A Dercksen
+          kind: bowled
+    - 11.5:
+        non_striker: CL Tryon
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Shangase
+        wicket:
+          player_out: N Shangase
+          kind: bowled
+    - 11.6:
+        non_striker: CL Tryon
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 12.1:
+        non_striker: N de Klerk
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 12.2:
+        non_striker: N de Klerk
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 12.3:
+        non_striker: N de Klerk
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 12.4:
+        non_striker: N de Klerk
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 12.5:
+        non_striker: N de Klerk
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 12.6:
+        non_striker: N de Klerk
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 13.1:
+        non_striker: CL Tryon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N de Klerk
+    - 13.2:
+        non_striker: CL Tryon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 13.3:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 13.4:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 13.5:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 13.6:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 14.1:
+        non_striker: N de Klerk
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 14.2:
+        non_striker: CL Tryon
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 14.3:
+        non_striker: CL Tryon
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 14.4:
+        non_striker: CL Tryon
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 14.5:
+        non_striker: CL Tryon
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 14.6:
+        non_striker: N de Klerk
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CL Tryon
+    - 15.1:
+        non_striker: CL Tryon
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 15.2:
+        non_striker: CL Tryon
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N de Klerk
+    - 15.3:
+        non_striker: CL Tryon
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 15.4:
+        non_striker: N de Klerk
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.5:
+        non_striker: N de Klerk
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.6:
+        non_striker: CL Tryon
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 16.1:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 16.2:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.3:
+        non_striker: CL Tryon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N de Klerk
+    - 16.4:
+        non_striker: CL Tryon
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N de Klerk
+    - 16.5:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.6:
+        non_striker: CL Tryon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 17.1:
+        non_striker: N de Klerk
+        bowler: S Glenn
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: CL Tryon
+    - 17.2:
+        non_striker: N de Klerk
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          kind: bowled
+    - 17.3:
+        non_striker: N de Klerk
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 17.4:
+        non_striker: N de Klerk
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jafta
+    - 17.5:
+        non_striker: S Jafta
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 17.6:
+        non_striker: N de Klerk
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jafta
+    - 18.1:
+        non_striker: S Jafta
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N de Klerk
+    - 18.2:
+        non_striker: S Jafta
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N de Klerk
+    - 18.3:
+        non_striker: S Jafta
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 18.4:
+        non_striker: N de Klerk
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jafta
+    - 18.5:
+        non_striker: S Jafta
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N de Klerk
+    - 18.6:
+        non_striker: S Jafta
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N de Klerk
+    - 18.7:
+        non_striker: S Jafta
+        bowler: NR Sciver-Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N de Klerk
+    - 19.1:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 19.2:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jafta
+    - 19.3:
+        non_striker: S Jafta
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 19.4:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jafta
+    - 19.5:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jafta
+    - 19.6:
+        non_striker: N de Klerk
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta

@@ -1,0 +1,2120 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: King City
+  dates:
+  - '2025-06-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3224
+  outcome:
+    winner: Bermuda
+    by:
+      runs: 30
+  overs: 20
+  player_of_match:
+  - D Sabir
+  players:
+    Bermuda:
+    - TS Fray
+    - MJ Scotland
+    - OGL Bascome
+    - DMW Rawlins
+    - D Sabir
+    - DL Brangman
+    - Z Burgess
+    - Jonte Smith
+    - S Smith
+    - J Proctor
+    - K Fubler
+    Cayman Islands:
+    - J Baker
+    - AR Naidoo
+    - RA Sealy
+    - BKB Corbin
+    - R Walker
+    - ROC Dunka
+    - C Wright
+    - T Taylor
+    - KR Ebanks
+    - A Wright
+    - KA Bazil
+  registry:
+    people:
+      A Wright: 4bb7f51e
+      AR Naidoo: 68886c16
+      Amol Bhatt: d7e52706
+      BKB Corbin: 036b8660
+      Bijal Patel: a56e35ba
+      C Wright: d465c6d7
+      D Sabir: 04bc296f
+      DL Brangman: dab18aa5
+      DMW Rawlins: f1eb3c73
+      J Baker: a12672e0
+      J Proctor: 01b0d0a4
+      Jonte Smith: ae4d0b45
+      K Fubler: b471ff6c
+      KA Bazil: d22287a8
+      KR Ebanks: e52eb657
+      MJ Scotland: a1cc467d
+      OGL Bascome: 94a1827c
+      R Shah: 3424e050
+      R Walker: be37d889
+      RA Sealy: 1e98804a
+      ROC Dunka: 762f43b7
+      S Smith: 18a0ba24
+      T Taylor: 1d6e8f52
+      TS Fray: c7537f8a
+      Z Burgess: d0042e16
+  teams:
+  - Bermuda
+  - Cayman Islands
+  toss:
+    winner: Bermuda
+    decision: bat
+  umpires:
+  - Bijal Patel
+  - R Shah
+  venue: Maple Leaf North-East Ground, King City
+innings:
+- 1st innings:
+    team: Bermuda
+    deliveries:
+    - 0.1:
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MJ Scotland
+        batsman: TS Fray
+    - 0.2:
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Scotland
+        batsman: TS Fray
+    - 0.3:
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MJ Scotland
+        batsman: TS Fray
+    - 0.4:
+        non_striker: MJ Scotland
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Fray
+        wicket:
+          player_out: TS Fray
+          fielders:
+          - KR Ebanks
+          kind: caught
+    - 0.5:
+        non_striker: MJ Scotland
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 0.6:
+        non_striker: OGL Bascome
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Scotland
+    - 1.1:
+        non_striker: OGL Bascome
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Scotland
+    - 1.2:
+        non_striker: OGL Bascome
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Scotland
+    - 1.3:
+        non_striker: OGL Bascome
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Scotland
+    - 1.4:
+        non_striker: OGL Bascome
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Scotland
+    - 1.5:
+        non_striker: MJ Scotland
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 1.6:
+        non_striker: MJ Scotland
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 2.1:
+        non_striker: OGL Bascome
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Scotland
+    - 2.2:
+        non_striker: MJ Scotland
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OGL Bascome
+    - 2.3:
+        non_striker: MJ Scotland
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OGL Bascome
+    - 2.4:
+        non_striker: MJ Scotland
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 2.5:
+        non_striker: MJ Scotland
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 2.6:
+        non_striker: MJ Scotland
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OGL Bascome
+    - 3.1:
+        non_striker: OGL Bascome
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Scotland
+    - 3.2:
+        non_striker: OGL Bascome
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Scotland
+    - 3.3:
+        non_striker: OGL Bascome
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Scotland
+    - 3.4:
+        non_striker: MJ Scotland
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 3.5:
+        non_striker: MJ Scotland
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OGL Bascome
+    - 3.6:
+        non_striker: MJ Scotland
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 4.1:
+        non_striker: OGL Bascome
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Scotland
+    - 4.2:
+        non_striker: MJ Scotland
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 4.3:
+        non_striker: MJ Scotland
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 4.4:
+        non_striker: OGL Bascome
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Scotland
+    - 4.5:
+        non_striker: OGL Bascome
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Scotland
+    - 4.6:
+        non_striker: OGL Bascome
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Scotland
+    - 5.1:
+        non_striker: MJ Scotland
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 5.2:
+        non_striker: MJ Scotland
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OGL Bascome
+    - 5.3:
+        non_striker: MJ Scotland
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 5.4:
+        non_striker: MJ Scotland
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OGL Bascome
+    - 5.5:
+        non_striker: MJ Scotland
+        bowler: T Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OGL Bascome
+    - 5.6:
+        non_striker: MJ Scotland
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+        wicket:
+          player_out: OGL Bascome
+          fielders:
+          - J Baker
+          kind: caught
+    - 5.7:
+        non_striker: MJ Scotland
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 6.1:
+        non_striker: MJ Scotland
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 6.2:
+        non_striker: DMW Rawlins
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Scotland
+    - 6.3:
+        non_striker: DMW Rawlins
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Scotland
+    - 6.4:
+        non_striker: DMW Rawlins
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Scotland
+    - 6.5:
+        non_striker: DMW Rawlins
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Scotland
+        wicket:
+          player_out: MJ Scotland
+          kind: lbw
+    - 6.6:
+        non_striker: DMW Rawlins
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 7.1:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 7.2:
+        non_striker: D Sabir
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 7.3:
+        non_striker: D Sabir
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 7.4:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Sabir
+    - 7.5:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Sabir
+    - 7.6:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Sabir
+    - 7.7:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Sabir
+    - 8.1:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 8.2:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 8.3:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 8.4:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 8.5:
+        non_striker: DMW Rawlins
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 8.6:
+        non_striker: DMW Rawlins
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 9.1:
+        non_striker: D Sabir
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 9.2:
+        non_striker: D Sabir
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 9.3:
+        non_striker: DMW Rawlins
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 9.4:
+        non_striker: D Sabir
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 9.5:
+        non_striker: DMW Rawlins
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 9.6:
+        non_striker: DMW Rawlins
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 10.1:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DMW Rawlins
+    - 10.2:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 10.3:
+        non_striker: DMW Rawlins
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 10.4:
+        non_striker: DMW Rawlins
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 10.5:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 10.6:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 11.1:
+        non_striker: D Sabir
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 11.2:
+        non_striker: DMW Rawlins
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Sabir
+    - 11.3:
+        non_striker: DMW Rawlins
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Sabir
+    - 11.4:
+        non_striker: DMW Rawlins
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 11.5:
+        non_striker: D Sabir
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DMW Rawlins
+    - 11.6:
+        non_striker: D Sabir
+        bowler: KR Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 12.1:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 12.2:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 12.3:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 12.4:
+        non_striker: D Sabir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 12.5:
+        non_striker: DMW Rawlins
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Sabir
+    - 12.6:
+        non_striker: DMW Rawlins
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 13.1:
+        non_striker: DMW Rawlins
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Sabir
+    - 13.2:
+        non_striker: DMW Rawlins
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 13.3:
+        non_striker: D Sabir
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 13.4:
+        non_striker: DMW Rawlins
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Sabir
+    - 13.5:
+        non_striker: DMW Rawlins
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 13.6:
+        non_striker: DMW Rawlins
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 14.1:
+        non_striker: DMW Rawlins
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Sabir
+    - 14.2:
+        non_striker: DMW Rawlins
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 14.3:
+        non_striker: D Sabir
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 14.4:
+        non_striker: D Sabir
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 14.5:
+        non_striker: DMW Rawlins
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Sabir
+    - 14.6:
+        non_striker: D Sabir
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 15.1:
+        non_striker: D Sabir
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 15.2:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Sabir
+    - 15.3:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+        wicket:
+          player_out: D Sabir
+          fielders:
+          - ROC Dunka
+          kind: caught
+    - 15.4:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Brangman
+    - 15.5:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Brangman
+    - 15.6:
+        non_striker: DMW Rawlins
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Brangman
+    - 16.1:
+        non_striker: DL Brangman
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 16.2:
+        non_striker: DL Brangman
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 16.3:
+        non_striker: DMW Rawlins
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Brangman
+    - 16.4:
+        non_striker: DL Brangman
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 16.5:
+        non_striker: DL Brangman
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 16.6:
+        non_striker: DL Brangman
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 17.1:
+        non_striker: DL Brangman
+        bowler: T Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DMW Rawlins
+    - 17.2:
+        non_striker: DL Brangman
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+        wicket:
+          player_out: DMW Rawlins
+          fielders:
+          - R Walker
+          kind: caught
+    - 17.3:
+        non_striker: DL Brangman
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Burgess
+    - 17.4:
+        non_striker: DL Brangman
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Burgess
+    - 17.5:
+        non_striker: DL Brangman
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Burgess
+    - 17.6:
+        non_striker: DL Brangman
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Z Burgess
+    - 17.7:
+        non_striker: DL Brangman
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Burgess
+        wicket:
+          player_out: Z Burgess
+          kind: bowled
+    - 18.1:
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jonte Smith
+        batsman: DL Brangman
+    - 18.2:
+        non_striker: DL Brangman
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jonte Smith
+    - 18.3:
+        non_striker: Jonte Smith
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Brangman
+    - 18.4:
+        non_striker: Jonte Smith
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Brangman
+    - 18.5:
+        non_striker: Jonte Smith
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Brangman
+    - 18.6:
+        non_striker: Jonte Smith
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Brangman
+    - 19.1:
+        non_striker: DL Brangman
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jonte Smith
+        wicket:
+          player_out: Jonte Smith
+          kind: bowled
+    - 19.2:
+        non_striker: DL Brangman
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smith
+    - 19.3:
+        non_striker: S Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Brangman
+    - 19.4:
+        non_striker: S Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Brangman
+    - 19.5:
+        non_striker: S Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Brangman
+    - 19.6:
+        non_striker: DL Brangman
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smith
+- 2nd innings:
+    team: Cayman Islands
+    deliveries:
+    - 0.1:
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 0.2:
+        non_striker: J Baker
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 0.3:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 0.4:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 0.5:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Baker
+    - 0.6:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 0.7:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 1.1:
+        non_striker: J Baker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 1.2:
+        non_striker: AR Naidoo
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 1.3:
+        non_striker: J Baker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 1.4:
+        non_striker: AR Naidoo
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 1.5:
+        non_striker: AR Naidoo
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 1.6:
+        non_striker: J Baker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 2.1:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Baker
+    - 2.2:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 2.3:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 2.4:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 2.5:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 2.6:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 2.7:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 3.1:
+        non_striker: J Baker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 3.2:
+        non_striker: J Baker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 3.3:
+        non_striker: J Baker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 3.4:
+        non_striker: J Baker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 3.5:
+        non_striker: J Baker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 3.6:
+        non_striker: J Baker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 4.1:
+        non_striker: J Baker
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 4.2:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 4.3:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 4.4:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 4.5:
+        non_striker: J Baker
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 4.6:
+        non_striker: J Baker
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 5.1:
+        non_striker: J Baker
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 5.2:
+        non_striker: J Baker
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 5.3:
+        non_striker: J Baker
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 5.4:
+        non_striker: J Baker
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 5.5:
+        non_striker: J Baker
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 5.6:
+        non_striker: J Baker
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Naidoo
+    - 5.7:
+        non_striker: J Baker
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 5.8:
+        non_striker: J Baker
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 6.1:
+        non_striker: AR Naidoo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 6.2:
+        non_striker: AR Naidoo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 6.3:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Naidoo
+    - 6.4:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 6.5:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 6.6:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+        wicket:
+          player_out: AR Naidoo
+          kind: bowled
+    - 7.1:
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RA Sealy
+        batsman: J Baker
+    - 7.2:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 7.3:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 7.4:
+        non_striker: RA Sealy
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 7.5:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 7.6:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 8.1:
+        non_striker: RA Sealy
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 8.2:
+        non_striker: RA Sealy
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 8.3:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 8.4:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 8.5:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 8.6:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 9.1:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 9.2:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 9.3:
+        non_striker: RA Sealy
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 9.4:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RA Sealy
+    - 9.5:
+        non_striker: RA Sealy
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 9.6:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 10.1:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 10.2:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 10.3:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 10.4:
+        non_striker: RA Sealy
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 10.5:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 10.6:
+        non_striker: J Baker
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 11.1:
+        non_striker: RA Sealy
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Baker
+    - 11.2:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 11.3:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 11.4:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+        wicket:
+          player_out: RA Sealy
+          fielders:
+          - J Proctor
+          kind: caught
+    - 11.5:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+    - 11.6:
+        non_striker: J Baker
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+    - 12.1:
+        non_striker: BKB Corbin
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 12.2:
+        non_striker: BKB Corbin
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+        wicket:
+          player_out: J Baker
+          fielders:
+          - K Fubler
+          kind: caught
+    - 12.3:
+        non_striker: BKB Corbin
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Walker
+    - 12.4:
+        non_striker: BKB Corbin
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Walker
+    - 12.5:
+        non_striker: R Walker
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+        wicket:
+          player_out: BKB Corbin
+          kind: lbw
+    - 12.6:
+        non_striker: R Walker
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ROC Dunka
+    - 13.1:
+        non_striker: ROC Dunka
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Walker
+    - 13.2:
+        non_striker: R Walker
+        bowler: J Proctor
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: ROC Dunka
+    - 13.3:
+        non_striker: R Walker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ROC Dunka
+    - 13.4:
+        non_striker: R Walker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ROC Dunka
+        wicket:
+          player_out: ROC Dunka
+          fielders:
+          - Z Burgess
+          kind: caught
+    - 13.5:
+        non_striker: R Walker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 13.6:
+        non_striker: R Walker
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 14.1:
+        non_striker: R Walker
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 14.2:
+        non_striker: C Wright
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Walker
+    - 14.3:
+        non_striker: C Wright
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Walker
+    - 14.4:
+        non_striker: C Wright
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Walker
+    - 14.5:
+        non_striker: C Wright
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Walker
+        wicket:
+          player_out: R Walker
+          fielders:
+          - DMW Rawlins
+          kind: caught
+    - 14.6:
+        non_striker: C Wright
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taylor
+    - 15.1:
+        non_striker: C Wright
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taylor
+    - 15.2:
+        non_striker: C Wright
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+    - 15.3:
+        non_striker: C Wright
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+    - 15.4:
+        non_striker: C Wright
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+    - 15.5:
+        non_striker: C Wright
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taylor
+    - 15.6:
+        non_striker: T Taylor
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 16.1:
+        non_striker: T Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 16.2:
+        non_striker: T Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 16.3:
+        non_striker: T Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+        wicket:
+          player_out: C Wright
+          fielders:
+          - D Sabir
+          kind: caught
+    - 16.4:
+        non_striker: T Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Ebanks
+    - 16.5:
+        non_striker: T Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Ebanks
+    - 16.6:
+        non_striker: T Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Ebanks
+    - 17.1:
+        non_striker: KR Ebanks
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taylor
+    - 17.2:
+        non_striker: T Taylor
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Ebanks
+    - 17.3:
+        non_striker: KR Ebanks
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+        wicket:
+          player_out: T Taylor
+          fielders:
+          - D Sabir
+          kind: caught
+    - 17.4:
+        non_striker: KR Ebanks
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wright
+    - 17.5:
+        non_striker: KR Ebanks
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wright
+    - 17.6:
+        non_striker: KR Ebanks
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wright
+    - 18.1:
+        non_striker: KR Ebanks
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wright
+    - 18.2:
+        non_striker: KR Ebanks
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Wright
+    - 18.3:
+        non_striker: KR Ebanks
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Wright
+    - 18.4:
+        non_striker: KR Ebanks
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wright
+    - 18.5:
+        non_striker: A Wright
+        bowler: D Sabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KR Ebanks
+    - 18.6:
+        non_striker: KR Ebanks
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wright
+        wicket:
+          player_out: A Wright
+          fielders:
+          - DMW Rawlins
+          kind: caught
+    - 19.1:
+        non_striker: KA Bazil
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Ebanks
+        wicket:
+          player_out: KR Ebanks
+          kind: bowled

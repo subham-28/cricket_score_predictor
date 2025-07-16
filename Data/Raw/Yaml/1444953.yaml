@@ -1,0 +1,1121 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Apia
+  dates:
+  - '2024-08-17'
+  gender: male
+  match_type: T20
+  match_type_number: 2776
+  outcome:
+    winner: Samoa
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - D Visser
+  players:
+    Fiji:
+    - JMV Junior
+    - DR Tawake
+    - PV Vuniwaqa
+    - J Cama
+    - A Sokovagone
+    - P Dakainivanua
+    - M Beitaki
+    - P Kotoisuva
+    - AZ Shah
+    - JQK Moala
+    - S Tabuisulu
+    Samoa:
+    - S Cotter
+    - SM Nash
+    - D Visser
+    - D Finau
+    - SF Tiai
+    - DE Roache
+    - F Suluoto
+    - CK Jasmat
+    - A Ilaoa
+    - Noah Mead
+    - P Sua
+  registry:
+    people:
+      A Ilaoa: 4d733a54
+      A Sokovagone: 10e34eef
+      AZ Shah: e0c5125f
+      CK Jasmat: 5299063a
+      D Finau: 63772ee4
+      D Visser: bb4da4d3
+      DE Roache: 110b180a
+      DR Tawake: 8c11c10a
+      F Suluoto: ae380321
+      J Cama: 6a868271
+      JMV Junior: c38bf66d
+      JQK Moala: d77ddc9f
+      Kent Hannam: 8cc171e7
+      L McCabe: 1dbc4a64
+      L Oala: 48a506ab
+      M Beitaki: 3d29b5fc
+      M Kenni: 1feb0d3c
+      Noah Mead: '0095a0e3'
+      P Dakainivanua: 5485c999
+      P Kotoisuva: b3e5205c
+      P Sua: f6657f66
+      PV Vuniwaqa: 653a7fa8
+      S Cotter: e6127436
+      S Tabuisulu: 62708dce
+      SF Tiai: bf19d427
+      SM Nash: 4f3a89ae
+  teams:
+  - Fiji
+  - Samoa
+  toss:
+    winner: Fiji
+    decision: bat
+  umpires:
+  - L Oala
+  - L McCabe
+  venue: Faleata Oval No 2, Apia
+innings:
+- 1st innings:
+    team: Fiji
+    deliveries:
+    - 0.1:
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: DR Tawake
+        batsman: JMV Junior
+    - 0.2:
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DR Tawake
+        batsman: JMV Junior
+    - 0.3:
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: DR Tawake
+        batsman: JMV Junior
+    - 0.4:
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DR Tawake
+        batsman: JMV Junior
+    - 0.5:
+        non_striker: JMV Junior
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+    - 0.6:
+        non_striker: JMV Junior
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+    - 1.1:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JMV Junior
+    - 1.2:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMV Junior
+        wicket:
+          player_out: JMV Junior
+          kind: bowled
+    - 1.3:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PV Vuniwaqa
+    - 1.4:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 1.5:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 1.6:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 1.7:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 1.8:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 2.1:
+        non_striker: PV Vuniwaqa
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+    - 2.2:
+        non_striker: PV Vuniwaqa
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Tawake
+    - 2.3:
+        non_striker: DR Tawake
+        bowler: Noah Mead
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PV Vuniwaqa
+    - 2.4:
+        non_striker: DR Tawake
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 2.5:
+        non_striker: DR Tawake
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 2.6:
+        non_striker: DR Tawake
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+        wicket:
+          player_out: PV Vuniwaqa
+          fielders:
+          - A Ilaoa
+          kind: caught
+    - 2.7:
+        non_striker: DR Tawake
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cama
+    - 3.1:
+        non_striker: J Cama
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Tawake
+    - 3.2:
+        non_striker: J Cama
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+    - 3.3:
+        non_striker: J Cama
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Tawake
+    - 3.4:
+        non_striker: DR Tawake
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Cama
+    - 3.5:
+        non_striker: DR Tawake
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Cama
+    - 3.6:
+        non_striker: J Cama
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Tawake
+    - 4.1:
+        non_striker: J Cama
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+    - 4.2:
+        non_striker: J Cama
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Tawake
+    - 4.3:
+        non_striker: J Cama
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Tawake
+    - 4.4:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cama
+    - 4.5:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cama
+    - 4.6:
+        non_striker: DR Tawake
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cama
+        wicket:
+          player_out: J Cama
+          kind: bowled
+    - 5.1:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Sokovagone
+        batsman: DR Tawake
+    - 5.2:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Sokovagone
+        batsman: DR Tawake
+    - 5.3:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Sokovagone
+        batsman: DR Tawake
+    - 5.4:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Sokovagone
+        batsman: DR Tawake
+    - 5.5:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Sokovagone
+        batsman: DR Tawake
+    - 5.6:
+        non_striker: A Sokovagone
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Tawake
+    - 6.1:
+        non_striker: A Sokovagone
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+    - 6.2:
+        non_striker: A Sokovagone
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+        wicket:
+          player_out: DR Tawake
+          kind: bowled
+    - 6.3:
+        non_striker: A Sokovagone
+        bowler: SM Nash
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: P Dakainivanua
+    - 6.4:
+        non_striker: A Sokovagone
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 6.5:
+        non_striker: P Dakainivanua
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 6.6:
+        non_striker: P Dakainivanua
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sokovagone
+    - 7.1:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 7.2:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 7.3:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 7.4:
+        non_striker: P Dakainivanua
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 7.5:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 7.6:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 8.1:
+        non_striker: A Sokovagone
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 8.2:
+        non_striker: A Sokovagone
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 8.3:
+        non_striker: P Dakainivanua
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sokovagone
+    - 8.4:
+        non_striker: P Dakainivanua
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 8.5:
+        non_striker: P Dakainivanua
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 8.6:
+        non_striker: P Dakainivanua
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 9.1:
+        non_striker: P Dakainivanua
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 9.2:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+        wicket:
+          player_out: P Dakainivanua
+          fielders:
+          - A Ilaoa
+          kind: stumped
+    - 9.3:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beitaki
+        wicket:
+          player_out: M Beitaki
+          fielders:
+          - A Ilaoa
+          kind: caught
+    - 9.4:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kotoisuva
+    - 9.5:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Kotoisuva
+    - 9.6:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kotoisuva
+    - 10.1:
+        non_striker: P Kotoisuva
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 10.2:
+        non_striker: P Kotoisuva
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sokovagone
+    - 10.3:
+        non_striker: P Kotoisuva
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 10.4:
+        non_striker: A Sokovagone
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kotoisuva
+    - 10.5:
+        non_striker: A Sokovagone
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kotoisuva
+        wicket:
+          player_out: P Kotoisuva
+          kind: bowled
+    - 10.6:
+        non_striker: A Sokovagone
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AZ Shah
+    - 11.1:
+        non_striker: AZ Shah
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 11.2:
+        non_striker: AZ Shah
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sokovagone
+    - 11.3:
+        non_striker: AZ Shah
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 11.4:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AZ Shah
+    - 11.5:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AZ Shah
+    - 11.6:
+        non_striker: A Sokovagone
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AZ Shah
+    - 12.1:
+        non_striker: AZ Shah
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+        wicket:
+          player_out: A Sokovagone
+          fielders:
+          - A Ilaoa
+          kind: caught
+    - 12.2:
+        non_striker: AZ Shah
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JQK Moala
+    - 12.3:
+        non_striker: AZ Shah
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JQK Moala
+    - 12.4:
+        non_striker: JQK Moala
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AZ Shah
+    - 12.5:
+        non_striker: JQK Moala
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AZ Shah
+    - 12.6:
+        non_striker: AZ Shah
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JQK Moala
+    - 13.1:
+        non_striker: AZ Shah
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JQK Moala
+    - 13.2:
+        non_striker: AZ Shah
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JQK Moala
+    - 13.3:
+        non_striker: AZ Shah
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JQK Moala
+        wicket:
+          player_out: JQK Moala
+          kind: bowled
+    - 13.4:
+        non_striker: AZ Shah
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tabuisulu
+    - 13.5:
+        non_striker: AZ Shah
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tabuisulu
+    - 13.6:
+        non_striker: AZ Shah
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tabuisulu
+        wicket:
+          player_out: S Tabuisulu
+          fielders:
+          - A Ilaoa
+          kind: caught
+- 2nd innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Nash
+        batsman: S Cotter
+    - 0.2:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 0.3:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 0.4:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 0.5:
+        non_striker: SM Nash
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+    - 0.6:
+        non_striker: SM Nash
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+    - 1.1:
+        non_striker: S Cotter
+        bowler: JQK Moala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Nash
+    - 1.2:
+        non_striker: S Cotter
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 1.3:
+        non_striker: SM Nash
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Cotter
+    - 1.4:
+        non_striker: SM Nash
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+    - 1.5:
+        non_striker: SM Nash
+        bowler: JQK Moala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Cotter
+    - 1.6:
+        non_striker: SM Nash
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Cotter
+    - 1.7:
+        non_striker: S Cotter
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 1.8:
+        non_striker: SM Nash
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Cotter
+    - 2.1:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 2.2:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+        wicket:
+          player_out: SM Nash
+          kind: lbw
+    - 2.3:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Visser
+    - 2.4:
+        non_striker: D Visser
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Cotter
+    - 2.5:
+        non_striker: D Visser
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Cotter
+    - 2.6:
+        non_striker: D Visser
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+    - 3.1:
+        non_striker: S Cotter
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 3.2:
+        non_striker: S Cotter
+        bowler: JQK Moala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Visser
+    - 3.3:
+        non_striker: D Visser
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Cotter
+    - 3.4:
+        non_striker: D Visser
+        bowler: JQK Moala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Cotter
+    - 3.5:
+        non_striker: S Cotter
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 3.6:
+        non_striker: S Cotter
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 4.1:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 4.2:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 4.3:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 4.4:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Visser
+    - 4.5:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 4.6:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Visser
+    - 4.7:
+        non_striker: S Cotter
+        bowler: AZ Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 5.1:
+        non_striker: S Cotter
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser

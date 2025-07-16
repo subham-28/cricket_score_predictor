@@ -1,0 +1,2405 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2024-12-24'
+  gender: female
+  match_type: T20
+  match_type_number: 2163
+  outcome:
+    winner: Singapore
+    by:
+      runs: 8
+  overs: 20
+  player_of_match:
+  - E Ungerman
+  players:
+    Singapore:
+    - R Gnanaraj
+    - A Tomar
+    - Vinu Kumar
+    - Shafina Mahesh
+    - RR Seth
+    - DA Galia
+    - S Merican
+    - Damini Ramesh
+    - E Ungerman
+    - H Dhavina
+    - NL Jacinta Si Ping
+    Philippines:
+    - AR Valdez
+    - ABY Smith
+    - Angela Busa
+    - KK Donovan
+    - SF Sirah
+    - AS Miranda
+    - Karri Gullem Keen
+    - Kyte Gullem Keen
+    - R Castillo
+    - JKD Andreano
+    - JR Medianesta
+  registry:
+    people:
+      A Tomar: 2af2427a
+      ABY Smith: fcb4448f
+      AR Valdez: 3c3f34b0
+      AS Miranda: 283e47fa
+      Angela Busa: cbef5af4
+      DA Galia: ae0b5b95
+      Damini Ramesh: c4480b25
+      E Ungerman: 3959c505
+      H Dhavina: cd12f384
+      JKD Andreano: 757baa30
+      JR Medianesta: 538cb58a
+      KK Donovan: ef2a7af4
+      KSVP Venu Madhav: 8c7fb752
+      Karri Gullem Keen: bb7b014a
+      Kyte Gullem Keen: f3f654c2
+      NL Jacinta Si Ping: 68c9a36f
+      R Castillo: 716ba9ef
+      R Gnanaraj: 6ab0658d
+      RR Seth: 7ccc0a38
+      S Merican: f3f6f5a0
+      S Ramesh: 6055237d
+      SF Sirah: 48bd237f
+      Seetharaman Pakirisamy: 61a3ec23
+      Shafina Mahesh: 0c40b02d
+      T Senthil Kumar: 961ddfac
+      Vinu Kumar: 3775b9f9
+  teams:
+  - Singapore
+  - Philippines
+  toss:
+    winner: Philippines
+    decision: field
+  umpires:
+  - S Ramesh
+  - KSVP Venu Madhav
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: KK Donovan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: A Tomar
+        batsman: R Gnanaraj
+    - 0.2:
+        non_striker: R Gnanaraj
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 0.3:
+        non_striker: R Gnanaraj
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 0.4:
+        non_striker: R Gnanaraj
+        bowler: KK Donovan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Tomar
+    - 0.5:
+        non_striker: A Tomar
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gnanaraj
+    - 0.6:
+        non_striker: A Tomar
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gnanaraj
+    - 0.7:
+        non_striker: R Gnanaraj
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Tomar
+    - 1.1:
+        non_striker: R Gnanaraj
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Tomar
+    - 1.2:
+        non_striker: A Tomar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gnanaraj
+    - 1.3:
+        non_striker: A Tomar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gnanaraj
+    - 1.4:
+        non_striker: R Gnanaraj
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Tomar
+    - 1.5:
+        non_striker: R Gnanaraj
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+        wicket:
+          player_out: A Tomar
+          fielders:
+          - Kyte Gullem Keen
+          kind: caught
+    - 1.6:
+        non_striker: R Gnanaraj
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 1.7:
+        non_striker: R Gnanaraj
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 2.1:
+        non_striker: R Gnanaraj
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 2.2:
+        non_striker: Vinu Kumar
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gnanaraj
+    - 2.3:
+        non_striker: Vinu Kumar
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gnanaraj
+    - 2.4:
+        non_striker: Vinu Kumar
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gnanaraj
+    - 2.5:
+        non_striker: Vinu Kumar
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Gnanaraj
+    - 2.6:
+        non_striker: Vinu Kumar
+        bowler: KK Donovan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Gnanaraj
+    - 3.1:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gnanaraj
+        wicket:
+          player_out: R Gnanaraj
+          fielders:
+          - ABY Smith
+          kind: caught
+    - 3.2:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 3.3:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 3.4:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 3.5:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Vinu Kumar
+    - 3.6:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafina Mahesh
+    - 4.1:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 4.2:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 4.3:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Vinu Kumar
+    - 4.4:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 4.5:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vinu Kumar
+    - 4.6:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 4.7:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 4.8:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.1:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 5.2:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 5.3:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 5.4:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 5.5:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shafina Mahesh
+    - 5.6:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 6.1:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 6.2:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 6.3:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 6.4:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 6.5:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 6.6:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 6.7:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 7.1:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 7.2:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 7.3:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 7.4:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 7.5:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 7.6:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 7.7:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 8.1:
+        non_striker: Vinu Kumar
+        bowler: R Castillo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 8.2:
+        non_striker: Vinu Kumar
+        bowler: R Castillo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 8.3:
+        non_striker: Vinu Kumar
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 8.4:
+        non_striker: Shafina Mahesh
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 8.5:
+        non_striker: Vinu Kumar
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 8.6:
+        non_striker: Shafina Mahesh
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 8.7:
+        non_striker: Shafina Mahesh
+        bowler: R Castillo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 8.8:
+        non_striker: Shafina Mahesh
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 8.9:
+        non_striker: Shafina Mahesh
+        bowler: R Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 9.1:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 9.2:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 9.3:
+        non_striker: Shafina Mahesh
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 9.4:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 9.5:
+        non_striker: Shafina Mahesh
+        bowler: JKD Andreano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 9.6:
+        non_striker: Shafina Mahesh
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 9.7:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 10.1:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 10.2:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 10.3:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 10.4:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 10.5:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 10.6:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 11.1:
+        non_striker: Shafina Mahesh
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 11.2:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 11.3:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 11.4:
+        non_striker: Shafina Mahesh
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 11.5:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 11.6:
+        non_striker: Shafina Mahesh
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 11.7:
+        non_striker: Shafina Mahesh
+        bowler: JKD Andreano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 11.8:
+        non_striker: Shafina Mahesh
+        bowler: JKD Andreano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 11.9:
+        non_striker: Shafina Mahesh
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 12.1:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafina Mahesh
+    - 12.2:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 12.3:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 12.4:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 12.5:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafina Mahesh
+    - 12.6:
+        non_striker: Vinu Kumar
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 12.7:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 12.8:
+        non_striker: Shafina Mahesh
+        bowler: AR Valdez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 13.1:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 13.2:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 13.3:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 13.4:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 13.5:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 13.6:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 13.7:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 14.1:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 14.2:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 14.3:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 14.4:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Shafina Mahesh
+    - 14.5:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 14.6:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafina Mahesh
+    - 14.7:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 15.1:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 15.2:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 15.3:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 15.4:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 15.5:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 15.6:
+        non_striker: Vinu Kumar
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 15.7:
+        non_striker: Shafina Mahesh
+        bowler: ABY Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 16.1:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 16.2:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 16.3:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 16.4:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 16.5:
+        non_striker: Shafina Mahesh
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 16.6:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+        wicket:
+          player_out: Shafina Mahesh
+          kind: caught and bowled
+    - 16.7:
+        non_striker: Vinu Kumar
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 16.8:
+        non_striker: RR Seth
+        bowler: Karri Gullem Keen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 17.1:
+        non_striker: RR Seth
+        bowler: JKD Andreano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 17.2:
+        non_striker: RR Seth
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 17.3:
+        non_striker: RR Seth
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 17.4:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 17.5:
+        non_striker: RR Seth
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 17.6:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 17.7:
+        non_striker: RR Seth
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 18.1:
+        non_striker: RR Seth
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 18.2:
+        non_striker: RR Seth
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 18.3:
+        non_striker: RR Seth
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 18.4:
+        non_striker: RR Seth
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 18.5:
+        non_striker: Vinu Kumar
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 18.6:
+        non_striker: Vinu Kumar
+        bowler: KK Donovan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+        wicket:
+          player_out: RR Seth
+          kind: bowled
+    - 19.1:
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: DA Galia
+        batsman: Vinu Kumar
+    - 19.2:
+        non_striker: Vinu Kumar
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 19.3:
+        non_striker: DA Galia
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 19.4:
+        non_striker: DA Galia
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 19.5:
+        non_striker: DA Galia
+        bowler: JKD Andreano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 19.6:
+        non_striker: DA Galia
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 19.7:
+        non_striker: DA Galia
+        bowler: JKD Andreano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+        wicket:
+          player_out: Vinu Kumar
+          fielders:
+          - JR Medianesta
+          kind: stumped
+- 2nd innings:
+    team: Philippines
+    deliveries:
+    - 0.1:
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ABY Smith
+        batsman: AR Valdez
+    - 0.2:
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ABY Smith
+        batsman: AR Valdez
+    - 0.3:
+        non_striker: AR Valdez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 0.4:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+    - 0.5:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Valdez
+        wicket:
+          player_out: AR Valdez
+          fielders:
+          - RR Seth
+          kind: caught
+    - 0.6:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 1.1:
+        non_striker: Angela Busa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 1.2:
+        non_striker: Angela Busa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 1.3:
+        non_striker: ABY Smith
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Angela Busa
+    - 1.4:
+        non_striker: Angela Busa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+    - 1.5:
+        non_striker: Angela Busa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 1.6:
+        non_striker: Angela Busa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+    - 2.1:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Angela Busa
+    - 2.2:
+        non_striker: Angela Busa
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 2.3:
+        non_striker: Angela Busa
+        bowler: E Ungerman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ABY Smith
+    - 2.4:
+        non_striker: Angela Busa
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 2.5:
+        non_striker: Angela Busa
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+    - 2.6:
+        non_striker: Angela Busa
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 2.7:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 3.1:
+        non_striker: Angela Busa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 3.2:
+        non_striker: Angela Busa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+    - 3.3:
+        non_striker: Angela Busa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 3.4:
+        non_striker: ABY Smith
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 3.5:
+        non_striker: ABY Smith
+        bowler: Damini Ramesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Angela Busa
+    - 3.6:
+        non_striker: ABY Smith
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 3.7:
+        non_striker: ABY Smith
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 4.1:
+        non_striker: Angela Busa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+    - 4.2:
+        non_striker: Angela Busa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 4.3:
+        non_striker: Angela Busa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 4.4:
+        non_striker: Angela Busa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 4.5:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 4.6:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 5.1:
+        non_striker: Angela Busa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+    - 5.2:
+        non_striker: Angela Busa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ABY Smith
+    - 5.3:
+        non_striker: Angela Busa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ABY Smith
+    - 5.4:
+        non_striker: ABY Smith
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Angela Busa
+    - 5.5:
+        non_striker: ABY Smith
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 5.6:
+        non_striker: ABY Smith
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 6.1:
+        non_striker: Angela Busa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 6.2:
+        non_striker: Angela Busa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ABY Smith
+    - 6.3:
+        non_striker: Angela Busa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 6.4:
+        non_striker: Angela Busa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 6.5:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Angela Busa
+    - 6.6:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+    - 6.7:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Angela Busa
+    - 6.8:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Angela Busa
+    - 6.9:
+        non_striker: Angela Busa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 7.1:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Angela Busa
+        wicket:
+          player_out: Angela Busa
+          fielders:
+          - Shafina Mahesh
+          kind: caught
+    - 7.2:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 7.3:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 7.4:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: KK Donovan
+    - 7.5:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 7.6:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 7.7:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KK Donovan
+    - 8.1:
+        non_striker: ABY Smith
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 8.2:
+        non_striker: ABY Smith
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 8.3:
+        non_striker: KK Donovan
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 8.4:
+        non_striker: ABY Smith
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 8.5:
+        non_striker: KK Donovan
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ABY Smith
+    - 8.6:
+        non_striker: KK Donovan
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+    - 9.1:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 9.2:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KK Donovan
+    - 9.3:
+        non_striker: KK Donovan
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ABY Smith
+    - 9.4:
+        non_striker: KK Donovan
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 9.5:
+        non_striker: KK Donovan
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 9.6:
+        non_striker: KK Donovan
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 9.7:
+        non_striker: KK Donovan
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 10.1:
+        non_striker: ABY Smith
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 10.2:
+        non_striker: ABY Smith
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KK Donovan
+    - 10.3:
+        non_striker: ABY Smith
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 10.4:
+        non_striker: KK Donovan
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 10.5:
+        non_striker: ABY Smith
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 10.6:
+        non_striker: ABY Smith
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 11.1:
+        non_striker: KK Donovan
+        bowler: R Gnanaraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+    - 11.2:
+        non_striker: KK Donovan
+        bowler: R Gnanaraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ABY Smith
+    - 11.3:
+        non_striker: KK Donovan
+        bowler: R Gnanaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 11.4:
+        non_striker: ABY Smith
+        bowler: R Gnanaraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Donovan
+    - 11.5:
+        non_striker: ABY Smith
+        bowler: R Gnanaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 11.6:
+        non_striker: KK Donovan
+        bowler: R Gnanaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 12.1:
+        non_striker: KK Donovan
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 12.2:
+        non_striker: ABY Smith
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 12.3:
+        non_striker: ABY Smith
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 12.4:
+        non_striker: KK Donovan
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 12.5:
+        non_striker: ABY Smith
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 12.6:
+        non_striker: KK Donovan
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ABY Smith
+    - 13.1:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Donovan
+    - 13.2:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KK Donovan
+    - 13.3:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+    - 13.4:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KK Donovan
+    - 13.5:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KK Donovan
+    - 13.6:
+        non_striker: KK Donovan
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 13.7:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Donovan
+    - 14.1:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Donovan
+        wicket:
+          player_out: KK Donovan
+          fielders:
+          - Damini Ramesh
+          kind: caught
+    - 14.2:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Sirah
+        wicket:
+          player_out: SF Sirah
+          kind: bowled
+    - 14.3:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 14.4:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 14.5:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 14.6:
+        non_striker: AS Miranda
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 15.1:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 15.2:
+        non_striker: AS Miranda
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 15.3:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+    - 15.4:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Miranda
+    - 15.5:
+        non_striker: AS Miranda
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 15.6:
+        non_striker: AS Miranda
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ABY Smith
+    - 15.7:
+        non_striker: AS Miranda
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 16.1:
+        non_striker: AS Miranda
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+    - 16.2:
+        non_striker: AS Miranda
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 16.3:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Miranda
+        wicket:
+          player_out: AS Miranda
+          kind: caught and bowled
+    - 16.4:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 16.5:
+        non_striker: Karri Gullem Keen
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 16.6:
+        non_striker: ABY Smith
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+    - 17.1:
+        non_striker: Karri Gullem Keen
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ABY Smith
+    - 17.2:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Karri Gullem Keen
+    - 17.3:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 17.4:
+        non_striker: Karri Gullem Keen
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ABY Smith
+    - 17.5:
+        non_striker: Karri Gullem Keen
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ABY Smith
+    - 17.6:
+        non_striker: ABY Smith
+        bowler: Shafina Mahesh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Karri Gullem Keen
+    - 17.7:
+        non_striker: Karri Gullem Keen
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ABY Smith
+    - 18.1:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Karri Gullem Keen
+    - 18.2:
+        non_striker: ABY Smith
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karri Gullem Keen
+    - 18.3:
+        non_striker: Karri Gullem Keen
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ABY Smith
+        wicket:
+          player_out: ABY Smith
+          fielders:
+          - Vinu Kumar
+          - E Ungerman
+          kind: run out
+    - 18.4:
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kyte Gullem Keen
+        batsman: Karri Gullem Keen
+    - 18.5:
+        non_striker: Kyte Gullem Keen
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karri Gullem Keen
+        wicket:
+          player_out: Karri Gullem Keen
+          fielders:
+          - R Gnanaraj
+          kind: caught
+    - 18.6:
+        non_striker: Kyte Gullem Keen
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Castillo
+    - 19.1:
+        non_striker: R Castillo
+        bowler: Damini Ramesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kyte Gullem Keen
+    - 19.2:
+        non_striker: R Castillo
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 19.3:
+        non_striker: R Castillo
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen
+    - 19.4:
+        non_striker: R Castillo
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyte Gullem Keen
+    - 19.5:
+        non_striker: Kyte Gullem Keen
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Castillo
+    - 19.6:
+        non_striker: Kyte Gullem Keen
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Castillo
+    - 19.7:
+        non_striker: R Castillo
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyte Gullem Keen

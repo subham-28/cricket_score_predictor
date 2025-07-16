@@ -1,0 +1,1942 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2025-06-15'
+  gender: male
+  match_type: T20
+  match_type_number: 3234
+  outcome:
+    winner: Cambodia
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - GC Murtaza
+  players:
+    Indonesia:
+    - KD Kesuma
+    - Gaurav Tiwari
+    - GA Priandana
+    - Vineet Shah
+    - Ahmad Ramdoni
+    - DJ Hawoe
+    - IKEG Artawan
+    - AA Rahayu
+    - Anjar Tadarus
+    - F Banunaek
+    - DK Shetty
+    Cambodia:
+    - US Hathinjar
+    - Lakshit Gupta
+    - M Chadha
+    - Luqman Butt
+    - Salvin Stanly
+    - E Beukes
+    - Shah Abrar Hussain
+    - Utkarsh Jain
+    - GC Murtaza
+    - S Godara
+    - NT Gireesh
+  registry:
+    people:
+      AA Rahayu: 2327fdc7
+      Ahmad Ramdoni: b5f30525
+      Anjar Tadarus: '72275237'
+      Anwesh Bose: 3bdae121
+      DJ Hawoe: a62f55ba
+      DK Shetty: 65cfc56b
+      E Beukes: fbb8cf87
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GC Murtaza: 6cc4d322
+      Gaurav Tiwari: cab3f89a
+      IKEG Artawan: 190957d2
+      KD Kesuma: 4b349dc0
+      Lakshit Gupta: 52b090a6
+      Luqman Butt: 7a6decc8
+      M Chadha: 93a77ad4
+      NT Gireesh: '32190239'
+      S Godara: dd7dd27a
+      Salvin Stanly: a6631b55
+      Shah Abrar Hussain: 6ec13131
+      Suresh Subramanian: 4e869e23
+      US Hathinjar: 5f77f23a
+      Utkarsh Jain: 1f4a78c5
+      Vineet Shah: ad85a036
+      Yeri Rosongna: 161c019d
+  teams:
+  - Indonesia
+  - Cambodia
+  toss:
+    winner: Cambodia
+    decision: field
+  umpires:
+  - Anwesh Bose
+  - Suresh Subramanian
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Gaurav Tiwari
+        batsman: KD Kesuma
+    - 0.2:
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Gaurav Tiwari
+        batsman: KD Kesuma
+    - 0.3:
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Gaurav Tiwari
+        batsman: KD Kesuma
+    - 0.4:
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Gaurav Tiwari
+        batsman: KD Kesuma
+    - 0.5:
+        non_striker: Gaurav Tiwari
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          fielders:
+          - S Godara
+          kind: caught
+    - 0.6:
+        non_striker: Gaurav Tiwari
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 0.7:
+        non_striker: Gaurav Tiwari
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GA Priandana
+    - 0.8:
+        non_striker: Gaurav Tiwari
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 0.9:
+        non_striker: Gaurav Tiwari
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          kind: bowled
+    - 1.1:
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Vineet Shah
+        batsman: Gaurav Tiwari
+    - 1.2:
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Vineet Shah
+        batsman: Gaurav Tiwari
+    - 1.3:
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Vineet Shah
+        batsman: Gaurav Tiwari
+    - 1.4:
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Vineet Shah
+        batsman: Gaurav Tiwari
+    - 1.5:
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Vineet Shah
+        batsman: Gaurav Tiwari
+    - 1.6:
+        non_striker: Vineet Shah
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 2.1:
+        non_striker: Gaurav Tiwari
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 2.2:
+        non_striker: Gaurav Tiwari
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 2.3:
+        non_striker: Gaurav Tiwari
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 2.4:
+        non_striker: Vineet Shah
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gaurav Tiwari
+    - 2.5:
+        non_striker: Vineet Shah
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gaurav Tiwari
+    - 2.6:
+        non_striker: Vineet Shah
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+        wicket:
+          player_out: Gaurav Tiwari
+          kind: lbw
+    - 3.1:
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmad Ramdoni
+        batsman: Vineet Shah
+    - 3.2:
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmad Ramdoni
+        batsman: Vineet Shah
+    - 3.3:
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ahmad Ramdoni
+        batsman: Vineet Shah
+    - 3.4:
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ahmad Ramdoni
+        batsman: Vineet Shah
+    - 3.5:
+        non_striker: Vineet Shah
+        bowler: S Godara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmad Ramdoni
+    - 3.6:
+        non_striker: Vineet Shah
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 3.7:
+        non_striker: Vineet Shah
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 4.1:
+        non_striker: Vineet Shah
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmad Ramdoni
+    - 4.2:
+        non_striker: Vineet Shah
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 4.3:
+        non_striker: Vineet Shah
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 4.4:
+        non_striker: Ahmad Ramdoni
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 4.5:
+        non_striker: Ahmad Ramdoni
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 4.6:
+        non_striker: Ahmad Ramdoni
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Vineet Shah
+    - 5.1:
+        non_striker: Ahmad Ramdoni
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 5.2:
+        non_striker: Ahmad Ramdoni
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 5.3:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 5.4:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 5.5:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmad Ramdoni
+    - 5.6:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 5.7:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 6.1:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 6.2:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 6.3:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 6.4:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 6.5:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 6.6:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 7.1:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 7.2:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 7.3:
+        non_striker: Ahmad Ramdoni
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 7.4:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 7.5:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmad Ramdoni
+    - 7.6:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmad Ramdoni
+    - 8.1:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 8.2:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.3:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 8.4:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 8.5:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.6:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 9.1:
+        non_striker: Ahmad Ramdoni
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vineet Shah
+    - 9.2:
+        non_striker: Ahmad Ramdoni
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 9.3:
+        non_striker: Vineet Shah
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 9.4:
+        non_striker: Vineet Shah
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmad Ramdoni
+    - 9.5:
+        non_striker: Vineet Shah
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 9.6:
+        non_striker: Vineet Shah
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 10.1:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 10.2:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 10.3:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 10.4:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 10.5:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 10.6:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 11.1:
+        non_striker: Vineet Shah
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 11.2:
+        non_striker: Vineet Shah
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 11.3:
+        non_striker: Vineet Shah
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmad Ramdoni
+    - 11.4:
+        non_striker: Vineet Shah
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 11.5:
+        non_striker: Ahmad Ramdoni
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 11.6:
+        non_striker: Vineet Shah
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmad Ramdoni
+    - 12.1:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 12.2:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 12.3:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vineet Shah
+    - 12.4:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 12.5:
+        non_striker: Vineet Shah
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 12.6:
+        non_striker: Ahmad Ramdoni
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 13.1:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.2:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 13.3:
+        non_striker: Ahmad Ramdoni
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 13.4:
+        non_striker: Ahmad Ramdoni
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 13.5:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.6:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 14.1:
+        non_striker: Vineet Shah
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 14.2:
+        non_striker: Ahmad Ramdoni
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 14.3:
+        non_striker: Ahmad Ramdoni
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 14.4:
+        non_striker: Ahmad Ramdoni
+        bowler: NT Gireesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Vineet Shah
+    - 14.5:
+        non_striker: Vineet Shah
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 14.6:
+        non_striker: Ahmad Ramdoni
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 15.1:
+        non_striker: Ahmad Ramdoni
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vineet Shah
+    - 15.2:
+        non_striker: Ahmad Ramdoni
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+    - 15.3:
+        non_striker: Ahmad Ramdoni
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 15.4:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+        wicket:
+          player_out: Ahmad Ramdoni
+          fielders:
+          - E Beukes
+          kind: caught
+    - 15.5:
+        non_striker: Vineet Shah
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 15.6:
+        non_striker: DJ Hawoe
+        bowler: Utkarsh Jain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vineet Shah
+    - 16.1:
+        non_striker: Vineet Shah
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Hawoe
+    - 16.2:
+        non_striker: Vineet Shah
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 16.3:
+        non_striker: DJ Hawoe
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vineet Shah
+    - 16.4:
+        non_striker: DJ Hawoe
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 16.5:
+        non_striker: Vineet Shah
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 16.6:
+        non_striker: Vineet Shah
+        bowler: NT Gireesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 17.1:
+        non_striker: Vineet Shah
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 17.2:
+        non_striker: Vineet Shah
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 17.3:
+        non_striker: DJ Hawoe
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vineet Shah
+    - 17.4:
+        non_striker: Vineet Shah
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Hawoe
+    - 17.5:
+        non_striker: Vineet Shah
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          kind: bowled
+    - 17.6:
+        non_striker: Vineet Shah
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 18.1:
+        non_striker: IKEG Artawan
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vineet Shah
+        wicket:
+          player_out: Vineet Shah
+          kind: bowled
+    - 18.2:
+        non_striker: IKEG Artawan
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Rahayu
+    - 18.3:
+        non_striker: AA Rahayu
+        bowler: GC Murtaza
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: IKEG Artawan
+    - 18.4:
+        non_striker: AA Rahayu
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+        wicket:
+          player_out: IKEG Artawan
+          kind: bowled
+    - 18.5:
+        non_striker: AA Rahayu
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anjar Tadarus
+    - 18.6:
+        non_striker: AA Rahayu
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 18.7:
+        non_striker: AA Rahayu
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 19.1:
+        non_striker: AA Rahayu
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anjar Tadarus
+    - 19.2:
+        non_striker: AA Rahayu
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+        wicket:
+          player_out: Anjar Tadarus
+          fielders:
+          - Salvin Stanly
+          kind: caught
+    - 19.3:
+        non_striker: AA Rahayu
+        bowler: S Godara
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: F Banunaek
+    - 19.4:
+        non_striker: AA Rahayu
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Banunaek
+    - 19.5:
+        non_striker: AA Rahayu
+        bowler: S Godara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: F Banunaek
+    - 19.6:
+        non_striker: F Banunaek
+        bowler: S Godara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AA Rahayu
+- 2nd innings:
+    team: Cambodia
+    deliveries:
+    - 0.1:
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Lakshit Gupta
+        batsman: US Hathinjar
+    - 0.2:
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Lakshit Gupta
+        batsman: US Hathinjar
+    - 0.3:
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Lakshit Gupta
+        batsman: US Hathinjar
+    - 0.4:
+        non_striker: US Hathinjar
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 0.5:
+        non_striker: US Hathinjar
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 0.6:
+        non_striker: US Hathinjar
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 1.1:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lakshit Gupta
+    - 1.2:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 1.3:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 1.4:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lakshit Gupta
+    - 1.5:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 1.6:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 2.1:
+        non_striker: Lakshit Gupta
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 2.2:
+        non_striker: US Hathinjar
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 2.3:
+        non_striker: US Hathinjar
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 2.4:
+        non_striker: US Hathinjar
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 2.5:
+        non_striker: Lakshit Gupta
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: US Hathinjar
+    - 2.6:
+        non_striker: Lakshit Gupta
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: US Hathinjar
+    - 3.1:
+        non_striker: US Hathinjar
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 3.2:
+        non_striker: US Hathinjar
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 3.3:
+        non_striker: US Hathinjar
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 3.4:
+        non_striker: Lakshit Gupta
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: US Hathinjar
+    - 3.5:
+        non_striker: Lakshit Gupta
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: US Hathinjar
+    - 3.6:
+        non_striker: Lakshit Gupta
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: US Hathinjar
+    - 4.1:
+        non_striker: US Hathinjar
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 4.2:
+        non_striker: US Hathinjar
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 4.3:
+        non_striker: Lakshit Gupta
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 4.4:
+        non_striker: US Hathinjar
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lakshit Gupta
+    - 4.5:
+        non_striker: US Hathinjar
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 4.6:
+        non_striker: Lakshit Gupta
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 5.1:
+        non_striker: Lakshit Gupta
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 5.2:
+        non_striker: US Hathinjar
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 5.3:
+        non_striker: US Hathinjar
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 5.4:
+        non_striker: Lakshit Gupta
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: US Hathinjar
+    - 5.5:
+        non_striker: Lakshit Gupta
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: US Hathinjar
+    - 5.6:
+        non_striker: Lakshit Gupta
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: US Hathinjar
+    - 6.1:
+        non_striker: US Hathinjar
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 6.2:
+        non_striker: Lakshit Gupta
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 6.3:
+        non_striker: US Hathinjar
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lakshit Gupta
+    - 6.4:
+        non_striker: US Hathinjar
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 6.5:
+        non_striker: Lakshit Gupta
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 6.6:
+        non_striker: US Hathinjar
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 7.1:
+        non_striker: US Hathinjar
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 7.2:
+        non_striker: US Hathinjar
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 7.3:
+        non_striker: Lakshit Gupta
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: US Hathinjar
+    - 7.4:
+        non_striker: Lakshit Gupta
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: US Hathinjar
+    - 7.5:
+        non_striker: Lakshit Gupta
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 7.6:
+        non_striker: US Hathinjar
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 8.1:
+        non_striker: Lakshit Gupta
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 8.2:
+        non_striker: US Hathinjar
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 8.3:
+        non_striker: Lakshit Gupta
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 8.4:
+        non_striker: US Hathinjar
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 8.5:
+        non_striker: US Hathinjar
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Lakshit Gupta
+    - 8.6:
+        non_striker: US Hathinjar
+        bowler: AA Rahayu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lakshit Gupta
+    - 8.7:
+        non_striker: US Hathinjar
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 9.1:
+        non_striker: Lakshit Gupta
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 9.2:
+        non_striker: US Hathinjar
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 9.3:
+        non_striker: US Hathinjar
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Lakshit Gupta
+    - 9.4:
+        non_striker: US Hathinjar
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 9.5:
+        non_striker: Lakshit Gupta
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: US Hathinjar
+    - 9.6:
+        non_striker: Lakshit Gupta
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 10.1:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: US Hathinjar
+    - 10.2:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 10.3:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 10.4:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: US Hathinjar
+    - 10.5:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 10.6:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 11.1:
+        non_striker: Lakshit Gupta
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: US Hathinjar
+    - 11.2:
+        non_striker: Lakshit Gupta
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: US Hathinjar
+    - 11.3:
+        non_striker: Lakshit Gupta
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: US Hathinjar
+    - 11.4:
+        non_striker: Lakshit Gupta
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: US Hathinjar
+    - 11.5:
+        non_striker: Lakshit Gupta
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 11.6:
+        non_striker: US Hathinjar
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 12.1:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lakshit Gupta
+    - 12.2:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 12.3:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: US Hathinjar
+    - 12.4:
+        non_striker: US Hathinjar
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 12.5:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: US Hathinjar
+    - 12.6:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: US Hathinjar
+        wicket:
+          player_out: US Hathinjar
+          kind: bowled
+    - 12.7:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chadha
+    - 13.1:
+        non_striker: M Chadha
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 13.2:
+        non_striker: Lakshit Gupta
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Chadha
+    - 13.3:
+        non_striker: M Chadha
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 13.4:
+        non_striker: M Chadha
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 13.5:
+        non_striker: Lakshit Gupta
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chadha
+    - 13.6:
+        non_striker: Lakshit Gupta
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chadha
+    - 14.1:
+        non_striker: M Chadha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 14.2:
+        non_striker: M Chadha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lakshit Gupta
+    - 14.3:
+        non_striker: M Chadha
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Lakshit Gupta
+    - 14.4:
+        non_striker: Lakshit Gupta
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Chadha
+    - 14.5:
+        non_striker: M Chadha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lakshit Gupta
+    - 14.6:
+        non_striker: M Chadha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lakshit Gupta
+    - 15.1:
+        non_striker: Lakshit Gupta
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Chadha
+    - 15.2:
+        non_striker: Lakshit Gupta
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Chadha
+    - 15.3:
+        non_striker: Lakshit Gupta
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Chadha
+    - 15.4:
+        non_striker: M Chadha
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lakshit Gupta
+    - 15.5:
+        non_striker: M Chadha
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lakshit Gupta
+    - 15.6:
+        non_striker: Lakshit Gupta
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Chadha

@@ -1,0 +1,584 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-05-13'
+  gender: female
+  match_type: T20
+  match_type_number: 2291
+  outcome:
+    winner: Hong Kong
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - M Wai Siu
+  players:
+    Nepal:
+    - Samjhana Khadka
+    - K Kunwar
+    - I Barma
+    - Puja Mahato
+    - RC Belbashi
+    - R Airee
+    - Roma Thapa
+    - K Joshi
+    - Sabnam Rai
+    - Riya Sharma
+    - R Poddar
+    Hong Kong:
+    - Shanzeen Shahzad
+    - KY Chan
+    - NT Miles
+    - M Hill
+    - Y Daswani
+    - M Bibi
+    - SYD Chan
+    - Ruchitha Venkatesh
+    - Hiu Ying Cheung
+    - Iqra Sahar
+    - M Wai Siu
+  registry:
+    people:
+      Akbar Ali: e753931d
+      Hiu Ying Cheung: 9efce9fd
+      I Barma: 521abce2
+      Iqra Sahar: aaccb8ca
+      K Joshi: 0cd297b9
+      K Kunwar: 97e6e41a
+      KY Chan: 6348c6e9
+      M Bibi: 34f86a2d
+      M Hill: bf5e7711
+      M Wai Siu: 74eecff4
+      N Janani: d06a665d
+      NT Miles: d27d0835
+      Puja Mahato: 4b95058b
+      R Airee: 4b3057bc
+      R Poddar: 4e38a3d6
+      RC Belbashi: dfdaca74
+      Riya Sharma: 8b7cda26
+      Roma Thapa: 05d9faac
+      Ruchitha Venkatesh: 106135f5
+      SYD Chan: 4839b023
+      Sabnam Rai: 8eb52953
+      Samad Akbar: f05bd21b
+      Samjhana Khadka: 765a2354
+      Shanzeen Shahzad: ce291858
+      V Bowen: 7297ac4d
+      Y Daswani: 2038a273
+  teams:
+  - Nepal
+  - Hong Kong
+  toss:
+    winner: Hong Kong
+    decision: field
+  umpires:
+  - Akbar Ali
+  - N Janani
+  venue: Asian Institute of Technology Ground, Bangkok
+innings:
+- 1st innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Kunwar
+        batsman: Samjhana Khadka
+    - 0.2:
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Kunwar
+        batsman: Samjhana Khadka
+    - 0.3:
+        non_striker: Samjhana Khadka
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 0.4:
+        non_striker: K Kunwar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samjhana Khadka
+    - 0.5:
+        non_striker: Samjhana Khadka
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 0.6:
+        non_striker: K Kunwar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Samjhana Khadka
+    - 1.1:
+        non_striker: Samjhana Khadka
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+        wicket:
+          player_out: K Kunwar
+          kind: bowled
+    - 1.2:
+        non_striker: Samjhana Khadka
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 1.3:
+        non_striker: I Barma
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Samjhana Khadka
+    - 1.4:
+        non_striker: I Barma
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Samjhana Khadka
+    - 1.5:
+        non_striker: I Barma
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samjhana Khadka
+        wicket:
+          player_out: Samjhana Khadka
+          fielders:
+          - M Hill
+          kind: caught
+    - 1.6:
+        non_striker: I Barma
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 2.1:
+        non_striker: I Barma
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 2.2:
+        non_striker: Puja Mahato
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 2.3:
+        non_striker: Puja Mahato
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 2.4:
+        non_striker: I Barma
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puja Mahato
+    - 2.5:
+        non_striker: Puja Mahato
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Barma
+    - 2.6:
+        non_striker: Puja Mahato
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 3.1:
+        non_striker: Puja Mahato
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 3.2:
+        non_striker: I Barma
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+    - 3.3:
+        non_striker: I Barma
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puja Mahato
+        wicket:
+          player_out: Puja Mahato
+          fielders:
+          - NT Miles
+          kind: caught
+    - 3.4:
+        non_striker: I Barma
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Belbashi
+    - 3.5:
+        non_striker: I Barma
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Belbashi
+    - 3.6:
+        non_striker: RC Belbashi
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 4.1:
+        non_striker: RC Belbashi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 4.2:
+        non_striker: I Barma
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Belbashi
+    - 4.3:
+        non_striker: RC Belbashi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 4.4:
+        non_striker: I Barma
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Belbashi
+    - 4.5:
+        non_striker: RC Belbashi
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Barma
+    - 4.6:
+        non_striker: I Barma
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Belbashi
+- 2nd innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        non_striker: KY Chan
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+        wicket:
+          player_out: KY Chan
+          fielders:
+          - R Poddar
+          kind: run out
+    - 0.2:
+        non_striker: Shanzeen Shahzad
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 0.3:
+        non_striker: Shanzeen Shahzad
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+        wicket:
+          player_out: NT Miles
+          fielders:
+          - R Poddar
+          kind: caught
+    - 0.4:
+        non_striker: Shanzeen Shahzad
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.5:
+        non_striker: Shanzeen Shahzad
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 0.6:
+        non_striker: Shanzeen Shahzad
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 1.1:
+        non_striker: M Hill
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 1.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 1.3:
+        non_striker: M Hill
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 1.4:
+        non_striker: M Hill
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 1.5:
+        non_striker: Shanzeen Shahzad
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 1.6:
+        non_striker: M Hill
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 2.1:
+        non_striker: Shanzeen Shahzad
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 2.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 2.3:
+        non_striker: M Hill
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.4:
+        non_striker: M Hill
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.5:
+        non_striker: M Hill
+        bowler: Riya Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shanzeen Shahzad
+    - 2.6:
+        non_striker: M Hill
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.7:
+        non_striker: M Hill
+        bowler: Riya Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 3.1:
+        non_striker: Shanzeen Shahzad
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 3.2:
+        non_striker: M Hill
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shanzeen Shahzad
+    - 3.3:
+        non_striker: M Hill
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 3.4:
+        non_striker: M Hill
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 3.5:
+        non_striker: Shanzeen Shahzad
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 3.6:
+        non_striker: Shanzeen Shahzad
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 4.1:
+        non_striker: Shanzeen Shahzad
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+        wicket:
+          player_out: M Hill
+          kind: bowled
+    - 4.2:
+        non_striker: Shanzeen Shahzad
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Daswani
+    - 4.3:
+        non_striker: Shanzeen Shahzad
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani

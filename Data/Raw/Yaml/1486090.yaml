@@ -1,0 +1,1499 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Spinaceto
+  dates:
+  - '2025-05-25'
+  gender: female
+  match_type: T20
+  match_type_number: 2306
+  outcome:
+    winner: Italy
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - EL Bartram
+  players:
+    Isle of Man:
+    - L Barnett
+    - E Cleator
+    - C Henery
+    - S Hassall
+    - K Carney
+    - R Overman
+    - R Webster
+    - D Murphy
+    - C Perry
+    - A Thorpe
+    - J Hicks
+    Italy:
+    - M Rathnayake
+    - D Nanayakkara
+    - A Kontopirakis
+    - EL Bartram
+    - K Peddrick
+    - C Mahamalage
+    - S Kanankege
+    - AS Wikman
+    - C Piparo
+    - Ilenia Sims
+    - T Araliya
+  registry:
+    people:
+      A Kontopirakis: 4f05f64e
+      A Thorpe: 6c54bd7a
+      AS Wikman: a3b7bcbd
+      C Henery: 03d9e80f
+      C Mahamalage: 3250b7db
+      C Perry: 152d3c9d
+      C Piparo: 276f3dde
+      D Murphy: c4f42529
+      D Nanayakkara: dbf22922
+      DH Mclean: 281d4749
+      E Cleator: 9c94176e
+      EL Bartram: 5fa7f030
+      G McCrea: 46f4a901
+      Ilenia Sims: 03c98aa6
+      J Hicks: 802febe2
+      K Carney: 7097b37e
+      K Peddrick: a031b75e
+      L Barnett: d9a2345a
+      M Jameson: bdf1ffe3
+      M Prabhudesa: c36bcd1e
+      M Rathnayake: a969dc4c
+      R Overman: 2ec52460
+      R Webster: cdfb59b8
+      S Hassall: 39f23bd0
+      S Kanankege: '01815edc'
+      T Araliya: d423f390
+  teams:
+  - Isle of Man
+  - Italy
+  toss:
+    winner: Isle of Man
+    decision: bat
+  umpires:
+  - DH Mclean
+  - M Prabhudesa
+  venue: Roma Cricket Ground
+innings:
+- 1st innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Cleator
+        batsman: L Barnett
+    - 0.2:
+        non_striker: L Barnett
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Cleator
+        wicket:
+          player_out: E Cleator
+          fielders:
+          - C Piparo
+          kind: caught
+    - 0.3:
+        non_striker: L Barnett
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 0.4:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 0.5:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 0.6:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 1.1:
+        non_striker: L Barnett
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 1.2:
+        non_striker: C Henery
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 1.3:
+        non_striker: C Henery
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 1.4:
+        non_striker: C Henery
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 1.5:
+        non_striker: C Henery
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Barnett
+    - 1.6:
+        non_striker: L Barnett
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Henery
+    - 2.1:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 2.2:
+        non_striker: L Barnett
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 2.3:
+        non_striker: L Barnett
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Henery
+    - 2.4:
+        non_striker: L Barnett
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 2.5:
+        non_striker: L Barnett
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Henery
+    - 2.6:
+        non_striker: L Barnett
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Henery
+    - 3.1:
+        non_striker: C Henery
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 3.2:
+        non_striker: L Barnett
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 3.3:
+        non_striker: L Barnett
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Henery
+    - 3.4:
+        non_striker: L Barnett
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 3.5:
+        non_striker: L Barnett
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Henery
+    - 3.6:
+        non_striker: L Barnett
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 3.7:
+        non_striker: L Barnett
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+    - 4.1:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+        wicket:
+          player_out: L Barnett
+          fielders:
+          - C Piparo
+          kind: caught
+    - 4.2:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hassall
+    - 4.3:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hassall
+    - 4.4:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hassall
+    - 4.5:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hassall
+        wicket:
+          player_out: S Hassall
+          fielders:
+          - M Rathnayake
+          kind: caught
+    - 4.6:
+        non_striker: C Henery
+        bowler: C Mahamalage
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Carney
+    - 4.7:
+        non_striker: K Carney
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Henery
+    - 5.1:
+        non_striker: K Carney
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Henery
+        wicket:
+          player_out: C Henery
+          fielders:
+          - AS Wikman
+          kind: caught
+    - 5.2:
+        non_striker: K Carney
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Overman
+    - 5.3:
+        non_striker: R Overman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Carney
+    - 5.4:
+        non_striker: R Overman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Carney
+    - 5.5:
+        non_striker: K Carney
+        bowler: K Peddrick
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Overman
+    - 5.6:
+        non_striker: R Overman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Carney
+    - 5.7:
+        non_striker: K Carney
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Overman
+    - 6.1:
+        non_striker: K Carney
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Overman
+    - 6.2:
+        non_striker: K Carney
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Overman
+    - 6.3:
+        non_striker: R Overman
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Carney
+    - 6.4:
+        non_striker: K Carney
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Overman
+    - 6.5:
+        non_striker: R Overman
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Carney
+    - 6.6:
+        non_striker: R Overman
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Carney
+    - 7.1:
+        non_striker: K Carney
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Overman
+    - 7.2:
+        non_striker: R Overman
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Carney
+    - 7.3:
+        non_striker: R Overman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Carney
+        wicket:
+          player_out: K Carney
+          kind: bowled
+    - 7.4:
+        non_striker: R Overman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Webster
+    - 7.5:
+        non_striker: R Overman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Webster
+    - 7.6:
+        non_striker: R Overman
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Webster
+    - 7.7:
+        non_striker: R Overman
+        bowler: K Peddrick
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Webster
+    - 7.8:
+        non_striker: R Webster
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Overman
+    - 8.1:
+        non_striker: R Webster
+        bowler: T Araliya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Overman
+    - 8.2:
+        non_striker: R Webster
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Overman
+    - 8.3:
+        non_striker: R Webster
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Overman
+    - 8.4:
+        non_striker: R Overman
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Webster
+    - 8.5:
+        non_striker: R Webster
+        bowler: T Araliya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Overman
+    - 8.6:
+        non_striker: R Webster
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Overman
+    - 8.7:
+        non_striker: R Webster
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Overman
+    - 8.8:
+        non_striker: R Webster
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Overman
+        wicket:
+          player_out: R Overman
+          fielders:
+          - EL Bartram
+          kind: caught
+    - 9.1:
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Murphy
+        batsman: R Webster
+    - 9.2:
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Murphy
+        batsman: R Webster
+    - 9.3:
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Murphy
+        batsman: R Webster
+    - 9.4:
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Murphy
+        batsman: R Webster
+    - 9.5:
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Murphy
+        batsman: R Webster
+    - 9.6:
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Murphy
+        batsman: R Webster
+    - 9.7:
+        non_striker: R Webster
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Murphy
+    - 10.1:
+        non_striker: D Murphy
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Webster
+    - 10.2:
+        non_striker: D Murphy
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Webster
+    - 10.3:
+        non_striker: D Murphy
+        bowler: T Araliya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Webster
+    - 10.4:
+        non_striker: D Murphy
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Webster
+    - 10.5:
+        non_striker: D Murphy
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Webster
+    - 10.6:
+        non_striker: D Murphy
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Webster
+    - 10.7:
+        non_striker: D Murphy
+        bowler: T Araliya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Webster
+    - 11.1:
+        non_striker: R Webster
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Murphy
+    - 11.2:
+        non_striker: R Webster
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Murphy
+    - 11.3:
+        non_striker: R Webster
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Murphy
+    - 11.4:
+        non_striker: D Murphy
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Webster
+        wicket:
+          player_out: R Webster
+          fielders:
+          - A Kontopirakis
+          kind: caught
+    - 11.5:
+        non_striker: D Murphy
+        bowler: Ilenia Sims
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Perry
+    - 11.6:
+        non_striker: D Murphy
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Perry
+    - 11.7:
+        non_striker: C Perry
+        bowler: Ilenia Sims
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Murphy
+    - 11.8:
+        non_striker: C Perry
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Murphy
+    - 12.1:
+        non_striker: D Murphy
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+    - 12.2:
+        non_striker: D Murphy
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+    - 12.3:
+        non_striker: D Murphy
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Perry
+    - 12.4:
+        non_striker: C Perry
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Murphy
+    - 12.5:
+        non_striker: D Murphy
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Perry
+    - 12.6:
+        non_striker: C Perry
+        bowler: D Nanayakkara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Murphy
+    - 13.1:
+        non_striker: C Perry
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Murphy
+    - 13.2:
+        non_striker: C Perry
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Murphy
+    - 13.3:
+        non_striker: D Murphy
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+    - 13.4:
+        non_striker: D Murphy
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Perry
+    - 13.5:
+        non_striker: D Murphy
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+        wicket:
+          player_out: D Murphy
+          fielders:
+          - M Rathnayake
+          - C Piparo
+          kind: run out
+    - 13.6:
+        non_striker: C Perry
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Thorpe
+    - 14.1:
+        non_striker: A Thorpe
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+    - 14.2:
+        non_striker: A Thorpe
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+    - 14.3:
+        non_striker: A Thorpe
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Perry
+        wicket:
+          player_out: C Perry
+          kind: caught and bowled
+    - 14.4:
+        non_striker: A Thorpe
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hicks
+        wicket:
+          player_out: J Hicks
+          kind: bowled
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Nanayakkara
+        batsman: M Rathnayake
+    - 0.2:
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Nanayakkara
+        batsman: M Rathnayake
+    - 0.3:
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Nanayakkara
+        batsman: M Rathnayake
+    - 0.4:
+        non_striker: M Rathnayake
+        bowler: L Barnett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanayakkara
+    - 0.5:
+        non_striker: M Rathnayake
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 0.6:
+        non_striker: D Nanayakkara
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+        wicket:
+          player_out: M Rathnayake
+          fielders:
+          - D Murphy
+          kind: caught
+    - 0.7:
+        non_striker: D Nanayakkara
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+    - 1.1:
+        non_striker: A Kontopirakis
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 1.2:
+        non_striker: A Kontopirakis
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 1.3:
+        non_striker: A Kontopirakis
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 1.4:
+        non_striker: A Kontopirakis
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 1.5:
+        non_striker: A Kontopirakis
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 1.6:
+        non_striker: A Kontopirakis
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 2.1:
+        non_striker: D Nanayakkara
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 2.2:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 2.3:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+        wicket:
+          player_out: D Nanayakkara
+          fielders:
+          - S Hassall
+          kind: caught
+    - 2.4:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Bartram
+    - 2.5:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 2.6:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 3.1:
+        non_striker: EL Bartram
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kontopirakis
+    - 3.2:
+        non_striker: EL Bartram
+        bowler: C Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Kontopirakis
+    - 3.3:
+        non_striker: A Kontopirakis
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 3.4:
+        non_striker: A Kontopirakis
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 3.5:
+        non_striker: EL Bartram
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kontopirakis
+    - 3.6:
+        non_striker: EL Bartram
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 4.1:
+        non_striker: EL Bartram
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+    - 4.2:
+        non_striker: EL Bartram
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 4.3:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 4.4:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 4.5:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 4.6:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Bartram
+    - 4.7:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 5.1:
+        non_striker: EL Bartram
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+    - 5.2:
+        non_striker: EL Bartram
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+    - 5.3:
+        non_striker: EL Bartram
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kontopirakis
+    - 5.4:
+        non_striker: EL Bartram
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+    - 5.5:
+        non_striker: EL Bartram
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+    - 5.6:
+        non_striker: EL Bartram
+        bowler: A Thorpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kontopirakis
+    - 5.7:
+        non_striker: EL Bartram
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 6.1:
+        non_striker: EL Bartram
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kontopirakis
+    - 6.2:
+        non_striker: EL Bartram
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 6.3:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 6.4:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 6.5:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 6.6:
+        non_striker: A Kontopirakis
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 7.1:
+        non_striker: A Kontopirakis
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 7.2:
+        non_striker: A Kontopirakis
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 7.3:
+        non_striker: A Kontopirakis
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 7.4:
+        non_striker: EL Bartram
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 7.5:
+        non_striker: A Kontopirakis
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EL Bartram
+    - 7.6:
+        non_striker: A Kontopirakis
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 8.1:
+        non_striker: EL Bartram
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kontopirakis
+    - 8.2:
+        non_striker: EL Bartram
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kontopirakis
+    - 8.3:
+        non_striker: EL Bartram
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 8.4:
+        non_striker: A Kontopirakis
+        bowler: C Henery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Bartram
+    - 8.5:
+        non_striker: A Kontopirakis
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 8.6:
+        non_striker: EL Bartram
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Kontopirakis
+    - 8.7:
+        non_striker: EL Bartram
+        bowler: C Henery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 9.1:
+        non_striker: EL Bartram
+        bowler: D Murphy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kontopirakis
+    - 9.2:
+        non_striker: EL Bartram
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis
+    - 9.3:
+        non_striker: A Kontopirakis
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 9.4:
+        non_striker: A Kontopirakis
+        bowler: D Murphy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EL Bartram
+    - 9.5:
+        non_striker: A Kontopirakis
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 9.6:
+        non_striker: EL Bartram
+        bowler: D Murphy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kontopirakis
+    - 9.7:
+        non_striker: EL Bartram
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kontopirakis

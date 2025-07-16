@@ -1,0 +1,1820 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2024-12-20'
+  gender: male
+  match_type: T20
+  match_type_number: 3076
+  outcome:
+    winner: Qatar
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Muhammad Asim
+  players:
+    Bahrain:
+    - P Kurup
+    - Sarfaraz Ali
+    - Imran Anwar
+    - Asif Ali
+    - Haider Butt
+    - Ahmer Bin Nisar
+    - S Sarthak
+    - Muhammed Basil
+    - Rizwan Butt
+    - Abdul Majid Abbasi
+    - Imran Khan
+    Qatar:
+    - Saqlain Arshad
+    - I Liyanage
+    - Mohammad Rizlan
+    - Muhammad Tanveer
+    - Muhammad Asim
+    - Ikramullah Khan
+    - Muhammad Jabir
+    - Mohammed Nadeem
+    - H Rathod
+    - Amir Farooq
+    - A Nagarajan
+  registry:
+    people:
+      A Nagarajan: 856dcfa8
+      Abdul Majid Abbasi: 0cfb42b5
+      Ahmer Bin Nisar: afbc53ba
+      Amir Farooq: 6e991bd4
+      Asif Ali: 0a4736eb
+      G Pillai: c363921c
+      H Rathod: 1f943bef
+      Haider Butt: 14fd10b5
+      I Liyanage: 826e1017
+      Iftikhar Ali: fc537391
+      Ikramullah Khan: c6e1354c
+      Imran Anwar: a9a18e3e
+      Imran Khan: da3b91fd
+      Mohammad Rizlan: 82afc034
+      Mohammed Nadeem: 856cbb1e
+      Muhammad Asim: b424d3d3
+      Muhammad Jabir: b67af1c4
+      Muhammad Tanveer: aef39fe4
+      Muhammed Basil: 457e6a8e
+      P Kurup: 50ceaef6
+      Rahat Ali: 458161f4
+      Rizwan Butt: e741ed8f
+      S Sarthak: 9f2c6cd3
+      Saqlain Arshad: 71ad618b
+      Sarfaraz Ali: db95ddeb
+      Shiju Sam: 1e2f3eae
+      Zahid Usman: 5ee3b5bd
+  teams:
+  - Bahrain
+  - Qatar
+  toss:
+    winner: Qatar
+    decision: field
+  umpires:
+  - Rahat Ali
+  - Zahid Usman
+  venue: ICC Academy, Dubai
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sarfaraz Ali
+        batsman: P Kurup
+    - 0.2:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sarfaraz Ali
+        batsman: P Kurup
+    - 0.3:
+        bowler: Muhammad Jabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Sarfaraz Ali
+        batsman: P Kurup
+    - 0.4:
+        non_striker: P Kurup
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfaraz Ali
+    - 0.5:
+        non_striker: P Kurup
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+        wicket:
+          player_out: Sarfaraz Ali
+          kind: bowled
+    - 0.6:
+        non_striker: P Kurup
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Anwar
+    - 1.1:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Anwar
+    - 1.2:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imran Anwar
+    - 1.3:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Anwar
+        wicket:
+          player_out: Imran Anwar
+          kind: lbw
+    - 1.4:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 1.5:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 1.6:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 2.1:
+        non_striker: Asif Ali
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 2.2:
+        non_striker: Asif Ali
+        bowler: Muhammad Jabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Kurup
+    - 2.3:
+        non_striker: P Kurup
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 2.4:
+        non_striker: P Kurup
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Ali
+    - 2.5:
+        non_striker: P Kurup
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Ali
+    - 2.6:
+        non_striker: P Kurup
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Ali
+    - 3.1:
+        non_striker: Asif Ali
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 3.2:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 3.3:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 3.4:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Ali
+    - 3.5:
+        non_striker: P Kurup
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 3.6:
+        non_striker: Asif Ali
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 4.1:
+        non_striker: Asif Ali
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+        wicket:
+          player_out: P Kurup
+          kind: lbw
+    - 4.2:
+        non_striker: Asif Ali
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 4.3:
+        non_striker: Asif Ali
+        bowler: Muhammad Jabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Haider Butt
+    - 4.4:
+        non_striker: Haider Butt
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 4.5:
+        non_striker: Haider Butt
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 4.6:
+        non_striker: Asif Ali
+        bowler: Muhammad Jabir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haider Butt
+    - 5.1:
+        non_striker: Haider Butt
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 5.2:
+        non_striker: Asif Ali
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 5.3:
+        non_striker: Asif Ali
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 5.4:
+        non_striker: Asif Ali
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 5.5:
+        non_striker: Haider Butt
+        bowler: Amir Farooq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asif Ali
+    - 5.6:
+        non_striker: Haider Butt
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 5.7:
+        non_striker: Asif Ali
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 6.1:
+        non_striker: Asif Ali
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Haider Butt
+    - 6.2:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 6.3:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 6.4:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asif Ali
+    - 6.5:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 6.6:
+        non_striker: Asif Ali
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 6.7:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asif Ali
+    - 6.8:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Ali
+    - 7.1:
+        non_striker: Asif Ali
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 7.2:
+        non_striker: Asif Ali
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haider Butt
+    - 7.3:
+        non_striker: Asif Ali
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 7.4:
+        non_striker: Asif Ali
+        bowler: H Rathod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Haider Butt
+    - 7.5:
+        non_striker: Asif Ali
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+        wicket:
+          player_out: Asif Ali
+          fielders:
+          - I Liyanage
+          kind: run out
+    - 7.6:
+        non_striker: Haider Butt
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 7.7:
+        non_striker: Haider Butt
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 8.1:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 8.2:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmer Bin Nisar
+    - 8.3:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 8.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 8.5:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 8.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 9.1:
+        non_striker: Haider Butt
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmer Bin Nisar
+    - 9.2:
+        non_striker: Haider Butt
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 9.3:
+        non_striker: Ahmer Bin Nisar
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 9.4:
+        non_striker: Haider Butt
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmer Bin Nisar
+    - 9.5:
+        non_striker: Haider Butt
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 9.6:
+        non_striker: Haider Butt
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 10.1:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 10.2:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 10.3:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Butt
+    - 10.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 10.5:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 10.6:
+        non_striker: Haider Butt
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 11.1:
+        non_striker: Ahmer Bin Nisar
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 11.2:
+        non_striker: Haider Butt
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 11.3:
+        non_striker: Haider Butt
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 11.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haider Butt
+    - 11.5:
+        non_striker: Ahmer Bin Nisar
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Butt
+    - 11.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 12.1:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+        wicket:
+          player_out: Haider Butt
+          kind: caught and bowled
+    - 12.2:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sarthak
+    - 12.3:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarthak
+    - 12.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sarthak
+    - 12.5:
+        non_striker: Ahmer Bin Nisar
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarthak
+    - 12.6:
+        non_striker: S Sarthak
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 13.1:
+        non_striker: Ahmer Bin Nisar
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarthak
+    - 13.2:
+        non_striker: S Sarthak
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 13.3:
+        non_striker: S Sarthak
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 13.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarthak
+    - 13.5:
+        non_striker: S Sarthak
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 13.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: Ikramullah Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: S Sarthak
+    - 14.1:
+        non_striker: S Sarthak
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 14.2:
+        non_striker: S Sarthak
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmer Bin Nisar
+    - 14.3:
+        non_striker: S Sarthak
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+        wicket:
+          player_out: Ahmer Bin Nisar
+          kind: bowled
+    - 14.4:
+        non_striker: S Sarthak
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Basil
+    - 14.5:
+        non_striker: S Sarthak
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Basil
+    - 14.6:
+        non_striker: S Sarthak
+        bowler: H Rathod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammed Basil
+    - 14.7:
+        non_striker: S Sarthak
+        bowler: H Rathod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Basil
+    - 15.1:
+        non_striker: Muhammed Basil
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarthak
+    - 15.2:
+        non_striker: S Sarthak
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Basil
+    - 15.3:
+        non_striker: S Sarthak
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Basil
+        wicket:
+          player_out: Muhammed Basil
+          kind: bowled
+    - 15.4:
+        non_striker: S Sarthak
+        bowler: Ikramullah Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rizwan Butt
+    - 15.5:
+        non_striker: S Sarthak
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizwan Butt
+        wicket:
+          player_out: Rizwan Butt
+          fielders:
+          - A Nagarajan
+          kind: caught
+    - 15.6:
+        non_striker: S Sarthak
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Majid Abbasi
+    - 15.7:
+        non_striker: S Sarthak
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Majid Abbasi
+    - 16.1:
+        non_striker: Abdul Majid Abbasi
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarthak
+    - 16.2:
+        non_striker: S Sarthak
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Majid Abbasi
+        wicket:
+          player_out: Abdul Majid Abbasi
+          kind: caught and bowled
+    - 16.3:
+        non_striker: S Sarthak
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan
+        wicket:
+          player_out: Imran Khan
+          kind: bowled
+- 2nd innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: I Liyanage
+        batsman: Saqlain Arshad
+    - 0.2:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Liyanage
+        batsman: Saqlain Arshad
+    - 0.3:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: I Liyanage
+        batsman: Saqlain Arshad
+    - 0.4:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Liyanage
+        batsman: Saqlain Arshad
+    - 0.5:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Liyanage
+        batsman: Saqlain Arshad
+    - 0.6:
+        non_striker: I Liyanage
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 1.1:
+        non_striker: Saqlain Arshad
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 1.2:
+        non_striker: I Liyanage
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 1.3:
+        non_striker: I Liyanage
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 1.4:
+        non_striker: I Liyanage
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 1.5:
+        non_striker: I Liyanage
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 1.6:
+        non_striker: I Liyanage
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 2.1:
+        non_striker: Saqlain Arshad
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 2.2:
+        non_striker: I Liyanage
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqlain Arshad
+    - 2.3:
+        non_striker: Saqlain Arshad
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 2.4:
+        non_striker: Saqlain Arshad
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 2.5:
+        non_striker: I Liyanage
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saqlain Arshad
+    - 2.6:
+        non_striker: I Liyanage
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 3.1:
+        non_striker: Saqlain Arshad
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 3.2:
+        non_striker: I Liyanage
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saqlain Arshad
+    - 3.3:
+        non_striker: I Liyanage
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqlain Arshad
+    - 3.4:
+        non_striker: Saqlain Arshad
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 3.5:
+        non_striker: I Liyanage
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saqlain Arshad
+    - 3.6:
+        non_striker: I Liyanage
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 4.1:
+        non_striker: Saqlain Arshad
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 4.2:
+        non_striker: Saqlain Arshad
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 4.3:
+        non_striker: Saqlain Arshad
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 4.4:
+        non_striker: I Liyanage
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 4.5:
+        non_striker: I Liyanage
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saqlain Arshad
+    - 4.6:
+        non_striker: I Liyanage
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqlain Arshad
+    - 5.1:
+        non_striker: I Liyanage
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqlain Arshad
+    - 5.2:
+        non_striker: Saqlain Arshad
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 5.3:
+        non_striker: Saqlain Arshad
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 5.4:
+        non_striker: I Liyanage
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqlain Arshad
+    - 5.5:
+        non_striker: Saqlain Arshad
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 5.6:
+        non_striker: Saqlain Arshad
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 6.1:
+        non_striker: I Liyanage
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+        wicket:
+          player_out: Saqlain Arshad
+          kind: bowled
+    - 6.2:
+        non_striker: I Liyanage
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 6.3:
+        non_striker: I Liyanage
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 6.4:
+        non_striker: Mohammad Rizlan
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 6.5:
+        non_striker: I Liyanage
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizlan
+    - 6.6:
+        non_striker: I Liyanage
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+        wicket:
+          player_out: Mohammad Rizlan
+          kind: lbw
+    - 7.1:
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Tanveer
+        batsman: I Liyanage
+    - 7.2:
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Muhammad Tanveer
+        batsman: I Liyanage
+    - 7.3:
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Muhammad Tanveer
+        batsman: I Liyanage
+    - 7.4:
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Tanveer
+        batsman: I Liyanage
+    - 7.5:
+        non_striker: I Liyanage
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 7.6:
+        non_striker: Muhammad Tanveer
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 8.1:
+        non_striker: I Liyanage
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 8.2:
+        non_striker: I Liyanage
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+        wicket:
+          player_out: I Liyanage
+          fielders:
+          - S Sarthak
+          - Rizwan Butt
+          kind: run out
+    - 8.3:
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Asim
+        batsman: Muhammad Tanveer
+    - 8.4:
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Asim
+        batsman: Muhammad Tanveer
+    - 8.5:
+        non_striker: Muhammad Tanveer
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 8.6:
+        non_striker: Muhammad Tanveer
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 9.1:
+        non_striker: Muhammad Asim
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 9.2:
+        non_striker: Muhammad Asim
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 9.3:
+        non_striker: Muhammad Tanveer
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 9.4:
+        non_striker: Muhammad Asim
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 9.5:
+        non_striker: Muhammad Asim
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 9.6:
+        non_striker: Muhammad Asim
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 10.1:
+        non_striker: Muhammad Tanveer
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 10.2:
+        non_striker: Muhammad Tanveer
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 10.3:
+        non_striker: Muhammad Tanveer
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 10.4:
+        non_striker: Muhammad Asim
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+        wicket:
+          player_out: Muhammad Tanveer
+          fielders:
+          - Rizwan Butt
+          kind: caught
+    - 10.5:
+        non_striker: Muhammad Asim
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 10.6:
+        non_striker: Muhammad Asim
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 11.1:
+        non_striker: Ikramullah Khan
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 11.2:
+        non_striker: Muhammad Asim
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 11.3:
+        non_striker: Ikramullah Khan
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 11.4:
+        non_striker: Ikramullah Khan
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 11.5:
+        non_striker: Ikramullah Khan
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 11.6:
+        non_striker: Muhammad Asim
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 12.1:
+        non_striker: Ikramullah Khan
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 12.2:
+        non_striker: Muhammad Asim
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 12.3:
+        non_striker: Ikramullah Khan
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 12.4:
+        non_striker: Ikramullah Khan
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 12.5:
+        non_striker: Ikramullah Khan
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 12.6:
+        non_striker: Ikramullah Khan
+        bowler: S Sarthak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 13.1:
+        non_striker: Ikramullah Khan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 13.2:
+        non_striker: Ikramullah Khan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 13.3:
+        non_striker: Ikramullah Khan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 13.4:
+        non_striker: Ikramullah Khan
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 13.5:
+        non_striker: Muhammad Asim
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 13.6:
+        non_striker: Muhammad Asim
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 14.1:
+        non_striker: Ikramullah Khan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 14.2:
+        non_striker: Ikramullah Khan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 14.3:
+        non_striker: Ikramullah Khan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 14.4:
+        non_striker: Ikramullah Khan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 14.5:
+        non_striker: Ikramullah Khan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 14.6:
+        non_striker: Ikramullah Khan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 15.1:
+        non_striker: Ikramullah Khan
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 15.2:
+        non_striker: Ikramullah Khan
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 15.3:
+        non_striker: Ikramullah Khan
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 15.4:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 15.5:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 15.6:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 16.1:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 16.2:
+        non_striker: Ikramullah Khan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 16.3:
+        non_striker: Ikramullah Khan
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 16.4:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 16.5:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ikramullah Khan
+    - 16.6:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ikramullah Khan

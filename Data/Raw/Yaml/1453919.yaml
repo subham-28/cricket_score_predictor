@@ -1,0 +1,2241 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gelephu
+  dates:
+  - '2024-10-24'
+  gender: male
+  match_type: T20
+  match_type_number: 2932
+  outcome:
+    winner: Bhutan
+    by:
+      wickets: 1
+  overs: 20
+  player_of_match:
+  - D Dawa
+  players:
+    Indonesia:
+    - KD Kesuma
+    - Ahmad Ramdoni
+    - Anjar Tadarus
+    - DJ Hawoe
+    - J Dzulfikar
+    - IKEG Artawan
+    - GD Arta
+    - RM Koda
+    - DGAPD Wiswi
+    - AA Rahayu
+    - A Alexander
+    Bhutan:
+    - S Pradhan
+    - Tenjin Rabgey
+    - RM Dorji
+    - T Jamtsho
+    - J Singye
+    - Namgay Thinley
+    - GK Ghalley
+    - T Wangchuk
+    - Tshering Tashi
+    - S Yeshi
+    - D Dawa
+  registry:
+    people:
+      A Alexander: ef6d6883
+      AA Rahayu: 2327fdc7
+      AK Rai: 1d70834a
+      Ahmad Ramdoni: b5f30525
+      Anjar Tadarus: '72275237'
+      D Dawa: 676aeb1b
+      DGAPD Wiswi: d3d096f5
+      DJ Hawoe: a62f55ba
+      GD Arta: e969e580
+      GK Ghalley: 2d1b6dee
+      IKEG Artawan: 190957d2
+      J Dzulfikar: 05ea0342
+      J Singye: '28574428'
+      KD Kesuma: 4b349dc0
+      Namgay Thinley: 9c333e40
+      ON Pradhan: d41a08d6
+      RM Dorji: 3d7f02d4
+      RM Koda: f0a45427
+      S Pradhan: 04f0d409
+      S Yeshi: 0c24fb7b
+      Sarika Prasad: 8ff397fa
+      T Jamtsho: c01d1c0a
+      T Wangchuk: 39799e49
+      Tenjin Rabgey: 1fed517a
+      Tshering Tashi: 596c60cf
+      U Dorji: 12bba2d4
+  teams:
+  - Indonesia
+  - Bhutan
+  toss:
+    winner: Indonesia
+    decision: bat
+  umpires:
+  - AK Rai
+  - ON Pradhan
+  venue: Gelephu International Cricket Ground
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmad Ramdoni
+        batsman: KD Kesuma
+    - 0.2:
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ahmad Ramdoni
+        batsman: KD Kesuma
+    - 0.3:
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ahmad Ramdoni
+        batsman: KD Kesuma
+    - 0.4:
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ahmad Ramdoni
+        batsman: KD Kesuma
+    - 0.5:
+        non_striker: KD Kesuma
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 0.6:
+        non_striker: KD Kesuma
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 1.1:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          kind: bowled
+    - 1.2:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 1.3:
+        non_striker: Anjar Tadarus
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+        wicket:
+          player_out: Anjar Tadarus
+          fielders:
+          - Namgay Thinley
+          - Tshering Tashi
+          kind: run out
+    - 1.4:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 1.5:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Hawoe
+    - 1.6:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Hawoe
+    - 1.7:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          fielders:
+          - Namgay Thinley
+          kind: caught
+    - 1.8:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dzulfikar
+    - 2.1:
+        non_striker: J Dzulfikar
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 2.2:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dzulfikar
+    - 2.3:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dzulfikar
+    - 2.4:
+        non_striker: J Dzulfikar
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmad Ramdoni
+    - 2.5:
+        non_striker: J Dzulfikar
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 2.6:
+        non_striker: J Dzulfikar
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 3.1:
+        non_striker: J Dzulfikar
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 3.2:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dzulfikar
+    - 3.3:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Dzulfikar
+    - 3.4:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dzulfikar
+    - 3.5:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dzulfikar
+        wicket:
+          player_out: J Dzulfikar
+          fielders:
+          - Tshering Tashi
+          kind: caught
+    - 3.6:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IKEG Artawan
+    - 3.7:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 4.1:
+        non_striker: IKEG Artawan
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 4.2:
+        non_striker: IKEG Artawan
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 4.3:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 4.4:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 4.5:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 4.6:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 5.1:
+        non_striker: IKEG Artawan
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 5.2:
+        non_striker: IKEG Artawan
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 5.3:
+        non_striker: Ahmad Ramdoni
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 5.4:
+        non_striker: IKEG Artawan
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 5.5:
+        non_striker: IKEG Artawan
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 5.6:
+        non_striker: IKEG Artawan
+        bowler: D Dawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmad Ramdoni
+    - 6.1:
+        non_striker: Ahmad Ramdoni
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 6.2:
+        non_striker: Ahmad Ramdoni
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 6.3:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 6.4:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 6.5:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 6.6:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 7.1:
+        non_striker: Ahmad Ramdoni
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 7.2:
+        non_striker: IKEG Artawan
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 7.3:
+        non_striker: Ahmad Ramdoni
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.4:
+        non_striker: Ahmad Ramdoni
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.5:
+        non_striker: Ahmad Ramdoni
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.6:
+        non_striker: Ahmad Ramdoni
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 8.1:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.2:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.3:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.4:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.5:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.6:
+        non_striker: IKEG Artawan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 9.1:
+        non_striker: Ahmad Ramdoni
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 9.2:
+        non_striker: Ahmad Ramdoni
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 9.3:
+        non_striker: IKEG Artawan
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 9.4:
+        non_striker: IKEG Artawan
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 9.5:
+        non_striker: IKEG Artawan
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 9.6:
+        non_striker: IKEG Artawan
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 10.1:
+        non_striker: Ahmad Ramdoni
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 10.2:
+        non_striker: Ahmad Ramdoni
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 10.3:
+        non_striker: Ahmad Ramdoni
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 10.4:
+        non_striker: Ahmad Ramdoni
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 10.5:
+        non_striker: Ahmad Ramdoni
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 10.6:
+        non_striker: Ahmad Ramdoni
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IKEG Artawan
+    - 11.1:
+        non_striker: IKEG Artawan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 11.2:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 11.3:
+        non_striker: IKEG Artawan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 11.4:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 11.5:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: IKEG Artawan
+    - 11.6:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 12.1:
+        non_striker: IKEG Artawan
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 12.2:
+        non_striker: IKEG Artawan
+        bowler: T Jamtsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ahmad Ramdoni
+    - 12.3:
+        non_striker: IKEG Artawan
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 12.4:
+        non_striker: Ahmad Ramdoni
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 12.5:
+        non_striker: Ahmad Ramdoni
+        bowler: T Jamtsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: IKEG Artawan
+    - 12.6:
+        non_striker: Ahmad Ramdoni
+        bowler: T Jamtsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IKEG Artawan
+    - 12.7:
+        non_striker: Ahmad Ramdoni
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IKEG Artawan
+    - 12.8:
+        non_striker: Ahmad Ramdoni
+        bowler: T Jamtsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IKEG Artawan
+    - 12.9:
+        non_striker: Ahmad Ramdoni
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 12.10:
+        non_striker: Ahmad Ramdoni
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 13.1:
+        non_striker: IKEG Artawan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.2:
+        non_striker: IKEG Artawan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 13.3:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 13.4:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 13.5:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 13.6:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 14.1:
+        non_striker: IKEG Artawan
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmad Ramdoni
+    - 14.2:
+        non_striker: IKEG Artawan
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 14.3:
+        non_striker: Ahmad Ramdoni
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IKEG Artawan
+    - 14.4:
+        non_striker: Ahmad Ramdoni
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IKEG Artawan
+    - 14.5:
+        non_striker: Ahmad Ramdoni
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IKEG Artawan
+    - 14.6:
+        non_striker: Ahmad Ramdoni
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 15.1:
+        non_striker: IKEG Artawan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 15.2:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IKEG Artawan
+    - 15.3:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IKEG Artawan
+    - 15.4:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 15.5:
+        non_striker: IKEG Artawan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 15.6:
+        non_striker: Ahmad Ramdoni
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 16.1:
+        non_striker: IKEG Artawan
+        bowler: T Wangchuk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ahmad Ramdoni
+    - 16.2:
+        non_striker: Ahmad Ramdoni
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 16.3:
+        non_striker: Ahmad Ramdoni
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IKEG Artawan
+    - 16.4:
+        non_striker: Ahmad Ramdoni
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 16.5:
+        non_striker: IKEG Artawan
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmad Ramdoni
+    - 16.6:
+        non_striker: IKEG Artawan
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 17.1:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+        wicket:
+          player_out: IKEG Artawan
+          kind: bowled
+    - 17.2:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 17.3:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 17.4:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 17.5:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 17.6:
+        non_striker: GD Arta
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 18.1:
+        non_striker: Ahmad Ramdoni
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 18.2:
+        non_striker: GD Arta
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 18.3:
+        non_striker: GD Arta
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 18.4:
+        non_striker: Ahmad Ramdoni
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 18.5:
+        non_striker: GD Arta
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 18.6:
+        non_striker: Ahmad Ramdoni
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 19.1:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 19.2:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 19.3:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 19.4:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Arta
+    - 19.5:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Arta
+    - 19.6:
+        non_striker: Ahmad Ramdoni
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+        wicket:
+          player_out: GD Arta
+          fielders:
+          - RM Dorji
+          - Tshering Tashi
+          kind: run out
+- 2nd innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tenjin Rabgey
+        batsman: S Pradhan
+    - 0.2:
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tenjin Rabgey
+        batsman: S Pradhan
+    - 0.3:
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tenjin Rabgey
+        batsman: S Pradhan
+    - 0.4:
+        non_striker: Tenjin Rabgey
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+        wicket:
+          player_out: S Pradhan
+          fielders:
+          - J Dzulfikar
+          kind: caught
+    - 0.5:
+        non_striker: Tenjin Rabgey
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Dorji
+    - 0.6:
+        non_striker: Tenjin Rabgey
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 1.1:
+        non_striker: RM Dorji
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.2:
+        non_striker: RM Dorji
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.3:
+        non_striker: RM Dorji
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.4:
+        non_striker: RM Dorji
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tenjin Rabgey
+    - 1.5:
+        non_striker: RM Dorji
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.6:
+        non_striker: RM Dorji
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 2.1:
+        non_striker: RM Dorji
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 2.2:
+        non_striker: RM Dorji
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tenjin Rabgey
+    - 2.3:
+        non_striker: RM Dorji
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tenjin Rabgey
+    - 2.4:
+        non_striker: RM Dorji
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 2.5:
+        non_striker: RM Dorji
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 2.6:
+        non_striker: RM Dorji
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 2.7:
+        non_striker: Tenjin Rabgey
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 2.8:
+        non_striker: Tenjin Rabgey
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 3.1:
+        non_striker: Tenjin Rabgey
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Dorji
+    - 3.2:
+        non_striker: Tenjin Rabgey
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 3.3:
+        non_striker: Tenjin Rabgey
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+        wicket:
+          player_out: RM Dorji
+          fielders:
+          - AA Rahayu
+          kind: caught
+    - 3.4:
+        non_striker: Tenjin Rabgey
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 3.5:
+        non_striker: Tenjin Rabgey
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 3.6:
+        non_striker: Tenjin Rabgey
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Jamtsho
+    - 4.1:
+        non_striker: T Jamtsho
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.2:
+        non_striker: T Jamtsho
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tenjin Rabgey
+    - 4.3:
+        non_striker: T Jamtsho
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.4:
+        non_striker: T Jamtsho
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tenjin Rabgey
+    - 4.5:
+        non_striker: T Jamtsho
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tenjin Rabgey
+    - 4.6:
+        non_striker: T Jamtsho
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.7:
+        non_striker: T Jamtsho
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tenjin Rabgey
+    - 4.8:
+        non_striker: T Jamtsho
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.9:
+        non_striker: T Jamtsho
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tenjin Rabgey
+    - 5.1:
+        non_striker: Tenjin Rabgey
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 5.2:
+        non_striker: Tenjin Rabgey
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+        wicket:
+          player_out: T Jamtsho
+          kind: bowled
+    - 5.3:
+        non_striker: Tenjin Rabgey
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 5.4:
+        non_striker: J Singye
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 5.5:
+        non_striker: Tenjin Rabgey
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 5.6:
+        non_striker: J Singye
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tenjin Rabgey
+    - 6.1:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 6.2:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 6.3:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 6.4:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 6.5:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 6.6:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 7.1:
+        non_striker: Tenjin Rabgey
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 7.2:
+        non_striker: J Singye
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 7.3:
+        non_striker: Tenjin Rabgey
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Singye
+    - 7.4:
+        non_striker: Tenjin Rabgey
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 7.5:
+        non_striker: Tenjin Rabgey
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 7.6:
+        non_striker: Tenjin Rabgey
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Singye
+    - 8.1:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 8.2:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 8.3:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 8.4:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 8.5:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 8.6:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 9.1:
+        non_striker: J Singye
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 9.2:
+        non_striker: J Singye
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tenjin Rabgey
+    - 9.3:
+        non_striker: J Singye
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 9.4:
+        non_striker: J Singye
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 9.5:
+        non_striker: Tenjin Rabgey
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 9.6:
+        non_striker: Tenjin Rabgey
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 9.7:
+        non_striker: Tenjin Rabgey
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 10.1:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 10.2:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 10.3:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 10.4:
+        non_striker: Tenjin Rabgey
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 10.5:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 10.6:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+        wicket:
+          player_out: Tenjin Rabgey
+          fielders:
+          - Anjar Tadarus
+          kind: caught
+    - 11.1:
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Namgay Thinley
+        batsman: J Singye
+    - 11.2:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Namgay Thinley
+        batsman: J Singye
+    - 11.3:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Namgay Thinley
+        batsman: J Singye
+    - 11.4:
+        non_striker: J Singye
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Namgay Thinley
+    - 11.5:
+        non_striker: J Singye
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 11.6:
+        non_striker: Namgay Thinley
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 11.7:
+        non_striker: Namgay Thinley
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 11.8:
+        non_striker: Namgay Thinley
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 12.1:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 12.2:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 12.3:
+        non_striker: Namgay Thinley
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 12.4:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 12.5:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 12.6:
+        non_striker: J Singye
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 13.1:
+        non_striker: J Singye
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 13.2:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 13.3:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 13.4:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 13.5:
+        non_striker: J Singye
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 13.6:
+        non_striker: J Singye
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 14.1:
+        non_striker: J Singye
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Namgay Thinley
+    - 14.2:
+        non_striker: J Singye
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 14.3:
+        non_striker: Namgay Thinley
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 14.4:
+        non_striker: J Singye
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 14.5:
+        non_striker: Namgay Thinley
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+        wicket:
+          player_out: J Singye
+          fielders:
+          - J Dzulfikar
+          kind: caught
+    - 14.6:
+        non_striker: Namgay Thinley
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 15.1:
+        non_striker: GK Ghalley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 15.2:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 15.3:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 15.4:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 15.5:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 15.6:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 16.1:
+        non_striker: GK Ghalley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 16.2:
+        non_striker: GK Ghalley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 16.3:
+        non_striker: GK Ghalley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Namgay Thinley
+    - 16.4:
+        non_striker: Namgay Thinley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 16.5:
+        non_striker: Namgay Thinley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 16.6:
+        non_striker: Namgay Thinley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Ghalley
+    - 17.1:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GK Ghalley
+    - 17.2:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 17.3:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GK Ghalley
+    - 17.4:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Ghalley
+    - 17.5:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+        wicket:
+          player_out: GK Ghalley
+          fielders:
+          - RM Koda
+          kind: caught
+    - 17.6:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Wangchuk
+    - 17.7:
+        non_striker: Namgay Thinley
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wangchuk
+    - 17.8:
+        non_striker: T Wangchuk
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 18.1:
+        non_striker: Namgay Thinley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wangchuk
+    - 18.2:
+        non_striker: T Wangchuk
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 18.3:
+        non_striker: Namgay Thinley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wangchuk
+    - 18.4:
+        non_striker: Namgay Thinley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Wangchuk
+    - 18.5:
+        non_striker: Namgay Thinley
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wangchuk
+    - 18.6:
+        non_striker: T Wangchuk
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+        wicket:
+          player_out: Namgay Thinley
+          fielders:
+          - Ahmad Ramdoni
+          - A Alexander
+          kind: run out
+    - 19.1:
+        non_striker: Tshering Tashi
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wangchuk
+        wicket:
+          player_out: Tshering Tashi
+          fielders:
+          - DGAPD Wiswi
+          - A Alexander
+          kind: run out
+    - 19.2:
+        non_striker: S Yeshi
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wangchuk
+        wicket:
+          player_out: T Wangchuk
+          kind: bowled
+    - 19.3:
+        non_striker: S Yeshi
+        bowler: A Alexander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dawa
+    - 19.4:
+        non_striker: D Dawa
+        bowler: A Alexander
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Yeshi

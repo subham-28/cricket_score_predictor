@@ -1,0 +1,10 @@
+# Auto-detect text files and normalize to LF in repo
+* text=auto
+# Force yaml files to keep LF line endings
+*.yaml text eol=lf
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+Models/Pipe.pkl filter=lfs diff=lfs merge=lfs -text
+Data/Interim/*.pkl filter=lfs diff=lfs merge=lfs -text
+Data/Interim/*.csv filter=lfs diff=lfs merge=lfs -text
+Data/Processed/*.csv filter=lfs diff=lfs merge=lfs -text

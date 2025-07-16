@@ -1,0 +1,1287 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2024-09-05'
+  gender: male
+  match_type: T20
+  match_type_number: 2841
+  outcome:
+    winner: Maldives
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Umar Adam
+  players:
+    Myanmar:
+    - Paing Danu
+    - Pyae Phyo Wai
+    - KK Lin Thu
+    - H Lin Aung
+    - Thuya Aung
+    - Khin Aye
+    - H Lin Oo
+    - Nyeing Cham Soe
+    - Aung Ko Ko
+    - Myat Thu Aung
+    - Swann Htet Ko Ko
+    Maldives:
+    - Azyan Farhath
+    - Umar Adam
+    - Ismail Ali
+    - Mohamed Azzam
+    - Mohamed Rishwan
+    - Ibrahim Hassan
+    - L Shafeeg
+    - Ibrahim Rizan
+    - Shunan Ali
+    - GPK Wijesingha
+    - Mohamed Shiyam
+  registry:
+    people:
+      Aung Ko Ko: 648d060e
+      Azyan Farhath: 3e06e7ac
+      BB Pradhan: 8603d942
+      GPK Wijesingha: 91f4a6e5
+      H Lin Aung: c343a8c6
+      H Lin Oo: 2e005bfd
+      Ibrahim Hassan: 4add4c98
+      Ibrahim Rizan: 7267e3cd
+      Ismail Ali: 5117fa55
+      KK Lin Thu: 6cf75582
+      Khin Aye: ad2efd29
+      L Shafeeg: ed82d9a5
+      Mohamed Azzam: e43c9818
+      Mohamed Rishwan: 7d15170b
+      Mohamed Shiyam: 946d4d9a
+      Morshed Ali Khan: a7c3cf5f
+      Myat Thu Aung: cebbf3c9
+      Nyeing Cham Soe: 45b5ce8d
+      Paing Danu: 1eb5affb
+      Pyae Phyo Wai: '09e86895'
+      Shunan Ali: 3b2ca392
+      Swann Htet Ko Ko: 9ee21ee4
+      Tabarak Dar: 2259c12d
+      Thuya Aung: 2e092d2c
+      Umar Adam: 5d77a96a
+      V Narayan Kutty: 4bacee3d
+  teams:
+  - Myanmar
+  - Maldives
+  toss:
+    winner: Myanmar
+    decision: bat
+  umpires:
+  - BB Pradhan
+  - Tabarak Dar
+  venue: Bayuemas Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Pyae Phyo Wai
+        batsman: Paing Danu
+    - 0.2:
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Pyae Phyo Wai
+        batsman: Paing Danu
+    - 0.3:
+        bowler: L Shafeeg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Pyae Phyo Wai
+        batsman: Paing Danu
+    - 0.4:
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Pyae Phyo Wai
+        batsman: Paing Danu
+    - 0.5:
+        non_striker: Paing Danu
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 0.6:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Paing Danu
+    - 0.7:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Paing Danu
+    - 1.1:
+        non_striker: Paing Danu
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 1.2:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 1.3:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 1.4:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+        wicket:
+          player_out: Paing Danu
+          fielders:
+          - GPK Wijesingha
+          kind: caught
+    - 1.5:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Lin Thu
+    - 1.6:
+        non_striker: KK Lin Thu
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 2.1:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Lin Thu
+    - 2.2:
+        non_striker: KK Lin Thu
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 2.3:
+        non_striker: KK Lin Thu
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 2.4:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 2.5:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Lin Thu
+    - 2.6:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+        wicket:
+          player_out: KK Lin Thu
+          fielders:
+          - Ibrahim Rizan
+          kind: caught
+    - 2.7:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 3.1:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 3.2:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 3.3:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 3.4:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 3.5:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 3.6:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 4.1:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 4.2:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 4.3:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 4.4:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 4.5:
+        non_striker: Pyae Phyo Wai
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 4.6:
+        non_striker: H Lin Aung
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 5.1:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 5.2:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 5.3:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 5.4:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pyae Phyo Wai
+    - 5.5:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 5.6:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 5.7:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 6.1:
+        non_striker: H Lin Aung
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 6.2:
+        non_striker: H Lin Aung
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 6.3:
+        non_striker: Pyae Phyo Wai
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 6.4:
+        non_striker: H Lin Aung
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 6.5:
+        non_striker: Pyae Phyo Wai
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 6.6:
+        non_striker: H Lin Aung
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 7.1:
+        non_striker: H Lin Aung
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 7.2:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 7.3:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+        wicket:
+          player_out: H Lin Aung
+          kind: lbw
+    - 7.4:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 7.5:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+        wicket:
+          player_out: Thuya Aung
+          kind: bowled
+    - 7.6:
+        non_striker: Pyae Phyo Wai
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 8.1:
+        non_striker: Khin Aye
+        bowler: Umar Adam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pyae Phyo Wai
+    - 8.2:
+        non_striker: Khin Aye
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 8.3:
+        non_striker: Khin Aye
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 8.4:
+        non_striker: Khin Aye
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 8.5:
+        non_striker: Khin Aye
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+        wicket:
+          player_out: Pyae Phyo Wai
+          fielders:
+          - Ismail Ali
+          kind: caught
+    - 8.6:
+        non_striker: Khin Aye
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 8.7:
+        non_striker: Khin Aye
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 9.1:
+        non_striker: H Lin Oo
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 9.2:
+        non_striker: H Lin Oo
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 9.3:
+        non_striker: H Lin Oo
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khin Aye
+    - 9.4:
+        non_striker: Khin Aye
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 9.5:
+        non_striker: Khin Aye
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Lin Oo
+    - 9.6:
+        non_striker: Khin Aye
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 10.1:
+        non_striker: H Lin Oo
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 10.2:
+        non_striker: H Lin Oo
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 10.3:
+        non_striker: H Lin Oo
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khin Aye
+    - 10.4:
+        non_striker: Khin Aye
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Oo
+    - 10.5:
+        non_striker: H Lin Oo
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+        wicket:
+          player_out: Khin Aye
+          kind: caught and bowled
+    - 10.6:
+        non_striker: H Lin Oo
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 11.1:
+        non_striker: Nyeing Cham Soe
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Oo
+    - 11.2:
+        non_striker: H Lin Oo
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nyeing Cham Soe
+    - 11.3:
+        non_striker: Nyeing Cham Soe
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 11.4:
+        non_striker: Nyeing Cham Soe
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Oo
+    - 11.5:
+        non_striker: H Lin Oo
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 11.6:
+        non_striker: H Lin Oo
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 12.1:
+        non_striker: Nyeing Cham Soe
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Oo
+    - 12.2:
+        non_striker: H Lin Oo
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nyeing Cham Soe
+    - 12.3:
+        non_striker: Nyeing Cham Soe
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 12.4:
+        non_striker: Nyeing Cham Soe
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Oo
+    - 12.5:
+        non_striker: H Lin Oo
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 12.6:
+        non_striker: H Lin Oo
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+        wicket:
+          player_out: Nyeing Cham Soe
+          fielders:
+          - Mohamed Shiyam
+          kind: caught
+    - 13.1:
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aung Ko Ko
+        batsman: H Lin Oo
+    - 13.2:
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aung Ko Ko
+        batsman: H Lin Oo
+    - 13.3:
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aung Ko Ko
+        batsman: H Lin Oo
+    - 13.4:
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aung Ko Ko
+        batsman: H Lin Oo
+    - 13.5:
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: Aung Ko Ko
+        batsman: H Lin Oo
+    - 13.6:
+        non_striker: H Lin Oo
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aung Ko Ko
+    - 13.7:
+        non_striker: H Lin Oo
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aung Ko Ko
+    - 14.1:
+        non_striker: Aung Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Lin Oo
+    - 14.2:
+        non_striker: Aung Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+        wicket:
+          player_out: H Lin Oo
+          fielders:
+          - Mohamed Shiyam
+          kind: caught
+    - 14.3:
+        non_striker: Aung Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 14.4:
+        non_striker: Aung Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 14.5:
+        non_striker: Aung Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 14.6:
+        non_striker: Aung Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 15.1:
+        non_striker: Myat Thu Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aung Ko Ko
+    - 15.2:
+        non_striker: Myat Thu Aung
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aung Ko Ko
+    - 15.3:
+        non_striker: Aung Ko Ko
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Myat Thu Aung
+    - 15.4:
+        non_striker: Aung Ko Ko
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 15.5:
+        non_striker: Aung Ko Ko
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Myat Thu Aung
+    - 15.6:
+        non_striker: Aung Ko Ko
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 15.7:
+        non_striker: Aung Ko Ko
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+        wicket:
+          player_out: Myat Thu Aung
+          kind: bowled
+    - 15.8:
+        non_striker: Aung Ko Ko
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Swann Htet Ko Ko
+    - 16.1:
+        non_striker: Swann Htet Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aung Ko Ko
+    - 16.2:
+        non_striker: Swann Htet Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aung Ko Ko
+    - 16.3:
+        non_striker: Aung Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Swann Htet Ko Ko
+    - 16.4:
+        non_striker: Aung Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Swann Htet Ko Ko
+    - 16.5:
+        non_striker: Aung Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Swann Htet Ko Ko
+    - 16.6:
+        non_striker: Swann Htet Ko Ko
+        bowler: Shunan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aung Ko Ko
+        wicket:
+          player_out: Aung Ko Ko
+          kind: caught and bowled
+- 2nd innings:
+    team: Maldives
+    deliveries:
+    - 0.1:
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Umar Adam
+        batsman: Azyan Farhath
+    - 0.2:
+        non_striker: Azyan Farhath
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umar Adam
+    - 0.3:
+        non_striker: Azyan Farhath
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 0.4:
+        non_striker: Azyan Farhath
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umar Adam
+    - 0.5:
+        non_striker: Azyan Farhath
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umar Adam
+    - 0.6:
+        non_striker: Azyan Farhath
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umar Adam
+    - 1.1:
+        non_striker: Umar Adam
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 1.2:
+        non_striker: Umar Adam
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 1.3:
+        non_striker: Umar Adam
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 1.4:
+        non_striker: Azyan Farhath
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umar Adam
+    - 1.5:
+        non_striker: Azyan Farhath
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 1.6:
+        non_striker: Azyan Farhath
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 2.1:
+        non_striker: Umar Adam
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 2.2:
+        non_striker: Azyan Farhath
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 2.3:
+        non_striker: Azyan Farhath
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+        wicket:
+          player_out: Umar Adam
+          fielders:
+          - Thuya Aung
+          kind: caught
+    - 2.4:
+        non_striker: Azyan Farhath
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 2.5:
+        non_striker: Azyan Farhath
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 2.6:
+        non_striker: Azyan Farhath
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ismail Ali
+    - 3.1:
+        non_striker: Azyan Farhath
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 3.2:
+        non_striker: Ismail Ali
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 3.3:
+        non_striker: Ismail Ali
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 3.4:
+        non_striker: Azyan Farhath
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ismail Ali
+    - 3.5:
+        non_striker: Ismail Ali
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 3.6:
+        non_striker: Azyan Farhath
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 4.1:
+        non_striker: Azyan Farhath
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 4.2:
+        non_striker: Azyan Farhath
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ismail Ali
+    - 4.3:
+        non_striker: Azyan Farhath
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 4.4:
+        non_striker: Ismail Ali
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 4.5:
+        non_striker: Ismail Ali
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azyan Farhath
+    - 4.6:
+        non_striker: Ismail Ali
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 5.1:
+        non_striker: Ismail Ali
+        bowler: Aung Ko Ko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Azyan Farhath
+    - 5.2:
+        non_striker: Azyan Farhath
+        bowler: Aung Ko Ko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismail Ali
+    - 5.3:
+        non_striker: Azyan Farhath
+        bowler: Aung Ko Ko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismail Ali

@@ -1,0 +1,1915 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-03-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2025-03-23'
+  gender: male
+  match_type: T20
+  match_type_number: 3127
+  outcome:
+    winner: Namibia
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - JN Loftie-Eaton
+  players:
+    Canada:
+    - DS Bajwa
+    - NS Dhaliwal
+    - YS Samra
+    - NR Kirton
+    - S Movva
+    - H Thaker
+    - K Tathgur
+    - D Heyliger
+    - Saad Bin Zafar
+    - Akhil Kumar
+    - Kaleem Sana
+    Namibia:
+    - JP Kotze
+    - N Davin
+    - JN Loftie-Eaton
+    - MG Erasmus
+    - JJ Smit
+    - MB Kruger
+    - ZE Green
+    - JI de Villiers
+    - R Trumpelmann
+    - JT Brassell
+    - T Lungameni
+  registry:
+    people:
+      A Louw: 5eecae5d
+      Akhil Kumar: 2feb5b8d
+      Claus Schumacher: 85645e62
+      D Heyliger: f8c72766
+      DS Bajwa: e3540b8c
+      E Lassen: a476d6d0
+      H Thaker: c01d7726
+      JI de Villiers: 3847ec84
+      JJ Smit: bb134e5c
+      JN Loftie-Eaton: f468293b
+      JP Kotze: 9f308dfc
+      JT Brassell: 537021f5
+      K Tathgur: f190c775
+      Kaleem Sana: 14810ee7
+      MB Kruger: c51add25
+      MG Erasmus: 95a5e066
+      N Davin: 72e361fe
+      NR Kirton: 6b75c2b1
+      NS Dhaliwal: cbabd6ad
+      R Trumpelmann: ff6a7ab5
+      S Movva: ee229588
+      S Wadvalla: c1a1acf3
+      Saad Bin Zafar: f28a60e0
+      T Lungameni: 1688f2dc
+      YS Samra: d02c40ab
+      ZE Green: 8716233e
+  teams:
+  - Canada
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - A Louw
+  - E Lassen
+  venue: Namibia Cricket Ground, Windhoek
+innings:
+- 1st innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        non_striker: NS Dhaliwal
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Bajwa
+    - 0.2:
+        non_striker: NS Dhaliwal
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 0.3:
+        non_striker: DS Bajwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 0.4:
+        non_striker: DS Bajwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NS Dhaliwal
+    - 0.5:
+        non_striker: DS Bajwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 0.6:
+        non_striker: DS Bajwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 0.7:
+        non_striker: DS Bajwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 1.1:
+        non_striker: DS Bajwa
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 1.2:
+        non_striker: DS Bajwa
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 1.3:
+        non_striker: NS Dhaliwal
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 1.4:
+        non_striker: DS Bajwa
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 1.5:
+        non_striker: NS Dhaliwal
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 1.6:
+        non_striker: NS Dhaliwal
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 2.1:
+        non_striker: DS Bajwa
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 2.2:
+        non_striker: NS Dhaliwal
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 2.3:
+        non_striker: DS Bajwa
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 2.4:
+        non_striker: DS Bajwa
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NS Dhaliwal
+    - 2.5:
+        non_striker: DS Bajwa
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 2.6:
+        non_striker: NS Dhaliwal
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 3.1:
+        non_striker: NS Dhaliwal
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 3.2:
+        non_striker: DS Bajwa
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 3.3:
+        non_striker: DS Bajwa
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 3.4:
+        non_striker: NS Dhaliwal
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 3.5:
+        non_striker: NS Dhaliwal
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 3.6:
+        non_striker: NS Dhaliwal
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 4.1:
+        non_striker: DS Bajwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 4.2:
+        non_striker: DS Bajwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 4.3:
+        non_striker: NS Dhaliwal
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Bajwa
+    - 4.4:
+        non_striker: NS Dhaliwal
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 4.5:
+        non_striker: DS Bajwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 4.6:
+        non_striker: DS Bajwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 5.1:
+        non_striker: NS Dhaliwal
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DS Bajwa
+    - 5.2:
+        non_striker: DS Bajwa
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 5.3:
+        non_striker: NS Dhaliwal
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Bajwa
+    - 5.4:
+        non_striker: NS Dhaliwal
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 5.5:
+        non_striker: NS Dhaliwal
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 5.6:
+        non_striker: DS Bajwa
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 6.1:
+        non_striker: NS Dhaliwal
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+        wicket:
+          player_out: DS Bajwa
+          fielders:
+          - JP Kotze
+          kind: caught
+    - 6.2:
+        non_striker: NS Dhaliwal
+        bowler: JI de Villiers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YS Samra
+    - 6.3:
+        non_striker: NS Dhaliwal
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Samra
+    - 6.4:
+        non_striker: NS Dhaliwal
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 6.5:
+        non_striker: YS Samra
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 6.6:
+        non_striker: NS Dhaliwal
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 6.7:
+        non_striker: YS Samra
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 7.1:
+        non_striker: YS Samra
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 7.2:
+        non_striker: YS Samra
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 7.3:
+        non_striker: NS Dhaliwal
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 7.4:
+        non_striker: NS Dhaliwal
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 7.5:
+        non_striker: YS Samra
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 7.6:
+        non_striker: YS Samra
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+        wicket:
+          player_out: NS Dhaliwal
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 8.1:
+        non_striker: NR Kirton
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 8.2:
+        non_striker: YS Samra
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 8.3:
+        non_striker: YS Samra
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 8.4:
+        non_striker: YS Samra
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 8.5:
+        non_striker: NR Kirton
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 8.6:
+        non_striker: NR Kirton
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 9.1:
+        non_striker: YS Samra
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 9.2:
+        non_striker: YS Samra
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 9.3:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 9.4:
+        non_striker: YS Samra
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 9.5:
+        non_striker: YS Samra
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 9.6:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 10.1:
+        non_striker: NR Kirton
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 10.2:
+        non_striker: NR Kirton
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 10.3:
+        non_striker: YS Samra
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 10.4:
+        non_striker: YS Samra
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 10.5:
+        non_striker: NR Kirton
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 10.6:
+        non_striker: NR Kirton
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 11.1:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Samra
+    - 11.2:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 11.3:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 11.4:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 11.5:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 11.6:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 12.1:
+        non_striker: YS Samra
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 12.2:
+        non_striker: YS Samra
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 12.3:
+        non_striker: NR Kirton
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 12.4:
+        non_striker: YS Samra
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 12.5:
+        non_striker: NR Kirton
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 12.6:
+        non_striker: YS Samra
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 13.1:
+        non_striker: YS Samra
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 13.2:
+        non_striker: YS Samra
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 13.3:
+        non_striker: YS Samra
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 13.4:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 13.5:
+        non_striker: NR Kirton
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 13.6:
+        non_striker: YS Samra
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 14.1:
+        non_striker: YS Samra
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 14.2:
+        non_striker: YS Samra
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 14.3:
+        non_striker: NR Kirton
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+        wicket:
+          player_out: YS Samra
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 14.4:
+        non_striker: NR Kirton
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Movva
+    - 14.5:
+        non_striker: NR Kirton
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 14.6:
+        non_striker: S Movva
+        bowler: T Lungameni
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: NR Kirton
+    - 14.7:
+        non_striker: S Movva
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 14.8:
+        non_striker: S Movva
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 15.1:
+        non_striker: NR Kirton
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 15.2:
+        non_striker: NR Kirton
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 15.3:
+        non_striker: NR Kirton
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 15.4:
+        non_striker: S Movva
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 15.5:
+        non_striker: S Movva
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 15.6:
+        non_striker: S Movva
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 16.1:
+        non_striker: S Movva
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 16.2:
+        non_striker: S Movva
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+        wicket:
+          player_out: NR Kirton
+          fielders:
+          - T Lungameni
+          kind: caught
+    - 16.3:
+        non_striker: S Movva
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 16.4:
+        non_striker: H Thaker
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 16.5:
+        non_striker: H Thaker
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 16.6:
+        non_striker: H Thaker
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 17.1:
+        non_striker: S Movva
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+        wicket:
+          player_out: H Thaker
+          kind: bowled
+    - 17.2:
+        non_striker: S Movva
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tathgur
+    - 17.3:
+        non_striker: S Movva
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 17.4:
+        non_striker: K Tathgur
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 17.5:
+        non_striker: K Tathgur
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+        wicket:
+          player_out: S Movva
+          fielders:
+          - JP Kotze
+          kind: caught
+    - 17.6:
+        non_striker: K Tathgur
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 18.1:
+        non_striker: K Tathgur
+        bowler: T Lungameni
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: D Heyliger
+    - 18.2:
+        non_striker: K Tathgur
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 18.3:
+        non_striker: D Heyliger
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 18.4:
+        non_striker: K Tathgur
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Heyliger
+    - 18.5:
+        non_striker: K Tathgur
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 18.6:
+        non_striker: D Heyliger
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 18.7:
+        non_striker: K Tathgur
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 19.1:
+        non_striker: D Heyliger
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tathgur
+    - 19.2:
+        non_striker: K Tathgur
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Heyliger
+    - 19.3:
+        non_striker: K Tathgur
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+        wicket:
+          player_out: D Heyliger
+          fielders:
+          - ZE Green
+          kind: caught
+    - 19.4:
+        non_striker: K Tathgur
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saad Bin Zafar
+    - 19.5:
+        non_striker: K Tathgur
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 19.6:
+        non_striker: Saad Bin Zafar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Tathgur
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        non_striker: N Davin
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Kotze
+    - 0.2:
+        non_striker: N Davin
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 0.3:
+        non_striker: N Davin
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 0.4:
+        non_striker: N Davin
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kotze
+    - 0.5:
+        non_striker: N Davin
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 0.6:
+        non_striker: N Davin
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 0.7:
+        non_striker: JP Kotze
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 1.1:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+        wicket:
+          player_out: JP Kotze
+          fielders:
+          - NR Kirton
+          kind: caught
+    - 1.2:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 1.3:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 1.4:
+        non_striker: JN Loftie-Eaton
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 1.5:
+        non_striker: JN Loftie-Eaton
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 1.6:
+        non_striker: JN Loftie-Eaton
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 2.1:
+        non_striker: JN Loftie-Eaton
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 2.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 2.3:
+        non_striker: N Davin
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JN Loftie-Eaton
+    - 2.4:
+        non_striker: JN Loftie-Eaton
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 2.5:
+        non_striker: JN Loftie-Eaton
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 2.6:
+        non_striker: JN Loftie-Eaton
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 3.1:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Loftie-Eaton
+    - 3.2:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 3.3:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 3.4:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 3.5:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 3.6:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 4.1:
+        non_striker: JN Loftie-Eaton
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 4.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 4.3:
+        non_striker: JN Loftie-Eaton
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 4.4:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 4.5:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: JN Loftie-Eaton
+    - 4.6:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 4.7:
+        non_striker: JN Loftie-Eaton
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 5.1:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 5.2:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 5.3:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 5.4:
+        non_striker: JN Loftie-Eaton
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Davin
+    - 5.5:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 5.6:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 6.1:
+        non_striker: N Davin
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 6.2:
+        non_striker: JN Loftie-Eaton
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 6.3:
+        non_striker: JN Loftie-Eaton
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 6.4:
+        non_striker: N Davin
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 6.5:
+        non_striker: JN Loftie-Eaton
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 6.6:
+        non_striker: JN Loftie-Eaton
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 7.1:
+        non_striker: JN Loftie-Eaton
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 7.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 7.3:
+        non_striker: JN Loftie-Eaton
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 7.4:
+        non_striker: N Davin
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Loftie-Eaton
+    - 7.5:
+        non_striker: N Davin
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Loftie-Eaton
+    - 7.6:
+        non_striker: N Davin
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 8.1:
+        non_striker: JN Loftie-Eaton
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Davin
+    - 8.2:
+        non_striker: JN Loftie-Eaton
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 8.3:
+        non_striker: N Davin
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Loftie-Eaton
+    - 8.4:
+        non_striker: N Davin
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 8.5:
+        non_striker: N Davin
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 8.6:
+        non_striker: N Davin
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Loftie-Eaton
+    - 9.1:
+        non_striker: JN Loftie-Eaton
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 9.2:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 9.3:
+        non_striker: JN Loftie-Eaton
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 9.4:
+        non_striker: JN Loftie-Eaton
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 9.5:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 9.6:
+        non_striker: N Davin
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 10.1:
+        non_striker: JN Loftie-Eaton
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 10.2:
+        non_striker: N Davin
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Loftie-Eaton
+    - 10.3:
+        non_striker: N Davin
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Loftie-Eaton
+    - 10.4:
+        non_striker: N Davin
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - H Thaker
+          kind: caught
+    - 10.5:
+        non_striker: N Davin
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.6:
+        non_striker: MG Erasmus
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 11.1:
+        non_striker: N Davin
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.2:
+        non_striker: MG Erasmus
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 11.3:
+        non_striker: N Davin
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.4:
+        non_striker: MG Erasmus
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 11.5:
+        non_striker: N Davin
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.6:
+        non_striker: MG Erasmus
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 12.1:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.2:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.3:
+        non_striker: MG Erasmus
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 12.4:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 12.5:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.6:
+        non_striker: MG Erasmus
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 13.1:
+        non_striker: N Davin
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.2:
+        non_striker: MG Erasmus
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Davin
+    - 13.3:
+        non_striker: MG Erasmus
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 13.4:
+        non_striker: MG Erasmus
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 13.5:
+        non_striker: MG Erasmus
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 13.6:
+        non_striker: MG Erasmus
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 13.7:
+        non_striker: MG Erasmus
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 14.1:
+        non_striker: MG Erasmus
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 14.2:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 14.3:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.4:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.5:
+        non_striker: MG Erasmus
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 14.6:
+        non_striker: N Davin
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 15.1:
+        non_striker: MG Erasmus
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 15.2:
+        non_striker: N Davin
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus

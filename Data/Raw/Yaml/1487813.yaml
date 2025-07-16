@@ -1,0 +1,1604 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: St Saviour
+  dates:
+  - '2025-06-06'
+  gender: male
+  match_type: T20
+  match_type_number: 3204
+  outcome:
+    winner: Guernsey
+    by:
+      runs: 13
+    method: D/L
+  overs: 20
+  players:
+    Jersey:
+    - H Carlyon
+    - NA Greenwood
+    - ZM Tribe
+    - JW Jenner
+    - J Sumerauer
+    - C Brennan
+    - PB Gouge
+    - S Norman
+    - SA van Breda
+    - W Perchard
+    - CW Perchard
+    Guernsey:
+    - J Butler
+    - B Fitchet
+    - T Nightingale
+    - MWR Stokes
+    - LT Bichard
+    - OB Nightingale
+    - A Martel
+    - M Dale-Bradley
+    - Harry Johnson
+    - C Simmonds
+    - C Birch
+  registry:
+    people:
+      A Martel: 65cd62a9
+      B Fitchet: d77ecd14
+      C Birch: 8a6186f1
+      C Brennan: 80f9fd4f
+      C Simmonds: 7459295a
+      CW Perchard: 9f998ed8
+      H Carlyon: 42bf1b7d
+      Harry Johnson: 80b92515
+      J Butler: efcb778e
+      J Sumerauer: 0b581ed6
+      JW Jenner: 32a8161e
+      LT Bichard: dfcdb11e
+      M Dale-Bradley: 62b2aa65
+      MWR Stokes: c573d173
+      NA Greenwood: 7ca68967
+      OB Nightingale: 1deb4c0c
+      PB Gouge: fe2432c4
+      S Norman: ed394ace
+      SA van Breda: a91e7c2f
+      T Nightingale: 51a125b3
+      W Perchard: 511871c6
+      ZM Tribe: 96fe3e9f
+  teams:
+  - Jersey
+  - Guernsey
+  toss:
+    winner: Guernsey
+    decision: field
+  venue: Grainville, St Saviour
+innings:
+- 1st innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.2:
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.3:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+        wicket:
+          player_out: H Carlyon
+          fielders:
+          - OB Nightingale
+          kind: caught
+    - 0.4:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 0.5:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 0.6:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 1.1:
+        non_striker: ZM Tribe
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 1.2:
+        non_striker: NA Greenwood
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 1.3:
+        non_striker: ZM Tribe
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 1.4:
+        non_striker: ZM Tribe
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 1.5:
+        non_striker: ZM Tribe
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 1.6:
+        non_striker: ZM Tribe
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 2.1:
+        non_striker: ZM Tribe
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 2.2:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 2.3:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ZM Tribe
+    - 2.4:
+        non_striker: ZM Tribe
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 2.5:
+        non_striker: ZM Tribe
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 2.6:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 3.1:
+        non_striker: ZM Tribe
+        bowler: LT Bichard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NA Greenwood
+    - 3.2:
+        non_striker: NA Greenwood
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 3.3:
+        non_striker: ZM Tribe
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 3.4:
+        non_striker: ZM Tribe
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 3.5:
+        non_striker: ZM Tribe
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 3.6:
+        non_striker: ZM Tribe
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 4.1:
+        non_striker: ZM Tribe
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 4.2:
+        non_striker: ZM Tribe
+        bowler: Harry Johnson
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: NA Greenwood
+    - 4.3:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 4.4:
+        non_striker: ZM Tribe
+        bowler: Harry Johnson
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: NA Greenwood
+    - 4.5:
+        non_striker: ZM Tribe
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 4.6:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 4.7:
+        non_striker: ZM Tribe
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 4.8:
+        non_striker: NA Greenwood
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 5.1:
+        non_striker: NA Greenwood
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZM Tribe
+    - 5.2:
+        non_striker: NA Greenwood
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 5.3:
+        non_striker: ZM Tribe
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 5.4:
+        non_striker: ZM Tribe
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 5.5:
+        non_striker: ZM Tribe
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 5.6:
+        non_striker: ZM Tribe
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 6.1:
+        non_striker: NA Greenwood
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 6.2:
+        non_striker: NA Greenwood
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 6.3:
+        non_striker: NA Greenwood
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 6.4:
+        non_striker: NA Greenwood
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 6.5:
+        non_striker: NA Greenwood
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 6.6:
+        non_striker: ZM Tribe
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 7.1:
+        non_striker: ZM Tribe
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 7.2:
+        non_striker: ZM Tribe
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 7.3:
+        non_striker: NA Greenwood
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 7.4:
+        non_striker: ZM Tribe
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 7.5:
+        non_striker: NA Greenwood
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZM Tribe
+    - 7.6:
+        non_striker: NA Greenwood
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 8.1:
+        non_striker: ZM Tribe
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          fielders:
+          - T Nightingale
+          kind: caught
+    - 8.2:
+        non_striker: ZM Tribe
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 8.3:
+        non_striker: JW Jenner
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 8.4:
+        non_striker: ZM Tribe
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 8.5:
+        non_striker: JW Jenner
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 8.6:
+        non_striker: ZM Tribe
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 9.1:
+        non_striker: JW Jenner
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 9.2:
+        non_striker: JW Jenner
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZM Tribe
+    - 9.3:
+        non_striker: JW Jenner
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+        wicket:
+          player_out: ZM Tribe
+          kind: bowled
+    - 9.4:
+        non_striker: JW Jenner
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 9.5:
+        non_striker: J Sumerauer
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 9.6:
+        non_striker: JW Jenner
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 10.1:
+        non_striker: J Sumerauer
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 10.2:
+        non_striker: JW Jenner
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 10.3:
+        non_striker: JW Jenner
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 10.4:
+        non_striker: JW Jenner
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sumerauer
+    - 10.5:
+        non_striker: JW Jenner
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+        wicket:
+          player_out: J Sumerauer
+          fielders:
+          - A Martel
+          kind: caught
+    - 10.6:
+        non_striker: JW Jenner
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 11.1:
+        non_striker: C Brennan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 11.2:
+        non_striker: JW Jenner
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 11.3:
+        non_striker: C Brennan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 11.4:
+        non_striker: JW Jenner
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 11.5:
+        non_striker: C Brennan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 11.6:
+        non_striker: C Brennan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 12.1:
+        non_striker: C Brennan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 12.2:
+        non_striker: JW Jenner
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 12.3:
+        non_striker: C Brennan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 12.4:
+        non_striker: JW Jenner
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 12.5:
+        non_striker: C Brennan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 12.6:
+        non_striker: C Brennan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 13.1:
+        non_striker: JW Jenner
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 13.2:
+        non_striker: JW Jenner
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 13.3:
+        non_striker: C Brennan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 13.4:
+        non_striker: JW Jenner
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 13.5:
+        non_striker: C Brennan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+        wicket:
+          player_out: JW Jenner
+          kind: bowled
+    - 13.6:
+        non_striker: C Brennan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PB Gouge
+    - 14.1:
+        non_striker: PB Gouge
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 14.2:
+        non_striker: PB Gouge
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 14.3:
+        non_striker: C Brennan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PB Gouge
+    - 14.4:
+        non_striker: PB Gouge
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 14.5:
+        non_striker: C Brennan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PB Gouge
+    - 14.6:
+        non_striker: C Brennan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PB Gouge
+    - 15.1:
+        non_striker: C Brennan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PB Gouge
+    - 15.2:
+        non_striker: C Brennan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PB Gouge
+    - 15.3:
+        non_striker: PB Gouge
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 15.4:
+        non_striker: C Brennan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PB Gouge
+    - 15.5:
+        non_striker: PB Gouge
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 15.6:
+        non_striker: C Brennan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PB Gouge
+    - 16.1:
+        non_striker: PB Gouge
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Brennan
+    - 16.2:
+        non_striker: PB Gouge
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+        wicket:
+          player_out: C Brennan
+          fielders:
+          - C Birch
+          kind: caught
+    - 16.3:
+        non_striker: PB Gouge
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Norman
+        wicket:
+          player_out: S Norman
+          fielders:
+          - A Martel
+          kind: caught
+    - 16.4:
+        non_striker: PB Gouge
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA van Breda
+    - 16.5:
+        non_striker: PB Gouge
+        bowler: M Dale-Bradley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SA van Breda
+    - 16.6:
+        non_striker: SA van Breda
+        bowler: M Dale-Bradley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PB Gouge
+    - 16.7:
+        non_striker: SA van Breda
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PB Gouge
+    - 17.1:
+        non_striker: SA van Breda
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PB Gouge
+    - 17.2:
+        non_striker: SA van Breda
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PB Gouge
+    - 17.3:
+        non_striker: SA van Breda
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PB Gouge
+    - 17.4:
+        non_striker: SA van Breda
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PB Gouge
+    - 17.5:
+        non_striker: SA van Breda
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PB Gouge
+    - 17.6:
+        non_striker: PB Gouge
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA van Breda
+    - 18.1:
+        non_striker: PB Gouge
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA van Breda
+    - 18.2:
+        non_striker: PB Gouge
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA van Breda
+    - 18.3:
+        non_striker: PB Gouge
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA van Breda
+    - 18.4:
+        non_striker: SA van Breda
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PB Gouge
+    - 18.5:
+        non_striker: SA van Breda
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PB Gouge
+    - 19.1:
+        non_striker: SA van Breda
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PB Gouge
+    - 19.2:
+        non_striker: SA van Breda
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PB Gouge
+    - 19.3:
+        non_striker: PB Gouge
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA van Breda
+    - 19.4:
+        non_striker: SA van Breda
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PB Gouge
+    - 19.5:
+        non_striker: PB Gouge
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA van Breda
+        wicket:
+          player_out: SA van Breda
+          kind: bowled
+    - 19.6:
+        non_striker: PB Gouge
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Perchard
+- 2nd innings:
+    team: Guernsey
+    deliveries:
+    - 0.1:
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Fitchet
+        batsman: J Butler
+    - 0.2:
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B Fitchet
+        batsman: J Butler
+    - 0.3:
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Fitchet
+        batsman: J Butler
+    - 0.4:
+        non_striker: J Butler
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 0.5:
+        non_striker: J Butler
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 0.6:
+        non_striker: J Butler
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Fitchet
+    - 1.1:
+        non_striker: J Butler
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Fitchet
+    - 1.2:
+        non_striker: J Butler
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 1.3:
+        non_striker: J Butler
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Fitchet
+    - 1.4:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 1.5:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Butler
+    - 1.6:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 1.7:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 2.1:
+        non_striker: B Fitchet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 2.2:
+        non_striker: B Fitchet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 2.3:
+        non_striker: B Fitchet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 2.4:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 2.5:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 2.6:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 3.1:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 3.2:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 3.3:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 3.4:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: J Butler
+    - 3.5:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Butler
+    - 3.6:
+        non_striker: B Fitchet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 4.1:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Fitchet
+    - 4.2:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 4.3:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 4.4:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+        wicket:
+          player_out: B Fitchet
+          fielders:
+          - ZM Tribe
+          kind: caught
+    - 4.5:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 4.6:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 5.1:
+        non_striker: T Nightingale
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 5.2:
+        non_striker: T Nightingale
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 5.3:
+        non_striker: T Nightingale
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 5.4:
+        non_striker: J Butler
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 5.5:
+        non_striker: J Butler
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 5.6:
+        non_striker: J Butler
+        bowler: SA van Breda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Nightingale
+    - 6.1:
+        non_striker: T Nightingale
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 6.2:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Nightingale
+    - 6.3:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Nightingale
+    - 6.4:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 6.5:
+        non_striker: J Butler
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 6.6:
+        non_striker: T Nightingale
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 7.1:
+        non_striker: J Butler
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 7.2:
+        non_striker: J Butler
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 7.3:
+        non_striker: T Nightingale
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 7.4:
+        non_striker: J Butler
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+        wicket:
+          player_out: T Nightingale
+          kind: caught and bowled
+    - 7.5:
+        non_striker: J Butler
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 7.6:
+        non_striker: MWR Stokes
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 8.1:
+        non_striker: J Butler
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 8.2:
+        non_striker: MWR Stokes
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 8.3:
+        non_striker: MWR Stokes
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 8.4:
+        non_striker: J Butler
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 8.5:
+        non_striker: MWR Stokes
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 8.6:
+        non_striker: MWR Stokes
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 9.1:
+        non_striker: J Butler
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 9.2:
+        non_striker: MWR Stokes
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 9.3:
+        non_striker: J Butler
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 9.4:
+        non_striker: MWR Stokes
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 9.5:
+        non_striker: MWR Stokes
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 9.6:
+        non_striker: MWR Stokes
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler

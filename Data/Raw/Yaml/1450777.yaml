@@ -1,0 +1,2084 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Incheon
+  dates:
+  - '2024-10-04'
+  gender: male
+  match_type: T20
+  match_type_number: 2892
+  outcome:
+    winner: Japan
+    by:
+      runs: 108
+  overs: 20
+  player_of_match:
+  - K Kadowaki-Fleming
+  players:
+    Japan:
+    - I Takahashi
+    - K Kadowaki-Fleming
+    - W Miyauchi
+    - R Sakurano-Thomas
+    - S Ravichandran
+    - KH Abe
+    - A Patmore
+    - B Ito-Davis
+    - P Kumbhare
+    - K Kubota
+    - M Taniyama
+    South Korea:
+    - Raja Shoaib
+    - Kim Daeyeon
+    - Alam Nakash
+    - BI Dilruksha
+    - Aamir Lal
+    - Jun Hyunwoo
+    - Mudassir Iqbal
+    - S Maduranga
+    - Altaf Gill
+    - Lee Kangmin
+    - Fazil Muhammad
+  registry:
+    people:
+      A Patmore: '85119526'
+      AK Rana: 562d74d0
+      Aamir Lal: 2472ad2c
+      Alam Nakash: 90830f8d
+      Altaf Gill: b9b194d6
+      B Ito-Davis: '96275259'
+      BI Dilruksha: bf60e1d2
+      Fazil Muhammad: 4551ed03
+      I Takahashi: c988daa1
+      Jun Hyunwoo: 431f2dd4
+      K Kadowaki-Fleming: 33290a80
+      K Kubota: 42581e6d
+      KH Abe: f22d2247
+      Kim Daeyeon: 4a51c045
+      Lee Kangmin: cd752e8a
+      M Taniyama: cbd91942
+      Mudassir Iqbal: 63f306ac
+      P Kumbhare: ef503cfe
+      R Sakurano-Thomas: dd14abf5
+      Raja Shoaib: 7b0ea09e
+      S Maduranga: 68f24545
+      S Ravichandran: 9f2be73d
+      Sarika Prasad: 8ff397fa
+      Suresh Subramanian: 4e869e23
+      TL Anderson: f52ddf8d
+      Tanvir Ahmed: ea2df1f1
+      W Miyauchi: fef40097
+  teams:
+  - Japan
+  - South Korea
+  toss:
+    winner: Japan
+    decision: bat
+  umpires:
+  - Sarika Prasad
+  - Suresh Subramanian
+  venue: Yeonhui Cricket Ground, Incheon
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Kadowaki-Fleming
+        batsman: I Takahashi
+    - 0.2:
+        non_striker: I Takahashi
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 0.3:
+        non_striker: I Takahashi
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Kadowaki-Fleming
+    - 0.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+        wicket:
+          player_out: I Takahashi
+          kind: bowled
+    - 0.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+        wicket:
+          player_out: W Miyauchi
+          kind: bowled
+    - 0.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 1.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 1.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 1.3:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 1.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 1.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 1.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kadowaki-Fleming
+    - 1.7:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 2.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 2.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 2.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sakurano-Thomas
+    - 2.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 2.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 2.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 3.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 3.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 3.3:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 3.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 3.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 3.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 4.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 4.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 4.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 4.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 4.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 4.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sakurano-Thomas
+    - 5.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 5.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 5.3:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 5.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 5.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 5.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 6.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 6.3:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 6.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 6.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 7.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 7.3:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 7.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 7.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 7.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 8.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 8.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 8.3:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 8.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 8.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 8.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Lee Kangmin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 9.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 9.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 9.3:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 9.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 9.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 9.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 10.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 10.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 10.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 10.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 10.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 10.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 11.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 11.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 11.3:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 11.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 11.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 11.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Alam Nakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 12.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+        wicket:
+          player_out: K Kadowaki-Fleming
+          fielders:
+          - Altaf Gill
+          kind: caught
+    - 12.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.3:
+        non_striker: S Ravichandran
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 12.4:
+        non_striker: S Ravichandran
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 12.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.6:
+        non_striker: S Ravichandran
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 13.1:
+        non_striker: S Ravichandran
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sakurano-Thomas
+    - 13.2:
+        non_striker: S Ravichandran
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 13.3:
+        non_striker: R Sakurano-Thomas
+        bowler: S Maduranga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 13.4:
+        non_striker: R Sakurano-Thomas
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 13.5:
+        non_striker: S Ravichandran
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 13.6:
+        non_striker: R Sakurano-Thomas
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 13.7:
+        non_striker: S Ravichandran
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 14.1:
+        non_striker: S Ravichandran
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 14.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 14.3:
+        non_striker: S Ravichandran
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 14.4:
+        non_striker: S Ravichandran
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 14.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 14.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 15.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 15.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 15.3:
+        non_striker: S Ravichandran
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 15.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 15.5:
+        non_striker: S Ravichandran
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sakurano-Thomas
+    - 15.6:
+        non_striker: S Ravichandran
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 16.1:
+        non_striker: S Ravichandran
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 16.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 16.3:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+        wicket:
+          player_out: S Ravichandran
+          fielders:
+          - Mudassir Iqbal
+          kind: caught
+    - 16.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KH Abe
+    - 16.5:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Abe
+    - 16.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Kim Daeyeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Abe
+        wicket:
+          player_out: KH Abe
+          fielders:
+          - Alam Nakash
+          kind: caught
+    - 17.1:
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Patmore
+        batsman: R Sakurano-Thomas
+    - 17.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 17.3:
+        non_striker: A Patmore
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 17.4:
+        non_striker: R Sakurano-Thomas
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 17.5:
+        non_striker: A Patmore
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 17.6:
+        non_striker: A Patmore
+        bowler: Aamir Lal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sakurano-Thomas
+    - 18.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 18.2:
+        non_striker: R Sakurano-Thomas
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 18.3:
+        non_striker: A Patmore
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sakurano-Thomas
+    - 18.4:
+        non_striker: A Patmore
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sakurano-Thomas
+    - 18.5:
+        non_striker: A Patmore
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 18.6:
+        non_striker: R Sakurano-Thomas
+        bowler: Altaf Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 19.1:
+        non_striker: R Sakurano-Thomas
+        bowler: Fazil Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Patmore
+    - 19.2:
+        non_striker: A Patmore
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+        wicket:
+          player_out: R Sakurano-Thomas
+          kind: bowled
+    - 19.3:
+        non_striker: A Patmore
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ito-Davis
+    - 19.4:
+        non_striker: A Patmore
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ito-Davis
+    - 19.5:
+        non_striker: A Patmore
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ito-Davis
+    - 19.6:
+        non_striker: A Patmore
+        bowler: Fazil Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ito-Davis
+        wicket:
+          player_out: B Ito-Davis
+          fielders:
+          - Altaf Gill
+          kind: caught
+- 2nd innings:
+    team: South Korea
+    deliveries:
+    - 0.1:
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kim Daeyeon
+        batsman: Raja Shoaib
+    - 0.2:
+        non_striker: Raja Shoaib
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kim Daeyeon
+    - 0.3:
+        non_striker: Raja Shoaib
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kim Daeyeon
+    - 0.4:
+        non_striker: Kim Daeyeon
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raja Shoaib
+    - 0.5:
+        non_striker: Raja Shoaib
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kim Daeyeon
+    - 0.6:
+        non_striker: Raja Shoaib
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kim Daeyeon
+    - 1.1:
+        non_striker: Kim Daeyeon
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raja Shoaib
+    - 1.2:
+        non_striker: Kim Daeyeon
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Shoaib
+    - 1.3:
+        non_striker: Kim Daeyeon
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Raja Shoaib
+    - 1.4:
+        non_striker: Kim Daeyeon
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Shoaib
+    - 1.5:
+        non_striker: Kim Daeyeon
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Shoaib
+    - 1.6:
+        non_striker: Kim Daeyeon
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Raja Shoaib
+    - 2.1:
+        non_striker: Kim Daeyeon
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Shoaib
+    - 2.2:
+        non_striker: Kim Daeyeon
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Shoaib
+    - 2.3:
+        non_striker: Kim Daeyeon
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Shoaib
+        wicket:
+          player_out: Raja Shoaib
+          kind: bowled
+    - 2.4:
+        non_striker: Kim Daeyeon
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alam Nakash
+        wicket:
+          player_out: Kim Daeyeon
+          fielders:
+          - M Taniyama
+          kind: run out
+    - 2.5:
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BI Dilruksha
+        batsman: Alam Nakash
+    - 2.6:
+        non_striker: BI Dilruksha
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alam Nakash
+    - 3.1:
+        non_striker: Alam Nakash
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 3.2:
+        non_striker: Alam Nakash
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 3.3:
+        non_striker: Alam Nakash
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BI Dilruksha
+    - 3.4:
+        non_striker: BI Dilruksha
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alam Nakash
+    - 3.5:
+        non_striker: Alam Nakash
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 3.6:
+        non_striker: Alam Nakash
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 4.1:
+        non_striker: BI Dilruksha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alam Nakash
+        wicket:
+          player_out: Alam Nakash
+          kind: bowled
+    - 4.2:
+        non_striker: BI Dilruksha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 4.3:
+        non_striker: BI Dilruksha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 4.4:
+        non_striker: BI Dilruksha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 4.5:
+        non_striker: BI Dilruksha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 4.6:
+        non_striker: BI Dilruksha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+    - 5.1:
+        non_striker: Aamir Lal
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 5.2:
+        non_striker: Aamir Lal
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 5.3:
+        non_striker: Aamir Lal
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 5.4:
+        non_striker: Aamir Lal
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BI Dilruksha
+    - 5.5:
+        non_striker: BI Dilruksha
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aamir Lal
+    - 5.6:
+        non_striker: BI Dilruksha
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Lal
+        wicket:
+          player_out: Aamir Lal
+          fielders:
+          - S Ravichandran
+          kind: caught
+    - 6.1:
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jun Hyunwoo
+        batsman: BI Dilruksha
+    - 6.2:
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jun Hyunwoo
+        batsman: BI Dilruksha
+    - 6.3:
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jun Hyunwoo
+        batsman: BI Dilruksha
+    - 6.4:
+        non_striker: BI Dilruksha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 6.5:
+        non_striker: BI Dilruksha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 6.6:
+        non_striker: BI Dilruksha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jun Hyunwoo
+    - 7.1:
+        non_striker: BI Dilruksha
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jun Hyunwoo
+    - 7.2:
+        non_striker: Jun Hyunwoo
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: Mudassir Iqbal
+            out: BI Dilruksha
+            reason: injury
+            role: batter
+        batsman: Mudassir Iqbal
+    - 7.3:
+        non_striker: Jun Hyunwoo
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mudassir Iqbal
+    - 7.4:
+        non_striker: Mudassir Iqbal
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 7.5:
+        non_striker: Mudassir Iqbal
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 7.6:
+        non_striker: Mudassir Iqbal
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 8.1:
+        non_striker: Jun Hyunwoo
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mudassir Iqbal
+    - 8.2:
+        non_striker: Jun Hyunwoo
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mudassir Iqbal
+    - 8.3:
+        non_striker: Jun Hyunwoo
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mudassir Iqbal
+    - 8.4:
+        non_striker: Jun Hyunwoo
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mudassir Iqbal
+    - 8.5:
+        non_striker: Mudassir Iqbal
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 8.6:
+        non_striker: Mudassir Iqbal
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 9.1:
+        non_striker: Jun Hyunwoo
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mudassir Iqbal
+    - 9.2:
+        non_striker: Jun Hyunwoo
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mudassir Iqbal
+        wicket:
+          player_out: Mudassir Iqbal
+          kind: bowled
+    - 9.3:
+        non_striker: Jun Hyunwoo
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 9.4:
+        non_striker: Jun Hyunwoo
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 9.5:
+        non_striker: Jun Hyunwoo
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 9.6:
+        non_striker: Jun Hyunwoo
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 10.1:
+        non_striker: S Maduranga
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jun Hyunwoo
+    - 10.2:
+        non_striker: Jun Hyunwoo
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 10.3:
+        non_striker: Jun Hyunwoo
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 10.4:
+        non_striker: S Maduranga
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 10.5:
+        non_striker: S Maduranga
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 10.6:
+        non_striker: S Maduranga
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+        wicket:
+          player_out: Jun Hyunwoo
+          fielders:
+          - S Ravichandran
+          kind: caught
+    - 11.1:
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BI Dilruksha
+        batsman: S Maduranga
+    - 11.2:
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BI Dilruksha
+        batsman: S Maduranga
+    - 11.3:
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BI Dilruksha
+        batsman: S Maduranga
+    - 11.4:
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BI Dilruksha
+        batsman: S Maduranga
+    - 11.5:
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BI Dilruksha
+        batsman: S Maduranga
+    - 11.6:
+        non_striker: BI Dilruksha
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Maduranga
+    - 12.1:
+        non_striker: S Maduranga
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 12.2:
+        non_striker: S Maduranga
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BI Dilruksha
+    - 12.3:
+        non_striker: BI Dilruksha
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 12.4:
+        non_striker: BI Dilruksha
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 12.5:
+        non_striker: BI Dilruksha
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 12.6:
+        non_striker: BI Dilruksha
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 13.1:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+        wicket:
+          player_out: BI Dilruksha
+          fielders:
+          - K Kadowaki-Fleming
+          kind: caught
+    - 13.2:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 13.3:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 13.4:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 13.5:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 13.6:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 14.1:
+        non_striker: Altaf Gill
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 14.2:
+        non_striker: Altaf Gill
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 14.3:
+        non_striker: Altaf Gill
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Maduranga
+    - 14.4:
+        non_striker: Altaf Gill
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 14.5:
+        non_striker: S Maduranga
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Altaf Gill
+    - 14.6:
+        non_striker: Altaf Gill
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 14.7:
+        non_striker: Altaf Gill
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 15.1:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Altaf Gill
+    - 15.2:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+    - 15.3:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Altaf Gill
+        wicket:
+          player_out: Altaf Gill
+          fielders:
+          - A Patmore
+          kind: stumped
+    - 15.4:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lee Kangmin
+    - 15.5:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lee Kangmin
+        wicket:
+          player_out: Lee Kangmin
+          fielders:
+          - K Kadowaki-Fleming
+          kind: caught
+    - 15.6:
+        non_striker: S Maduranga
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 16.1:
+        non_striker: Fazil Muhammad
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Maduranga
+    - 16.2:
+        non_striker: Fazil Muhammad
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 16.3:
+        non_striker: Fazil Muhammad
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 16.4:
+        non_striker: Fazil Muhammad
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 16.5:
+        non_striker: Fazil Muhammad
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 16.6:
+        non_striker: S Maduranga
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fazil Muhammad
+    - 16.7:
+        non_striker: S Maduranga
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 17.1:
+        non_striker: Fazil Muhammad
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Maduranga
+    - 17.2:
+        non_striker: Fazil Muhammad
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 17.3:
+        non_striker: Fazil Muhammad
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 17.4:
+        non_striker: Fazil Muhammad
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 17.5:
+        non_striker: Fazil Muhammad
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 17.6:
+        non_striker: Fazil Muhammad
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 18.1:
+        non_striker: S Maduranga
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Muhammad
+    - 18.2:
+        non_striker: Fazil Muhammad
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 18.3:
+        non_striker: S Maduranga
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Muhammad
+    - 18.4:
+        non_striker: S Maduranga
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Muhammad
+    - 18.5:
+        non_striker: Fazil Muhammad
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 18.6:
+        non_striker: Fazil Muhammad
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+        wicket:
+          player_out: S Maduranga
+          kind: lbw

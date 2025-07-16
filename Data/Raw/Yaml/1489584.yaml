@@ -1,0 +1,2158 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: King City
+  dates:
+  - '2025-06-13'
+  gender: male
+  match_type: T20
+  match_type_number: 3226
+  outcome:
+    winner: Bermuda
+    by:
+      runs: 18
+  overs: 20
+  player_of_match:
+  - DMW Rawlins
+  players:
+    Bermuda:
+    - TS Fray
+    - T Manders
+    - OGL Bascome
+    - DMW Rawlins
+    - D Sabir
+    - AD Dore
+    - Jonte Smith
+    - JDA Richardson
+    - K Fubler
+    - Chare Smith
+    - DL Brangman
+    Bahamas:
+    - M Taylor
+    - GT Taylor
+    - E Duff
+    - K Hinds
+    - Festus Benn
+    - D Wheatley
+    - Sandeep Goud
+    - JR Barry
+    - J Gallimore
+    - A Gulati
+    - K Burrows
+  registry:
+    people:
+      A Gulati: 82903f3a
+      AD Dore: aa867444
+      AR Maddela: 5c861579
+      Amol Bhatt: d7e52706
+      Bijal Patel: a56e35ba
+      Chare Smith: 4e1b7998
+      D Sabir: 04bc296f
+      D Wheatley: '04539335'
+      DL Brangman: dab18aa5
+      DMW Rawlins: f1eb3c73
+      E Duff: b7873c81
+      Festus Benn: de6b3760
+      GT Taylor: c674f722
+      J Gallimore: 5bebe726
+      JDA Richardson: e8c00c13
+      JR Barry: 9bc324b5
+      Jonte Smith: ae4d0b45
+      K Burrows: f11f5a92
+      K Fubler: b471ff6c
+      K Hinds: a268c07b
+      M Taylor: 92075cdc
+      OGL Bascome: 94a1827c
+      Sandeep Goud: c83ef4d6
+      T Manders: 6d2b9724
+      TS Fray: c7537f8a
+  teams:
+  - Bermuda
+  - Bahamas
+  toss:
+    winner: Bermuda
+    decision: bat
+  umpires:
+  - Amol Bhatt
+  - AR Maddela
+  venue: Maple Leaf North-East Ground, King City
+innings:
+- 1st innings:
+    team: Bermuda
+    deliveries:
+    - 0.1:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Manders
+        batsman: TS Fray
+    - 0.2:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Manders
+        batsman: TS Fray
+    - 0.3:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Manders
+        batsman: TS Fray
+    - 0.4:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Manders
+        batsman: TS Fray
+    - 0.5:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Manders
+        batsman: TS Fray
+        wicket:
+          player_out: TS Fray
+          fielders:
+          - A Gulati
+          kind: run out
+    - 0.6:
+        non_striker: T Manders
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 1.1:
+        non_striker: OGL Bascome
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+    - 1.2:
+        non_striker: OGL Bascome
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+        wicket:
+          player_out: T Manders
+          fielders:
+          - Sandeep Goud
+          kind: caught
+    - 1.3:
+        non_striker: OGL Bascome
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 1.4:
+        non_striker: OGL Bascome
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 1.5:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 1.6:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 2.1:
+        non_striker: DMW Rawlins
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 2.2:
+        non_striker: DMW Rawlins
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 2.3:
+        non_striker: OGL Bascome
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 2.4:
+        non_striker: OGL Bascome
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 2.5:
+        non_striker: OGL Bascome
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 2.6:
+        non_striker: OGL Bascome
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 3.1:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 3.2:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 3.3:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 3.4:
+        non_striker: OGL Bascome
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 3.5:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 3.6:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OGL Bascome
+    - 4.1:
+        non_striker: OGL Bascome
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 4.2:
+        non_striker: OGL Bascome
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 4.3:
+        non_striker: DMW Rawlins
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 4.4:
+        non_striker: DMW Rawlins
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OGL Bascome
+    - 4.5:
+        non_striker: DMW Rawlins
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 4.6:
+        non_striker: DMW Rawlins
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 5.1:
+        non_striker: OGL Bascome
+        bowler: GT Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DMW Rawlins
+    - 5.2:
+        non_striker: OGL Bascome
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 5.3:
+        non_striker: OGL Bascome
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DMW Rawlins
+    - 5.4:
+        non_striker: OGL Bascome
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 5.5:
+        non_striker: OGL Bascome
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 5.6:
+        non_striker: OGL Bascome
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 5.7:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OGL Bascome
+    - 6.1:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 6.2:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 6.3:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DMW Rawlins
+    - 6.4:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 6.5:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 6.6:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 7.1:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 7.2:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 7.3:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 7.4:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 7.5:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 7.6:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 8.1:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OGL Bascome
+    - 8.2:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OGL Bascome
+    - 8.3:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 8.4:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 8.5:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 8.6:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OGL Bascome
+    - 9.1:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DMW Rawlins
+    - 9.2:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DMW Rawlins
+    - 9.3:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 9.4:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OGL Bascome
+    - 9.5:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 9.6:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 10.1:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 10.2:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 10.3:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 10.4:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 10.5:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 10.6:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 11.1:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 11.2:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 11.3:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 11.4:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OGL Bascome
+    - 11.5:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 11.6:
+        non_striker: OGL Bascome
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 12.1:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OGL Bascome
+    - 12.2:
+        non_striker: OGL Bascome
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 12.3:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 12.4:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OGL Bascome
+    - 12.5:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OGL Bascome
+    - 12.6:
+        non_striker: DMW Rawlins
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 13.1:
+        non_striker: OGL Bascome
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 13.2:
+        non_striker: OGL Bascome
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 13.3:
+        non_striker: OGL Bascome
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 13.4:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+    - 13.5:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OGL Bascome
+        wicket:
+          player_out: OGL Bascome
+          kind: bowled
+    - 13.6:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 14.1:
+        non_striker: D Sabir
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 14.2:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+        wicket:
+          player_out: D Sabir
+          fielders:
+          - D Wheatley
+          kind: caught
+    - 14.3:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Dore
+    - 14.4:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Dore
+    - 14.5:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Dore
+    - 14.6:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Dore
+    - 15.1:
+        non_striker: AD Dore
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 15.2:
+        non_striker: AD Dore
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 15.3:
+        non_striker: DMW Rawlins
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Dore
+    - 15.4:
+        non_striker: AD Dore
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 15.5:
+        non_striker: AD Dore
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 15.6:
+        non_striker: AD Dore
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 16.1:
+        non_striker: AD Dore
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 16.2:
+        non_striker: AD Dore
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 16.3:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Dore
+    - 16.4:
+        non_striker: AD Dore
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 16.5:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Dore
+    - 16.6:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Dore
+    - 16.7:
+        non_striker: DMW Rawlins
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Dore
+    - 17.1:
+        non_striker: AD Dore
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 17.2:
+        non_striker: AD Dore
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 17.3:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: AD Dore
+    - 17.4:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Dore
+    - 17.5:
+        non_striker: DMW Rawlins
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Dore
+    - 17.6:
+        non_striker: AD Dore
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 18.1:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Dore
+    - 18.2:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Dore
+        wicket:
+          player_out: AD Dore
+          kind: bowled
+    - 18.3:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jonte Smith
+    - 18.4:
+        non_striker: Jonte Smith
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 18.5:
+        non_striker: DMW Rawlins
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jonte Smith
+    - 18.6:
+        non_striker: Jonte Smith
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 19.1:
+        non_striker: Jonte Smith
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+        wicket:
+          player_out: DMW Rawlins
+          fielders:
+          - JR Barry
+          kind: caught
+    - 19.2:
+        non_striker: Jonte Smith
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDA Richardson
+    - 19.3:
+        non_striker: Jonte Smith
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDA Richardson
+    - 19.4:
+        non_striker: Jonte Smith
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDA Richardson
+    - 19.5:
+        non_striker: Jonte Smith
+        bowler: GT Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDA Richardson
+    - 19.6:
+        non_striker: Jonte Smith
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDA Richardson
+    - 19.7:
+        non_striker: JDA Richardson
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jonte Smith
+- 2nd innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.2:
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.3:
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.4:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 0.5:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 0.6:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GT Taylor
+    - 0.7:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 1.1:
+        non_striker: GT Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 1.2:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 1.3:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+        wicket:
+          player_out: GT Taylor
+          kind: bowled
+    - 1.4:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 1.5:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 1.6:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 2.1:
+        non_striker: E Duff
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 2.2:
+        non_striker: E Duff
+        bowler: Chare Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 2.3:
+        non_striker: E Duff
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 2.4:
+        non_striker: E Duff
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 2.5:
+        non_striker: E Duff
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 2.6:
+        non_striker: E Duff
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 2.7:
+        non_striker: E Duff
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.1:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 3.2:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 3.3:
+        non_striker: E Duff
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.4:
+        non_striker: E Duff
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 3.5:
+        non_striker: E Duff
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.6:
+        non_striker: E Duff
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 4.1:
+        non_striker: E Duff
+        bowler: Jonte Smith
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Taylor
+    - 4.2:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 4.3:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 4.4:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Duff
+    - 4.5:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 4.6:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Duff
+    - 4.7:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 4.8:
+        non_striker: E Duff
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 5.1:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.2:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Duff
+    - 5.3:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 5.4:
+        non_striker: E Duff
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 5.5:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Duff
+    - 5.6:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 6.1:
+        non_striker: E Duff
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 6.2:
+        non_striker: E Duff
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 6.3:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Duff
+    - 6.4:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 6.5:
+        non_striker: E Duff
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 6.6:
+        non_striker: E Duff
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 7.1:
+        non_striker: E Duff
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 7.2:
+        non_striker: E Duff
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 7.3:
+        non_striker: E Duff
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 7.4:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 7.5:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 7.6:
+        non_striker: E Duff
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 8.1:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 8.2:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 8.3:
+        non_striker: E Duff
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 8.4:
+        non_striker: E Duff
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 8.5:
+        non_striker: E Duff
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 8.6:
+        non_striker: E Duff
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 9.1:
+        non_striker: E Duff
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 9.2:
+        non_striker: E Duff
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 9.3:
+        non_striker: E Duff
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 9.4:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 9.5:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 9.6:
+        non_striker: E Duff
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 10.1:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 10.2:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+        wicket:
+          player_out: E Duff
+          kind: lbw
+    - 10.3:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 10.4:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 10.5:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 10.6:
+        non_striker: K Hinds
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 11.1:
+        non_striker: M Taylor
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Hinds
+    - 11.2:
+        non_striker: M Taylor
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Hinds
+    - 11.3:
+        non_striker: M Taylor
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 11.4:
+        non_striker: K Hinds
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 11.5:
+        non_striker: K Hinds
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 11.6:
+        non_striker: M Taylor
+        bowler: K Fubler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Hinds
+    - 12.1:
+        non_striker: K Hinds
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 12.2:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 12.3:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 12.4:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 12.5:
+        non_striker: K Hinds
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 12.6:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+        wicket:
+          player_out: K Hinds
+          kind: bowled
+    - 13.1:
+        bowler: Chare Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Festus Benn
+        batsman: M Taylor
+    - 13.2:
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Festus Benn
+        batsman: M Taylor
+    - 13.3:
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Festus Benn
+        batsman: M Taylor
+    - 13.4:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 13.5:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 13.6:
+        non_striker: Festus Benn
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 13.7:
+        non_striker: Festus Benn
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 14.1:
+        non_striker: Festus Benn
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 14.2:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 14.3:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 14.4:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 14.5:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 14.6:
+        non_striker: M Taylor
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 15.1:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 15.2:
+        non_striker: Festus Benn
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 15.3:
+        non_striker: Festus Benn
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 15.4:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 15.5:
+        non_striker: Festus Benn
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 15.6:
+        non_striker: M Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Festus Benn
+    - 16.1:
+        non_striker: Festus Benn
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 16.2:
+        non_striker: Festus Benn
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 16.3:
+        non_striker: Festus Benn
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 16.4:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 16.5:
+        non_striker: Festus Benn
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 16.6:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 17.1:
+        non_striker: Festus Benn
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 17.2:
+        non_striker: M Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 17.3:
+        non_striker: Festus Benn
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 17.4:
+        non_striker: Festus Benn
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 17.5:
+        non_striker: Festus Benn
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 17.6:
+        non_striker: Festus Benn
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 18.1:
+        non_striker: Festus Benn
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 18.2:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Festus Benn
+    - 18.3:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 18.4:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Festus Benn
+    - 18.5:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+        wicket:
+          player_out: Festus Benn
+          fielders:
+          - Chare Smith
+          kind: run out
+    - 18.6:
+        non_striker: M Taylor
+        bowler: Chare Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Wheatley
+    - 18.7:
+        non_striker: D Wheatley
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 19.1:
+        non_striker: D Wheatley
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 19.2:
+        non_striker: D Wheatley
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 19.3:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+        wicket:
+          player_out: D Wheatley
+          fielders:
+          - AD Dore
+          kind: caught
+    - 19.4:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sandeep Goud
+    - 19.5:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sandeep Goud
+    - 19.6:
+        non_striker: M Taylor
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sandeep Goud
+    - 19.7:
+        non_striker: Sandeep Goud
+        bowler: Jonte Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor

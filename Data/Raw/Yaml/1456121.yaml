@@ -1,0 +1,1946 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2024-10-21'
+  gender: female
+  match_type: T20
+  match_type_number: 2099
+  outcome:
+    winner: Myanmar
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - MPP San
+  players:
+    Singapore:
+    - GK Diviya
+    - Smriti Anand
+    - Hassan Nawaz
+    - Vinu Kumar
+    - RR Seth
+    - DA Galia
+    - Ada Bhasin
+    - PSR Gurusinghe
+    - Riyaa Bhasin
+    - JS Pooranakaran
+    - I Shukla
+    Myanmar:
+    - KM Myat
+    - TT Aung
+    - MPP San
+    - ZL Win
+    - TT Soe
+    - ZT Kyaw
+    - LL Htun
+    - ZL Thoon
+    - HH Aung
+    - Zon Lin
+    - SY Win
+  registry:
+    people:
+      A Natarajan: a2b73ae0
+      Ada Bhasin: b1c113d7
+      DA Galia: ae0b5b95
+      GK Diviya: 992979fa
+      HH Aung: 860042f6
+      Hassan Nawaz: 26a8b2fe
+      I Shukla: ce490298
+      JS Pooranakaran: 417bde96
+      KM Myat: c1b4e25c
+      KSVP Venu Madhav: 8c7fb752
+      LL Htun: ec687c3a
+      MPP San: 5bc290a2
+      PSR Gurusinghe: 591a7004
+      R Arun Prasanth: ca13b949
+      RR Seth: 7ccc0a38
+      Riyaa Bhasin: 3ff26cea
+      SY Win: 33d65ab4
+      Smriti Anand: 6a532414
+      TT Aung: 57fb24e6
+      TT Soe: 59f44fde
+      VL Sinha: 93cfdc7e
+      Vinu Kumar: 3775b9f9
+      ZL Thoon: 8d0543ce
+      ZL Win: b5714cf9
+      ZT Kyaw: cdf63aaa
+      Zon Lin: 3b492b8d
+  teams:
+  - Singapore
+  - Myanmar
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - KSVP Venu Madhav
+  - VL Sinha
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Smriti Anand
+        batsman: GK Diviya
+    - 0.2:
+        bowler: MPP San
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Smriti Anand
+        batsman: GK Diviya
+    - 0.3:
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Smriti Anand
+        batsman: GK Diviya
+    - 0.4:
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Smriti Anand
+        batsman: GK Diviya
+    - 0.5:
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Smriti Anand
+        batsman: GK Diviya
+    - 0.6:
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Smriti Anand
+        batsman: GK Diviya
+    - 0.7:
+        non_striker: Smriti Anand
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 1.1:
+        non_striker: Smriti Anand
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+        wicket:
+          player_out: Smriti Anand
+          fielders:
+          - MPP San
+          kind: run out
+    - 1.2:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+    - 1.3:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+    - 1.4:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+    - 1.5:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 1.6:
+        non_striker: Hassan Nawaz
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 2.1:
+        non_striker: Hassan Nawaz
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 2.2:
+        non_striker: Hassan Nawaz
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 2.3:
+        non_striker: Hassan Nawaz
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 2.4:
+        non_striker: GK Diviya
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+    - 2.5:
+        non_striker: GK Diviya
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 2.6:
+        non_striker: Hassan Nawaz
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 3.1:
+        non_striker: Hassan Nawaz
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 3.2:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 3.3:
+        non_striker: Hassan Nawaz
+        bowler: ZL Win
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GK Diviya
+    - 3.4:
+        non_striker: Hassan Nawaz
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 3.5:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 3.6:
+        non_striker: Hassan Nawaz
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 3.7:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+    - 4.1:
+        non_striker: Hassan Nawaz
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 4.2:
+        non_striker: Hassan Nawaz
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Diviya
+    - 4.3:
+        non_striker: Hassan Nawaz
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 4.4:
+        non_striker: GK Diviya
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 4.5:
+        non_striker: Hassan Nawaz
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 4.6:
+        non_striker: GK Diviya
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 5.1:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+    - 5.2:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+    - 5.3:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Nawaz
+    - 5.4:
+        non_striker: GK Diviya
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 5.5:
+        non_striker: Hassan Nawaz
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Diviya
+    - 5.6:
+        non_striker: Hassan Nawaz
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 6.1:
+        non_striker: GK Diviya
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 6.2:
+        non_striker: Hassan Nawaz
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Diviya
+    - 6.3:
+        non_striker: Hassan Nawaz
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 6.4:
+        non_striker: GK Diviya
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+    - 6.5:
+        non_striker: GK Diviya
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+    - 6.6:
+        non_striker: GK Diviya
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Nawaz
+    - 7.1:
+        non_striker: Hassan Nawaz
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Diviya
+    - 7.2:
+        non_striker: GK Diviya
+        bowler: ZL Thoon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Hassan Nawaz
+    - 7.3:
+        non_striker: Hassan Nawaz
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 7.4:
+        non_striker: Hassan Nawaz
+        bowler: ZL Thoon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GK Diviya
+        wicket:
+          player_out: GK Diviya
+          fielders:
+          - ZL Win
+          kind: run out
+    - 7.5:
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Vinu Kumar
+        batsman: Hassan Nawaz
+    - 7.6:
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Vinu Kumar
+        batsman: Hassan Nawaz
+    - 7.7:
+        bowler: ZL Thoon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Vinu Kumar
+        batsman: Hassan Nawaz
+    - 7.8:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 8.1:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+        wicket:
+          player_out: Hassan Nawaz
+          kind: bowled
+    - 8.2:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 8.3:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 8.4:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 8.5:
+        non_striker: Vinu Kumar
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 8.6:
+        non_striker: RR Seth
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 9.1:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 9.2:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 9.3:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 9.4:
+        non_striker: Vinu Kumar
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 9.5:
+        non_striker: RR Seth
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+        wicket:
+          player_out: Vinu Kumar
+          kind: bowled
+    - 9.6:
+        non_striker: RR Seth
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 10.1:
+        non_striker: DA Galia
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 10.2:
+        non_striker: DA Galia
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 10.3:
+        non_striker: DA Galia
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 10.4:
+        non_striker: RR Seth
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 10.5:
+        non_striker: RR Seth
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 10.6:
+        non_striker: RR Seth
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 11.1:
+        non_striker: DA Galia
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 11.2:
+        non_striker: DA Galia
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 11.3:
+        non_striker: DA Galia
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 11.4:
+        non_striker: RR Seth
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 11.5:
+        non_striker: DA Galia
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 11.6:
+        non_striker: RR Seth
+        bowler: ZL Thoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 12.1:
+        non_striker: RR Seth
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+        wicket:
+          player_out: DA Galia
+          fielders:
+          - HH Aung
+          kind: caught
+    - 12.2:
+        non_striker: RR Seth
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ada Bhasin
+        wicket:
+          player_out: Ada Bhasin
+          kind: bowled
+    - 12.3:
+        non_striker: RR Seth
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 12.4:
+        non_striker: PSR Gurusinghe
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 12.5:
+        non_striker: PSR Gurusinghe
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 12.6:
+        non_striker: PSR Gurusinghe
+        bowler: TT Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 13.1:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 13.2:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 13.3:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 13.4:
+        non_striker: PSR Gurusinghe
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 13.5:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 13.6:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 14.1:
+        non_striker: PSR Gurusinghe
+        bowler: ZT Kyaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Seth
+    - 14.2:
+        non_striker: PSR Gurusinghe
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 14.3:
+        non_striker: RR Seth
+        bowler: ZT Kyaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSR Gurusinghe
+    - 14.4:
+        non_striker: RR Seth
+        bowler: ZT Kyaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: PSR Gurusinghe
+    - 14.5:
+        non_striker: PSR Gurusinghe
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 14.6:
+        non_striker: PSR Gurusinghe
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 14.7:
+        non_striker: PSR Gurusinghe
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 14.8:
+        non_striker: PSR Gurusinghe
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 15.1:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+        wicket:
+          player_out: PSR Gurusinghe
+          fielders:
+          - LL Htun
+          kind: caught
+    - 15.2:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riyaa Bhasin
+    - 15.3:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 15.4:
+        non_striker: Riyaa Bhasin
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 15.5:
+        non_striker: Riyaa Bhasin
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 15.6:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 16.1:
+        non_striker: RR Seth
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 16.2:
+        non_striker: RR Seth
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riyaa Bhasin
+    - 16.3:
+        non_striker: RR Seth
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 16.4:
+        non_striker: RR Seth
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 16.5:
+        non_striker: RR Seth
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 16.6:
+        non_striker: Riyaa Bhasin
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 17.1:
+        non_striker: Riyaa Bhasin
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 17.2:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 17.3:
+        non_striker: Riyaa Bhasin
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 17.4:
+        non_striker: Riyaa Bhasin
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 17.5:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Riyaa Bhasin
+    - 17.6:
+        non_striker: RR Seth
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 17.7:
+        non_striker: Riyaa Bhasin
+        bowler: SY Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 18.1:
+        non_striker: RR Seth
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 18.2:
+        non_striker: Riyaa Bhasin
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 18.3:
+        non_striker: Riyaa Bhasin
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 18.4:
+        non_striker: Riyaa Bhasin
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 18.5:
+        non_striker: Riyaa Bhasin
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 18.6:
+        non_striker: RR Seth
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 19.1:
+        non_striker: Riyaa Bhasin
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 19.2:
+        non_striker: Riyaa Bhasin
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 19.3:
+        non_striker: Riyaa Bhasin
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Seth
+    - 19.4:
+        non_striker: Riyaa Bhasin
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 19.5:
+        non_striker: RR Seth
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 19.6:
+        non_striker: Riyaa Bhasin
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 19.7:
+        non_striker: Riyaa Bhasin
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+- 2nd innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.2:
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.3:
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.4:
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.5:
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.6:
+        non_striker: KM Myat
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 0.7:
+        non_striker: KM Myat
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 1.1:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+        wicket:
+          player_out: KM Myat
+          fielders:
+          - JS Pooranakaran
+          kind: caught
+    - 1.2:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 1.3:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 1.4:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPP San
+    - 1.5:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 1.6:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPP San
+    - 2.1:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 2.2:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 2.3:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 2.4:
+        non_striker: TT Aung
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MPP San
+    - 2.5:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Aung
+    - 2.6:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 3.1:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 3.2:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 3.3:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 3.4:
+        non_striker: TT Aung
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 3.5:
+        non_striker: MPP San
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 3.6:
+        non_striker: MPP San
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 4.1:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPP San
+    - 4.2:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 4.3:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPP San
+    - 4.4:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 4.5:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 4.6:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 4.7:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 5.1:
+        non_striker: MPP San
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 5.2:
+        non_striker: MPP San
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 5.3:
+        non_striker: MPP San
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 5.4:
+        non_striker: MPP San
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 5.5:
+        non_striker: TT Aung
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPP San
+    - 5.6:
+        non_striker: TT Aung
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 6.1:
+        non_striker: MPP San
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Aung
+    - 6.2:
+        non_striker: MPP San
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 6.3:
+        non_striker: MPP San
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Aung
+    - 6.4:
+        non_striker: MPP San
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Aung
+    - 6.5:
+        non_striker: MPP San
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 6.6:
+        non_striker: MPP San
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 6.7:
+        non_striker: MPP San
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 7.1:
+        non_striker: TT Aung
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 7.2:
+        non_striker: TT Aung
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 7.3:
+        non_striker: TT Aung
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 7.4:
+        non_striker: MPP San
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 7.5:
+        non_striker: MPP San
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 7.6:
+        non_striker: MPP San
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Aung
+    - 8.1:
+        non_striker: TT Aung
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 8.2:
+        non_striker: TT Aung
+        bowler: I Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPP San
+    - 8.3:
+        non_striker: TT Aung
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 8.4:
+        non_striker: MPP San
+        bowler: I Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Aung
+    - 8.5:
+        non_striker: MPP San
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 8.6:
+        non_striker: MPP San
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 8.7:
+        non_striker: TT Aung
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 8.8:
+        non_striker: MPP San
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 9.1:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 9.2:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 9.3:
+        non_striker: MPP San
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Aung
+    - 9.4:
+        non_striker: MPP San
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 9.5:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPP San
+    - 9.6:
+        non_striker: TT Aung
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 9.7:
+        non_striker: MPP San
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 10.1:
+        non_striker: TT Aung
+        bowler: I Shukla
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MPP San
+    - 10.2:
+        non_striker: TT Aung
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 10.3:
+        non_striker: TT Aung
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 10.4:
+        non_striker: TT Aung
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 10.5:
+        non_striker: MPP San
+        bowler: I Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TT Aung
+    - 10.6:
+        non_striker: TT Aung
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 10.7:
+        non_striker: MPP San
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 11.1:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 11.2:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Aung
+    - 11.3:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 11.4:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+        wicket:
+          player_out: TT Aung
+          fielders:
+          - PSR Gurusinghe
+          kind: stumped
+    - 11.5:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 11.6:
+        non_striker: MPP San
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+        wicket:
+          player_out: ZL Win
+          kind: lbw
+    - 12.1:
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TT Soe
+        batsman: MPP San
+    - 12.2:
+        non_striker: MPP San
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 12.3:
+        non_striker: MPP San
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 12.4:
+        non_striker: MPP San
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 12.5:
+        non_striker: MPP San
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Soe
+    - 12.6:
+        non_striker: MPP San
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 13.1:
+        non_striker: TT Soe
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPP San
+    - 13.2:
+        non_striker: TT Soe
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPP San
+    - 13.3:
+        non_striker: TT Soe
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 13.4:
+        non_striker: TT Soe
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPP San
+    - 13.5:
+        non_striker: TT Soe
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPP San
+    - 13.6:
+        non_striker: TT Soe
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPP San
+    - 14.1:
+        non_striker: MPP San
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 14.2:
+        non_striker: TT Soe
+        bowler: I Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPP San
+    - 14.3:
+        non_striker: TT Soe
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San

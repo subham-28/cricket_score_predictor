@@ -1,0 +1,2247 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mong Kok
+  dates:
+  - '2024-12-08'
+  gender: female
+  match_type: T20
+  match_type_number: 2148
+  outcome:
+    winner: Hong Kong
+    by:
+      runs: 32
+  overs: 20
+  player_of_match:
+  - KY Chan
+  players:
+    Hong Kong:
+    - NT Miles
+    - M Hill
+    - Shanzeen Shahzad
+    - Y Daswani
+    - WK Lai
+    - Ruchitha Venkatesh
+    - KY Chan
+    - M Bibi
+    - Hiu Ying Cheung
+    - Joyleen Kaur
+    - M Wai Siu
+    China:
+    - Jing Yang
+    - Yang Shen
+    - Zi Mei
+    - Xu Qian
+    - Wei Haiting
+    - Yan Zuying
+    - Gong Yuting
+    - Cai Yuzhi
+    - Mengting Liu
+    - Ma Ruike
+    - Wang Huiying
+  registry:
+    people:
+      Cai Yuzhi: 80d30c5f
+      G Sankaranarayanan: a4a348f9
+      Gong Yuting: edcd847a
+      Hiu Ying Cheung: 9efce9fd
+      Jing Yang: 03f1a623
+      John Prakash: b5f3d429
+      Joyleen Kaur: 8ea44a61
+      KY Chan: 6348c6e9
+      M Bibi: 34f86a2d
+      M Hill: bf5e7711
+      M Wai Siu: 74eecff4
+      Ma Ruike: 8ccef7e2
+      Mengting Liu: 1119a645
+      NT Miles: d27d0835
+      Niaz Ali: e33a357d
+      Ruchitha Venkatesh: 106135f5
+      SJ D'Cruz: ed62962b
+      SYD Chan: 4839b023
+      Shanzeen Shahzad: ce291858
+      WK Lai: 6ab99b17
+      Wang Huiying: c84a3e06
+      Wei Haiting: a1e30490
+      Xu Qian: 4d382b64
+      Y Daswani: 2038a273
+      Yan Zuying: 0311d9ec
+      Yang Shen: eae39ba0
+      Zi Mei: 72070f05
+  teams:
+  - Hong Kong
+  - China
+  toss:
+    winner: China
+    decision: field
+  umpires:
+  - John Prakash
+  - SJ D'Cruz
+  venue: Mission Road Ground, Mong Kok, Hong Kong
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.2:
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.3:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.4:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+        wicket:
+          player_out: M Hill
+          fielders:
+          - Jing Yang
+          kind: caught
+    - 0.5:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shanzeen Shahzad
+    - 0.6:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shanzeen Shahzad
+    - 0.7:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 0.8:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 1.1:
+        non_striker: Shanzeen Shahzad
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 1.3:
+        non_striker: Shanzeen Shahzad
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.4:
+        non_striker: Shanzeen Shahzad
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 1.5:
+        non_striker: Shanzeen Shahzad
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.6:
+        non_striker: Shanzeen Shahzad
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 2.1:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.2:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 2.3:
+        non_striker: Shanzeen Shahzad
+        bowler: Yang Shen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 2.4:
+        non_striker: Shanzeen Shahzad
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 2.5:
+        non_striker: Shanzeen Shahzad
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 2.6:
+        non_striker: Shanzeen Shahzad
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 2.7:
+        non_striker: Shanzeen Shahzad
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 3.1:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 3.2:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 3.3:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 3.4:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 3.5:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 3.6:
+        non_striker: Shanzeen Shahzad
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 4.1:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.2:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shanzeen Shahzad
+    - 4.3:
+        non_striker: Shanzeen Shahzad
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 4.4:
+        non_striker: Shanzeen Shahzad
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 4.5:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 4.6:
+        non_striker: Shanzeen Shahzad
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 5.1:
+        non_striker: Shanzeen Shahzad
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 5.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 5.3:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+        wicket:
+          player_out: Shanzeen Shahzad
+          kind: lbw
+    - 5.4:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Y Daswani
+    - 5.5:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 5.6:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 5.7:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 6.1:
+        non_striker: Y Daswani
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+        wicket:
+          player_out: Y Daswani
+          fielders:
+          - Zi Mei
+          - Mengting Liu
+          kind: run out
+    - 6.2:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 6.3:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 6.4:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 6.5:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Lai
+    - 6.6:
+        non_striker: WK Lai
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 7.1:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 7.2:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+        wicket:
+          player_out: WK Lai
+          fielders:
+          - Gong Yuting
+          kind: caught
+    - 7.3:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ruchitha Venkatesh
+    - 7.4:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ruchitha Venkatesh
+    - 7.5:
+        non_striker: Ruchitha Venkatesh
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.6:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ruchitha Venkatesh
+    - 8.1:
+        non_striker: Ruchitha Venkatesh
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 8.2:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ruchitha Venkatesh
+    - 8.3:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ruchitha Venkatesh
+    - 8.4:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ruchitha Venkatesh
+    - 8.5:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ruchitha Venkatesh
+        wicket:
+          player_out: Ruchitha Venkatesh
+          fielders:
+          - Cai Yuzhi
+          kind: caught
+    - 8.6:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 8.7:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 9.1:
+        non_striker: KY Chan
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.2:
+        non_striker: KY Chan
+        bowler: Yang Shen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 9.3:
+        non_striker: KY Chan
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 9.4:
+        non_striker: KY Chan
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.5:
+        non_striker: KY Chan
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 9.6:
+        non_striker: NT Miles
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 9.7:
+        non_striker: KY Chan
+        bowler: Yang Shen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 10.1:
+        non_striker: KY Chan
+        bowler: Wang Huiying
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: NT Miles
+    - 10.2:
+        non_striker: KY Chan
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 10.3:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 10.4:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 10.5:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 10.6:
+        non_striker: KY Chan
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 11.1:
+        non_striker: KY Chan
+        bowler: Cai Yuzhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 11.2:
+        non_striker: KY Chan
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 11.3:
+        non_striker: NT Miles
+        bowler: Cai Yuzhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: KY Chan
+    - 11.4:
+        non_striker: KY Chan
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 11.5:
+        non_striker: NT Miles
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 11.6:
+        non_striker: KY Chan
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 11.7:
+        non_striker: KY Chan
+        bowler: Cai Yuzhi
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: NT Miles
+    - 11.8:
+        non_striker: NT Miles
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 12.1:
+        non_striker: KY Chan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 12.2:
+        non_striker: KY Chan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 12.3:
+        non_striker: KY Chan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 12.4:
+        non_striker: KY Chan
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.5:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 12.6:
+        non_striker: NT Miles
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 13.1:
+        non_striker: KY Chan
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 13.2:
+        non_striker: NT Miles
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 13.3:
+        non_striker: NT Miles
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 13.4:
+        non_striker: NT Miles
+        bowler: Ma Ruike
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 13.5:
+        non_striker: NT Miles
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 13.6:
+        non_striker: NT Miles
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 13.7:
+        non_striker: KY Chan
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 13.8:
+        non_striker: KY Chan
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 13.9:
+        non_striker: KY Chan
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 14.1:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 14.2:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 14.3:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 14.4:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 14.5:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 14.6:
+        non_striker: KY Chan
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 14.7:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 14.8:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 14.9:
+        non_striker: NT Miles
+        bowler: Wang Huiying
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 15.1:
+        non_striker: KY Chan
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 15.2:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 15.3:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 15.4:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 15.5:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 15.6:
+        non_striker: KY Chan
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 16.1:
+        non_striker: NT Miles
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 16.2:
+        non_striker: NT Miles
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+        wicket:
+          player_out: KY Chan
+          fielders:
+          - Zi Mei
+          kind: caught
+    - 16.3:
+        non_striker: NT Miles
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 16.4:
+        non_striker: NT Miles
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 16.5:
+        non_striker: M Bibi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 16.6:
+        non_striker: NT Miles
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 17.1:
+        non_striker: M Bibi
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 17.2:
+        non_striker: M Bibi
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 17.3:
+        non_striker: M Bibi
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 17.4:
+        non_striker: M Bibi
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 17.5:
+        non_striker: M Bibi
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 17.6:
+        non_striker: NT Miles
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 18.1:
+        non_striker: M Bibi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 18.2:
+        non_striker: NT Miles
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 18.3:
+        non_striker: M Bibi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 18.4:
+        non_striker: M Bibi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 18.5:
+        non_striker: M Bibi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+        wicket:
+          player_out: NT Miles
+          fielders:
+          - Wang Huiying
+          kind: caught
+    - 18.6:
+        non_striker: M Bibi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hiu Ying Cheung
+    - 18.7:
+        non_striker: M Bibi
+        bowler: Cai Yuzhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hiu Ying Cheung
+    - 19.1:
+        non_striker: Hiu Ying Cheung
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 19.2:
+        non_striker: M Bibi
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hiu Ying Cheung
+    - 19.3:
+        non_striker: Hiu Ying Cheung
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 19.4:
+        non_striker: M Bibi
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Hiu Ying Cheung
+    - 19.5:
+        non_striker: Hiu Ying Cheung
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 19.6:
+        non_striker: Hiu Ying Cheung
+        bowler: Ma Ruike
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+- 2nd innings:
+    team: China
+    deliveries:
+    - 0.1:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yang Shen
+        batsman: Jing Yang
+    - 0.2:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yang Shen
+        batsman: Jing Yang
+    - 0.3:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yang Shen
+        batsman: Jing Yang
+    - 0.4:
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Yang Shen
+        batsman: Jing Yang
+    - 0.5:
+        non_striker: Jing Yang
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Shen
+    - 0.6:
+        non_striker: Yang Shen
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jing Yang
+    - 1.1:
+        non_striker: Jing Yang
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Shen
+        wicket:
+          player_out: Yang Shen
+          kind: bowled
+    - 1.2:
+        non_striker: Jing Yang
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 1.3:
+        non_striker: Jing Yang
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 1.4:
+        non_striker: Zi Mei
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jing Yang
+    - 1.5:
+        non_striker: Zi Mei
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jing Yang
+    - 1.6:
+        non_striker: Zi Mei
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jing Yang
+    - 1.7:
+        non_striker: Zi Mei
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jing Yang
+    - 2.1:
+        non_striker: Zi Mei
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jing Yang
+    - 2.2:
+        non_striker: Zi Mei
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jing Yang
+    - 2.3:
+        non_striker: Zi Mei
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jing Yang
+    - 2.4:
+        non_striker: Zi Mei
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jing Yang
+        wicket:
+          player_out: Jing Yang
+          kind: bowled
+    - 2.5:
+        non_striker: Zi Mei
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Xu Qian
+    - 2.6:
+        non_striker: Zi Mei
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Xu Qian
+    - 3.1:
+        non_striker: Xu Qian
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 3.2:
+        non_striker: Zi Mei
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Xu Qian
+    - 3.3:
+        non_striker: Xu Qian
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 3.4:
+        non_striker: Xu Qian
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 3.5:
+        non_striker: Xu Qian
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+        wicket:
+          player_out: Zi Mei
+          kind: bowled
+    - 3.6:
+        non_striker: Xu Qian
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wei Haiting
+    - 4.1:
+        non_striker: Wei Haiting
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Xu Qian
+    - 4.2:
+        non_striker: Wei Haiting
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Xu Qian
+    - 4.3:
+        non_striker: Wei Haiting
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Xu Qian
+    - 4.4:
+        non_striker: Xu Qian
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wei Haiting
+    - 4.5:
+        non_striker: Wei Haiting
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Xu Qian
+    - 4.6:
+        non_striker: Wei Haiting
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Xu Qian
+    - 5.1:
+        non_striker: Xu Qian
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 5.2:
+        non_striker: Xu Qian
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 5.3:
+        non_striker: Xu Qian
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wei Haiting
+    - 5.4:
+        non_striker: Wei Haiting
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Xu Qian
+        wicket:
+          player_out: Xu Qian
+          kind: lbw
+    - 5.5:
+        non_striker: Wei Haiting
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yan Zuying
+        wicket:
+          player_out: Yan Zuying
+          kind: lbw
+    - 5.6:
+        non_striker: Wei Haiting
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gong Yuting
+    - 6.1:
+        non_striker: Gong Yuting
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+    - 6.2:
+        non_striker: Gong Yuting
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wei Haiting
+        wicket:
+          player_out: Wei Haiting
+          kind: lbw
+    - 6.3:
+        non_striker: Gong Yuting
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+    - 6.4:
+        non_striker: Gong Yuting
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+    - 6.5:
+        non_striker: Gong Yuting
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+    - 6.6:
+        non_striker: Gong Yuting
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+    - 7.1:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gong Yuting
+    - 7.2:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gong Yuting
+    - 7.3:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gong Yuting
+    - 7.4:
+        non_striker: Gong Yuting
+        bowler: Joyleen Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Cai Yuzhi
+    - 7.5:
+        non_striker: Gong Yuting
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Cai Yuzhi
+    - 7.6:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gong Yuting
+    - 7.7:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gong Yuting
+    - 8.1:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gong Yuting
+        wicket:
+          player_out: Gong Yuting
+          kind: bowled
+    - 8.2:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 8.3:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 8.4:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 8.5:
+        non_striker: Mengting Liu
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+    - 8.6:
+        non_striker: Mengting Liu
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+    - 9.1:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 9.2:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 9.3:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 9.4:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 9.5:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 9.6:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 10.1:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 10.2:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mengting Liu
+    - 10.3:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 10.4:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 10.5:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 10.6:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mengting Liu
+    - 10.7:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 11.1:
+        non_striker: Cai Yuzhi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 11.2:
+        non_striker: Cai Yuzhi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 11.3:
+        non_striker: Cai Yuzhi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 11.4:
+        non_striker: Cai Yuzhi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 11.5:
+        non_striker: Cai Yuzhi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 11.6:
+        non_striker: Cai Yuzhi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 12.1:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 12.2:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mengting Liu
+    - 12.3:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 12.4:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mengting Liu
+    - 12.5:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 12.6:
+        non_striker: Mengting Liu
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Cai Yuzhi
+    - 12.7:
+        non_striker: Cai Yuzhi
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 13.1:
+        non_striker: Mengting Liu
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Cai Yuzhi
+    - 13.2:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 13.3:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 13.4:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 13.5:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 13.6:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 14.1:
+        non_striker: Mengting Liu
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+    - 14.2:
+        non_striker: Mengting Liu
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Cai Yuzhi
+    - 14.3:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+    - 14.4:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 14.5:
+        non_striker: Mengting Liu
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Cai Yuzhi
+    - 14.6:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mengting Liu
+    - 15.1:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mengting Liu
+        wicket:
+          player_out: Mengting Liu
+          fielders:
+          - M Bibi
+          kind: caught
+    - 15.2:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 15.3:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 15.4:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 15.5:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ma Ruike
+    - 15.6:
+        non_striker: Ma Ruike
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Cai Yuzhi
+    - 16.1:
+        non_striker: Ma Ruike
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+    - 16.2:
+        non_striker: Ma Ruike
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Cai Yuzhi
+    - 16.3:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ma Ruike
+    - 16.4:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 16.5:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ma Ruike
+    - 16.6:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ma Ruike
+    - 17.1:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 17.2:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 17.3:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Ruike
+    - 17.4:
+        non_striker: Cai Yuzhi
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ma Ruike
+    - 17.5:
+        non_striker: Ma Ruike
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+    - 17.6:
+        non_striker: Ma Ruike
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Cai Yuzhi
+    - 18.1:
+        non_striker: Cai Yuzhi
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ma Ruike
+    - 18.2:
+        non_striker: Ma Ruike
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Cai Yuzhi
+        wicket:
+          player_out: Cai Yuzhi
+          kind: bowled
+    - 18.3:
+        non_striker: Ma Ruike
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wang Huiying
+    - 18.4:
+        non_striker: Ma Ruike
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wang Huiying
+    - 18.5:
+        non_striker: Ma Ruike
+        bowler: Joyleen Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wang Huiying
+    - 18.6:
+        non_striker: Ma Ruike
+        bowler: Joyleen Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Wang Huiying
+    - 19.1:
+        non_striker: Ma Ruike
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wang Huiying
+    - 19.2:
+        non_striker: Ma Ruike
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wang Huiying
+        wicket:
+          player_out: Wang Huiying
+          fielders:
+          - SYD Chan (sub)
+          kind: caught

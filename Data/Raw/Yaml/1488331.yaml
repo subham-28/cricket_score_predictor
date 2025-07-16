@@ -1,0 +1,920 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: King City
+  dates:
+  - '2025-06-18'
+  gender: male
+  match_type: T20
+  match_type_number: 3249
+  outcome:
+    winner: Canada
+    by:
+      wickets: 10
+    method: D/L
+  overs: 20
+  player_of_match:
+  - YS Samra
+  players:
+    Bahamas:
+    - M Taylor
+    - GT Taylor
+    - E Duff
+    - K Hinds
+    - Festus Benn
+    - D Wheatley
+    - J Jemison
+    - Sandeep Goud
+    - DG Weakley
+    - K Burrows
+    - A Gulati
+    Canada:
+    - YS Samra
+    - A Johnson
+    - Pargat Singh
+    - NR Kirton
+    - H Thaker
+    - K Tathgur
+    - Jaskaran Singh
+    - D Heyliger
+    - Shivam Sharma
+    - Kaleem Sana
+    - Ansh Patel
+  registry:
+    people:
+      A Gulati: 82903f3a
+      A Johnson: a28a7fba
+      AR Maddela: 5c861579
+      Ansh Patel: 9e76cdb3
+      D Heyliger: f8c72766
+      D Wheatley: '04539335'
+      DG Weakley: 224a9f5e
+      DK Butler: 671398e3
+      Dave Gilbert: aa782370
+      E Duff: b7873c81
+      Festus Benn: de6b3760
+      GO Brathwaite: 1ace56d4
+      GT Taylor: c674f722
+      H Thaker: c01d7726
+      J Jemison: ce1abd25
+      Jaskaran Singh: d7b3a420
+      K Burrows: f11f5a92
+      K Hinds: a268c07b
+      K Tathgur: f190c775
+      Kaleem Sana: 14810ee7
+      M Taylor: 92075cdc
+      NR Kirton: 6b75c2b1
+      Pargat Singh: d2e67105
+      Ravinderpal Singh: f80682f8
+      Sandeep Goud: c83ef4d6
+      Shivam Sharma: 5bdeeed4
+      YS Samra: d02c40ab
+      Zahid Bassarath: ca6bf044
+  teams:
+  - Bahamas
+  - Canada
+  toss:
+    winner: Canada
+    decision: field
+  umpires:
+  - DK Butler
+  - Zahid Bassarath
+  venue: Maple Leaf North-West Ground, King City
+innings:
+- 1st innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.2:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.3:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.4:
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.5:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.6:
+        bowler: Kaleem Sana
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.7:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.8:
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: GT Taylor
+        batsman: M Taylor
+    - 0.9:
+        non_striker: GT Taylor
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 1.1:
+        non_striker: M Taylor
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 1.2:
+        non_striker: M Taylor
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 1.3:
+        non_striker: M Taylor
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 1.4:
+        non_striker: M Taylor
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GT Taylor
+    - 1.5:
+        non_striker: GT Taylor
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 1.6:
+        non_striker: GT Taylor
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 2.1:
+        non_striker: GT Taylor
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 2.2:
+        non_striker: GT Taylor
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 2.3:
+        non_striker: M Taylor
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+        wicket:
+          player_out: GT Taylor
+          fielders:
+          - Ravinderpal Singh (sub)
+          kind: caught
+    - 2.4:
+        non_striker: M Taylor
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 2.5:
+        non_striker: E Duff
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 2.6:
+        non_striker: M Taylor
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 2.7:
+        non_striker: M Taylor
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Duff
+    - 3.1:
+        non_striker: E Duff
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+        wicket:
+          player_out: M Taylor
+          kind: bowled
+    - 3.2:
+        non_striker: E Duff
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 3.3:
+        non_striker: E Duff
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 3.4:
+        non_striker: E Duff
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 3.5:
+        non_striker: E Duff
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 3.6:
+        non_striker: E Duff
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 4.1:
+        non_striker: K Hinds
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 4.2:
+        non_striker: K Hinds
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 4.3:
+        non_striker: E Duff
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 4.4:
+        non_striker: E Duff
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+        wicket:
+          player_out: K Hinds
+          fielders:
+          - K Tathgur
+          kind: caught
+    - 4.5:
+        non_striker: E Duff
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 4.6:
+        non_striker: E Duff
+        bowler: Shivam Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 5.1:
+        non_striker: Festus Benn
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.2:
+        non_striker: Festus Benn
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.3:
+        non_striker: Festus Benn
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.4:
+        non_striker: Festus Benn
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.5:
+        non_striker: Festus Benn
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 5.6:
+        non_striker: E Duff
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 6.1:
+        non_striker: Festus Benn
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 6.2:
+        non_striker: Festus Benn
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 6.3:
+        non_striker: E Duff
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 6.4:
+        non_striker: E Duff
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Festus Benn
+    - 6.5:
+        non_striker: E Duff
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+        wicket:
+          player_out: Festus Benn
+          kind: lbw
+    - 6.6:
+        non_striker: E Duff
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 7.1:
+        non_striker: D Wheatley
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 7.2:
+        non_striker: D Wheatley
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 7.3:
+        non_striker: D Wheatley
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+        wicket:
+          player_out: E Duff
+          fielders:
+          - K Tathgur
+          kind: stumped
+    - 7.4:
+        non_striker: D Wheatley
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 7.5:
+        non_striker: D Wheatley
+        bowler: Ansh Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Jemison
+    - 7.6:
+        non_striker: D Wheatley
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+        wicket:
+          player_out: J Jemison
+          fielders:
+          - NR Kirton
+          - K Tathgur
+          kind: run out
+    - 7.7:
+        non_striker: D Wheatley
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 8.1:
+        non_striker: Sandeep Goud
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 8.2:
+        non_striker: Sandeep Goud
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 8.3:
+        non_striker: D Wheatley
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 8.4:
+        non_striker: D Wheatley
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sandeep Goud
+    - 8.5:
+        non_striker: Sandeep Goud
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 8.6:
+        non_striker: D Wheatley
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sandeep Goud
+    - 9.1:
+        non_striker: D Wheatley
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sandeep Goud
+    - 9.2:
+        non_striker: Sandeep Goud
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+        wicket:
+          player_out: D Wheatley
+          fielders:
+          - NR Kirton
+          - Ansh Patel
+          kind: run out
+    - 9.3:
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: Sandeep Goud
+    - 9.4:
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DG Weakley
+        batsman: Sandeep Goud
+    - 9.5:
+        non_striker: Sandeep Goud
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 9.6:
+        non_striker: Sandeep Goud
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 10.1:
+        non_striker: DG Weakley
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 10.2:
+        non_striker: DG Weakley
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 10.3:
+        non_striker: DG Weakley
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 10.4:
+        non_striker: DG Weakley
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sandeep Goud
+    - 10.5:
+        non_striker: DG Weakley
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sandeep Goud
+    - 10.6:
+        non_striker: DG Weakley
+        bowler: D Heyliger
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Sandeep Goud
+- 2nd innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: A Johnson
+        batsman: YS Samra
+    - 0.2:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Johnson
+        batsman: YS Samra
+    - 0.3:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Johnson
+        batsman: YS Samra
+    - 0.4:
+        non_striker: YS Samra
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 0.5:
+        non_striker: YS Samra
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 0.6:
+        non_striker: YS Samra
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 1.1:
+        non_striker: A Johnson
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YS Samra
+    - 1.2:
+        non_striker: A Johnson
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 1.3:
+        non_striker: YS Samra
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 1.4:
+        non_striker: YS Samra
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Johnson
+    - 1.5:
+        non_striker: A Johnson
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Samra
+    - 1.6:
+        non_striker: A Johnson
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 2.1:
+        non_striker: A Johnson
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YS Samra
+    - 2.2:
+        non_striker: A Johnson
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Samra
+    - 2.3:
+        non_striker: A Johnson
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YS Samra
+    - 2.4:
+        non_striker: A Johnson
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 2.5:
+        non_striker: YS Samra
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 2.6:
+        non_striker: YS Samra
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 3.1:
+        non_striker: A Johnson
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Samra
+    - 3.2:
+        non_striker: A Johnson
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 3.3:
+        non_striker: YS Samra
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Johnson
+    - 3.4:
+        non_striker: YS Samra
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 3.5:
+        non_striker: YS Samra
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 3.6:
+        non_striker: YS Samra
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 4.1:
+        non_striker: A Johnson
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Samra
+    - 4.2:
+        non_striker: YS Samra
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Johnson
+    - 4.3:
+        non_striker: A Johnson
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YS Samra

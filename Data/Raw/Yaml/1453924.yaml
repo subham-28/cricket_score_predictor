@@ -1,0 +1,2231 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nairobi
+  dates:
+  - '2024-10-24'
+  gender: male
+  match_type: T20
+  match_type_number: 2933
+  outcome:
+    winner: Rwanda
+    by:
+      runs: 73
+  overs: 20
+  player_of_match:
+  - Yves Cyusa
+  players:
+    Rwanda:
+    - O Manishimwe
+    - D Ndikubwimana
+    - I Niyomugabo
+    - D Gumyusenge
+    - Yves Cyusa
+    - C Rububagumya
+    - E Rukiriza
+    - Muhammad Nadir
+    - I Mugisha
+    - Z Bimenyimana
+    - I Ntirenganya
+    Seychelles:
+    - T Horpinitch
+    - TKP Rajapaksha
+    - M Mariyappan
+    - Mazharul Islam
+    - SKDT Madusanka
+    - HL Harji
+    - STRA de Silva
+    - Jobayer Hossen
+    - SR Mohan
+    - N Krishna
+    - S Rukmal
+  registry:
+    people:
+      C Rububagumya: 8088632c
+      Charles Kariuki: 8de34db0
+      D Gumyusenge: eeb78e0a
+      D Ndikubwimana: 3cbedf51
+      E Rukiriza: 3ac13a94
+      ET Dube: 4c0891bc
+      F Mutizwa: d3e83eef
+      HL Harji: 29663fda
+      I Mugisha: d3eedb51
+      I Niyomugabo: 72bf5103
+      I Ntirenganya: e73f6c4b
+      Jobayer Hossen: 656fc15b
+      M Mariyappan: 69cbd850
+      Mazharul Islam: 30564b3e
+      Morshed Ali Khan: a7c3cf5f
+      Muhammad Nadir: '090f96e4'
+      N Krishna: c62a0327
+      O Manishimwe: fb31ca49
+      S Rukmal: f5be7b08
+      SKDT Madusanka: 95c2d309
+      SR Mohan: '58533699'
+      STRA de Silva: 21fe743b
+      T Horpinitch: 90c734f8
+      TKP Rajapaksha: b5dcec37
+      Yves Cyusa: b5aa28ce
+      Z Bimenyimana: ba57fb08
+  teams:
+  - Rwanda
+  - Seychelles
+  toss:
+    winner: Rwanda
+    decision: bat
+  umpires:
+  - F Mutizwa
+  - Morshed Ali Khan
+  venue: Ruaraka Sports Club Ground, Nairobi
+innings:
+- 1st innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Ndikubwimana
+        batsman: O Manishimwe
+    - 0.2:
+        non_striker: O Manishimwe
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 0.3:
+        non_striker: D Ndikubwimana
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 0.4:
+        non_striker: O Manishimwe
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 0.5:
+        non_striker: O Manishimwe
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 0.6:
+        non_striker: O Manishimwe
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 1.1:
+        non_striker: D Ndikubwimana
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+        wicket:
+          player_out: O Manishimwe
+          fielders:
+          - T Horpinitch
+          kind: caught
+    - 1.2:
+        non_striker: D Ndikubwimana
+        bowler: Jobayer Hossen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 1.3:
+        non_striker: D Ndikubwimana
+        bowler: Jobayer Hossen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 1.4:
+        non_striker: D Ndikubwimana
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 1.5:
+        non_striker: D Ndikubwimana
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 1.6:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+        wicket:
+          player_out: D Ndikubwimana
+          fielders:
+          - T Horpinitch
+          kind: caught
+    - 1.7:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 1.8:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 2.1:
+        non_striker: D Gumyusenge
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Niyomugabo
+    - 2.2:
+        non_striker: D Gumyusenge
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 2.3:
+        non_striker: I Niyomugabo
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 2.4:
+        non_striker: I Niyomugabo
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 2.5:
+        non_striker: I Niyomugabo
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gumyusenge
+    - 2.6:
+        non_striker: D Gumyusenge
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Niyomugabo
+    - 3.1:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+        wicket:
+          player_out: D Gumyusenge
+          fielders:
+          - Mazharul Islam
+          kind: caught
+    - 3.2:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 3.3:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yves Cyusa
+    - 3.4:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 3.5:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 3.6:
+        non_striker: Yves Cyusa
+        bowler: Jobayer Hossen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 3.7:
+        non_striker: Yves Cyusa
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 4.1:
+        non_striker: I Niyomugabo
+        bowler: S Rukmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yves Cyusa
+    - 4.2:
+        non_striker: Yves Cyusa
+        bowler: S Rukmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 4.3:
+        non_striker: Yves Cyusa
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 4.4:
+        non_striker: Yves Cyusa
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 4.5:
+        non_striker: Yves Cyusa
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 4.6:
+        non_striker: I Niyomugabo
+        bowler: S Rukmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yves Cyusa
+    - 4.7:
+        non_striker: I Niyomugabo
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yves Cyusa
+    - 4.8:
+        non_striker: I Niyomugabo
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 5.1:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 5.2:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 5.3:
+        non_striker: Yves Cyusa
+        bowler: Jobayer Hossen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 5.4:
+        non_striker: Yves Cyusa
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 5.5:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 5.6:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 5.7:
+        non_striker: I Niyomugabo
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yves Cyusa
+    - 6.1:
+        non_striker: Yves Cyusa
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 6.2:
+        non_striker: I Niyomugabo
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 6.3:
+        non_striker: Yves Cyusa
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 6.4:
+        non_striker: Yves Cyusa
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 6.5:
+        non_striker: I Niyomugabo
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 6.6:
+        non_striker: I Niyomugabo
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 7.1:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Yves Cyusa
+    - 7.2:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yves Cyusa
+    - 7.3:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 7.4:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 7.5:
+        non_striker: Yves Cyusa
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 7.6:
+        non_striker: Yves Cyusa
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 7.7:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 8.1:
+        non_striker: Yves Cyusa
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Niyomugabo
+    - 8.2:
+        non_striker: Yves Cyusa
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 8.3:
+        non_striker: I Niyomugabo
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yves Cyusa
+    - 8.4:
+        non_striker: I Niyomugabo
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yves Cyusa
+    - 8.5:
+        non_striker: I Niyomugabo
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yves Cyusa
+    - 8.6:
+        non_striker: I Niyomugabo
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 9.1:
+        non_striker: Yves Cyusa
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+        wicket:
+          player_out: Yves Cyusa
+          fielders:
+          - TKP Rajapaksha
+          - Mazharul Islam
+          kind: run out
+    - 9.2:
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: C Rububagumya
+        batsman: I Niyomugabo
+    - 9.3:
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: C Rububagumya
+        batsman: I Niyomugabo
+    - 9.4:
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Rububagumya
+        batsman: I Niyomugabo
+    - 9.5:
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Rububagumya
+        batsman: I Niyomugabo
+    - 9.6:
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: C Rububagumya
+        batsman: I Niyomugabo
+    - 9.7:
+        non_striker: C Rububagumya
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 10.1:
+        non_striker: C Rububagumya
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Niyomugabo
+    - 10.2:
+        non_striker: C Rububagumya
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Niyomugabo
+    - 10.3:
+        non_striker: C Rububagumya
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 10.4:
+        non_striker: I Niyomugabo
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 10.5:
+        non_striker: I Niyomugabo
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 10.6:
+        non_striker: I Niyomugabo
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 11.1:
+        non_striker: C Rububagumya
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 11.2:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 11.3:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 11.4:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 11.5:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 11.6:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 12.1:
+        non_striker: I Niyomugabo
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 12.2:
+        non_striker: I Niyomugabo
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 12.3:
+        non_striker: C Rububagumya
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Niyomugabo
+    - 12.4:
+        non_striker: C Rububagumya
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 12.5:
+        non_striker: I Niyomugabo
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 12.6:
+        non_striker: I Niyomugabo
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 13.1:
+        non_striker: C Rububagumya
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 13.2:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 13.3:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Rububagumya
+    - 13.4:
+        non_striker: I Niyomugabo
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 13.5:
+        non_striker: C Rububagumya
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+        wicket:
+          player_out: I Niyomugabo
+          kind: bowled
+    - 13.6:
+        non_striker: C Rububagumya
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 14.1:
+        non_striker: E Rukiriza
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 14.2:
+        non_striker: E Rukiriza
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 14.3:
+        non_striker: E Rukiriza
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 14.4:
+        non_striker: C Rububagumya
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 14.5:
+        non_striker: E Rukiriza
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Rububagumya
+    - 14.6:
+        non_striker: E Rukiriza
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 15.1:
+        non_striker: E Rukiriza
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 15.2:
+        non_striker: E Rukiriza
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 15.3:
+        non_striker: C Rububagumya
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 15.4:
+        non_striker: C Rububagumya
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 15.5:
+        non_striker: E Rukiriza
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Rububagumya
+    - 15.6:
+        non_striker: E Rukiriza
+        bowler: S Rukmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Rububagumya
+    - 15.7:
+        non_striker: E Rukiriza
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 16.1:
+        non_striker: C Rububagumya
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 16.2:
+        non_striker: E Rukiriza
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 16.3:
+        non_striker: E Rukiriza
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 16.4:
+        non_striker: C Rububagumya
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Rukiriza
+    - 16.5:
+        non_striker: C Rububagumya
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 16.6:
+        non_striker: E Rukiriza
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+        wicket:
+          player_out: C Rububagumya
+          kind: lbw
+    - 17.1:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Nadir
+        batsman: E Rukiriza
+    - 17.2:
+        non_striker: E Rukiriza
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadir
+    - 17.3:
+        non_striker: Muhammad Nadir
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 17.4:
+        non_striker: E Rukiriza
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadir
+    - 17.5:
+        non_striker: Muhammad Nadir
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+        wicket:
+          player_out: E Rukiriza
+          fielders:
+          - SR Mohan
+          kind: caught
+    - 17.6:
+        non_striker: Muhammad Nadir
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Mugisha
+    - 18.1:
+        non_striker: I Mugisha
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadir
+    - 18.2:
+        non_striker: I Mugisha
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadir
+    - 18.3:
+        non_striker: I Mugisha
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Nadir
+    - 18.4:
+        non_striker: I Mugisha
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadir
+    - 18.5:
+        non_striker: Muhammad Nadir
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Mugisha
+    - 18.6:
+        non_striker: Muhammad Nadir
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Mugisha
+    - 19.1:
+        non_striker: I Mugisha
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Muhammad Nadir
+    - 19.2:
+        non_striker: Muhammad Nadir
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Mugisha
+    - 19.3:
+        non_striker: I Mugisha
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Nadir
+    - 19.4:
+        non_striker: I Mugisha
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadir
+    - 19.5:
+        non_striker: Muhammad Nadir
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Mugisha
+        wicket:
+          player_out: I Mugisha
+          fielders:
+          - S Rukmal
+          kind: caught
+    - 19.6:
+        non_striker: Muhammad Nadir
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Bimenyimana
+        wicket:
+          player_out: Z Bimenyimana
+          kind: bowled
+- 2nd innings:
+    team: Seychelles
+    deliveries:
+    - 0.1:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TKP Rajapaksha
+        batsman: T Horpinitch
+    - 0.2:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TKP Rajapaksha
+        batsman: T Horpinitch
+    - 0.3:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TKP Rajapaksha
+        batsman: T Horpinitch
+    - 0.4:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TKP Rajapaksha
+        batsman: T Horpinitch
+    - 0.5:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TKP Rajapaksha
+        batsman: T Horpinitch
+    - 0.6:
+        non_striker: TKP Rajapaksha
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Horpinitch
+    - 1.1:
+        non_striker: T Horpinitch
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 1.2:
+        non_striker: T Horpinitch
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+        wicket:
+          player_out: TKP Rajapaksha
+          fielders:
+          - I Niyomugabo
+          kind: caught
+    - 1.3:
+        non_striker: T Horpinitch
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 1.4:
+        non_striker: T Horpinitch
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 1.5:
+        non_striker: T Horpinitch
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 1.6:
+        non_striker: T Horpinitch
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 2.1:
+        non_striker: T Horpinitch
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 2.2:
+        non_striker: T Horpinitch
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 2.3:
+        non_striker: M Mariyappan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Horpinitch
+        wicket:
+          player_out: T Horpinitch
+          kind: bowled
+    - 2.4:
+        non_striker: M Mariyappan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 2.5:
+        non_striker: M Mariyappan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 2.6:
+        non_striker: M Mariyappan
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 3.1:
+        non_striker: M Mariyappan
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.2:
+        non_striker: M Mariyappan
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.3:
+        non_striker: M Mariyappan
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mazharul Islam
+    - 3.4:
+        non_striker: M Mariyappan
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.5:
+        non_striker: M Mariyappan
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.6:
+        non_striker: M Mariyappan
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 4.1:
+        non_striker: Mazharul Islam
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mariyappan
+    - 4.2:
+        non_striker: Mazharul Islam
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 4.3:
+        non_striker: M Mariyappan
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mazharul Islam
+    - 4.4:
+        non_striker: M Mariyappan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 4.5:
+        non_striker: Mazharul Islam
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 4.6:
+        non_striker: M Mariyappan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 4.7:
+        non_striker: M Mariyappan
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 5.1:
+        non_striker: Mazharul Islam
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 5.2:
+        non_striker: Mazharul Islam
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 5.3:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 5.4:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 5.5:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 5.6:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+        wicket:
+          player_out: Mazharul Islam
+          kind: bowled
+    - 6.1:
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SKDT Madusanka
+        batsman: M Mariyappan
+    - 6.2:
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SKDT Madusanka
+        batsman: M Mariyappan
+    - 6.3:
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SKDT Madusanka
+        batsman: M Mariyappan
+    - 6.4:
+        non_striker: M Mariyappan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 6.5:
+        non_striker: M Mariyappan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 6.6:
+        non_striker: M Mariyappan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 6.7:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 7.1:
+        non_striker: SKDT Madusanka
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 7.2:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 7.3:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 7.4:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 7.5:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 7.6:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 8.1:
+        non_striker: M Mariyappan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 8.2:
+        non_striker: M Mariyappan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 8.3:
+        non_striker: M Mariyappan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 8.4:
+        non_striker: M Mariyappan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 8.5:
+        non_striker: M Mariyappan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 8.6:
+        non_striker: M Mariyappan
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 9.1:
+        non_striker: SKDT Madusanka
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mariyappan
+    - 9.2:
+        non_striker: SKDT Madusanka
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 9.3:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 9.4:
+        non_striker: SKDT Madusanka
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 9.5:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 9.6:
+        non_striker: M Mariyappan
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 10.1:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mariyappan
+    - 10.2:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 10.3:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+        wicket:
+          player_out: M Mariyappan
+          fielders:
+          - D Ndikubwimana
+          kind: stumped
+    - 10.4:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HL Harji
+    - 10.5:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Harji
+    - 10.6:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Harji
+        wicket:
+          player_out: HL Harji
+          fielders:
+          - I Niyomugabo
+          kind: caught
+    - 10.7:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 11.1:
+        non_striker: SKDT Madusanka
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 11.2:
+        non_striker: STRA de Silva
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 11.3:
+        non_striker: SKDT Madusanka
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 11.4:
+        non_striker: STRA de Silva
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 11.5:
+        non_striker: STRA de Silva
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 11.6:
+        non_striker: STRA de Silva
+        bowler: I Mugisha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 12.1:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 12.2:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: STRA de Silva
+    - 12.3:
+        non_striker: STRA de Silva
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 12.4:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 12.5:
+        non_striker: SKDT Madusanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 12.6:
+        non_striker: STRA de Silva
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 12.7:
+        non_striker: STRA de Silva
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 13.1:
+        non_striker: STRA de Silva
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 13.2:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 13.3:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 13.4:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 13.5:
+        non_striker: STRA de Silva
+        bowler: Muhammad Nadir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SKDT Madusanka
+    - 13.6:
+        non_striker: STRA de Silva
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 13.7:
+        non_striker: STRA de Silva
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 14.1:
+        non_striker: SKDT Madusanka
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 14.2:
+        non_striker: STRA de Silva
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 14.3:
+        non_striker: SKDT Madusanka
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 14.4:
+        non_striker: SKDT Madusanka
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 14.5:
+        non_striker: SKDT Madusanka
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+        wicket:
+          player_out: STRA de Silva
+          kind: bowled
+    - 14.6:
+        non_striker: SKDT Madusanka
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.1:
+        non_striker: Jobayer Hossen
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 15.2:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.3:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jobayer Hossen
+    - 15.4:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.5:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.6:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 16.1:
+        non_striker: Jobayer Hossen
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+        wicket:
+          player_out: SKDT Madusanka
+          fielders:
+          - I Ntirenganya
+          kind: caught
+    - 16.2:
+        non_striker: Jobayer Hossen
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 16.3:
+        non_striker: SR Mohan
+        bowler: Yves Cyusa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Jobayer Hossen
+    - 16.4:
+        non_striker: Jobayer Hossen
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+        wicket:
+          player_out: SR Mohan
+          kind: lbw
+    - 16.5:
+        non_striker: Jobayer Hossen
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 16.6:
+        non_striker: Jobayer Hossen
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Krishna
+    - 17.1:
+        non_striker: Jobayer Hossen
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 17.2:
+        non_striker: Jobayer Hossen
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 17.3:
+        non_striker: Jobayer Hossen
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 17.4:
+        non_striker: Jobayer Hossen
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 17.5:
+        non_striker: Jobayer Hossen
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Krishna
+    - 17.6:
+        non_striker: N Krishna
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 18.1:
+        non_striker: Jobayer Hossen
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 18.2:
+        non_striker: Jobayer Hossen
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 18.3:
+        non_striker: Jobayer Hossen
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Krishna
+    - 18.4:
+        non_striker: N Krishna
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 18.5:
+        non_striker: N Krishna
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 18.6:
+        non_striker: N Krishna
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 19.1:
+        non_striker: N Krishna
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+        wicket:
+          player_out: Jobayer Hossen
+          kind: bowled
+    - 19.2:
+        non_striker: N Krishna
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rukmal
+    - 19.3:
+        non_striker: N Krishna
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rukmal
+    - 19.4:
+        non_striker: N Krishna
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rukmal
+    - 19.5:
+        non_striker: N Krishna
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rukmal
+    - 19.6:
+        non_striker: N Krishna
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Rukmal

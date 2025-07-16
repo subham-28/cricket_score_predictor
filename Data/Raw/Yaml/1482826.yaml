@@ -1,0 +1,2188 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2025-05-13'
+  gender: male
+  match_type: T20
+  match_type_number: 3181
+  outcome:
+    winner: Japan
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - S Ravichandran
+  players:
+    Cook Islands:
+    - HB Dickson
+    - T Parima
+    - A Parima
+    - MTMMJ Ave
+    - C Dickson
+    - L Denny
+    - J Pickering
+    - MJM Kavana
+    - OE Taylor
+    - P Vailoa
+    - T Wuatai
+    Japan:
+    - KH Abe
+    - L Yamamoto-Lake
+    - Abhishek Anand
+    - B Ito-Davis
+    - S Ravichandran
+    - D Suzuki
+    - W Miyauchi
+    - I Takahashi
+    - K Kato-Stafford
+    - Abdul Samad
+    - R Drake
+  registry:
+    people:
+      A Parima: 866d3ac8
+      Abdul Samad: 21dbacff
+      Abhishek Anand: 2c12bc65
+      B Ito-Davis: '96275259'
+      C Dickson: 26b59073
+      D Natarajan: aa3ea16d
+      D Suzuki: 64c81abf
+      HB Dickson: e8c95491
+      I Takahashi: c988daa1
+      J Pickering: 1ac8edcf
+      K Kato-Stafford: e03ca117
+      KH Abe: f22d2247
+      L Denny: e112732d
+      L Yamamoto-Lake: fa23405f
+      MJM Kavana: 10eef955
+      MTMMJ Ave: '00863408'
+      OE Taylor: 24a93558
+      P Vailoa: e0a657ba
+      R Drake: 57b3c398
+      S Ravichandran: 9f2be73d
+      Sagir Parkar: '74254300'
+      T Parima: ecd51f8e
+      T Wuatai: 307684f3
+      W Miyauchi: fef40097
+  teams:
+  - Cook Islands
+  - Japan
+  toss:
+    winner: Cook Islands
+    decision: bat
+  umpires:
+  - D Natarajan
+  - Sagir Parkar
+  venue: Sano International Cricket Ground
+innings:
+- 1st innings:
+    team: Cook Islands
+    deliveries:
+    - 0.1:
+        bowler: Abdul Samad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.2:
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.3:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+        wicket:
+          player_out: HB Dickson
+          kind: bowled
+    - 0.4:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 0.5:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 0.6:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 0.7:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 1.1:
+        non_striker: T Parima
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Parima
+    - 1.2:
+        non_striker: T Parima
+        bowler: R Drake
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 1
+          noballs: 1
+        batsman: A Parima
+    - 1.3:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parima
+    - 1.4:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.5:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.6:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.7:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parima
+    - 1.8:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parima
+    - 1.9:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parima
+    - 1.10:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.11:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.12:
+        non_striker: A Parima
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 2.1:
+        non_striker: T Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 2.2:
+        non_striker: T Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 2.3:
+        non_striker: T Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 2.4:
+        non_striker: T Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 2.5:
+        non_striker: T Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 2.6:
+        non_striker: T Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 3.1:
+        non_striker: T Parima
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Parima
+    - 3.2:
+        non_striker: T Parima
+        bowler: D Suzuki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Parima
+    - 3.3:
+        non_striker: T Parima
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Parima
+    - 3.4:
+        non_striker: T Parima
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 3.5:
+        non_striker: T Parima
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Parima
+    - 3.6:
+        non_striker: T Parima
+        bowler: D Suzuki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Parima
+    - 3.7:
+        non_striker: T Parima
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 3.8:
+        non_striker: T Parima
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 4.1:
+        non_striker: A Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 4.2:
+        non_striker: A Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 4.3:
+        non_striker: A Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Parima
+    - 4.4:
+        non_striker: A Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Parima
+    - 4.5:
+        non_striker: A Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Parima
+    - 4.6:
+        non_striker: A Parima
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Parima
+    - 5.1:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 5.2:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 5.3:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+        wicket:
+          player_out: A Parima
+          kind: bowled
+    - 5.4:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 5.5:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 5.6:
+        non_striker: T Parima
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 6.1:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 6.2:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+        wicket:
+          player_out: T Parima
+          kind: lbw
+    - 6.3:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 6.4:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 6.5:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 6.6:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 7.1:
+        non_striker: C Dickson
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MTMMJ Ave
+    - 7.2:
+        non_striker: C Dickson
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 7.3:
+        non_striker: MTMMJ Ave
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 7.4:
+        non_striker: MTMMJ Ave
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 7.5:
+        non_striker: C Dickson
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 7.6:
+        non_striker: C Dickson
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 8.1:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 8.2:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 8.3:
+        non_striker: C Dickson
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 8.4:
+        non_striker: C Dickson
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 8.5:
+        non_striker: C Dickson
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 8.6:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 9.1:
+        non_striker: MTMMJ Ave
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 9.2:
+        non_striker: C Dickson
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 9.3:
+        non_striker: MTMMJ Ave
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 9.4:
+        non_striker: MTMMJ Ave
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 9.5:
+        non_striker: C Dickson
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 9.6:
+        non_striker: C Dickson
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 10.1:
+        non_striker: C Dickson
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 10.2:
+        non_striker: C Dickson
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MTMMJ Ave
+    - 10.3:
+        non_striker: C Dickson
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 10.4:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 10.5:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 10.6:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 11.1:
+        non_striker: C Dickson
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 11.2:
+        non_striker: C Dickson
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 11.3:
+        non_striker: MTMMJ Ave
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+        wicket:
+          player_out: C Dickson
+          fielders:
+          - W Miyauchi
+          kind: stumped
+    - 11.4:
+        non_striker: MTMMJ Ave
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 11.5:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MTMMJ Ave
+    - 11.6:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 12.1:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+    - 12.2:
+        non_striker: MTMMJ Ave
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 12.3:
+        non_striker: L Denny
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 12.4:
+        non_striker: L Denny
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MTMMJ Ave
+    - 12.5:
+        non_striker: L Denny
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 12.6:
+        non_striker: L Denny
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 13.1:
+        non_striker: L Denny
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 13.2:
+        non_striker: L Denny
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 13.3:
+        non_striker: MTMMJ Ave
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+    - 13.4:
+        non_striker: MTMMJ Ave
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 13.5:
+        non_striker: L Denny
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 13.6:
+        non_striker: MTMMJ Ave
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+    - 14.1:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 14.2:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 14.3:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 14.4:
+        non_striker: MTMMJ Ave
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 14.5:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+        wicket:
+          player_out: MTMMJ Ave
+          fielders:
+          - KH Abe
+          kind: caught
+    - 14.6:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pickering
+    - 15.1:
+        non_striker: L Denny
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pickering
+    - 15.2:
+        non_striker: L Denny
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pickering
+    - 15.3:
+        non_striker: L Denny
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pickering
+    - 15.4:
+        non_striker: L Denny
+        bowler: K Kato-Stafford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Pickering
+    - 15.5:
+        non_striker: J Pickering
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 15.6:
+        non_striker: L Denny
+        bowler: K Kato-Stafford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Pickering
+    - 16.1:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pickering
+    - 16.2:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pickering
+    - 16.3:
+        non_striker: L Denny
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pickering
+    - 16.4:
+        non_striker: J Pickering
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+        wicket:
+          player_out: L Denny
+          kind: lbw
+    - 16.5:
+        non_striker: J Pickering
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+        wicket:
+          player_out: MJM Kavana
+          kind: bowled
+    - 16.6:
+        non_striker: J Pickering
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 17.1:
+        non_striker: OE Taylor
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pickering
+    - 17.2:
+        non_striker: J Pickering
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+    - 17.3:
+        non_striker: OE Taylor
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pickering
+    - 17.4:
+        non_striker: J Pickering
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+    - 17.5:
+        non_striker: OE Taylor
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pickering
+    - 17.6:
+        non_striker: J Pickering
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 18.1:
+        non_striker: OE Taylor
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pickering
+    - 18.2:
+        non_striker: J Pickering
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+    - 18.3:
+        non_striker: OE Taylor
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pickering
+    - 18.4:
+        non_striker: J Pickering
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 18.5:
+        non_striker: J Pickering
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+        wicket:
+          player_out: OE Taylor
+          fielders:
+          - S Ravichandran
+          - W Miyauchi
+          kind: run out
+    - 18.6:
+        non_striker: J Pickering
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Vailoa
+    - 19.1:
+        non_striker: P Vailoa
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Pickering
+    - 19.2:
+        non_striker: P Vailoa
+        bowler: K Kato-Stafford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Pickering
+    - 19.3:
+        non_striker: P Vailoa
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pickering
+    - 19.4:
+        non_striker: J Pickering
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vailoa
+    - 19.5:
+        non_striker: J Pickering
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Vailoa
+    - 19.6:
+        non_striker: J Pickering
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vailoa
+    - 19.7:
+        non_striker: P Vailoa
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Pickering
+- 2nd innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        non_striker: L Yamamoto-Lake
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Abe
+        wicket:
+          player_out: KH Abe
+          fielders:
+          - J Pickering
+          kind: stumped
+    - 0.2:
+        non_striker: L Yamamoto-Lake
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: MTMMJ Ave
+            out: MJM Kavana
+            reason: injury
+            role: bowler
+        batsman: Abhishek Anand
+    - 0.3:
+        non_striker: Abhishek Anand
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Yamamoto-Lake
+    - 0.4:
+        non_striker: Abhishek Anand
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Yamamoto-Lake
+        wicket:
+          player_out: L Yamamoto-Lake
+          kind: caught and bowled
+    - 0.5:
+        non_striker: Abhishek Anand
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ito-Davis
+    - 0.6:
+        non_striker: B Ito-Davis
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 1.1:
+        non_striker: B Ito-Davis
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Anand
+    - 1.2:
+        non_striker: B Ito-Davis
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 1.3:
+        non_striker: B Ito-Davis
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Anand
+    - 1.4:
+        non_striker: B Ito-Davis
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Anand
+    - 1.5:
+        non_striker: B Ito-Davis
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 1.6:
+        non_striker: B Ito-Davis
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 1.7:
+        non_striker: Abhishek Anand
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ito-Davis
+        wicket:
+          player_out: B Ito-Davis
+          fielders:
+          - L Denny
+          kind: caught
+    - 1.8:
+        non_striker: Abhishek Anand
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 1.9:
+        non_striker: Abhishek Anand
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 1.10:
+        non_striker: Abhishek Anand
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 2.1:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 2.2:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 2.3:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Anand
+    - 2.4:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Anand
+    - 2.5:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Anand
+    - 2.6:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+        wicket:
+          player_out: Abhishek Anand
+          fielders:
+          - C Dickson
+          kind: caught
+    - 2.7:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: D Suzuki
+    - 2.8:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 2.9:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Suzuki
+    - 2.10:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Suzuki
+    - 3.1:
+        non_striker: D Suzuki
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 3.2:
+        non_striker: D Suzuki
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 3.3:
+        non_striker: S Ravichandran
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 3.4:
+        non_striker: S Ravichandran
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 3.5:
+        non_striker: S Ravichandran
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 3.6:
+        non_striker: S Ravichandran
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 4.1:
+        non_striker: D Suzuki
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 4.2:
+        non_striker: D Suzuki
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 4.3:
+        non_striker: D Suzuki
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 4.4:
+        non_striker: S Ravichandran
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Suzuki
+    - 4.5:
+        non_striker: D Suzuki
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 4.6:
+        non_striker: S Ravichandran
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 5.1:
+        non_striker: D Suzuki
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 5.2:
+        non_striker: D Suzuki
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 5.3:
+        non_striker: D Suzuki
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 5.4:
+        non_striker: D Suzuki
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 5.5:
+        non_striker: D Suzuki
+        bowler: L Denny
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 5.6:
+        non_striker: D Suzuki
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 5.7:
+        non_striker: D Suzuki
+        bowler: L Denny
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 6.1:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 6.2:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+        wicket:
+          player_out: D Suzuki
+          kind: bowled
+    - 6.3:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+    - 6.4:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 6.5:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 6.6:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 7.1:
+        non_striker: W Miyauchi
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 7.2:
+        non_striker: S Ravichandran
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 7.3:
+        non_striker: S Ravichandran
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 7.4:
+        non_striker: S Ravichandran
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+    - 7.5:
+        non_striker: W Miyauchi
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 7.6:
+        non_striker: S Ravichandran
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Miyauchi
+    - 8.1:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 8.2:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 8.3:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 8.4:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 8.5:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 8.6:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 9.1:
+        non_striker: W Miyauchi
+        bowler: OE Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Ravichandran
+    - 9.2:
+        non_striker: S Ravichandran
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+    - 9.3:
+        non_striker: W Miyauchi
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 9.4:
+        non_striker: W Miyauchi
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 9.5:
+        non_striker: W Miyauchi
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 9.6:
+        non_striker: W Miyauchi
+        bowler: OE Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Ravichandran
+    - 10.1:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Ravichandran
+    - 10.2:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 10.3:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 10.4:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Miyauchi
+    - 10.5:
+        non_striker: W Miyauchi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 10.6:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 11.1:
+        non_striker: W Miyauchi
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 11.2:
+        non_striker: W Miyauchi
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 11.3:
+        non_striker: S Ravichandran
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 11.4:
+        non_striker: S Ravichandran
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+    - 11.5:
+        non_striker: W Miyauchi
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 11.6:
+        non_striker: W Miyauchi
+        bowler: C Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Ravichandran
+    - 11.7:
+        non_striker: W Miyauchi
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 12.1:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Miyauchi
+    - 12.2:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+        wicket:
+          player_out: W Miyauchi
+          fielders:
+          - HB Dickson
+          kind: caught
+    - 12.3:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 12.4:
+        non_striker: I Takahashi
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.5:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 12.6:
+        non_striker: S Ravichandran
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+        wicket:
+          player_out: I Takahashi
+          kind: lbw
+    - 13.1:
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Kato-Stafford
+        batsman: S Ravichandran
+    - 13.2:
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Kato-Stafford
+        batsman: S Ravichandran
+    - 13.3:
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Kato-Stafford
+        batsman: S Ravichandran
+    - 13.4:
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: K Kato-Stafford
+        batsman: S Ravichandran
+    - 13.5:
+        non_striker: S Ravichandran
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kato-Stafford
+    - 13.6:
+        non_striker: K Kato-Stafford
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Ravichandran
+    - 14.1:
+        non_striker: K Kato-Stafford
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 14.2:
+        non_striker: K Kato-Stafford
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 14.3:
+        non_striker: K Kato-Stafford
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 14.4:
+        non_striker: K Kato-Stafford
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 14.5:
+        non_striker: K Kato-Stafford
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 14.6:
+        non_striker: S Ravichandran
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kato-Stafford
+    - 15.1:
+        non_striker: K Kato-Stafford
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 15.2:
+        non_striker: K Kato-Stafford
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 15.3:
+        non_striker: K Kato-Stafford
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 15.4:
+        non_striker: K Kato-Stafford
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 15.5:
+        non_striker: K Kato-Stafford
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 15.6:
+        non_striker: K Kato-Stafford
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 16.1:
+        non_striker: K Kato-Stafford
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 16.2:
+        non_striker: K Kato-Stafford
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 16.3:
+        non_striker: K Kato-Stafford
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+        wicket:
+          player_out: S Ravichandran
+          fielders:
+          - T Wuatai
+          kind: caught
+    - 16.4:
+        non_striker: K Kato-Stafford
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 16.5:
+        non_striker: K Kato-Stafford
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 16.6:
+        non_striker: K Kato-Stafford
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Samad
+    - 17.1:
+        non_striker: K Kato-Stafford
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 17.2:
+        non_striker: K Kato-Stafford
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 17.3:
+        non_striker: K Kato-Stafford
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 17.4:
+        non_striker: K Kato-Stafford
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Samad
+    - 17.5:
+        non_striker: Abdul Samad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kato-Stafford

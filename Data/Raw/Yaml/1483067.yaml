@@ -1,0 +1,1822 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Prague
+  dates:
+  - '2025-05-04'
+  gender: female
+  match_type: T20
+  match_type_number: 2275
+  outcome:
+    winner: Cyprus
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - I Chathurani
+  players:
+    Czech Republic:
+    - P Choudhary
+    - Z Franova
+    - T Kolcunova
+    - J Kominkova
+    - K Tesarikova
+    - R Pavlickova
+    - E Kuncova
+    - K Kisova
+    - O Hamrikova
+    - S Kolcunova
+    - D Mehtani
+    Cyprus:
+    - A Taylor
+    - I Chathurani
+    - T De Silva
+    - A Dirannehelage
+    - N Godage
+    - S Dunukedeniya
+    - C Wijesinghe
+    - D Koralalage
+    - S Jayakodi
+    - N Liyanage
+    - CS Gamlath
+  registry:
+    people:
+      A Dirannehelage: '039168c7'
+      A Taylor: 723f9bee
+      C Wijesinghe: db86ac96
+      CS Gamlath: 9cdc553a
+      D Koralalage: 5e6041a4
+      D Mehtani: c54cbd6b
+      E Kuncova: 7f2f40fa
+      I Chathurani: '85364088'
+      J Kominkova: d5595998
+      K Kisova: 9ca27eab
+      K Tesarikova: 42a7d394
+      N Godage: 5a4450ae
+      N Liyanage: 2ee5997e
+      O Hamrikova: caceb014
+      P Choudhary: dd7cc825
+      R Pavlickova: a27d8778
+      S Dunukedeniya: 3134e4a4
+      S Jayakodi: 64875d5c
+      S Kolcunova: 7eba546e
+      T De Silva: '31821596'
+      T Kolcunova: 50102dea
+      Z Franova: 55aabdef
+  teams:
+  - Czech Republic
+  - Cyprus
+  toss:
+    winner: Czech Republic
+    decision: bat
+  venue: Scott Page Field, Vinor
+innings:
+- 1st innings:
+    team: Czech Republic
+    deliveries:
+    - 0.1:
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Z Franova
+        batsman: P Choudhary
+    - 0.2:
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Z Franova
+        batsman: P Choudhary
+    - 0.3:
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Z Franova
+        batsman: P Choudhary
+    - 0.4:
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Z Franova
+        batsman: P Choudhary
+    - 0.5:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Z Franova
+        batsman: P Choudhary
+    - 0.6:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Z Franova
+        batsman: P Choudhary
+    - 0.7:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z Franova
+    - 0.8:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Franova
+    - 0.9:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Franova
+        wicket:
+          player_out: Z Franova
+          kind: bowled
+    - 0.10:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+    - 0.11:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Kolcunova
+    - 0.12:
+        non_striker: T Kolcunova
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Choudhary
+    - 1.1:
+        non_striker: T Kolcunova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Choudhary
+    - 1.2:
+        non_striker: T Kolcunova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Choudhary
+    - 1.3:
+        non_striker: T Kolcunova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Choudhary
+    - 1.4:
+        non_striker: P Choudhary
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kolcunova
+        wicket:
+          player_out: T Kolcunova
+          fielders:
+          - I Chathurani
+          kind: caught
+    - 1.5:
+        non_striker: P Choudhary
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Kominkova
+    - 1.6:
+        non_striker: J Kominkova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Choudhary
+    - 2.1:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 2.2:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 2.3:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 2.4:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 2.5:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+    - 2.6:
+        non_striker: P Choudhary
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Kominkova
+        wicket:
+          player_out: J Kominkova
+          kind: bowled
+    - 3.1:
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Tesarikova
+        batsman: P Choudhary
+    - 3.2:
+        non_striker: P Choudhary
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Tesarikova
+    - 3.3:
+        non_striker: P Choudhary
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tesarikova
+    - 3.4:
+        non_striker: K Tesarikova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Choudhary
+        wicket:
+          player_out: P Choudhary
+          kind: lbw
+    - 3.5:
+        non_striker: K Tesarikova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Pavlickova
+    - 3.6:
+        non_striker: K Tesarikova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 3.7:
+        non_striker: K Tesarikova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 3.8:
+        non_striker: K Tesarikova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 4.1:
+        non_striker: R Pavlickova
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Tesarikova
+    - 4.2:
+        non_striker: R Pavlickova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tesarikova
+    - 4.3:
+        non_striker: R Pavlickova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tesarikova
+    - 4.4:
+        non_striker: R Pavlickova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tesarikova
+    - 4.5:
+        non_striker: R Pavlickova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tesarikova
+    - 4.6:
+        non_striker: R Pavlickova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tesarikova
+    - 4.7:
+        non_striker: R Pavlickova
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Tesarikova
+    - 4.8:
+        non_striker: R Pavlickova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tesarikova
+    - 5.1:
+        non_striker: R Pavlickova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tesarikova
+    - 5.2:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 5.3:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Pavlickova
+    - 5.4:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 5.5:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 5.6:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 5.7:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Pavlickova
+    - 5.8:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 6.1:
+        non_striker: R Pavlickova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tesarikova
+    - 6.2:
+        non_striker: K Tesarikova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+    - 6.3:
+        non_striker: K Tesarikova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pavlickova
+        wicket:
+          player_out: R Pavlickova
+          fielders:
+          - S Dunukedeniya
+          kind: caught
+    - 6.4:
+        non_striker: K Tesarikova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 6.5:
+        non_striker: K Tesarikova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 6.6:
+        non_striker: K Tesarikova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 7.1:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Tesarikova
+    - 7.2:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tesarikova
+    - 7.3:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kuncova
+    - 7.4:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 7.5:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Tesarikova
+    - 7.6:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Tesarikova
+    - 7.7:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Tesarikova
+    - 7.8:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 7.9:
+        non_striker: K Tesarikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 8.1:
+        non_striker: K Tesarikova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 8.2:
+        non_striker: K Tesarikova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Kuncova
+    - 8.3:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tesarikova
+    - 8.4:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Tesarikova
+        wicket:
+          player_out: K Tesarikova
+          kind: lbw
+    - 8.5:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 8.6:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+    - 9.1:
+        non_striker: K Kisova
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kuncova
+    - 9.2:
+        non_striker: K Kisova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kuncova
+    - 9.3:
+        non_striker: K Kisova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 9.4:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kisova
+        wicket:
+          player_out: K Kisova
+          kind: bowled
+    - 9.5:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Hamrikova
+    - 9.6:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Hamrikova
+    - 9.7:
+        non_striker: O Hamrikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 9.8:
+        non_striker: O Hamrikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 10.1:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 10.2:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 10.3:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 10.4:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 10.5:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Hamrikova
+    - 10.6:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 10.7:
+        non_striker: E Kuncova
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Hamrikova
+    - 11.1:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Hamrikova
+    - 11.2:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Hamrikova
+    - 11.3:
+        non_striker: E Kuncova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Hamrikova
+    - 11.4:
+        non_striker: O Hamrikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 11.5:
+        non_striker: O Hamrikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Kuncova
+    - 11.6:
+        non_striker: O Hamrikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 11.7:
+        non_striker: O Hamrikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuncova
+    - 11.8:
+        non_striker: O Hamrikova
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 12.1:
+        non_striker: O Hamrikova
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 12.2:
+        non_striker: E Kuncova
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+    - 12.3:
+        non_striker: E Kuncova
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Hamrikova
+    - 12.4:
+        non_striker: O Hamrikova
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 12.5:
+        non_striker: E Kuncova
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Hamrikova
+        wicket:
+          player_out: O Hamrikova
+          fielders:
+          - T De Silva
+          kind: stumped
+    - 12.6:
+        non_striker: E Kuncova
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+    - 13.1:
+        non_striker: S Kolcunova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kuncova
+    - 13.2:
+        non_striker: E Kuncova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+    - 13.3:
+        non_striker: E Kuncova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kolcunova
+    - 13.4:
+        non_striker: E Kuncova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+    - 13.5:
+        non_striker: E Kuncova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kolcunova
+    - 13.6:
+        non_striker: E Kuncova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+    - 13.7:
+        non_striker: E Kuncova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kolcunova
+    - 13.8:
+        non_striker: E Kuncova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcunova
+        wicket:
+          player_out: S Kolcunova
+          kind: bowled
+    - 13.9:
+        non_striker: E Kuncova
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Mehtani
+    - 14.1:
+        non_striker: E Kuncova
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mehtani
+    - 14.2:
+        non_striker: E Kuncova
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Mehtani
+    - 14.3:
+        non_striker: E Kuncova
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mehtani
+        wicket:
+          player_out: D Mehtani
+          fielders:
+          - T De Silva
+          kind: caught
+- 2nd innings:
+    team: Cyprus
+    deliveries:
+    - 0.1:
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Chathurani
+        batsman: A Taylor
+    - 0.2:
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Chathurani
+        batsman: A Taylor
+    - 0.3:
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Chathurani
+        batsman: A Taylor
+    - 0.4:
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: I Chathurani
+        batsman: A Taylor
+    - 0.5:
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Chathurani
+        batsman: A Taylor
+    - 0.6:
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Chathurani
+        batsman: A Taylor
+    - 0.7:
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: I Chathurani
+        batsman: A Taylor
+    - 0.8:
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: I Chathurani
+        batsman: A Taylor
+    - 0.9:
+        non_striker: I Chathurani
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 1.1:
+        non_striker: A Taylor
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 1.2:
+        non_striker: A Taylor
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 1.3:
+        non_striker: A Taylor
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Chathurani
+    - 1.4:
+        non_striker: A Taylor
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 1.5:
+        non_striker: I Chathurani
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Taylor
+    - 1.6:
+        non_striker: I Chathurani
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 2.1:
+        non_striker: A Taylor
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Chathurani
+    - 2.2:
+        non_striker: A Taylor
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 2.3:
+        non_striker: A Taylor
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: I Chathurani
+    - 2.4:
+        non_striker: A Taylor
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 2.5:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 2.6:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 2.7:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 2.8:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 3.1:
+        non_striker: I Chathurani
+        bowler: R Pavlickova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Taylor
+    - 3.2:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 3.3:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: I Chathurani
+    - 3.4:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Chathurani
+    - 3.5:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 3.6:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Chathurani
+    - 3.7:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 3.8:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 3.9:
+        non_striker: I Chathurani
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 4.1:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 4.2:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 4.3:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 4.4:
+        non_striker: I Chathurani
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Taylor
+    - 4.5:
+        non_striker: I Chathurani
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 4.6:
+        non_striker: I Chathurani
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 4.7:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 4.8:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 5.1:
+        non_striker: A Taylor
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 5.2:
+        non_striker: A Taylor
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 5.3:
+        non_striker: I Chathurani
+        bowler: E Kuncova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Taylor
+    - 5.4:
+        non_striker: I Chathurani
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 5.5:
+        non_striker: I Chathurani
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 5.6:
+        non_striker: A Taylor
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 5.7:
+        non_striker: A Taylor
+        bowler: E Kuncova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 6.1:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Taylor
+    - 6.2:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 6.3:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 6.4:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 6.5:
+        non_striker: A Taylor
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Chathurani
+    - 6.6:
+        non_striker: A Taylor
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 6.7:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Taylor
+    - 6.8:
+        non_striker: I Chathurani
+        bowler: T Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 7.1:
+        non_striker: I Chathurani
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 7.2:
+        non_striker: I Chathurani
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 7.3:
+        non_striker: I Chathurani
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 7.4:
+        non_striker: I Chathurani
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 7.5:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 7.6:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 8.1:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 8.2:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 8.3:
+        non_striker: I Chathurani
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 8.4:
+        non_striker: I Chathurani
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 8.5:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 8.6:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 8.7:
+        non_striker: A Taylor
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 8.8:
+        non_striker: I Chathurani
+        bowler: S Kolcunova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 9.1:
+        non_striker: A Taylor
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 9.2:
+        non_striker: A Taylor
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 9.3:
+        non_striker: A Taylor
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 9.4:
+        non_striker: A Taylor
+        bowler: J Kominkova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 9.5:
+        non_striker: A Taylor
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 9.6:
+        non_striker: A Taylor
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 9.7:
+        non_striker: I Chathurani
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 9.8:
+        non_striker: I Chathurani
+        bowler: J Kominkova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 10.1:
+        non_striker: I Chathurani
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Taylor
+    - 10.2:
+        non_striker: I Chathurani
+        bowler: K Kisova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: A Taylor
+    - 10.3:
+        non_striker: A Taylor
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Chathurani
+    - 10.4:
+        non_striker: A Taylor
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Chathurani
+    - 10.5:
+        non_striker: A Taylor
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 10.6:
+        non_striker: I Chathurani
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 10.7:
+        non_striker: I Chathurani
+        bowler: K Kisova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Taylor
+    - 10.8:
+        non_striker: I Chathurani
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 10.9:
+        non_striker: A Taylor
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 10.10:
+        non_striker: I Chathurani
+        bowler: K Kisova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Taylor
+    - 11.1:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani
+    - 11.2:
+        non_striker: I Chathurani
+        bowler: R Pavlickova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Taylor
+    - 11.3:
+        non_striker: I Chathurani
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Taylor
+    - 11.4:
+        non_striker: A Taylor
+        bowler: R Pavlickova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Chathurani

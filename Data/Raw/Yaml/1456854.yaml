@@ -1,0 +1,1447 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Corfu
+  dates:
+  - '2024-10-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2105
+  outcome:
+    winner: Greece
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - M Syrioti
+  players:
+    Bulgaria:
+    - K Paskova
+    - K Srandeva
+    - M Zdravkova
+    - N Toleva
+    - V Nikolova
+    - S Sarandeva
+    - B Shotorova
+    - D Ruynekova
+    - I Stoilva
+    - G Ilarionova
+    - S Galabova
+    Greece:
+    - A Makri
+    - A Argyropoulou
+    - A Savvani
+    - E Kallous
+    - S Georgota
+    - M Syrioti
+    - A Paramythioti
+    - M Polimeri
+    - T Skordili
+    - M Vervitsioti
+    - DS Vlachopoulou
+  registry:
+    people:
+      A Argyropoulou: 3f1bfd19
+      A Makri: 98affc04
+      A Paramythioti: e0d09a51
+      A Savvani: 5d006a1a
+      B Shotorova: cbef9f64
+      D Ruynekova: c3890e1e
+      DS Vlachopoulou: 5c884c17
+      E Kallous: '0680ff7f'
+      G Ilarionova: b56786e5
+      I Stoilva: 1a5070f6
+      K Paskova: c745f462
+      K Srandeva: 38602b15
+      M Polimeri: 35ccd83f
+      M Syrioti: f9df0aa2
+      M Vervitsioti: 6fd40892
+      M Zdravkova: d9645cab
+      N Toleva: d381938d
+      S Galabova: 21bcbbdd
+      S Georgota: d07b6842
+      S Sarandeva: dacecca3
+      T Skordili: 60d0efc4
+      V Nikolova: '078d1eb5'
+  teams:
+  - Bulgaria
+  - Greece
+  toss:
+    winner: Bulgaria
+    decision: bat
+  venue: Marina Ground, Corfu
+innings:
+- 1st innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Srandeva
+        batsman: K Paskova
+    - 0.2:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Srandeva
+        batsman: K Paskova
+    - 0.3:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Srandeva
+        batsman: K Paskova
+    - 0.4:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Srandeva
+        batsman: K Paskova
+    - 0.5:
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Srandeva
+        batsman: K Paskova
+    - 0.6:
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Srandeva
+        batsman: K Paskova
+    - 0.7:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Paskova
+    - 1.1:
+        non_striker: K Paskova
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Srandeva
+    - 1.2:
+        non_striker: K Paskova
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 1.3:
+        non_striker: K Paskova
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 1.4:
+        non_striker: K Paskova
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 1.5:
+        non_striker: K Paskova
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 1.6:
+        non_striker: K Paskova
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 1.7:
+        non_striker: K Paskova
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 2.1:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Paskova
+    - 2.2:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Paskova
+    - 2.3:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Paskova
+    - 2.4:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Paskova
+        wicket:
+          player_out: K Paskova
+          kind: bowled
+    - 2.5:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Zdravkova
+    - 2.6:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Zdravkova
+    - 2.7:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Zdravkova
+        wicket:
+          player_out: M Zdravkova
+          kind: bowled
+    - 2.8:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 2.9:
+        non_striker: K Srandeva
+        bowler: M Syrioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 3.1:
+        non_striker: N Toleva
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 3.2:
+        non_striker: K Srandeva
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 3.3:
+        non_striker: K Srandeva
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 3.4:
+        non_striker: K Srandeva
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Toleva
+    - 3.5:
+        non_striker: K Srandeva
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Toleva
+    - 3.6:
+        non_striker: N Toleva
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Srandeva
+    - 3.7:
+        non_striker: N Toleva
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 4.1:
+        non_striker: K Srandeva
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 4.2:
+        non_striker: K Srandeva
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+    - 4.3:
+        non_striker: K Srandeva
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+        wicket:
+          player_out: N Toleva
+          kind: lbw
+    - 4.4:
+        non_striker: K Srandeva
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 4.5:
+        non_striker: K Srandeva
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 4.6:
+        non_striker: K Srandeva
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Nikolova
+    - 5.1:
+        non_striker: V Nikolova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 5.2:
+        non_striker: V Nikolova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 5.3:
+        non_striker: V Nikolova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+        wicket:
+          player_out: K Srandeva
+          fielders:
+          - A Savvani
+          kind: caught
+    - 5.4:
+        non_striker: V Nikolova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 5.5:
+        non_striker: V Nikolova
+        bowler: E Kallous
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Sarandeva
+    - 5.6:
+        non_striker: S Sarandeva
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: V Nikolova
+    - 5.7:
+        non_striker: S Sarandeva
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 5.8:
+        non_striker: S Sarandeva
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 6.1:
+        non_striker: V Nikolova
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+        wicket:
+          player_out: S Sarandeva
+          fielders:
+          - A Argyropoulou
+          kind: caught
+    - 6.2:
+        non_striker: V Nikolova
+        bowler: T Skordili
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 6.3:
+        non_striker: V Nikolova
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 6.4:
+        non_striker: V Nikolova
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 6.5:
+        non_striker: V Nikolova
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 6.6:
+        non_striker: B Shotorova
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 6.7:
+        non_striker: V Nikolova
+        bowler: T Skordili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 7.1:
+        non_striker: B Shotorova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+        wicket:
+          player_out: V Nikolova
+          fielders:
+          - A Argyropoulou
+          kind: stumped
+    - 7.2:
+        non_striker: B Shotorova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 7.3:
+        non_striker: D Ruynekova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 7.4:
+        non_striker: D Ruynekova
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: B Shotorova
+    - 7.5:
+        non_striker: D Ruynekova
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 7.6:
+        non_striker: D Ruynekova
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 7.7:
+        non_striker: D Ruynekova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 7.8:
+        non_striker: D Ruynekova
+        bowler: E Kallous
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 7.9:
+        non_striker: D Ruynekova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 7.10:
+        non_striker: B Shotorova
+        bowler: E Kallous
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ruynekova
+    - 8.1:
+        non_striker: D Ruynekova
+        bowler: M Polimeri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Shotorova
+    - 8.2:
+        non_striker: D Ruynekova
+        bowler: M Polimeri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 8.3:
+        non_striker: B Shotorova
+        bowler: M Polimeri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 8.4:
+        non_striker: D Ruynekova
+        bowler: M Polimeri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shotorova
+    - 8.5:
+        non_striker: B Shotorova
+        bowler: M Polimeri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ruynekova
+    - 8.6:
+        non_striker: B Shotorova
+        bowler: M Polimeri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 9.1:
+        non_striker: B Shotorova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 9.2:
+        non_striker: B Shotorova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 9.3:
+        non_striker: D Ruynekova
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 9.4:
+        non_striker: D Ruynekova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 9.5:
+        non_striker: D Ruynekova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 9.6:
+        non_striker: D Ruynekova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 9.7:
+        non_striker: D Ruynekova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 10.1:
+        non_striker: B Shotorova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ruynekova
+    - 10.2:
+        non_striker: B Shotorova
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 10.3:
+        non_striker: B Shotorova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 10.4:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 10.5:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 10.6:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: B Shotorova
+    - 10.7:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 10.8:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 10.9:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 11.1:
+        non_striker: B Shotorova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 11.2:
+        non_striker: B Shotorova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 11.3:
+        non_striker: B Shotorova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 11.4:
+        non_striker: B Shotorova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 11.5:
+        non_striker: B Shotorova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 11.6:
+        non_striker: B Shotorova
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 12.1:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 12.2:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 12.3:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+        wicket:
+          player_out: B Shotorova
+          fielders:
+          - M Syrioti
+          kind: caught
+    - 12.4:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 12.5:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Stoilva
+    - 12.6:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Stoilva
+    - 12.7:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 12.8:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Stoilva
+    - 12.9:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Stoilva
+    - 12.10:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 12.11:
+        non_striker: D Ruynekova
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 13.1:
+        non_striker: I Stoilva
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 13.2:
+        non_striker: I Stoilva
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+        wicket:
+          player_out: D Ruynekova
+          fielders:
+          - A Paramythioti
+          kind: caught
+    - 13.3:
+        non_striker: I Stoilva
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+        wicket:
+          player_out: G Ilarionova
+          fielders:
+          - A Argyropoulou
+          kind: caught
+    - 13.4:
+        non_striker: I Stoilva
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 13.5:
+        non_striker: I Stoilva
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 13.6:
+        non_striker: I Stoilva
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 13.7:
+        non_striker: I Stoilva
+        bowler: S Georgota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 13.8:
+        non_striker: I Stoilva
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 13.9:
+        non_striker: I Stoilva
+        bowler: S Georgota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 14.1:
+        non_striker: S Galabova
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 14.2:
+        non_striker: S Galabova
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 14.3:
+        non_striker: S Galabova
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 14.4:
+        non_striker: S Galabova
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 14.5:
+        non_striker: S Galabova
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 14.6:
+        non_striker: S Galabova
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Stoilva
+    - 15.1:
+        non_striker: I Stoilva
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 15.2:
+        non_striker: I Stoilva
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 15.3:
+        non_striker: I Stoilva
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+        wicket:
+          player_out: I Stoilva
+          fielders:
+          - M Syrioti
+          kind: run out
+- 2nd innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Argyropoulou
+        batsman: A Makri
+    - 0.2:
+        bowler: K Srandeva
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: A Argyropoulou
+        batsman: A Makri
+    - 0.3:
+        non_striker: A Makri
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Argyropoulou
+    - 0.4:
+        non_striker: A Makri
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 0.5:
+        non_striker: A Makri
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 0.6:
+        non_striker: A Makri
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Argyropoulou
+    - 0.7:
+        non_striker: A Argyropoulou
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Makri
+    - 0.8:
+        non_striker: A Argyropoulou
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 0.9:
+        non_striker: A Makri
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 0.10:
+        non_striker: A Makri
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 0.11:
+        non_striker: A Makri
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 0.12:
+        non_striker: A Makri
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 0.13:
+        non_striker: A Makri
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Argyropoulou
+    - 1.1:
+        non_striker: A Argyropoulou
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Makri
+    - 1.2:
+        non_striker: A Argyropoulou
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 1.3:
+        non_striker: A Argyropoulou
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Makri
+    - 1.4:
+        non_striker: A Argyropoulou
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 1.5:
+        non_striker: A Argyropoulou
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 1.6:
+        non_striker: A Argyropoulou
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 1.7:
+        non_striker: A Argyropoulou
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 1.8:
+        non_striker: A Argyropoulou
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 2.1:
+        non_striker: A Argyropoulou
+        bowler: S Galabova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 2.2:
+        non_striker: A Argyropoulou
+        bowler: S Galabova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 2.3:
+        non_striker: A Argyropoulou
+        bowler: S Galabova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Makri
+    - 2.4:
+        non_striker: A Argyropoulou
+        bowler: S Galabova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Makri
+    - 2.5:
+        non_striker: A Argyropoulou
+        bowler: S Galabova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 2.6:
+        non_striker: A Makri
+        bowler: S Galabova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Argyropoulou
+    - 2.7:
+        non_striker: A Makri
+        bowler: S Galabova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Argyropoulou
+    - 2.8:
+        non_striker: A Makri
+        bowler: S Galabova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 2.9:
+        non_striker: A Argyropoulou
+        bowler: S Galabova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Makri
+    - 3.1:
+        non_striker: A Makri
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Argyropoulou
+    - 3.2:
+        non_striker: A Makri
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.3:
+        non_striker: A Makri
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 3.4:
+        non_striker: A Argyropoulou
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Makri
+    - 3.5:
+        non_striker: A Makri
+        bowler: N Toleva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Argyropoulou
+    - 3.6:
+        non_striker: A Makri
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.7:
+        non_striker: A Makri
+        bowler: N Toleva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Argyropoulou

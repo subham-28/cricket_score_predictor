@@ -1,0 +1,1429 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Incheon
+  dates:
+  - '2024-10-01'
+  gender: male
+  match_type: T20
+  match_type_number: 2882
+  outcome:
+    winner: Japan
+    by:
+      runs: 53
+  overs: 20
+  player_of_match:
+  - K Kadowaki-Fleming
+  players:
+    Japan:
+    - K Kadowaki-Fleming
+    - L Yamamoto-Lake
+    - I Takahashi
+    - S Ravichandran
+    - KH Abe
+    - D Suzuki
+    - A Patmore
+    - R Sakurano-Thomas
+    - M Taniyama
+    - B Ito-Davis
+    - C Hinze
+    Indonesia:
+    - GA Priandana
+    - Ahmad Ramdoni
+    - Gaurav Tiwari
+    - PR Surve
+    - KC Ramamoorthy
+    - IKEG Artawan
+    - DJ Hawoe
+    - IK Gamantika
+    - F Banunaek
+    - GD Arta
+    - RM Koda
+  registry:
+    people:
+      A Patmore: '85119526'
+      AK Rana: 562d74d0
+      Ahmad Ramdoni: b5f30525
+      B Ito-Davis: '96275259'
+      C Hinze: 626af7ff
+      D Suzuki: 64c81abf
+      DJ Hawoe: a62f55ba
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      Gaurav Tiwari: cab3f89a
+      I Takahashi: c988daa1
+      IK Gamantika: 4d7c5b56
+      IKEG Artawan: 190957d2
+      K Kadowaki-Fleming: 33290a80
+      K Kubota: 42581e6d
+      KC Ramamoorthy: a89c270b
+      KH Abe: f22d2247
+      L Yamamoto-Lake: fa23405f
+      M Taniyama: cbd91942
+      PR Surve: 206efeb1
+      R Sakurano-Thomas: dd14abf5
+      RM Koda: f0a45427
+      S Ravichandran: 9f2be73d
+      Sarika Prasad: 8ff397fa
+      Suresh Subramanian: 4e869e23
+      TL Anderson: f52ddf8d
+      Tanvir Ahmed: ea2df1f1
+  teams:
+  - Japan
+  - Indonesia
+  toss:
+    winner: Indonesia
+    decision: field
+  umpires:
+  - AK Rana
+  - Tanvir Ahmed
+  venue: Yeonhui Cricket Ground, Incheon
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Yamamoto-Lake
+        batsman: K Kadowaki-Fleming
+    - 0.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Yamamoto-Lake
+    - 0.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Yamamoto-Lake
+    - 0.4:
+        non_striker: L Yamamoto-Lake
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 0.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Yamamoto-Lake
+    - 0.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Yamamoto-Lake
+    - 1.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Yamamoto-Lake
+    - 1.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Yamamoto-Lake
+    - 1.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Yamamoto-Lake
+    - 1.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Yamamoto-Lake
+    - 1.5:
+        non_striker: L Yamamoto-Lake
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 1.6:
+        non_striker: L Yamamoto-Lake
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 2.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Yamamoto-Lake
+    - 2.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Yamamoto-Lake
+    - 2.3:
+        non_striker: L Yamamoto-Lake
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 2.4:
+        non_striker: L Yamamoto-Lake
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 2.5:
+        non_striker: L Yamamoto-Lake
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 2.6:
+        non_striker: L Yamamoto-Lake
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 3.1:
+        non_striker: L Yamamoto-Lake
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 3.2:
+        non_striker: L Yamamoto-Lake
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 3.3:
+        non_striker: L Yamamoto-Lake
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 3.4:
+        non_striker: L Yamamoto-Lake
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 3.5:
+        non_striker: L Yamamoto-Lake
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 3.6:
+        non_striker: L Yamamoto-Lake
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 4.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: IKEG Artawan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Yamamoto-Lake
+    - 4.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Yamamoto-Lake
+        wicket:
+          player_out: L Yamamoto-Lake
+          fielders:
+          - Ahmad Ramdoni
+          kind: stumped
+    - 4.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 4.4:
+        non_striker: I Takahashi
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 4.5:
+        non_striker: I Takahashi
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 4.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 4.7:
+        non_striker: K Kadowaki-Fleming
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 5.1:
+        non_striker: I Takahashi
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 5.2:
+        non_striker: I Takahashi
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 5.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 5.4:
+        non_striker: I Takahashi
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 5.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+        wicket:
+          player_out: I Takahashi
+          fielders:
+          - GD Arta
+          kind: caught
+    - 5.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 6.1:
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 6.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 6.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 6.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 6.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 6.6:
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.7:
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.1:
+        non_striker: S Ravichandran
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 7.2:
+        non_striker: S Ravichandran
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Kadowaki-Fleming
+    - 7.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 7.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 7.5:
+        non_striker: S Ravichandran
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 7.6:
+        non_striker: S Ravichandran
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 8.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 8.2:
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 8.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 8.4:
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 8.5:
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+        wicket:
+          player_out: K Kadowaki-Fleming
+          fielders:
+          - DJ Hawoe
+          kind: caught
+    - 8.6:
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Abe
+    - 9.1:
+        non_striker: S Ravichandran
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Abe
+    - 9.2:
+        non_striker: S Ravichandran
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Abe
+    - 9.3:
+        non_striker: S Ravichandran
+        bowler: GA Priandana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KH Abe
+    - 9.4:
+        non_striker: S Ravichandran
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Abe
+    - 9.5:
+        non_striker: KH Abe
+        bowler: GA Priandana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 9.6:
+        non_striker: KH Abe
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 9.7:
+        non_striker: S Ravichandran
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Abe
+    - 9.8:
+        non_striker: KH Abe
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 10.1:
+        non_striker: S Ravichandran
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Abe
+    - 10.2:
+        non_striker: S Ravichandran
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: KH Abe
+    - 10.3:
+        non_striker: KH Abe
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 10.4:
+        non_striker: KH Abe
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 10.5:
+        non_striker: KH Abe
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 10.6:
+        non_striker: S Ravichandran
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Abe
+    - 11.1:
+        non_striker: S Ravichandran
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Abe
+    - 11.2:
+        non_striker: KH Abe
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 11.3:
+        non_striker: KH Abe
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 11.4:
+        non_striker: KH Abe
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+        wicket:
+          player_out: S Ravichandran
+          fielders:
+          - Ahmad Ramdoni
+          - F Banunaek
+          kind: run out
+    - 11.5:
+        non_striker: KH Abe
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 11.6:
+        non_striker: KH Abe
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Suzuki
+    - 12.1:
+        non_striker: KH Abe
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 12.2:
+        non_striker: KH Abe
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Suzuki
+    - 12.3:
+        non_striker: D Suzuki
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Abe
+    - 12.4:
+        non_striker: KH Abe
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 12.5:
+        non_striker: KH Abe
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Suzuki
+    - 12.6:
+        non_striker: D Suzuki
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Abe
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Ahmad Ramdoni
+        batsman: GA Priandana
+    - 0.2:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ahmad Ramdoni
+        batsman: GA Priandana
+    - 0.3:
+        non_striker: GA Priandana
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 0.4:
+        non_striker: GA Priandana
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 0.5:
+        non_striker: GA Priandana
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 0.6:
+        non_striker: Ahmad Ramdoni
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.1:
+        non_striker: GA Priandana
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 1.2:
+        non_striker: GA Priandana
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 1.3:
+        non_striker: GA Priandana
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 1.4:
+        non_striker: GA Priandana
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 1.5:
+        non_striker: GA Priandana
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmad Ramdoni
+    - 1.6:
+        non_striker: GA Priandana
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+        wicket:
+          player_out: GA Priandana
+          fielders:
+          - D Suzuki
+          - A Patmore
+          kind: run out
+    - 2.1:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Gaurav Tiwari
+        batsman: Ahmad Ramdoni
+    - 2.2:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Gaurav Tiwari
+        batsman: Ahmad Ramdoni
+    - 2.3:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Gaurav Tiwari
+        batsman: Ahmad Ramdoni
+    - 2.4:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Gaurav Tiwari
+        batsman: Ahmad Ramdoni
+    - 2.5:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Gaurav Tiwari
+        batsman: Ahmad Ramdoni
+    - 2.6:
+        non_striker: Gaurav Tiwari
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmad Ramdoni
+    - 3.1:
+        non_striker: Ahmad Ramdoni
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 3.2:
+        non_striker: Ahmad Ramdoni
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gaurav Tiwari
+    - 3.3:
+        non_striker: Ahmad Ramdoni
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gaurav Tiwari
+    - 3.4:
+        non_striker: Ahmad Ramdoni
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 3.5:
+        non_striker: Ahmad Ramdoni
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Tiwari
+    - 3.6:
+        non_striker: Gaurav Tiwari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 4.1:
+        non_striker: Ahmad Ramdoni
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 4.2:
+        non_striker: Ahmad Ramdoni
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gaurav Tiwari
+    - 4.3:
+        non_striker: Ahmad Ramdoni
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 4.4:
+        non_striker: Ahmad Ramdoni
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Tiwari
+    - 4.5:
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 4.6:
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 5.1:
+        non_striker: Ahmad Ramdoni
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gaurav Tiwari
+    - 5.2:
+        non_striker: Ahmad Ramdoni
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Tiwari
+    - 5.3:
+        non_striker: Gaurav Tiwari
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+        wicket:
+          player_out: Ahmad Ramdoni
+          fielders:
+          - B Ito-Davis
+          kind: caught
+    - 5.4:
+        non_striker: Gaurav Tiwari
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 5.5:
+        non_striker: Gaurav Tiwari
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 5.6:
+        non_striker: PR Surve
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 6.1:
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 6.2:
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+        wicket:
+          player_out: PR Surve
+          fielders:
+          - K Kubota (sub)
+          kind: caught
+    - 6.3:
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 6.4:
+        non_striker: KC Ramamoorthy
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Tiwari
+    - 6.5:
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Ramamoorthy
+    - 6.6:
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Ramamoorthy
+    - 7.1:
+        non_striker: KC Ramamoorthy
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+        wicket:
+          player_out: Gaurav Tiwari
+          fielders:
+          - D Suzuki
+          kind: caught
+    - 7.2:
+        non_striker: KC Ramamoorthy
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.3:
+        non_striker: KC Ramamoorthy
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.4:
+        non_striker: KC Ramamoorthy
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.5:
+        non_striker: KC Ramamoorthy
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.6:
+        non_striker: KC Ramamoorthy
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IKEG Artawan
+    - 8.1:
+        non_striker: IKEG Artawan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 8.2:
+        non_striker: KC Ramamoorthy
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+        wicket:
+          player_out: IKEG Artawan
+          kind: bowled
+    - 8.3:
+        non_striker: KC Ramamoorthy
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 8.4:
+        non_striker: KC Ramamoorthy
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 8.5:
+        non_striker: KC Ramamoorthy
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 8.6:
+        non_striker: DJ Hawoe
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Ramamoorthy
+    - 9.1:
+        non_striker: KC Ramamoorthy
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 9.2:
+        non_striker: DJ Hawoe
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 9.3:
+        non_striker: KC Ramamoorthy
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 9.4:
+        non_striker: DJ Hawoe
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 9.5:
+        non_striker: KC Ramamoorthy
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Hawoe
+    - 9.6:
+        non_striker: KC Ramamoorthy
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 10.1:
+        non_striker: DJ Hawoe
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 10.2:
+        non_striker: KC Ramamoorthy
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 10.3:
+        non_striker: DJ Hawoe
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Ramamoorthy
+    - 10.4:
+        non_striker: DJ Hawoe
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 10.5:
+        non_striker: KC Ramamoorthy
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 10.6:
+        non_striker: DJ Hawoe
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Ramamoorthy
+    - 11.1:
+        non_striker: KC Ramamoorthy
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 11.2:
+        non_striker: DJ Hawoe
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Ramamoorthy
+    - 11.3:
+        non_striker: DJ Hawoe
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 11.4:
+        non_striker: KC Ramamoorthy
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 11.5:
+        non_striker: KC Ramamoorthy
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 11.6:
+        non_striker: DJ Hawoe
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 12.1:
+        non_striker: DJ Hawoe
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 12.2:
+        non_striker: KC Ramamoorthy
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 12.3:
+        non_striker: DJ Hawoe
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Ramamoorthy
+    - 12.4:
+        non_striker: DJ Hawoe
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Ramamoorthy
+    - 12.5:
+        non_striker: KC Ramamoorthy
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Hawoe
+    - 12.6:
+        non_striker: KC Ramamoorthy
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe

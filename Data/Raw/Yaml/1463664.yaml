@@ -1,0 +1,2227 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2024-12-19'
+  gender: male
+  match_type: T20
+  match_type_number: 3074
+  outcome:
+    winner: Saudi Arabia
+    by:
+      runs: 11
+  overs: 20
+  player_of_match:
+  - Usman Najeeb
+  players:
+    Saudi Arabia:
+    - Usman Khalid
+    - Faisal Khan
+    - Abdul Waheed
+    - Manan Ali
+    - Choudhry Md Imran
+    - Waji Ul Hassan
+    - Nawazish Akhtar
+    - Zain Ul Abidin
+    - Usman Najeeb
+    - Ishtiaq Ahmad
+    - S Sankar
+    United Arab Emirates:
+    - A Sharafu
+    - Waseem Muhammad
+    - Asif Khan
+    - R Chopra
+    - Ali Naseer
+    - Syed Haider
+    - D Parashar
+    - Nilansh Keswani
+    - SS Kang
+    - Junaid Siddique
+    - Muhammad Jawadullah
+  registry:
+    people:
+      A Sharafu: 06cad4f0
+      Abdul Waheed: 23fa9ea9
+      Ahmad Raza: 6bfa638b
+      Ali Naseer: f5715b48
+      Asif Khan: 074acfb4
+      Asim Mehmood: 4109cbec
+      Choudhry Md Imran: d92d4f5e
+      D Parashar: 395179e8
+      Faisal Khan: a7553f15
+      G Pillai: c363921c
+      Iftikhar Ali: fc537391
+      Ishtiaq Ahmad: 056b433b
+      Junaid Siddique: 84dc72db
+      Manan Ali: d0b643e1
+      Mohammad Nasim: 0aaa8310
+      Muhammad Jawadullah: '098a757c'
+      Nawazish Akhtar: 7503149b
+      Nilansh Keswani: 424a7994
+      R Chopra: a71d0f89
+      S Sankar: 69997d9d
+      SS Kang: 797ee165
+      Syed Haider: ab23a6a1
+      Usman Khalid: 314f0889
+      Usman Najeeb: 615688b6
+      Waji Ul Hassan: 6892f9c3
+      Waseem Muhammad: 6f02fe2a
+      Zahid Usman: 5ee3b5bd
+      Zain Ul Abidin: b93b87ae
+  teams:
+  - Saudi Arabia
+  - United Arab Emirates
+  toss:
+    winner: United Arab Emirates
+    decision: field
+  umpires:
+  - G Pillai
+  - Mohammad Nasim
+  venue: ICC Academy, Dubai
+innings:
+- 1st innings:
+    team: Saudi Arabia
+    deliveries:
+    - 0.1:
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Faisal Khan
+        batsman: Usman Khalid
+    - 0.2:
+        non_striker: Usman Khalid
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 0.3:
+        non_striker: Faisal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Usman Khalid
+    - 0.4:
+        non_striker: Faisal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 0.5:
+        non_striker: Faisal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 0.6:
+        non_striker: Faisal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 0.7:
+        non_striker: Usman Khalid
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Khan
+    - 1.1:
+        non_striker: Faisal Khan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 1.2:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 1.3:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 1.4:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 1.5:
+        non_striker: Faisal Khan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khalid
+    - 1.6:
+        non_striker: Faisal Khan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 2.1:
+        non_striker: Usman Khalid
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Faisal Khan
+    - 2.2:
+        non_striker: Usman Khalid
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 2.3:
+        non_striker: Usman Khalid
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Faisal Khan
+    - 2.4:
+        non_striker: Usman Khalid
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Khan
+    - 2.5:
+        non_striker: Usman Khalid
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Faisal Khan
+    - 2.6:
+        non_striker: Usman Khalid
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 2.7:
+        non_striker: Faisal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 3.1:
+        non_striker: Faisal Khan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 3.2:
+        non_striker: Faisal Khan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 3.3:
+        non_striker: Faisal Khan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khalid
+    - 3.4:
+        non_striker: Faisal Khan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 3.5:
+        non_striker: Faisal Khan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khalid
+    - 3.6:
+        non_striker: Faisal Khan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 4.1:
+        non_striker: Faisal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khalid
+    - 4.2:
+        non_striker: Faisal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khalid
+    - 4.3:
+        non_striker: Faisal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 4.4:
+        non_striker: Faisal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khalid
+    - 4.5:
+        non_striker: Faisal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 4.6:
+        non_striker: Usman Khalid
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Faisal Khan
+    - 4.7:
+        non_striker: Usman Khalid
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Faisal Khan
+    - 5.1:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 5.2:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 5.3:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 5.4:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+        wicket:
+          player_out: Faisal Khan
+          kind: bowled
+    - 5.5:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 5.6:
+        non_striker: Abdul Waheed
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 6.1:
+        non_striker: Abdul Waheed
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 6.2:
+        non_striker: Abdul Waheed
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 6.3:
+        non_striker: Usman Khalid
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Waheed
+    - 6.4:
+        non_striker: Usman Khalid
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 6.5:
+        non_striker: Abdul Waheed
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 6.6:
+        non_striker: Usman Khalid
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Waheed
+    - 7.1:
+        non_striker: Abdul Waheed
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 7.2:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 7.3:
+        non_striker: Abdul Waheed
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 7.4:
+        non_striker: Abdul Waheed
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 7.5:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Waheed
+    - 7.6:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Waheed
+        wicket:
+          player_out: Abdul Waheed
+          fielders:
+          - Nilansh Keswani
+          kind: caught
+    - 8.1:
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Manan Ali
+        batsman: Usman Khalid
+    - 8.2:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manan Ali
+    - 8.3:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manan Ali
+    - 8.4:
+        non_striker: Manan Ali
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 8.5:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manan Ali
+    - 8.6:
+        non_striker: Manan Ali
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 9.1:
+        non_striker: Manan Ali
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 9.2:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manan Ali
+    - 9.3:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manan Ali
+    - 9.4:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manan Ali
+    - 9.5:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manan Ali
+    - 9.6:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manan Ali
+    - 10.1:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manan Ali
+    - 10.2:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manan Ali
+    - 10.3:
+        non_striker: Manan Ali
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khalid
+    - 10.4:
+        non_striker: Manan Ali
+        bowler: SS Kang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Usman Khalid
+    - 10.5:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manan Ali
+        wicket:
+          player_out: Manan Ali
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 10.6:
+        non_striker: Usman Khalid
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Choudhry Md Imran
+    - 11.1:
+        non_striker: Choudhry Md Imran
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 11.2:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Choudhry Md Imran
+        wicket:
+          player_out: Choudhry Md Imran
+          kind: lbw
+    - 11.3:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waji Ul Hassan
+    - 11.4:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waji Ul Hassan
+    - 11.5:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waji Ul Hassan
+    - 11.6:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waji Ul Hassan
+    - 12.1:
+        non_striker: Usman Khalid
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waji Ul Hassan
+    - 12.2:
+        non_striker: Usman Khalid
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waji Ul Hassan
+    - 12.3:
+        non_striker: Usman Khalid
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waji Ul Hassan
+    - 12.4:
+        non_striker: Usman Khalid
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waji Ul Hassan
+    - 12.5:
+        non_striker: Usman Khalid
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waji Ul Hassan
+    - 12.6:
+        non_striker: Usman Khalid
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waji Ul Hassan
+    - 13.1:
+        non_striker: Waji Ul Hassan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 13.2:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waji Ul Hassan
+    - 13.3:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waji Ul Hassan
+    - 13.4:
+        non_striker: Waji Ul Hassan
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 13.5:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waji Ul Hassan
+    - 13.6:
+        non_striker: Usman Khalid
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waji Ul Hassan
+    - 14.1:
+        non_striker: Waji Ul Hassan
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khalid
+    - 14.2:
+        non_striker: Waji Ul Hassan
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khalid
+    - 14.3:
+        non_striker: Usman Khalid
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waji Ul Hassan
+    - 14.4:
+        non_striker: Usman Khalid
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waji Ul Hassan
+    - 14.5:
+        non_striker: Waji Ul Hassan
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khalid
+    - 14.6:
+        non_striker: Waji Ul Hassan
+        bowler: Nilansh Keswani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+    - 15.1:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waji Ul Hassan
+    - 15.2:
+        non_striker: Usman Khalid
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waji Ul Hassan
+    - 15.3:
+        non_striker: Waji Ul Hassan
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khalid
+        wicket:
+          player_out: Usman Khalid
+          fielders:
+          - Nilansh Keswani
+          kind: caught
+    - 15.4:
+        non_striker: Waji Ul Hassan
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nawazish Akhtar
+    - 15.5:
+        non_striker: Waji Ul Hassan
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nawazish Akhtar
+    - 15.6:
+        non_striker: Waji Ul Hassan
+        bowler: Ali Naseer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nawazish Akhtar
+    - 16.1:
+        non_striker: Waji Ul Hassan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nawazish Akhtar
+    - 16.2:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waji Ul Hassan
+    - 16.3:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waji Ul Hassan
+        wicket:
+          player_out: Waji Ul Hassan
+          fielders:
+          - A Sharafu
+          kind: caught
+    - 16.4:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zain Ul Abidin
+    - 16.5:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zain Ul Abidin
+    - 16.6:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zain Ul Abidin
+    - 17.1:
+        non_striker: Zain Ul Abidin
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nawazish Akhtar
+    - 17.2:
+        non_striker: Nawazish Akhtar
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zain Ul Abidin
+    - 17.3:
+        non_striker: Nawazish Akhtar
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ul Abidin
+    - 17.4:
+        non_striker: Zain Ul Abidin
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nawazish Akhtar
+    - 17.5:
+        non_striker: Zain Ul Abidin
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nawazish Akhtar
+    - 17.6:
+        non_striker: Nawazish Akhtar
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zain Ul Abidin
+    - 18.1:
+        non_striker: Zain Ul Abidin
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nawazish Akhtar
+    - 18.2:
+        non_striker: Zain Ul Abidin
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nawazish Akhtar
+    - 18.3:
+        non_striker: Zain Ul Abidin
+        bowler: Ali Naseer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nawazish Akhtar
+    - 18.4:
+        non_striker: Nawazish Akhtar
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ul Abidin
+        wicket:
+          player_out: Zain Ul Abidin
+          fielders:
+          - D Parashar
+          kind: caught
+    - 18.5:
+        non_striker: Nawazish Akhtar
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Najeeb
+    - 18.6:
+        non_striker: Nawazish Akhtar
+        bowler: Ali Naseer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Najeeb
+    - 19.1:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Najeeb
+    - 19.2:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Najeeb
+    - 19.3:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Najeeb
+    - 19.4:
+        non_striker: Usman Najeeb
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nawazish Akhtar
+    - 19.5:
+        non_striker: Usman Najeeb
+        bowler: Junaid Siddique
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Nawazish Akhtar
+    - 19.6:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Najeeb
+    - 19.7:
+        non_striker: Nawazish Akhtar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Najeeb
+        wicket:
+          player_out: Usman Najeeb
+          fielders:
+          - Ali Naseer
+          kind: caught
+- 2nd innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        bowler: Usman Najeeb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Waseem Muhammad
+        batsman: A Sharafu
+    - 0.2:
+        bowler: Usman Najeeb
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Waseem Muhammad
+        batsman: A Sharafu
+    - 0.3:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.5:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.6:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 0.7:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.8:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 0.9:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: Usman Khalid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Sharafu
+    - 1.2:
+        non_striker: A Sharafu
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - Ishtiaq Ahmad
+          kind: caught
+    - 1.3:
+        non_striker: A Sharafu
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 1.4:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 1.5:
+        non_striker: A Sharafu
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 1.6:
+        non_striker: A Sharafu
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 2.1:
+        non_striker: Asif Khan
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 2.2:
+        non_striker: Asif Khan
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 2.3:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 2.4:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asif Khan
+    - 2.5:
+        non_striker: A Sharafu
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 2.6:
+        non_striker: Asif Khan
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 2.7:
+        non_striker: Asif Khan
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+        wicket:
+          player_out: A Sharafu
+          kind: bowled
+    - 3.1:
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Chopra
+        batsman: Asif Khan
+    - 3.2:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 3.3:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 3.4:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 3.5:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Chopra
+    - 3.6:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 3.7:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 4.1:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Khan
+    - 4.2:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 4.3:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Khan
+    - 4.4:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 4.5:
+        non_striker: Asif Khan
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 4.6:
+        non_striker: Asif Khan
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 5.1:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 5.2:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 5.3:
+        non_striker: R Chopra
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Khan
+    - 5.4:
+        non_striker: R Chopra
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Khan
+    - 5.5:
+        non_striker: R Chopra
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 5.6:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 6.1:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Khan
+    - 6.2:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 6.3:
+        non_striker: Asif Khan
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 6.4:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 6.5:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 6.6:
+        non_striker: Asif Khan
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 7.1:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 7.2:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 7.3:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 7.4:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 7.5:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 7.6:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 8.1:
+        non_striker: R Chopra
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 8.2:
+        non_striker: Asif Khan
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 8.3:
+        non_striker: R Chopra
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Khan
+    - 8.4:
+        non_striker: R Chopra
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 8.5:
+        non_striker: Asif Khan
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 8.6:
+        non_striker: Asif Khan
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Chopra
+    - 9.1:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 9.2:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 9.3:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 9.4:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 9.5:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asif Khan
+    - 9.6:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 9.7:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 10.1:
+        non_striker: Asif Khan
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 10.2:
+        non_striker: R Chopra
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Khan
+    - 10.3:
+        non_striker: R Chopra
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Khan
+    - 10.4:
+        non_striker: R Chopra
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 10.5:
+        non_striker: Asif Khan
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 10.6:
+        non_striker: Asif Khan
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Chopra
+    - 10.7:
+        non_striker: Asif Khan
+        bowler: Waji Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 11.1:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 11.2:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Khan
+    - 11.3:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 11.4:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 11.5:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 11.6:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 12.1:
+        non_striker: R Chopra
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 12.2:
+        non_striker: Asif Khan
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 12.3:
+        non_striker: Asif Khan
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 12.4:
+        non_striker: R Chopra
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 12.5:
+        non_striker: Asif Khan
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 12.6:
+        non_striker: R Chopra
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 13.1:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 13.2:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 13.3:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 13.4:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 13.5:
+        non_striker: Asif Khan
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 13.6:
+        non_striker: R Chopra
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 14.1:
+        non_striker: R Chopra
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 14.2:
+        non_striker: R Chopra
+        bowler: Abdul Waheed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asif Khan
+    - 14.3:
+        non_striker: R Chopra
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Khan
+    - 14.4:
+        non_striker: R Chopra
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 14.5:
+        non_striker: Asif Khan
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Chopra
+    - 14.6:
+        non_striker: Asif Khan
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 14.7:
+        non_striker: R Chopra
+        bowler: Abdul Waheed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Khan
+    - 15.1:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 15.2:
+        non_striker: R Chopra
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Khan
+    - 15.3:
+        non_striker: R Chopra
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 15.4:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 15.5:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Chopra
+    - 15.6:
+        non_striker: Asif Khan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 16.1:
+        non_striker: R Chopra
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 16.2:
+        non_striker: Asif Khan
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 16.3:
+        non_striker: R Chopra
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 16.4:
+        non_striker: R Chopra
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 16.5:
+        non_striker: R Chopra
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 16.6:
+        non_striker: Asif Khan
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Chopra
+    - 17.1:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Asif Khan
+    - 17.2:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 17.3:
+        non_striker: Asif Khan
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 17.4:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 17.5:
+        non_striker: Asif Khan
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 17.6:
+        non_striker: R Chopra
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Khan
+    - 17.7:
+        non_striker: Asif Khan
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 18.1:
+        non_striker: Asif Khan
+        bowler: Usman Najeeb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Chopra
+    - 18.2:
+        non_striker: Asif Khan
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+        wicket:
+          player_out: R Chopra
+          kind: bowled
+    - 18.3:
+        non_striker: Asif Khan
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 18.4:
+        non_striker: Ali Naseer
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+        wicket:
+          player_out: Asif Khan
+          fielders:
+          - Ahmad Raza (sub)
+          kind: caught
+    - 18.5:
+        non_striker: Ali Naseer
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+        wicket:
+          player_out: Syed Haider
+          kind: bowled
+    - 18.6:
+        non_striker: Ali Naseer
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 18.7:
+        non_striker: Ali Naseer
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 19.1:
+        non_striker: Ali Naseer
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 19.2:
+        non_striker: D Parashar
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Naseer
+    - 19.3:
+        non_striker: D Parashar
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Naseer
+    - 19.4:
+        non_striker: D Parashar
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 19.5:
+        non_striker: Ali Naseer
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Parashar
+    - 19.6:
+        non_striker: Ali Naseer
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 19.7:
+        non_striker: D Parashar
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer

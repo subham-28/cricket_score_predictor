@@ -1,0 +1,1891 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dar-es-Salaam
+  dates:
+  - '2024-09-25'
+  gender: male
+  match_type: T20
+  match_type_number: 2862
+  outcome:
+    winner: Tanzania
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Akhil Anil
+  players:
+    Ghana:
+    - R Baaleri
+    - SK Awiah
+    - OH Agbomadzie
+    - PK Ananya
+    - A Osei
+    - F Baleri
+    - P Yevugah
+    - G Bakiweyem
+    - KS Bagabena
+    - E Frimpong
+    - L Nyarko
+    Tanzania:
+    - AR Patwa
+    - Muhammad Zafar Khan
+    - MO Kitunda
+    - Akhil Anil
+    - AP Rajeevan
+    - K Nassoro
+    - HA Chohan
+    - AM Kimote
+    - S Thakor
+    - LS Barkania
+    - K Juma
+  registry:
+    people:
+      A Osei: 375322d1
+      AM Kimote: 34e36b65
+      AP Rajeevan: 63d6f031
+      AR Patwa: b43f7a6a
+      Aasif Iqbal: 42c41e1a
+      Akhil Anil: c06c25fd
+      E Frimpong: 3c13fc3b
+      F Baleri: 6efdad14
+      G Bakiweyem: 5fe3709e
+      HA Chohan: 847b4bdd
+      K Juma: '089ebf89'
+      K Klaaste: 6cc1d918
+      K Nassoro: 29ee9bf9
+      KS Bagabena: 1ce4f664
+      L Nyarko: c391d077
+      LB Gcuma: 02ba88e3
+      LS Barkania: 073126d6
+      MO Kitunda: badef0dc
+      Muhammad Zafar Khan: 6d5e66b1
+      OH Agbomadzie: b38a9f73
+      P Yevugah: 5c842df4
+      PK Ananya: bc69a6d3
+      R Baaleri: 26c9b5be
+      S Thakor: '0848ac5f'
+      S Wadvalla: c1a1acf3
+      SK Awiah: bc3fc527
+  teams:
+  - Ghana
+  - Tanzania
+  toss:
+    winner: Ghana
+    decision: bat
+  umpires:
+  - K Klaaste
+  - LB Gcuma
+  venue: University of Dar-es-Salaam Ground
+innings:
+- 1st innings:
+    team: Ghana
+    deliveries:
+    - 0.1:
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SK Awiah
+        batsman: R Baaleri
+    - 0.2:
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SK Awiah
+        batsman: R Baaleri
+    - 0.3:
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SK Awiah
+        batsman: R Baaleri
+    - 0.4:
+        non_striker: R Baaleri
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 0.5:
+        non_striker: R Baaleri
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 0.6:
+        non_striker: R Baaleri
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 1.1:
+        non_striker: SK Awiah
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 1.2:
+        non_striker: R Baaleri
+        bowler: K Juma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SK Awiah
+    - 1.3:
+        non_striker: R Baaleri
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Awiah
+    - 1.4:
+        non_striker: SK Awiah
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 1.5:
+        non_striker: R Baaleri
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 1.6:
+        non_striker: R Baaleri
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 1.7:
+        non_striker: R Baaleri
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Awiah
+    - 2.1:
+        non_striker: R Baaleri
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 2.2:
+        non_striker: R Baaleri
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+        wicket:
+          player_out: SK Awiah
+          kind: bowled
+    - 2.3:
+        non_striker: R Baaleri
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 2.4:
+        non_striker: R Baaleri
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 2.5:
+        non_striker: R Baaleri
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 2.6:
+        non_striker: OH Agbomadzie
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 3.1:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 3.2:
+        non_striker: R Baaleri
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 3.3:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 3.4:
+        non_striker: R Baaleri
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 3.5:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 3.6:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Baaleri
+    - 4.1:
+        non_striker: OH Agbomadzie
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 4.2:
+        non_striker: OH Agbomadzie
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 4.3:
+        non_striker: OH Agbomadzie
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Baaleri
+    - 4.4:
+        non_striker: OH Agbomadzie
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+        wicket:
+          player_out: R Baaleri
+          fielders:
+          - AP Rajeevan
+          kind: caught
+    - 4.5:
+        non_striker: OH Agbomadzie
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Ananya
+    - 4.6:
+        non_striker: OH Agbomadzie
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Ananya
+    - 5.1:
+        non_striker: PK Ananya
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 5.2:
+        non_striker: PK Ananya
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 5.3:
+        non_striker: PK Ananya
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+        wicket:
+          player_out: PK Ananya
+          fielders:
+          - AP Rajeevan
+          kind: run out
+    - 5.4:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Osei
+    - 5.5:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 5.6:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 6.1:
+        non_striker: A Osei
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 6.2:
+        non_striker: A Osei
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 6.3:
+        non_striker: A Osei
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 6.4:
+        non_striker: OH Agbomadzie
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 6.5:
+        non_striker: OH Agbomadzie
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Osei
+    - 6.6:
+        non_striker: OH Agbomadzie
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 7.1:
+        non_striker: A Osei
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 7.2:
+        non_striker: A Osei
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 7.3:
+        non_striker: A Osei
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 7.4:
+        non_striker: A Osei
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 7.5:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Osei
+    - 7.6:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 8.1:
+        non_striker: A Osei
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 8.2:
+        non_striker: OH Agbomadzie
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 8.3:
+        non_striker: OH Agbomadzie
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 8.4:
+        non_striker: OH Agbomadzie
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Osei
+    - 8.5:
+        non_striker: A Osei
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 8.6:
+        non_striker: OH Agbomadzie
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Osei
+    - 9.1:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Osei
+    - 9.2:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Osei
+    - 9.3:
+        non_striker: A Osei
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 9.4:
+        non_striker: A Osei
+        bowler: Akhil Anil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: OH Agbomadzie
+    - 9.5:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 9.6:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+        wicket:
+          player_out: A Osei
+          kind: bowled
+    - 10.1:
+        bowler: S Thakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: F Baleri
+        batsman: OH Agbomadzie
+    - 10.2:
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: F Baleri
+        batsman: OH Agbomadzie
+    - 10.3:
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Baleri
+        batsman: OH Agbomadzie
+    - 10.4:
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: F Baleri
+        batsman: OH Agbomadzie
+    - 10.5:
+        non_striker: OH Agbomadzie
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 10.6:
+        non_striker: OH Agbomadzie
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 10.7:
+        non_striker: OH Agbomadzie
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 11.1:
+        non_striker: F Baleri
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OH Agbomadzie
+    - 11.2:
+        non_striker: F Baleri
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 11.3:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 11.4:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 11.5:
+        non_striker: F Baleri
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 11.6:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 12.1:
+        non_striker: F Baleri
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 12.2:
+        non_striker: F Baleri
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 12.3:
+        non_striker: F Baleri
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 12.4:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+        wicket:
+          player_out: F Baleri
+          fielders:
+          - MO Kitunda
+          - AP Rajeevan
+          kind: run out
+    - 12.5:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+    - 12.6:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Yevugah
+    - 13.1:
+        non_striker: OH Agbomadzie
+        bowler: AM Kimote
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: P Yevugah
+    - 13.2:
+        non_striker: OH Agbomadzie
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+    - 13.3:
+        non_striker: OH Agbomadzie
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Yevugah
+    - 13.4:
+        non_striker: P Yevugah
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OH Agbomadzie
+    - 13.5:
+        non_striker: P Yevugah
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 13.6:
+        non_striker: P Yevugah
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OH Agbomadzie
+    - 13.7:
+        non_striker: P Yevugah
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 14.1:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+    - 14.2:
+        non_striker: OH Agbomadzie
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Yevugah
+    - 14.3:
+        non_striker: P Yevugah
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 14.4:
+        non_striker: P Yevugah
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 14.5:
+        non_striker: P Yevugah
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 14.6:
+        non_striker: P Yevugah
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 15.1:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+    - 15.2:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+    - 15.3:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+    - 15.4:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Yevugah
+    - 15.5:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Yevugah
+    - 15.6:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+        wicket:
+          player_out: P Yevugah
+          kind: lbw
+    - 15.7:
+        non_striker: OH Agbomadzie
+        bowler: Akhil Anil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Bakiweyem
+    - 16.1:
+        non_striker: G Bakiweyem
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 16.2:
+        non_striker: OH Agbomadzie
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Bakiweyem
+    - 16.3:
+        non_striker: G Bakiweyem
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 16.4:
+        non_striker: OH Agbomadzie
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Bakiweyem
+    - 16.5:
+        non_striker: OH Agbomadzie
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Bakiweyem
+    - 16.6:
+        non_striker: OH Agbomadzie
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Bakiweyem
+    - 17.1:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Bakiweyem
+    - 17.2:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Bakiweyem
+        wicket:
+          player_out: G Bakiweyem
+          kind: lbw
+    - 17.3:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 17.4:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 17.5:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 17.6:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 17.7:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 18.1:
+        non_striker: KS Bagabena
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OH Agbomadzie
+    - 18.2:
+        non_striker: KS Bagabena
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 18.3:
+        non_striker: KS Bagabena
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 18.4:
+        non_striker: OH Agbomadzie
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Bagabena
+    - 18.5:
+        non_striker: OH Agbomadzie
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+        wicket:
+          player_out: KS Bagabena
+          kind: bowled
+    - 18.6:
+        non_striker: OH Agbomadzie
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Frimpong
+    - 19.1:
+        non_striker: E Frimpong
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 19.2:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Frimpong
+    - 19.3:
+        non_striker: E Frimpong
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 19.4:
+        non_striker: E Frimpong
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 19.5:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Frimpong
+    - 19.6:
+        non_striker: OH Agbomadzie
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Frimpong
+    - 19.7:
+        non_striker: E Frimpong
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+        wicket:
+          player_out: OH Agbomadzie
+          kind: bowled
+- 2nd innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Zafar Khan
+        batsman: AR Patwa
+    - 0.2:
+        bowler: G Bakiweyem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Muhammad Zafar Khan
+        batsman: AR Patwa
+    - 0.3:
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Zafar Khan
+        batsman: AR Patwa
+    - 0.4:
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Zafar Khan
+        batsman: AR Patwa
+    - 0.5:
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Zafar Khan
+        batsman: AR Patwa
+    - 0.6:
+        bowler: G Bakiweyem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: Muhammad Zafar Khan
+        batsman: AR Patwa
+    - 0.7:
+        bowler: G Bakiweyem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Muhammad Zafar Khan
+        batsman: AR Patwa
+    - 0.8:
+        bowler: G Bakiweyem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Muhammad Zafar Khan
+        batsman: AR Patwa
+    - 0.9:
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Muhammad Zafar Khan
+        batsman: AR Patwa
+    - 0.10:
+        non_striker: Muhammad Zafar Khan
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Patwa
+    - 1.1:
+        non_striker: AR Patwa
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 1.2:
+        non_striker: AR Patwa
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 1.3:
+        non_striker: AR Patwa
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 1.4:
+        non_striker: AR Patwa
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Zafar Khan
+    - 1.5:
+        non_striker: AR Patwa
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 1.6:
+        non_striker: AR Patwa
+        bowler: KS Bagabena
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Zafar Khan
+    - 1.7:
+        non_striker: AR Patwa
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Zafar Khan
+    - 2.1:
+        non_striker: Muhammad Zafar Khan
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 2.2:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 2.3:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Zafar Khan
+    - 2.4:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 2.5:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 2.6:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Zafar Khan
+    - 3.1:
+        non_striker: Muhammad Zafar Khan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 3.2:
+        non_striker: Muhammad Zafar Khan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 3.3:
+        non_striker: Muhammad Zafar Khan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patwa
+    - 3.4:
+        non_striker: Muhammad Zafar Khan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 3.5:
+        non_striker: Muhammad Zafar Khan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 3.6:
+        non_striker: AR Patwa
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 4.1:
+        non_striker: Muhammad Zafar Khan
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 4.2:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 4.3:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Zafar Khan
+    - 4.4:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+    - 4.5:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Zafar Khan
+    - 4.6:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zafar Khan
+        wicket:
+          player_out: Muhammad Zafar Khan
+          fielders:
+          - KS Bagabena
+          kind: caught
+    - 5.1:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MO Kitunda
+        batsman: AR Patwa
+    - 5.2:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MO Kitunda
+        batsman: AR Patwa
+    - 5.3:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MO Kitunda
+        batsman: AR Patwa
+    - 5.4:
+        bowler: L Nyarko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MO Kitunda
+        batsman: AR Patwa
+    - 5.5:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MO Kitunda
+        batsman: AR Patwa
+    - 5.6:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MO Kitunda
+        batsman: AR Patwa
+    - 5.7:
+        non_striker: MO Kitunda
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 6.1:
+        non_striker: MO Kitunda
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 6.2:
+        non_striker: MO Kitunda
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 6.3:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+        wicket:
+          player_out: MO Kitunda
+          kind: bowled
+    - 6.4:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 6.5:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akhil Anil
+    - 6.6:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 7.1:
+        non_striker: AR Patwa
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 7.2:
+        non_striker: AR Patwa
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akhil Anil
+    - 7.3:
+        non_striker: AR Patwa
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 7.4:
+        non_striker: AR Patwa
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akhil Anil
+    - 7.5:
+        non_striker: AR Patwa
+        bowler: L Nyarko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Akhil Anil
+    - 7.6:
+        non_striker: Akhil Anil
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 8.1:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 8.2:
+        non_striker: Akhil Anil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 8.3:
+        non_striker: Akhil Anil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 8.4:
+        non_striker: Akhil Anil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 8.5:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 8.6:
+        non_striker: AR Patwa
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 9.1:
+        non_striker: Akhil Anil
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 9.2:
+        non_striker: Akhil Anil
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+        wicket:
+          player_out: AR Patwa
+          kind: bowled
+    - 9.3:
+        non_striker: Akhil Anil
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 9.4:
+        non_striker: Akhil Anil
+        bowler: L Nyarko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Rajeevan
+    - 9.5:
+        non_striker: Akhil Anil
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 9.6:
+        non_striker: Akhil Anil
+        bowler: L Nyarko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AP Rajeevan
+    - 9.7:
+        non_striker: AP Rajeevan
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akhil Anil
+    - 10.1:
+        non_striker: Akhil Anil
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Rajeevan
+    - 10.2:
+        non_striker: Akhil Anil
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 10.3:
+        non_striker: Akhil Anil
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 10.4:
+        non_striker: AP Rajeevan
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 10.5:
+        non_striker: Akhil Anil
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Rajeevan
+    - 10.6:
+        non_striker: Akhil Anil
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan
+    - 11.1:
+        non_striker: AP Rajeevan
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 11.2:
+        non_striker: Akhil Anil
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 11.3:
+        non_striker: Akhil Anil
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 11.4:
+        non_striker: Akhil Anil
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 11.5:
+        non_striker: Akhil Anil
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan
+    - 11.6:
+        non_striker: Akhil Anil
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 12.1:
+        non_striker: AP Rajeevan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 12.2:
+        non_striker: AP Rajeevan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 12.3:
+        non_striker: Akhil Anil
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 12.4:
+        non_striker: AP Rajeevan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 12.5:
+        non_striker: AP Rajeevan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akhil Anil
+    - 12.6:
+        non_striker: AP Rajeevan
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 13.1:
+        non_striker: Akhil Anil
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 13.2:
+        non_striker: AP Rajeevan
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 13.3:
+        non_striker: AP Rajeevan
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 13.4:
+        non_striker: Akhil Anil
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan

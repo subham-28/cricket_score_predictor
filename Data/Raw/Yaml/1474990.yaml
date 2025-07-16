@@ -1,0 +1,1684 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-03-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2025-03-16'
+  gender: female
+  match_type: T20
+  match_type_number: 2216
+  outcome:
+    winner: United States of America
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - AI Chudasama
+  players:
+    Argentina:
+    - A Galan
+    - M Lollo
+    - L Taylor
+    - M Castineiras
+    - A Stocks
+    - M Martinez
+    - MV Lehmann
+    - T Basile
+    - C Sosa
+    - N Patron Fuentes
+    - Francesca Galan
+    United States of America:
+    - D Dhingra
+    - CR Pagydyala
+    - E Claridge
+    - A Kolan
+    - IM Vaghela
+    - C Prasad
+    - AI Chudasama
+    - RP Singh
+    - G Kodali
+    - TG Norris
+    - S Immadi
+  registry:
+    people:
+      A Galan: ad5165c2
+      A Kolan: 85f5735b
+      A Stocks: c999c416
+      AI Chudasama: 9414a81c
+      C La Borde: 32157f67
+      C Prasad: 4cc7cb1d
+      C Sosa: b2f4cb0d
+      CR Pagydyala: d7c02672
+      D Dhingra: b0dc5d0d
+      Denavon Hayles: 5cbeeb02
+      E Claridge: d8c6a647
+      Francesca Galan: ccd38b40
+      G Kodali: f606177e
+      IM Vaghela: 8d62fc14
+      JM Williams: b61d9d70
+      Jermaine Lindo: 1154bf4f
+      L Taylor: 8af91a3e
+      M Abbott: 3e5f0c04
+      M Castineiras: b9094958
+      M Lollo: e6d1f4bb
+      M Martinez: f0ddeafb
+      MV Lehmann: d2c61d83
+      N Patron Fuentes: b29923b6
+      RP Singh: 0ab3c788
+      S Immadi: a6dd06d6
+      T Basile: 7a640d66
+      TG Norris: 8ae7bb3e
+  teams:
+  - Argentina
+  - United States of America
+  toss:
+    winner: United States of America
+    decision: field
+  umpires:
+  - C La Borde
+  - M Abbott
+  venue: St Albans Club, Buenos Aires
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Lollo
+        batsman: A Galan
+    - 0.2:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Lollo
+        batsman: A Galan
+    - 0.3:
+        non_striker: A Galan
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 0.4:
+        non_striker: A Galan
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 0.5:
+        non_striker: A Galan
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 0.6:
+        non_striker: A Galan
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 1.1:
+        non_striker: M Lollo
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 1.2:
+        non_striker: M Lollo
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 1.3:
+        non_striker: M Lollo
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+        wicket:
+          player_out: A Galan
+          fielders:
+          - A Kolan
+          kind: caught
+    - 1.4:
+        non_striker: M Lollo
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 1.5:
+        non_striker: L Taylor
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 1.6:
+        non_striker: L Taylor
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Lollo
+    - 2.1:
+        non_striker: M Lollo
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 2.2:
+        non_striker: M Lollo
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 2.3:
+        non_striker: L Taylor
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 2.4:
+        non_striker: L Taylor
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 2.5:
+        non_striker: L Taylor
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 2.6:
+        non_striker: L Taylor
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 3.1:
+        non_striker: M Lollo
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 3.2:
+        non_striker: M Lollo
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 3.3:
+        non_striker: M Lollo
+        bowler: AI Chudasama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Taylor
+    - 3.4:
+        non_striker: M Lollo
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+        wicket:
+          player_out: M Lollo
+          fielders:
+          - E Claridge
+          - A Kolan
+          kind: run out
+    - 3.5:
+        non_striker: L Taylor
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 3.6:
+        non_striker: L Taylor
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 3.7:
+        non_striker: L Taylor
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 4.1:
+        non_striker: M Castineiras
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 4.2:
+        non_striker: M Castineiras
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Taylor
+    - 4.3:
+        non_striker: M Castineiras
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 4.4:
+        non_striker: M Castineiras
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 4.5:
+        non_striker: L Taylor
+        bowler: TG Norris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Castineiras
+    - 4.6:
+        non_striker: M Castineiras
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 5.1:
+        non_striker: M Castineiras
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 5.2:
+        non_striker: M Castineiras
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 5.3:
+        non_striker: L Taylor
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+        wicket:
+          player_out: M Castineiras
+          fielders:
+          - C Prasad
+          kind: caught
+    - 5.4:
+        non_striker: L Taylor
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 5.5:
+        non_striker: L Taylor
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 5.6:
+        non_striker: L Taylor
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 6.1:
+        non_striker: A Stocks
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 6.2:
+        non_striker: L Taylor
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 6.3:
+        non_striker: L Taylor
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 6.4:
+        non_striker: L Taylor
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 6.5:
+        non_striker: L Taylor
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 6.6:
+        non_striker: L Taylor
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 7.1:
+        non_striker: L Taylor
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 7.2:
+        non_striker: L Taylor
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 7.3:
+        non_striker: L Taylor
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 7.4:
+        non_striker: L Taylor
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 7.5:
+        non_striker: A Stocks
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 7.6:
+        non_striker: L Taylor
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 8.1:
+        non_striker: A Stocks
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 8.2:
+        non_striker: L Taylor
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 8.3:
+        non_striker: L Taylor
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 8.4:
+        non_striker: L Taylor
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 8.5:
+        non_striker: L Taylor
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 8.6:
+        non_striker: A Stocks
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Taylor
+    - 9.1:
+        non_striker: L Taylor
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 9.2:
+        non_striker: L Taylor
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 9.3:
+        non_striker: L Taylor
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 9.4:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+        wicket:
+          player_out: L Taylor
+          fielders:
+          - IM Vaghela
+          kind: caught
+    - 9.5:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Martinez
+    - 9.6:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: M Martinez
+    - 9.7:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+    - 10.1:
+        non_striker: M Martinez
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 10.2:
+        non_striker: M Martinez
+        bowler: S Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Stocks
+    - 10.3:
+        non_striker: M Martinez
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+        wicket:
+          player_out: M Martinez
+          fielders:
+          - A Kolan
+          - TG Norris
+          kind: run out
+    - 10.4:
+        non_striker: A Stocks
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 10.5:
+        non_striker: A Stocks
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 10.6:
+        non_striker: A Stocks
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 10.7:
+        non_striker: A Stocks
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Lehmann
+    - 11.1:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 11.2:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Lehmann
+    - 11.3:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 11.4:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MV Lehmann
+    - 11.5:
+        non_striker: MV Lehmann
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 11.6:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 11.7:
+        non_striker: A Stocks
+        bowler: C Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 12.1:
+        non_striker: MV Lehmann
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 12.2:
+        non_striker: MV Lehmann
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 12.3:
+        non_striker: MV Lehmann
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 12.4:
+        non_striker: MV Lehmann
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 12.5:
+        non_striker: A Stocks
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 12.6:
+        non_striker: A Stocks
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 13.1:
+        non_striker: MV Lehmann
+        bowler: AI Chudasama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Stocks
+    - 13.2:
+        non_striker: MV Lehmann
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 13.3:
+        non_striker: MV Lehmann
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 13.4:
+        non_striker: MV Lehmann
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 13.5:
+        non_striker: MV Lehmann
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 13.6:
+        non_striker: A Stocks
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 13.7:
+        non_striker: A Stocks
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 14.1:
+        non_striker: MV Lehmann
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 14.2:
+        non_striker: A Stocks
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Lehmann
+    - 14.3:
+        non_striker: MV Lehmann
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 14.4:
+        non_striker: MV Lehmann
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 14.5:
+        non_striker: MV Lehmann
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 14.6:
+        non_striker: A Stocks
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 15.1:
+        non_striker: MV Lehmann
+        bowler: IM Vaghela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Stocks
+    - 15.2:
+        non_striker: MV Lehmann
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 15.3:
+        non_striker: MV Lehmann
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 15.4:
+        non_striker: MV Lehmann
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 15.5:
+        non_striker: A Stocks
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 15.6:
+        non_striker: A Stocks
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+    - 15.7:
+        non_striker: A Stocks
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Lehmann
+        wicket:
+          player_out: MV Lehmann
+          fielders:
+          - IM Vaghela
+          - C Prasad
+          kind: run out
+    - 16.1:
+        non_striker: A Stocks
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Basile
+    - 16.2:
+        non_striker: A Stocks
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 16.3:
+        non_striker: A Stocks
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Basile
+    - 16.4:
+        non_striker: A Stocks
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Basile
+    - 16.5:
+        non_striker: A Stocks
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 16.6:
+        non_striker: A Stocks
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Basile
+    - 17.1:
+        non_striker: A Stocks
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Basile
+    - 17.2:
+        non_striker: T Basile
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 17.3:
+        non_striker: T Basile
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 17.4:
+        non_striker: A Stocks
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Basile
+    - 17.5:
+        non_striker: A Stocks
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 17.6:
+        non_striker: A Stocks
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 18.1:
+        non_striker: T Basile
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 18.2:
+        non_striker: T Basile
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 18.3:
+        non_striker: A Stocks
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 18.4:
+        non_striker: A Stocks
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Basile
+    - 18.5:
+        non_striker: T Basile
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 18.6:
+        non_striker: T Basile
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Stocks
+    - 19.1:
+        non_striker: A Stocks
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+        wicket:
+          player_out: T Basile
+          fielders:
+          - A Kolan
+          kind: caught
+    - 19.2:
+        non_striker: A Stocks
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Sosa
+    - 19.3:
+        non_striker: C Sosa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Stocks
+    - 19.4:
+        non_striker: C Sosa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+        wicket:
+          player_out: A Stocks
+          fielders:
+          - A Kolan
+          kind: stumped
+    - 19.5:
+        non_striker: C Sosa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Patron Fuentes
+    - 19.6:
+        non_striker: C Sosa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Patron Fuentes
+        wicket:
+          player_out: N Patron Fuentes
+          kind: caught and bowled
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CR Pagydyala
+        batsman: D Dhingra
+    - 0.2:
+        non_striker: D Dhingra
+        bowler: A Galan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 0.3:
+        non_striker: D Dhingra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 0.4:
+        non_striker: D Dhingra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 0.5:
+        non_striker: D Dhingra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 0.6:
+        non_striker: D Dhingra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 0.7:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.1:
+        non_striker: D Dhingra
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 1.2:
+        non_striker: D Dhingra
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 1.3:
+        non_striker: D Dhingra
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CR Pagydyala
+    - 1.4:
+        non_striker: D Dhingra
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 1.5:
+        non_striker: CR Pagydyala
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: D Dhingra
+    - 1.6:
+        non_striker: CR Pagydyala
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.7:
+        non_striker: CR Pagydyala
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.8:
+        non_striker: CR Pagydyala
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.9:
+        non_striker: CR Pagydyala
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 2.1:
+        non_striker: D Dhingra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 2.2:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 2.3:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 2.4:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 2.5:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 2.6:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 3.1:
+        non_striker: D Dhingra
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Pagydyala
+    - 3.2:
+        non_striker: D Dhingra
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 3.3:
+        non_striker: CR Pagydyala
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+        wicket:
+          player_out: D Dhingra
+          fielders:
+          - M Lollo
+          - M Castineiras
+          kind: run out
+    - 3.4:
+        non_striker: CR Pagydyala
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Claridge
+    - 3.5:
+        non_striker: E Claridge
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 3.6:
+        non_striker: E Claridge
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Pagydyala
+    - 3.7:
+        non_striker: E Claridge
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Pagydyala
+    - 4.1:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Claridge
+    - 4.2:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Claridge
+        wicket:
+          player_out: E Claridge
+          kind: bowled
+    - 4.3:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 4.4:
+        non_striker: A Kolan
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 4.5:
+        non_striker: CR Pagydyala
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 4.6:
+        non_striker: A Kolan
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 5.1:
+        non_striker: CR Pagydyala
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 5.2:
+        non_striker: A Kolan
+        bowler: L Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CR Pagydyala
+    - 5.3:
+        non_striker: CR Pagydyala
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kolan
+    - 5.4:
+        non_striker: CR Pagydyala
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kolan
+    - 5.5:
+        non_striker: CR Pagydyala
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kolan
+    - 5.6:
+        non_striker: CR Pagydyala
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kolan
+    - 6.1:
+        non_striker: A Kolan
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 6.2:
+        non_striker: A Kolan
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 6.3:
+        non_striker: A Kolan
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Pagydyala
+    - 6.4:
+        non_striker: A Kolan
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Pagydyala
+    - 6.5:
+        non_striker: A Kolan
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Pagydyala
+    - 6.6:
+        non_striker: A Kolan
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 7.1:
+        non_striker: A Kolan
+        bowler: A Stocks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala
+    - 7.2:
+        non_striker: A Kolan
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 7.3:
+        non_striker: CR Pagydyala
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 7.4:
+        non_striker: CR Pagydyala
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 7.5:
+        non_striker: A Kolan
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 7.6:
+        non_striker: CR Pagydyala
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 7.7:
+        non_striker: A Kolan
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Pagydyala
+    - 8.1:
+        non_striker: CR Pagydyala
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 8.2:
+        non_striker: A Kolan
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 8.3:
+        non_striker: CR Pagydyala
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kolan
+    - 8.4:
+        non_striker: CR Pagydyala
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 8.5:
+        non_striker: CR Pagydyala
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kolan
+    - 8.6:
+        non_striker: CR Pagydyala
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 8.7:
+        non_striker: A Kolan
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Pagydyala
+    - 9.1:
+        non_striker: A Kolan
+        bowler: A Stocks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Pagydyala

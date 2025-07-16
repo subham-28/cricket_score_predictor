@@ -1,0 +1,1922 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2024-11-19'
+  gender: male
+  match_type: T20
+  match_type_number: 2960
+  outcome:
+    winner: Indonesia
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - IK Gamantika
+  players:
+    Myanmar:
+    - Paing Danu
+    - H Lin Oo
+    - Thuya Aung
+    - Pyae Phyo Wai
+    - KK Lin Thu
+    - H Lin Aung
+    - Nay Lin Htun
+    - Swann Htet Ko Ko
+    - Khin Aye
+    - Aung Ko Ko
+    - Nyeing Cham Soe
+    Indonesia:
+    - GA Priandana
+    - KD Kesuma
+    - FFJ Heo
+    - GD Arta
+    - IK Gamantika
+    - Ahmad Ramdoni
+    - IKEG Artawan
+    - DJ Hawoe
+    - F Banunaek
+    - RM Koda
+    - AA Rahayu
+  registry:
+    people:
+      AA Rahayu: 2327fdc7
+      Ahmad Ramdoni: b5f30525
+      Aung Ko Ko: 648d060e
+      DJ Hawoe: a62f55ba
+      Edi Agustinus: 6ee9fbb9
+      F Banunaek: 3c8faed4
+      FFJ Heo: c73c75f9
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      H Lin Aung: c343a8c6
+      H Lin Oo: 2e005bfd
+      IK Gamantika: 4d7c5b56
+      IKEG Artawan: 190957d2
+      KD Kesuma: 4b349dc0
+      KK Lin Thu: 6cf75582
+      Khin Aye: ad2efd29
+      Nay Lin Htun: 5319f95b
+      Nyeing Cham Soe: 45b5ce8d
+      Paing Danu: 1eb5affb
+      Pyae Phyo Wai: '09e86895'
+      RM Koda: f0a45427
+      Swann Htet Ko Ko: 9ee21ee4
+      Thuya Aung: 2e092d2c
+      Yousuf Wadu: cf41005c
+  teams:
+  - Myanmar
+  - Indonesia
+  toss:
+    winner: Myanmar
+    decision: bat
+  umpires:
+  - Edi Agustinus
+  - Yousuf Wadu
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Lin Oo
+        batsman: Paing Danu
+    - 0.2:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 0.3:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 0.4:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 0.5:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 0.6:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+        wicket:
+          player_out: H Lin Oo
+          fielders:
+          - IKEG Artawan
+          kind: caught
+    - 1.1:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Thuya Aung
+        batsman: Paing Danu
+    - 1.2:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Thuya Aung
+        batsman: Paing Danu
+    - 1.3:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Thuya Aung
+        batsman: Paing Danu
+    - 1.4:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Thuya Aung
+        batsman: Paing Danu
+    - 1.5:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Thuya Aung
+        batsman: Paing Danu
+    - 1.6:
+        non_striker: Thuya Aung
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 2.1:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 2.2:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 2.3:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 2.4:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 2.5:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 2.6:
+        non_striker: Thuya Aung
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Paing Danu
+    - 3.1:
+        non_striker: Paing Danu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 3.2:
+        non_striker: Paing Danu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 3.3:
+        non_striker: Thuya Aung
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 3.4:
+        non_striker: Thuya Aung
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 3.5:
+        non_striker: Thuya Aung
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Paing Danu
+    - 3.6:
+        non_striker: Thuya Aung
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 4.1:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 4.2:
+        non_striker: Thuya Aung
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Paing Danu
+    - 4.3:
+        non_striker: Thuya Aung
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 4.4:
+        non_striker: Thuya Aung
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Paing Danu
+    - 4.5:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 4.6:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 4.7:
+        non_striker: Paing Danu
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 5.1:
+        non_striker: Paing Danu
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 5.2:
+        non_striker: Paing Danu
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Thuya Aung
+    - 5.3:
+        non_striker: Paing Danu
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 5.4:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Paing Danu
+    - 5.5:
+        non_striker: Paing Danu
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 5.6:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 6.1:
+        non_striker: Paing Danu
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 6.2:
+        non_striker: Thuya Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+        wicket:
+          player_out: Paing Danu
+          fielders:
+          - FFJ Heo
+          kind: caught
+    - 6.3:
+        non_striker: Thuya Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 6.4:
+        non_striker: Pyae Phyo Wai
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 6.5:
+        non_striker: Thuya Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 6.6:
+        non_striker: Thuya Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 7.1:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+        wicket:
+          player_out: Pyae Phyo Wai
+          fielders:
+          - IKEG Artawan
+          kind: caught
+    - 7.2:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 7.3:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+        wicket:
+          player_out: KK Lin Thu
+          kind: lbw
+    - 7.4:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lin Aung
+    - 7.5:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 7.6:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 7.7:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 8.1:
+        non_striker: H Lin Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Thuya Aung
+    - 8.2:
+        non_striker: H Lin Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 8.3:
+        non_striker: Thuya Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 8.4:
+        non_striker: Thuya Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 8.5:
+        non_striker: H Lin Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 8.6:
+        non_striker: Thuya Aung
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 9.1:
+        non_striker: H Lin Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Thuya Aung
+    - 9.2:
+        non_striker: H Lin Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 9.3:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 9.4:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 9.5:
+        non_striker: H Lin Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 9.6:
+        non_striker: H Lin Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 9.7:
+        non_striker: H Lin Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 10.1:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Lin Aung
+    - 10.2:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 10.3:
+        non_striker: H Lin Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Thuya Aung
+    - 10.4:
+        non_striker: H Lin Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 10.5:
+        non_striker: H Lin Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 10.6:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 10.7:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 11.1:
+        non_striker: H Lin Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 11.2:
+        non_striker: H Lin Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 11.3:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Lin Aung
+    - 11.4:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 11.5:
+        non_striker: H Lin Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 11.6:
+        non_striker: Thuya Aung
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 12.1:
+        non_striker: H Lin Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 12.2:
+        non_striker: H Lin Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 12.3:
+        non_striker: H Lin Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 12.4:
+        non_striker: H Lin Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 12.5:
+        non_striker: H Lin Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 12.6:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 13.1:
+        non_striker: H Lin Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 13.2:
+        non_striker: Thuya Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 13.3:
+        non_striker: H Lin Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Thuya Aung
+    - 13.4:
+        non_striker: H Lin Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 13.5:
+        non_striker: Thuya Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 13.6:
+        non_striker: Thuya Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 14.1:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 14.2:
+        non_striker: H Lin Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 14.3:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 14.4:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 14.5:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lin Aung
+    - 14.6:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 14.7:
+        non_striker: Thuya Aung
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 15.1:
+        non_striker: H Lin Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 15.2:
+        non_striker: H Lin Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 15.3:
+        non_striker: H Lin Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 15.4:
+        non_striker: Thuya Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+        wicket:
+          player_out: H Lin Aung
+          fielders:
+          - FFJ Heo
+          kind: caught
+    - 15.5:
+        non_striker: Thuya Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nay Lin Htun
+    - 15.6:
+        non_striker: Thuya Aung
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nay Lin Htun
+    - 15.7:
+        non_striker: Nay Lin Htun
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+        wicket:
+          player_out: Thuya Aung
+          fielders:
+          - KD Kesuma
+          kind: caught
+    - 16.1:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Swann Htet Ko Ko
+        batsman: Nay Lin Htun
+    - 16.2:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Swann Htet Ko Ko
+        batsman: Nay Lin Htun
+    - 16.3:
+        non_striker: Nay Lin Htun
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Swann Htet Ko Ko
+    - 16.4:
+        non_striker: Swann Htet Ko Ko
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nay Lin Htun
+    - 16.5:
+        non_striker: Swann Htet Ko Ko
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nay Lin Htun
+    - 16.6:
+        non_striker: Nay Lin Htun
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Swann Htet Ko Ko
+    - 17.1:
+        non_striker: Nay Lin Htun
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Swann Htet Ko Ko
+    - 17.2:
+        non_striker: Nay Lin Htun
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Swann Htet Ko Ko
+    - 17.3:
+        non_striker: Nay Lin Htun
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Swann Htet Ko Ko
+        wicket:
+          player_out: Swann Htet Ko Ko
+          fielders:
+          - AA Rahayu
+          kind: caught
+    - 17.4:
+        non_striker: Nay Lin Htun
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 17.5:
+        non_striker: Nay Lin Htun
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+        wicket:
+          player_out: Nay Lin Htun
+          fielders:
+          - IK Gamantika
+          - DJ Hawoe
+          kind: run out
+    - 17.6:
+        non_striker: Aung Ko Ko
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khin Aye
+    - 18.1:
+        non_striker: Aung Ko Ko
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 18.2:
+        non_striker: Aung Ko Ko
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 18.3:
+        non_striker: Aung Ko Ko
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Khin Aye
+    - 18.4:
+        non_striker: Aung Ko Ko
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 18.5:
+        non_striker: Aung Ko Ko
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 18.6:
+        non_striker: Aung Ko Ko
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khin Aye
+    - 18.7:
+        non_striker: Aung Ko Ko
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 18.8:
+        non_striker: Aung Ko Ko
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khin Aye
+    - 18.9:
+        non_striker: Aung Ko Ko
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 19.1:
+        non_striker: Khin Aye
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aung Ko Ko
+    - 19.2:
+        non_striker: Khin Aye
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aung Ko Ko
+        wicket:
+          player_out: Aung Ko Ko
+          kind: bowled
+    - 19.3:
+        non_striker: Khin Aye
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nyeing Cham Soe
+    - 19.4:
+        non_striker: Nyeing Cham Soe
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khin Aye
+    - 19.5:
+        non_striker: Nyeing Cham Soe
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khin Aye
+    - 19.6:
+        non_striker: Khin Aye
+        bowler: IK Gamantika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nyeing Cham Soe
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: Khin Aye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KD Kesuma
+        batsman: GA Priandana
+    - 0.2:
+        non_striker: GA Priandana
+        bowler: Khin Aye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 0.3:
+        non_striker: GA Priandana
+        bowler: Khin Aye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 0.4:
+        non_striker: GA Priandana
+        bowler: Khin Aye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 0.5:
+        non_striker: GA Priandana
+        bowler: Khin Aye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 0.6:
+        non_striker: GA Priandana
+        bowler: Khin Aye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Kesuma
+    - 1.1:
+        non_striker: KD Kesuma
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.2:
+        non_striker: KD Kesuma
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 1.3:
+        non_striker: KD Kesuma
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.4:
+        non_striker: KD Kesuma
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GA Priandana
+    - 1.5:
+        non_striker: KD Kesuma
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.6:
+        non_striker: KD Kesuma
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 2.1:
+        non_striker: GA Priandana
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 2.2:
+        non_striker: GA Priandana
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 2.3:
+        non_striker: GA Priandana
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.4:
+        non_striker: GA Priandana
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Kesuma
+    - 2.5:
+        non_striker: GA Priandana
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 2.6:
+        non_striker: KD Kesuma
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 2.7:
+        non_striker: KD Kesuma
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GA Priandana
+    - 2.8:
+        non_striker: KD Kesuma
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GA Priandana
+    - 3.1:
+        non_striker: GA Priandana
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 3.2:
+        non_striker: GA Priandana
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 3.3:
+        non_striker: GA Priandana
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 3.4:
+        non_striker: GA Priandana
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          kind: bowled
+    - 3.5:
+        non_striker: GA Priandana
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFJ Heo
+        wicket:
+          player_out: FFJ Heo
+          fielders:
+          - Nay Lin Htun
+          kind: caught
+    - 3.6:
+        non_striker: GA Priandana
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 4.1:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 4.2:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 4.3:
+        non_striker: GA Priandana
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 4.4:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 4.5:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 4.6:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 5.1:
+        non_striker: GA Priandana
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 5.2:
+        non_striker: GD Arta
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GA Priandana
+    - 5.3:
+        non_striker: GD Arta
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 5.4:
+        non_striker: GD Arta
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 5.5:
+        non_striker: GD Arta
+        bowler: KK Lin Thu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GA Priandana
+    - 5.6:
+        non_striker: GD Arta
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 5.7:
+        non_striker: GA Priandana
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 6.1:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          fielders:
+          - Pyae Phyo Wai
+          kind: caught
+    - 6.2:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IK Gamantika
+    - 6.3:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IK Gamantika
+    - 6.4:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 6.5:
+        non_striker: IK Gamantika
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 6.6:
+        non_striker: GD Arta
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 7.1:
+        non_striker: GD Arta
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 7.2:
+        non_striker: IK Gamantika
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Arta
+    - 7.3:
+        non_striker: IK Gamantika
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 7.4:
+        non_striker: IK Gamantika
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 7.5:
+        non_striker: GD Arta
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 7.6:
+        non_striker: IK Gamantika
+        bowler: KK Lin Thu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Arta
+    - 7.7:
+        non_striker: IK Gamantika
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 8.1:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 8.2:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 8.3:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IK Gamantika
+    - 8.4:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 8.5:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 8.6:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 9.1:
+        non_striker: IK Gamantika
+        bowler: Paing Danu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: GD Arta
+    - 9.2:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 9.3:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 9.4:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 9.5:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IK Gamantika
+    - 9.6:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IK Gamantika
+    - 9.7:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 10.1:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 10.2:
+        non_striker: IK Gamantika
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 10.3:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+        wicket:
+          player_out: IK Gamantika
+          fielders:
+          - Swann Htet Ko Ko
+          kind: stumped
+    - 10.4:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 10.5:
+        non_striker: Ahmad Ramdoni
+        bowler: Thuya Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GD Arta
+    - 10.6:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 11.1:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 11.2:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 11.3:
+        non_striker: Ahmad Ramdoni
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 11.4:
+        non_striker: Ahmad Ramdoni
+        bowler: Paing Danu
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: GD Arta
+    - 11.5:
+        non_striker: Ahmad Ramdoni
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 11.6:
+        non_striker: Ahmad Ramdoni
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 11.7:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+        wicket:
+          player_out: Ahmad Ramdoni
+          kind: bowled
+    - 12.1:
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IKEG Artawan
+        batsman: GD Arta
+    - 12.2:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 12.3:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 12.4:
+        non_striker: IKEG Artawan
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 12.5:
+        non_striker: IKEG Artawan
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 12.6:
+        non_striker: GD Arta
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+        wicket:
+          player_out: IKEG Artawan
+          fielders:
+          - Nyeing Cham Soe
+          kind: caught
+    - 13.1:
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DJ Hawoe
+        batsman: GD Arta
+    - 13.2:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 13.3:
+        non_striker: GD Arta
+        bowler: Paing Danu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe

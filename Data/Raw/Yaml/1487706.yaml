@@ -1,0 +1,953 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2025-06-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2339
+  outcome:
+    winner: Uganda
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - K Amuge
+  players:
+    Sierra Leone:
+    - E Kamara
+    - Aminata Kamara
+    - C Bull
+    - J Newland
+    - F Conteh
+    - AM Kamara
+    - L Bull
+    - Z Kamara
+    - P Pratt
+    - H Sawanneh
+    - AK Bangura
+    Uganda:
+    - J Mbabazi
+    - E Iloku
+    - K Amuge
+    - I Nakisuuyi
+    - K Awino
+    - P Alako
+    - R Musamali
+    - S Akiteng
+    - S Tino
+    - PE Kulume
+    - T Oyella
+  registry:
+    people:
+      AK Bangura: 36c0228f
+      AM Kamara: 4ca3d67d
+      Aminata Kamara: f7aca3b3
+      C Bull: a7b3bd26
+      E Iloku: f1fa1c6b
+      E Kamara: 3f8915a0
+      ET Dube: 4c0891bc
+      F Conteh: 1dac0c4a
+      F Mutizwa: d3e83eef
+      H Sawanneh: '89372586'
+      I Nakisuuyi: 2f145a4f
+      J Mbabazi: aaa6e84c
+      J Newland: d2089154
+      K Amuge: eb2de8d9
+      K Awino: c4e7749a
+      L Bull: 256d29e8
+      P Alako: fcf37e14
+      P Pratt: ccac9ed0
+      PE Kulume: bb1a5f8a
+      R Musamali: 017cadb2
+      R Singinzwa: 0e58e89d
+      S Akiteng: cf92d76b
+      S Tino: e2a702e3
+      T Oyella: 5f03af45
+      Vicky Prajapati: 8926ed4e
+      Z Kamara: a4e98e6b
+  teams:
+  - Sierra Leone
+  - Uganda
+  toss:
+    winner: Uganda
+    decision: field
+  umpires:
+  - R Singinzwa
+  - Vicky Prajapati
+  venue: Gahanga B Ground, Rwanda
+innings:
+- 1st innings:
+    team: Sierra Leone
+    deliveries:
+    - 0.1:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aminata Kamara
+        batsman: E Kamara
+    - 0.2:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aminata Kamara
+        batsman: E Kamara
+    - 0.3:
+        non_striker: Aminata Kamara
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kamara
+        wicket:
+          player_out: E Kamara
+          kind: lbw
+    - 0.4:
+        non_striker: Aminata Kamara
+        bowler: K Amuge
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: C Bull
+    - 0.5:
+        non_striker: Aminata Kamara
+        bowler: K Amuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Bull
+    - 0.6:
+        non_striker: C Bull
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminata Kamara
+        wicket:
+          player_out: Aminata Kamara
+          kind: bowled
+    - 0.7:
+        non_striker: C Bull
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Newland
+        wicket:
+          player_out: J Newland
+          kind: bowled
+    - 1.1:
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Conteh
+        batsman: C Bull
+    - 1.2:
+        non_striker: F Conteh
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+        wicket:
+          player_out: C Bull
+          kind: caught and bowled
+    - 1.3:
+        non_striker: F Conteh
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+    - 1.4:
+        non_striker: F Conteh
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+    - 1.5:
+        non_striker: F Conteh
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+    - 1.6:
+        non_striker: F Conteh
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+        wicket:
+          player_out: AM Kamara
+          kind: bowled
+    - 2.1:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bull
+        batsman: F Conteh
+    - 2.2:
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bull
+        batsman: F Conteh
+    - 2.3:
+        non_striker: F Conteh
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bull
+        wicket:
+          player_out: L Bull
+          kind: bowled
+    - 2.4:
+        non_striker: F Conteh
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Kamara
+    - 2.5:
+        non_striker: F Conteh
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Kamara
+    - 2.6:
+        non_striker: F Conteh
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Kamara
+    - 3.1:
+        non_striker: F Conteh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Kamara
+    - 3.2:
+        non_striker: F Conteh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Kamara
+    - 3.3:
+        non_striker: F Conteh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Kamara
+    - 3.4:
+        non_striker: Z Kamara
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 3.5:
+        non_striker: Z Kamara
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 3.6:
+        non_striker: Z Kamara
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Conteh
+    - 4.1:
+        non_striker: Z Kamara
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Conteh
+    - 4.2:
+        non_striker: Z Kamara
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 4.3:
+        non_striker: Z Kamara
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+    - 4.4:
+        non_striker: Z Kamara
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Conteh
+        wicket:
+          player_out: F Conteh
+          kind: bowled
+    - 4.5:
+        non_striker: Z Kamara
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pratt
+    - 4.6:
+        non_striker: Z Kamara
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pratt
+    - 5.1:
+        non_striker: P Pratt
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Kamara
+        wicket:
+          player_out: P Pratt
+          fielders:
+          - E Iloku
+          - K Awino
+          kind: run out
+    - 5.2:
+        non_striker: Z Kamara
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+    - 5.3:
+        non_striker: Z Kamara
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+    - 5.4:
+        non_striker: Z Kamara
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+    - 5.5:
+        non_striker: Z Kamara
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+    - 5.6:
+        non_striker: Z Kamara
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+    - 6.1:
+        non_striker: H Sawanneh
+        bowler: S Tino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z Kamara
+    - 6.2:
+        non_striker: H Sawanneh
+        bowler: S Tino
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z Kamara
+    - 6.3:
+        non_striker: H Sawanneh
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Kamara
+        wicket:
+          player_out: Z Kamara
+          kind: bowled
+    - 6.4:
+        non_striker: H Sawanneh
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 6.5:
+        non_striker: H Sawanneh
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 6.6:
+        non_striker: H Sawanneh
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 6.7:
+        non_striker: H Sawanneh
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Bangura
+    - 6.8:
+        non_striker: AK Bangura
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+    - 7.1:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 7.2:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Bangura
+    - 7.3:
+        non_striker: AK Bangura
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Sawanneh
+    - 7.4:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 7.5:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 7.6:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 8.1:
+        non_striker: AK Bangura
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+    - 8.2:
+        non_striker: AK Bangura
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+    - 8.3:
+        non_striker: AK Bangura
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Sawanneh
+    - 8.4:
+        non_striker: H Sawanneh
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 8.5:
+        non_striker: H Sawanneh
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Bangura
+    - 8.6:
+        non_striker: AK Bangura
+        bowler: S Tino
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Sawanneh
+    - 9.1:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Bangura
+    - 9.2:
+        non_striker: AK Bangura
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Sawanneh
+    - 9.3:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 9.4:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 9.5:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 9.6:
+        non_striker: H Sawanneh
+        bowler: T Oyella
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Bangura
+    - 10.1:
+        non_striker: H Sawanneh
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Bangura
+    - 10.2:
+        non_striker: AK Bangura
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Sawanneh
+    - 10.3:
+        non_striker: H Sawanneh
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 10.4:
+        non_striker: H Sawanneh
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+    - 10.5:
+        non_striker: H Sawanneh
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Bangura
+    - 10.6:
+        non_striker: AK Bangura
+        bowler: K Amuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Sawanneh
+    - 10.7:
+        non_striker: AK Bangura
+        bowler: K Amuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Sawanneh
+    - 11.1:
+        non_striker: H Sawanneh
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Bangura
+        wicket:
+          player_out: AK Bangura
+          kind: bowled
+- 2nd innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.2:
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.3:
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Iloku
+        batsman: J Mbabazi
+    - 0.4:
+        non_striker: J Mbabazi
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 0.5:
+        non_striker: E Iloku
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 0.6:
+        non_striker: E Iloku
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.1:
+        non_striker: J Mbabazi
+        bowler: AK Bangura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Iloku
+    - 1.2:
+        non_striker: J Mbabazi
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 1.3:
+        non_striker: J Mbabazi
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 1.4:
+        non_striker: J Mbabazi
+        bowler: AK Bangura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Iloku
+    - 1.5:
+        non_striker: J Mbabazi
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 1.6:
+        non_striker: E Iloku
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 1.7:
+        non_striker: E Iloku
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 1.8:
+        non_striker: E Iloku
+        bowler: AK Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 2.1:
+        non_striker: E Iloku
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 2.2:
+        non_striker: E Iloku
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 2.3:
+        non_striker: E Iloku
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 2.4:
+        non_striker: E Iloku
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 2.5:
+        non_striker: E Iloku
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 2.6:
+        non_striker: J Mbabazi
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Iloku
+    - 3.1:
+        non_striker: E Iloku
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 3.2:
+        non_striker: E Iloku
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 3.3:
+        non_striker: J Mbabazi
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 3.4:
+        non_striker: E Iloku
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 3.5:
+        non_striker: E Iloku
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 3.6:
+        non_striker: J Mbabazi
+        bowler: L Bull
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Iloku
+    - 4.1:
+        non_striker: E Iloku
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 4.2:
+        non_striker: J Mbabazi
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 4.3:
+        non_striker: J Mbabazi
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Iloku
+    - 4.4:
+        non_striker: J Mbabazi
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Iloku
+    - 4.5:
+        non_striker: E Iloku
+        bowler: C Bull
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi

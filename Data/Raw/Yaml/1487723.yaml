@@ -1,0 +1,1911 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2025-06-11'
+  gender: female
+  match_type: T20
+  match_type_number: 2361
+  outcome:
+    winner: Brazil
+    by:
+      runs: 112
+  overs: 20
+  player_of_match:
+  - AC Sabino
+  players:
+    Brazil:
+    - LV Boas
+    - L Agatha
+    - AC Sabino
+    - RMAM Avery
+    - EC Muller
+    - M Artur
+    - L Cardoso
+    - L Moises
+    - M Ribeiro
+    - MB dos Santos
+    - CS Nascimento
+    Cameroon:
+    - MLN Sissako
+    - B Waluma
+    - MSN Ekani
+    - CSN Mbelel
+    - EGS Kana
+    - BMA Mbida
+    - JAN Ngono
+    - MFD Douma
+    - E Guehoada
+    - AAM Eliane
+    - O Ranedoumoun
+  registry:
+    people:
+      AAM Eliane: ecc4562b
+      AC Sabino: dd45b04b
+      B Waluma: fb56dda6
+      BMA Mbida: e3c23cef
+      CS Nascimento: df997334
+      CSN Mbelel: 1669ba8a
+      E Guehoada: 8c03f3b8
+      EC Muller: e1461e39
+      EGS Kana: 8a91d0f1
+      ET Dube: 4c0891bc
+      F Mutizwa: d3e83eef
+      Gaston Niyibizi: eb99c84c
+      JAN Ngono: 0bc162c4
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      L Moises: b27f9716
+      LV Boas: 3a00d34f
+      M Artur: 400b36cd
+      M Ribeiro: 38424a4d
+      MB dos Santos: 8ba8dd7a
+      MFD Douma: 88bcd8da
+      MLG Silva: 3b62a6b4
+      MLN Sissako: 52a0e81d
+      MSN Ekani: 46c81920
+      O Ranedoumoun: 71ee8c8d
+      RMAM Avery: 4cf645c9
+      Vicky Prajapati: 8926ed4e
+  teams:
+  - Brazil
+  - Cameroon
+  toss:
+    winner: Cameroon
+    decision: field
+  umpires:
+  - Gaston Niyibizi
+  - Vicky Prajapati
+  venue: Gahanga International Cricket Stadium, Rwanda
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Agatha
+        batsman: LV Boas
+    - 0.2:
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Agatha
+        batsman: LV Boas
+    - 0.3:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 0.4:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          fielders:
+          - JAN Ngono
+          kind: caught
+    - 0.5:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 0.6:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 1.1:
+        non_striker: AC Sabino
+        bowler: MSN Ekani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 1.2:
+        non_striker: AC Sabino
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 1.3:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 1.4:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 1.5:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 1.6:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 1.7:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 1.8:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 2.1:
+        non_striker: AC Sabino
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.2:
+        non_striker: AC Sabino
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 2.3:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 2.4:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 2.5:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 2.6:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 3.1:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 3.2:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 3.3:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 3.4:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 3.5:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 3.6:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 4.1:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 4.2:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 4.3:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 4.4:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 4.5:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 4.6:
+        non_striker: AC Sabino
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 4.7:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Sabino
+    - 5.1:
+        non_striker: LV Boas
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 5.2:
+        non_striker: LV Boas
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 5.3:
+        non_striker: LV Boas
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 5.4:
+        non_striker: AC Sabino
+        bowler: MFD Douma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: LV Boas
+    - 5.5:
+        non_striker: AC Sabino
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 5.6:
+        non_striker: AC Sabino
+        bowler: MFD Douma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 5.7:
+        non_striker: AC Sabino
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 6.1:
+        non_striker: LV Boas
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 6.2:
+        non_striker: LV Boas
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 6.3:
+        non_striker: LV Boas
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 6.4:
+        non_striker: LV Boas
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 6.5:
+        non_striker: AC Sabino
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 6.6:
+        non_striker: AC Sabino
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 6.7:
+        non_striker: AC Sabino
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 7.1:
+        non_striker: AC Sabino
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 7.2:
+        non_striker: AC Sabino
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 7.3:
+        non_striker: LV Boas
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 7.4:
+        non_striker: LV Boas
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Sabino
+    - 7.5:
+        non_striker: LV Boas
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Sabino
+    - 7.6:
+        non_striker: LV Boas
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+        wicket:
+          player_out: AC Sabino
+          kind: lbw
+    - 8.1:
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RMAM Avery
+        batsman: LV Boas
+    - 8.2:
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RMAM Avery
+        batsman: LV Boas
+    - 8.3:
+        non_striker: LV Boas
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 8.4:
+        non_striker: RMAM Avery
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 8.5:
+        non_striker: LV Boas
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 8.6:
+        non_striker: RMAM Avery
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 9.1:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 9.2:
+        non_striker: RMAM Avery
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 9.3:
+        non_striker: RMAM Avery
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 9.4:
+        non_striker: RMAM Avery
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 9.5:
+        non_striker: RMAM Avery
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 9.6:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 10.1:
+        non_striker: RMAM Avery
+        bowler: AAM Eliane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 10.2:
+        non_striker: RMAM Avery
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 10.3:
+        non_striker: RMAM Avery
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 10.4:
+        non_striker: LV Boas
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 10.5:
+        non_striker: LV Boas
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 10.6:
+        non_striker: RMAM Avery
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 10.7:
+        non_striker: RMAM Avery
+        bowler: AAM Eliane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 10.8:
+        non_striker: RMAM Avery
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 11.1:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 11.2:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 11.3:
+        non_striker: RMAM Avery
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 11.4:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 11.5:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          fielders:
+          - MLN Sissako
+          - AAM Eliane
+          kind: run out
+    - 11.6:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Muller
+    - 12.1:
+        non_striker: LV Boas
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 12.2:
+        non_striker: LV Boas
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EC Muller
+    - 12.3:
+        non_striker: LV Boas
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EC Muller
+    - 12.4:
+        non_striker: LV Boas
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+        wicket:
+          player_out: EC Muller
+          fielders:
+          - MLN Sissako
+          kind: caught
+    - 12.5:
+        non_striker: LV Boas
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+    - 12.6:
+        non_striker: LV Boas
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Artur
+    - 13.1:
+        non_striker: M Artur
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 13.2:
+        non_striker: M Artur
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 13.3:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Artur
+    - 13.4:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Artur
+    - 13.5:
+        non_striker: LV Boas
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Artur
+    - 13.6:
+        non_striker: M Artur
+        bowler: O Ranedoumoun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 14.1:
+        non_striker: M Artur
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 14.2:
+        non_striker: M Artur
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 14.3:
+        non_striker: M Artur
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 14.4:
+        non_striker: M Artur
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 14.5:
+        non_striker: M Artur
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 14.6:
+        non_striker: M Artur
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 14.7:
+        non_striker: M Artur
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 15.1:
+        non_striker: M Artur
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 15.2:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Artur
+    - 15.3:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Artur
+    - 15.4:
+        non_striker: M Artur
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 15.5:
+        non_striker: M Artur
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 15.6:
+        non_striker: LV Boas
+        bowler: E Guehoada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+        wicket:
+          player_out: M Artur
+          kind: bowled
+    - 16.1:
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Cardoso
+        batsman: LV Boas
+    - 16.2:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 16.3:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 16.4:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 16.5:
+        non_striker: LV Boas
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 16.6:
+        non_striker: L Cardoso
+        bowler: MSN Ekani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 17.1:
+        non_striker: LV Boas
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 17.2:
+        non_striker: L Cardoso
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 17.3:
+        non_striker: LV Boas
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 17.4:
+        non_striker: L Cardoso
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+        wicket:
+          player_out: LV Boas
+          kind: bowled
+    - 17.5:
+        non_striker: L Cardoso
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moises
+    - 17.6:
+        non_striker: L Cardoso
+        bowler: MFD Douma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Moises
+    - 18.1:
+        non_striker: L Moises
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 18.2:
+        non_striker: L Moises
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 18.3:
+        non_striker: L Cardoso
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moises
+    - 18.4:
+        non_striker: L Moises
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cardoso
+    - 18.5:
+        non_striker: L Cardoso
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Moises
+    - 18.6:
+        non_striker: L Cardoso
+        bowler: AAM Eliane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moises
+    - 19.1:
+        non_striker: L Cardoso
+        bowler: MLN Sissako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moises
+    - 19.2:
+        non_striker: L Moises
+        bowler: MLN Sissako
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 19.3:
+        non_striker: L Moises
+        bowler: MLN Sissako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 19.4:
+        non_striker: L Moises
+        bowler: MLN Sissako
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cardoso
+    - 19.5:
+        non_striker: L Moises
+        bowler: MLN Sissako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 19.6:
+        non_striker: L Moises
+        bowler: MLN Sissako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+        wicket:
+          player_out: L Cardoso
+          kind: bowled
+- 2nd innings:
+    team: Cameroon
+    absent_hurt:
+    - O Ranedoumoun
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Waluma
+        batsman: MLN Sissako
+    - 0.2:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Waluma
+        batsman: MLN Sissako
+    - 0.3:
+        non_striker: B Waluma
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+        wicket:
+          player_out: MLN Sissako
+          kind: lbw
+    - 0.4:
+        non_striker: B Waluma
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 0.5:
+        non_striker: B Waluma
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 0.6:
+        non_striker: B Waluma
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 1.1:
+        non_striker: MSN Ekani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 1.2:
+        non_striker: MSN Ekani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Waluma
+    - 1.3:
+        non_striker: MSN Ekani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 1.4:
+        non_striker: MSN Ekani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Waluma
+    - 1.5:
+        non_striker: B Waluma
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 1.6:
+        non_striker: B Waluma
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 2.1:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 2.2:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 2.3:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+        wicket:
+          player_out: B Waluma
+          kind: bowled
+    - 2.4:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 2.5:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 2.6:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 3.1:
+        non_striker: CSN Mbelel
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 3.2:
+        non_striker: CSN Mbelel
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 3.3:
+        non_striker: CSN Mbelel
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSN Ekani
+    - 3.4:
+        non_striker: MSN Ekani
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CSN Mbelel
+    - 3.5:
+        non_striker: CSN Mbelel
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 3.6:
+        non_striker: CSN Mbelel
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 4.1:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CSN Mbelel
+    - 4.2:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 4.3:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 4.4:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 4.5:
+        non_striker: MSN Ekani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+        wicket:
+          player_out: MSN Ekani
+          fielders:
+          - L Cardoso
+          - MB dos Santos
+          kind: run out
+    - 4.6:
+        non_striker: CSN Mbelel
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+        wicket:
+          player_out: EGS Kana
+          fielders:
+          - RMAM Avery
+          kind: caught
+    - 5.1:
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: CSN Mbelel
+    - 5.2:
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: CSN Mbelel
+    - 5.3:
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: CSN Mbelel
+    - 5.4:
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: CSN Mbelel
+    - 5.5:
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BMA Mbida
+        batsman: CSN Mbelel
+    - 5.6:
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BMA Mbida
+        batsman: CSN Mbelel
+    - 5.7:
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BMA Mbida
+        batsman: CSN Mbelel
+    - 5.8:
+        non_striker: BMA Mbida
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 6.1:
+        non_striker: CSN Mbelel
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 6.2:
+        non_striker: CSN Mbelel
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 6.3:
+        non_striker: CSN Mbelel
+        bowler: M Ribeiro
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: BMA Mbida
+    - 6.4:
+        non_striker: BMA Mbida
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 6.5:
+        non_striker: BMA Mbida
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 6.6:
+        non_striker: BMA Mbida
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CSN Mbelel
+    - 6.7:
+        non_striker: CSN Mbelel
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BMA Mbida
+    - 7.1:
+        non_striker: CSN Mbelel
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BMA Mbida
+    - 7.2:
+        non_striker: CSN Mbelel
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BMA Mbida
+    - 7.3:
+        non_striker: CSN Mbelel
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BMA Mbida
+    - 7.4:
+        non_striker: CSN Mbelel
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 7.5:
+        non_striker: BMA Mbida
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+    - 7.6:
+        non_striker: BMA Mbida
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CSN Mbelel
+    - 7.7:
+        non_striker: CSN Mbelel
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 8.1:
+        non_striker: BMA Mbida
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CSN Mbelel
+    - 8.2:
+        non_striker: CSN Mbelel
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 8.3:
+        non_striker: CSN Mbelel
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 8.4:
+        non_striker: CSN Mbelel
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 8.5:
+        non_striker: CSN Mbelel
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BMA Mbida
+    - 8.6:
+        non_striker: CSN Mbelel
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 9.1:
+        non_striker: BMA Mbida
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CSN Mbelel
+        wicket:
+          player_out: CSN Mbelel
+          kind: bowled
+    - 9.2:
+        non_striker: BMA Mbida
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 9.3:
+        non_striker: BMA Mbida
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JAN Ngono
+    - 9.4:
+        non_striker: BMA Mbida
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 9.5:
+        non_striker: BMA Mbida
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 9.6:
+        non_striker: BMA Mbida
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+    - 10.1:
+        non_striker: JAN Ngono
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 10.2:
+        non_striker: JAN Ngono
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 10.3:
+        non_striker: BMA Mbida
+        bowler: M Artur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JAN Ngono
+    - 10.4:
+        non_striker: BMA Mbida
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAN Ngono
+    - 10.5:
+        non_striker: JAN Ngono
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+    - 10.6:
+        non_striker: JAN Ngono
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 10.7:
+        non_striker: BMA Mbida
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAN Ngono
+        wicket:
+          player_out: JAN Ngono
+          kind: bowled
+    - 11.1:
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MFD Douma
+        batsman: BMA Mbida
+    - 11.2:
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MFD Douma
+        batsman: BMA Mbida
+    - 11.3:
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MFD Douma
+        batsman: BMA Mbida
+    - 11.4:
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MFD Douma
+        batsman: BMA Mbida
+    - 11.5:
+        non_striker: BMA Mbida
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFD Douma
+    - 11.6:
+        non_striker: BMA Mbida
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFD Douma
+        wicket:
+          player_out: MFD Douma
+          fielders:
+          - MLG Silva (sub)
+          kind: caught
+    - 12.1:
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Guehoada
+        batsman: BMA Mbida
+    - 12.2:
+        non_striker: BMA Mbida
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+    - 12.3:
+        non_striker: BMA Mbida
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Guehoada
+        wicket:
+          player_out: E Guehoada
+          fielders:
+          - CS Nascimento
+          kind: caught
+    - 12.4:
+        non_striker: BMA Mbida
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAM Eliane
+    - 12.5:
+        non_striker: BMA Mbida
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAM Eliane
+    - 12.6:
+        non_striker: BMA Mbida
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAM Eliane
+    - 13.1:
+        non_striker: AAM Eliane
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMA Mbida
+    - 13.2:
+        non_striker: BMA Mbida
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAM Eliane
+    - 13.3:
+        non_striker: BMA Mbida
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAM Eliane
+    - 13.4:
+        non_striker: AAM Eliane
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+        wicket:
+          player_out: BMA Mbida
+          kind: bowled

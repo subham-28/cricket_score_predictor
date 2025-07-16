@@ -1,0 +1,2309 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Port  Soif
+  dates:
+  - '2024-08-22'
+  gender: male
+  match_type: T20
+  match_type_number: 2792
+  outcome:
+    winner: Spain
+    by:
+      runs: 1
+  overs: 20
+  player_of_match:
+  - Sazib Bhuiyan
+  players:
+    Spain:
+    - Mohammad Ihsan
+    - Muhammad Yasin
+    - Shafat Ali Syed
+    - Yasir Ali
+    - D Doyle-Calle
+    - Hamza Dar
+    - A Davidson Soler
+    - C Munoz-Mills
+    - LA Burns
+    - SJ Hughes-Pinan
+    - Raja Adeel
+    Czech Republic:
+    - Dylan Steyn
+    - Sazib Bhuiyan
+    - Ritik Tomar
+    - M Worndl
+    - Divyendra Singh
+    - M Vandrasi
+    - S Grover
+    - Naveed Ahmed
+    - Abul Farhad
+    - N Tyagi
+    - S Chaudhary
+  registry:
+    people:
+      A Davidson Soler: 524943f1
+      AY Harris: 90d95b82
+      Abul Farhad: f7cb7c3a
+      C Munoz-Mills: 17bc032c
+      D Doyle-Calle: 74be2916
+      Divyendra Singh: 7f122e0b
+      Dylan Steyn: ff2b190e
+      GH Pienaar: 3516e46b
+      Hamza Dar: 557550a4
+      LA Burns: 5b616bf0
+      M Vandrasi: e82543d5
+      M Worndl: e8d1c172
+      Mohammad Ihsan: 510e33d3
+      Muhammad Yasin: 57888f3c
+      N Tyagi: 53984f75
+      Naveed Ahmed: 87609cbb
+      RJ Veillard: 0a8ebf05
+      Raja Adeel: 7ee25c46
+      Ritik Tomar: 6de51a8e
+      S Chaudhary: 24c1844e
+      S Grover: c2a6e61f
+      S Wood: fe38aa0b
+      SJ Hughes-Pinan: ca72ea31
+      Sazib Bhuiyan: e5464794
+      Shafat Ali Syed: 6d36cb93
+      Yasir Ali: '79209272'
+  teams:
+  - Spain
+  - Czech Republic
+  toss:
+    winner: Czech Republic
+    decision: field
+  umpires:
+  - AY Harris
+  - S Wood
+  venue: Guernsey Rovers Athletic Club Ground, Port Soif
+innings:
+- 1st innings:
+    team: Spain
+    deliveries:
+    - 0.1:
+        bowler: N Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Muhammad Yasin
+        batsman: Mohammad Ihsan
+    - 0.2:
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Yasin
+        batsman: Mohammad Ihsan
+    - 0.3:
+        non_striker: Mohammad Ihsan
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Yasin
+    - 0.4:
+        non_striker: Mohammad Ihsan
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Yasin
+    - 0.5:
+        non_striker: Muhammad Yasin
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Ihsan
+    - 0.6:
+        non_striker: Muhammad Yasin
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ihsan
+    - 0.7:
+        non_striker: Muhammad Yasin
+        bowler: N Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Ihsan
+    - 0.8:
+        non_striker: Muhammad Yasin
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ihsan
+    - 1.1:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Yasin
+        wicket:
+          player_out: Muhammad Yasin
+          fielders:
+          - Divyendra Singh
+          kind: caught
+    - 1.2:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafat Ali Syed
+    - 1.3:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafat Ali Syed
+    - 1.4:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Shafat Ali Syed
+    - 1.5:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafat Ali Syed
+    - 1.6:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafat Ali Syed
+    - 1.7:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Shafat Ali Syed
+    - 2.1:
+        non_striker: Shafat Ali Syed
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Ihsan
+    - 2.2:
+        non_striker: Shafat Ali Syed
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ihsan
+    - 2.3:
+        non_striker: Shafat Ali Syed
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ihsan
+    - 2.4:
+        non_striker: Mohammad Ihsan
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafat Ali Syed
+    - 2.5:
+        non_striker: Shafat Ali Syed
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Ihsan
+    - 2.6:
+        non_striker: Shafat Ali Syed
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Ihsan
+    - 3.1:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafat Ali Syed
+    - 3.2:
+        non_striker: Shafat Ali Syed
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ihsan
+    - 3.3:
+        non_striker: Shafat Ali Syed
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Ihsan
+    - 3.4:
+        non_striker: Shafat Ali Syed
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ihsan
+    - 3.5:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafat Ali Syed
+    - 3.6:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafat Ali Syed
+        wicket:
+          player_out: Shafat Ali Syed
+          fielders:
+          - Dylan Steyn
+          kind: caught
+    - 4.1:
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yasir Ali
+        batsman: Mohammad Ihsan
+    - 4.2:
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yasir Ali
+        batsman: Mohammad Ihsan
+    - 4.3:
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yasir Ali
+        batsman: Mohammad Ihsan
+    - 4.4:
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yasir Ali
+        batsman: Mohammad Ihsan
+    - 4.5:
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Yasir Ali
+        batsman: Mohammad Ihsan
+    - 4.6:
+        non_striker: Mohammad Ihsan
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 5.1:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 5.2:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 5.3:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 5.4:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasir Ali
+    - 5.5:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 5.6:
+        non_striker: Mohammad Ihsan
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 5.7:
+        non_striker: Yasir Ali
+        bowler: S Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ihsan
+        wicket:
+          player_out: Mohammad Ihsan
+          fielders:
+          - Dylan Steyn
+          kind: caught
+    - 6.1:
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Doyle-Calle
+        batsman: Yasir Ali
+    - 6.2:
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Doyle-Calle
+        batsman: Yasir Ali
+    - 6.3:
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Doyle-Calle
+        batsman: Yasir Ali
+    - 6.4:
+        non_striker: D Doyle-Calle
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+        wicket:
+          player_out: Yasir Ali
+          kind: bowled
+    - 6.5:
+        non_striker: D Doyle-Calle
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Dar
+    - 6.6:
+        non_striker: Hamza Dar
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 6.7:
+        non_striker: D Doyle-Calle
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Dar
+    - 7.1:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hamza Dar
+    - 7.2:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Dar
+    - 7.3:
+        non_striker: Hamza Dar
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 7.4:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Dar
+    - 7.5:
+        non_striker: Hamza Dar
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Doyle-Calle
+    - 7.6:
+        non_striker: Hamza Dar
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 8.1:
+        non_striker: Hamza Dar
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 8.2:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+    - 8.3:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+    - 8.4:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+    - 8.5:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Dar
+    - 8.6:
+        non_striker: Hamza Dar
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 9.1:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+    - 9.2:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hamza Dar
+    - 9.3:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Dar
+    - 9.4:
+        non_striker: Hamza Dar
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 9.5:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Dar
+    - 9.6:
+        non_striker: Hamza Dar
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 10.1:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Hamza Dar
+    - 10.2:
+        non_striker: Hamza Dar
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 10.3:
+        non_striker: Hamza Dar
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 10.4:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+    - 10.5:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+        wicket:
+          player_out: Hamza Dar
+          fielders:
+          - Divyendra Singh
+          kind: caught
+    - 10.6:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Davidson Soler
+    - 10.7:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson Soler
+    - 11.1:
+        non_striker: A Davidson Soler
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 11.2:
+        non_striker: A Davidson Soler
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 11.3:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson Soler
+    - 11.4:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 11.5:
+        non_striker: A Davidson Soler
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 11.6:
+        non_striker: D Doyle-Calle
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Davidson Soler
+    - 12.1:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 12.2:
+        non_striker: D Doyle-Calle
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson Soler
+    - 12.3:
+        non_striker: D Doyle-Calle
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson Soler
+    - 12.4:
+        non_striker: D Doyle-Calle
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 12.5:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 12.6:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 13.1:
+        non_striker: A Davidson Soler
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 13.2:
+        non_striker: A Davidson Soler
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 13.3:
+        non_striker: A Davidson Soler
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Doyle-Calle
+    - 13.4:
+        non_striker: A Davidson Soler
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Doyle-Calle
+    - 13.5:
+        non_striker: A Davidson Soler
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Doyle-Calle
+    - 13.6:
+        non_striker: A Davidson Soler
+        bowler: M Vandrasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 14.1:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Doyle-Calle
+    - 14.2:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 14.3:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 14.4:
+        non_striker: D Doyle-Calle
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 14.5:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 14.6:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 15.1:
+        non_striker: D Doyle-Calle
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Davidson Soler
+    - 15.2:
+        non_striker: D Doyle-Calle
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson Soler
+    - 15.3:
+        non_striker: D Doyle-Calle
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 15.4:
+        non_striker: A Davidson Soler
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 15.5:
+        non_striker: D Doyle-Calle
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 15.6:
+        non_striker: A Davidson Soler
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Doyle-Calle
+    - 16.1:
+        non_striker: D Doyle-Calle
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 16.2:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 16.3:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Doyle-Calle
+    - 16.4:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 16.5:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 16.6:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Doyle-Calle
+    - 16.7:
+        non_striker: A Davidson Soler
+        bowler: Naveed Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 17.1:
+        non_striker: A Davidson Soler
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 17.2:
+        non_striker: A Davidson Soler
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 17.3:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Davidson Soler
+    - 17.4:
+        non_striker: D Doyle-Calle
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 17.5:
+        non_striker: A Davidson Soler
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Doyle-Calle
+    - 17.6:
+        non_striker: A Davidson Soler
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 18.1:
+        non_striker: A Davidson Soler
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Doyle-Calle
+    - 18.2:
+        non_striker: A Davidson Soler
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 18.3:
+        non_striker: A Davidson Soler
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+        wicket:
+          player_out: D Doyle-Calle
+          fielders:
+          - Ritik Tomar
+          kind: caught
+    - 18.4:
+        non_striker: A Davidson Soler
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+        wicket:
+          player_out: C Munoz-Mills
+          fielders:
+          - M Vandrasi
+          kind: caught
+    - 18.5:
+        non_striker: A Davidson Soler
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Burns
+    - 18.6:
+        non_striker: A Davidson Soler
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Burns
+    - 19.1:
+        non_striker: LA Burns
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 19.2:
+        non_striker: A Davidson Soler
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Burns
+        wicket:
+          player_out: LA Burns
+          fielders:
+          - M Vandrasi
+          kind: caught
+    - 19.3:
+        non_striker: A Davidson Soler
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Hughes-Pinan
+    - 19.4:
+        non_striker: SJ Hughes-Pinan
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson Soler
+        wicket:
+          player_out: A Davidson Soler
+          fielders:
+          - Dylan Steyn
+          kind: caught
+    - 19.5:
+        non_striker: SJ Hughes-Pinan
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Adeel
+    - 19.6:
+        non_striker: SJ Hughes-Pinan
+        bowler: Abul Farhad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Raja Adeel
+- 2nd innings:
+    team: Czech Republic
+    deliveries:
+    - 0.1:
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sazib Bhuiyan
+        batsman: Dylan Steyn
+    - 0.2:
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sazib Bhuiyan
+        batsman: Dylan Steyn
+    - 0.3:
+        non_striker: Dylan Steyn
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+    - 0.4:
+        non_striker: Dylan Steyn
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sazib Bhuiyan
+    - 0.5:
+        non_striker: Dylan Steyn
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazib Bhuiyan
+    - 0.6:
+        non_striker: Dylan Steyn
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+    - 0.7:
+        non_striker: Dylan Steyn
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+    - 1.1:
+        non_striker: Sazib Bhuiyan
+        bowler: Raja Adeel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Dylan Steyn
+    - 1.2:
+        non_striker: Dylan Steyn
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazib Bhuiyan
+    - 1.3:
+        non_striker: Dylan Steyn
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sazib Bhuiyan
+    - 1.4:
+        non_striker: Sazib Bhuiyan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dylan Steyn
+    - 1.5:
+        non_striker: Sazib Bhuiyan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dylan Steyn
+    - 1.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dylan Steyn
+    - 2.1:
+        non_striker: Dylan Steyn
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+    - 2.2:
+        non_striker: Dylan Steyn
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+    - 2.3:
+        non_striker: Dylan Steyn
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sazib Bhuiyan
+    - 2.4:
+        non_striker: Sazib Bhuiyan
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dylan Steyn
+        wicket:
+          player_out: Dylan Steyn
+          kind: bowled
+    - 2.5:
+        non_striker: Sazib Bhuiyan
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritik Tomar
+    - 2.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ritik Tomar
+    - 2.7:
+        non_striker: Sazib Bhuiyan
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritik Tomar
+    - 3.1:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazib Bhuiyan
+    - 3.2:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sazib Bhuiyan
+    - 3.3:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+    - 3.4:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sazib Bhuiyan
+    - 3.5:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sazib Bhuiyan
+    - 3.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritik Tomar
+    - 3.7:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sazib Bhuiyan
+    - 4.1:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+    - 4.2:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazib Bhuiyan
+    - 4.3:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazib Bhuiyan
+    - 4.4:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+    - 4.5:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sazib Bhuiyan
+    - 4.6:
+        non_striker: Sazib Bhuiyan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritik Tomar
+    - 5.1:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sazib Bhuiyan
+    - 5.2:
+        non_striker: Sazib Bhuiyan
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritik Tomar
+    - 5.3:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazib Bhuiyan
+    - 5.4:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+    - 5.5:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazib Bhuiyan
+    - 5.6:
+        non_striker: Ritik Tomar
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazib Bhuiyan
+        wicket:
+          player_out: Sazib Bhuiyan
+          fielders:
+          - A Davidson Soler
+          kind: caught
+    - 6.1:
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Worndl
+        batsman: Ritik Tomar
+    - 6.2:
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Worndl
+        batsman: Ritik Tomar
+    - 6.3:
+        non_striker: Ritik Tomar
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Worndl
+    - 6.4:
+        non_striker: Ritik Tomar
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Worndl
+        wicket:
+          player_out: M Worndl
+          fielders:
+          - A Davidson Soler
+          kind: caught
+    - 6.5:
+        non_striker: Ritik Tomar
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Divyendra Singh
+    - 6.6:
+        non_striker: Ritik Tomar
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Divyendra Singh
+    - 7.1:
+        non_striker: Ritik Tomar
+        bowler: LA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Divyendra Singh
+    - 7.2:
+        non_striker: Ritik Tomar
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Divyendra Singh
+    - 7.3:
+        non_striker: Ritik Tomar
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Divyendra Singh
+    - 7.4:
+        non_striker: Ritik Tomar
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Divyendra Singh
+    - 7.5:
+        non_striker: Divyendra Singh
+        bowler: LA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ritik Tomar
+    - 7.6:
+        non_striker: Divyendra Singh
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritik Tomar
+    - 7.7:
+        non_striker: Divyendra Singh
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritik Tomar
+    - 7.8:
+        non_striker: Divyendra Singh
+        bowler: LA Burns
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Ritik Tomar
+    - 7.9:
+        non_striker: Divyendra Singh
+        bowler: LA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ritik Tomar
+    - 7.10:
+        non_striker: Divyendra Singh
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritik Tomar
+    - 8.1:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Divyendra Singh
+    - 8.2:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Divyendra Singh
+    - 8.3:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Divyendra Singh
+    - 8.4:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Divyendra Singh
+    - 8.5:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Divyendra Singh
+    - 8.6:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Divyendra Singh
+        wicket:
+          player_out: Divyendra Singh
+          fielders:
+          - A Davidson Soler
+          kind: caught
+    - 9.1:
+        bowler: LA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Vandrasi
+        batsman: Ritik Tomar
+    - 9.2:
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Vandrasi
+        batsman: Ritik Tomar
+    - 9.3:
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Vandrasi
+        batsman: Ritik Tomar
+    - 9.4:
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Vandrasi
+        batsman: Ritik Tomar
+    - 9.5:
+        non_striker: Ritik Tomar
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 9.6:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritik Tomar
+    - 9.7:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritik Tomar
+    - 10.1:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vandrasi
+    - 10.2:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 10.3:
+        non_striker: M Vandrasi
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritik Tomar
+    - 10.4:
+        non_striker: M Vandrasi
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritik Tomar
+    - 10.5:
+        non_striker: M Vandrasi
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritik Tomar
+    - 10.6:
+        non_striker: Ritik Tomar
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 11.1:
+        non_striker: Ritik Tomar
+        bowler: LA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vandrasi
+    - 11.2:
+        non_striker: Ritik Tomar
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 11.3:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritik Tomar
+    - 11.4:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritik Tomar
+        wicket:
+          player_out: Ritik Tomar
+          fielders:
+          - Yasir Ali
+          kind: caught
+    - 11.5:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Grover
+    - 11.6:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Grover
+    - 11.7:
+        non_striker: S Grover
+        bowler: LA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vandrasi
+    - 11.8:
+        non_striker: S Grover
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 12.1:
+        non_striker: S Grover
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vandrasi
+    - 12.2:
+        non_striker: S Grover
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 12.3:
+        non_striker: M Vandrasi
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Grover
+    - 12.4:
+        non_striker: S Grover
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Vandrasi
+    - 12.5:
+        non_striker: S Grover
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vandrasi
+    - 12.6:
+        non_striker: S Grover
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 13.1:
+        non_striker: S Grover
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 13.2:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Grover
+    - 13.3:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Grover
+    - 13.4:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Grover
+    - 13.5:
+        non_striker: M Vandrasi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Grover
+    - 13.6:
+        non_striker: S Grover
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 14.1:
+        non_striker: S Grover
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 14.2:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Grover
+    - 14.3:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Grover
+    - 14.4:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Grover
+    - 14.5:
+        non_striker: S Grover
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vandrasi
+    - 14.6:
+        non_striker: S Grover
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Vandrasi
+    - 15.1:
+        non_striker: M Vandrasi
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Grover
+    - 15.2:
+        non_striker: M Vandrasi
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Grover
+    - 15.3:
+        non_striker: M Vandrasi
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Grover
+    - 15.4:
+        non_striker: M Vandrasi
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Grover
+    - 15.5:
+        non_striker: M Vandrasi
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Grover
+    - 15.6:
+        non_striker: M Vandrasi
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Grover
+    - 15.7:
+        non_striker: M Vandrasi
+        bowler: Shafat Ali Syed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Grover
+    - 16.1:
+        non_striker: S Grover
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vandrasi
+    - 16.2:
+        non_striker: S Grover
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Vandrasi
+    - 16.3:
+        non_striker: S Grover
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vandrasi
+    - 16.4:
+        non_striker: S Grover
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 16.5:
+        non_striker: M Vandrasi
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Grover
+    - 16.6:
+        non_striker: S Grover
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Vandrasi
+    - 16.7:
+        non_striker: S Grover
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vandrasi
+    - 17.1:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Grover
+    - 17.2:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Grover
+    - 17.3:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Grover
+    - 17.4:
+        non_striker: S Grover
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vandrasi
+    - 17.5:
+        non_striker: S Grover
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 17.6:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Grover
+    - 17.7:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Grover
+    - 18.1:
+        non_striker: S Grover
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 18.2:
+        non_striker: S Grover
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 18.3:
+        non_striker: M Vandrasi
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Grover
+    - 18.4:
+        non_striker: M Vandrasi
+        bowler: Hamza Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Grover
+    - 18.5:
+        non_striker: M Vandrasi
+        bowler: Hamza Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Grover
+    - 18.6:
+        non_striker: S Grover
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 18.7:
+        non_striker: M Vandrasi
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Grover
+    - 19.1:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Grover
+    - 19.2:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Grover
+    - 19.3:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Grover
+    - 19.4:
+        non_striker: S Grover
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vandrasi
+    - 19.5:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Grover
+        wicket:
+          player_out: S Grover
+          kind: bowled
+    - 19.6:
+        non_striker: M Vandrasi
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveed Ahmed
+    - 19.7:
+        non_striker: Naveed Ahmed
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Vandrasi

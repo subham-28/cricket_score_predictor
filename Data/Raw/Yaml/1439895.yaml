@@ -1,0 +1,2218 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hyderabad
+  dates:
+  - '2024-10-12'
+  gender: male
+  match_type: T20
+  match_type_number: 2904
+  outcome:
+    winner: India
+    by:
+      runs: 133
+  overs: 20
+  player_of_match:
+  - SV Samson
+  players:
+    India:
+    - SV Samson
+    - Abhishek Sharma
+    - SA Yadav
+    - R Parag
+    - HH Pandya
+    - RK Singh
+    - Nithish Kumar Reddy
+    - Washington Sundar
+    - CV Varun
+    - MP Yadav
+    - Ravi Bishnoi
+    Bangladesh:
+    - Parvez Hossain Emon
+    - Tanzid Hasan
+    - Nazmul Hossain Shanto
+    - Liton Das
+    - Towhid Hridoy
+    - Mahmudullah
+    - Mahedi Hasan
+    - Rishad Hossain
+    - Tanzim Hasan Sakib
+    - Taskin Ahmed
+    - Mustafizur Rahman
+  registry:
+    people:
+      Abhishek Sharma: f29185a1
+      CV Varun: 5b7ab5a9
+      HH Pandya: dbe50b21
+      J Madanagopal: 8275b04a
+      JJ Crowe: 2e760301
+      KN Ananthapadmanabhan: 3144063a
+      Liton Das: 0404d43c
+      MP Yadav: b1ad996b
+      Mahedi Hasan: 9dad0f2e
+      Mahmudullah: bf1d7d3e
+      Mustafizur Rahman: 0a8fce53
+      Nazmul Hossain Shanto: 1274d7ab
+      Nithish Kumar Reddy: aad0c365
+      Parvez Hossain Emon: 489aaf0a
+      R Pandit: 8a604384
+      R Parag: 04a418e8
+      RK Singh: 0a509d6b
+      Ravi Bishnoi: df064e1a
+      Rishad Hossain: 5935d694
+      SA Yadav: 271f83cd
+      SV Samson: a4cc73aa
+      Tanzid Hasan: 80fe764d
+      Tanzim Hasan Sakib: 0b0cc297
+      Taskin Ahmed: ef18b66e
+      Tilak Varma: b0482a1d
+      Towhid Hridoy: 9e52a414
+      VK Sharma: a7a49df4
+      Washington Sundar: f19ccfad
+  teams:
+  - India
+  - Bangladesh
+  toss:
+    winner: India
+    decision: bat
+  umpires:
+  - KN Ananthapadmanabhan
+  - R Pandit
+  venue: Rajiv Gandhi International Stadium, Uppal, Hyderabad
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Abhishek Sharma
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.2:
+        non_striker: Abhishek Sharma
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Samson
+    - 0.3:
+        non_striker: Abhishek Sharma
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 0.4:
+        non_striker: SV Samson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 0.5:
+        non_striker: SV Samson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 0.6:
+        non_striker: SV Samson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.1:
+        non_striker: Abhishek Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.2:
+        non_striker: Abhishek Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.3:
+        non_striker: Abhishek Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 1.4:
+        non_striker: Abhishek Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 1.5:
+        non_striker: Abhishek Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 1.6:
+        non_striker: Abhishek Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 2.1:
+        non_striker: SV Samson
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - Mahedi Hasan
+          kind: caught
+    - 2.2:
+        non_striker: SV Samson
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Yadav
+    - 2.3:
+        non_striker: SA Yadav
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 2.4:
+        non_striker: SV Samson
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 2.5:
+        non_striker: SV Samson
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 2.6:
+        non_striker: SV Samson
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 3.1:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 3.2:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 3.3:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 3.4:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 3.5:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 3.6:
+        non_striker: SV Samson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 4.1:
+        non_striker: SV Samson
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 4.2:
+        non_striker: SV Samson
+        bowler: Taskin Ahmed
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: SA Yadav
+    - 4.3:
+        non_striker: SV Samson
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Yadav
+    - 4.4:
+        non_striker: SA Yadav
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 4.5:
+        non_striker: SA Yadav
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 4.6:
+        non_striker: SV Samson
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 5.1:
+        non_striker: SA Yadav
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 5.2:
+        non_striker: SA Yadav
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 5.3:
+        non_striker: SV Samson
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 5.4:
+        non_striker: SV Samson
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 5.5:
+        non_striker: SV Samson
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 5.6:
+        non_striker: SV Samson
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 6.1:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 6.2:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 6.3:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 6.4:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 6.5:
+        non_striker: SV Samson
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 6.6:
+        non_striker: SV Samson
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.1:
+        non_striker: SV Samson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 7.2:
+        non_striker: SV Samson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.3:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 7.4:
+        non_striker: SV Samson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.5:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 7.6:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Samson
+    - 7.7:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SV Samson
+    - 8.1:
+        non_striker: SA Yadav
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 8.2:
+        non_striker: SV Samson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 8.3:
+        non_striker: SV Samson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.4:
+        non_striker: SA Yadav
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 8.5:
+        non_striker: SV Samson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.6:
+        non_striker: SA Yadav
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 9.1:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 9.2:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 9.3:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 9.4:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 9.5:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 9.6:
+        non_striker: SA Yadav
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 10.1:
+        non_striker: SV Samson
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.2:
+        non_striker: SA Yadav
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 10.3:
+        non_striker: SV Samson
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 10.4:
+        non_striker: SV Samson
+        bowler: Mahmudullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 10.5:
+        non_striker: SV Samson
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 10.6:
+        non_striker: SV Samson
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.7:
+        non_striker: SA Yadav
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Samson
+    - 11.1:
+        non_striker: SV Samson
+        bowler: Taskin Ahmed
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: SA Yadav
+    - 11.2:
+        non_striker: SV Samson
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 11.3:
+        non_striker: SV Samson
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 11.4:
+        non_striker: SV Samson
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 11.6:
+        non_striker: SA Yadav
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 11.7:
+        non_striker: SV Samson
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 12.1:
+        non_striker: SA Yadav
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 12.2:
+        non_striker: SA Yadav
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 12.3:
+        non_striker: SA Yadav
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 12.4:
+        non_striker: SA Yadav
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 12.5:
+        non_striker: SV Samson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.6:
+        non_striker: SA Yadav
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 13.1:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 13.2:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 13.3:
+        non_striker: SV Samson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.4:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          fielders:
+          - Mahedi Hasan
+          kind: caught
+    - 13.5:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 13.6:
+        non_striker: R Parag
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 14.1:
+        non_striker: SA Yadav
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 14.2:
+        non_striker: R Parag
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 14.3:
+        non_striker: R Parag
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - Rishad Hossain
+          kind: caught
+    - 14.4:
+        non_striker: R Parag
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.5:
+        non_striker: R Parag
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.6:
+        non_striker: HH Pandya
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 15.1:
+        non_striker: R Parag
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 15.2:
+        non_striker: R Parag
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 15.3:
+        non_striker: R Parag
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 15.4:
+        non_striker: R Parag
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 15.5:
+        non_striker: R Parag
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.6:
+        non_striker: HH Pandya
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 16.1:
+        non_striker: R Parag
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.2:
+        non_striker: HH Pandya
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 16.3:
+        non_striker: HH Pandya
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 16.4:
+        non_striker: HH Pandya
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 16.5:
+        non_striker: HH Pandya
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 16.6:
+        non_striker: R Parag
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.1:
+        non_striker: HH Pandya
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 17.2:
+        non_striker: R Parag
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 17.3:
+        non_striker: R Parag
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 17.4:
+        non_striker: HH Pandya
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 17.5:
+        non_striker: R Parag
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 17.6:
+        non_striker: R Parag
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 18.1:
+        non_striker: HH Pandya
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 18.2:
+        non_striker: HH Pandya
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: R Parag
+    - 18.3:
+        non_striker: R Parag
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 18.4:
+        non_striker: R Parag
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 18.5:
+        non_striker: HH Pandya
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+        wicket:
+          player_out: R Parag
+          fielders:
+          - Liton Das
+          kind: caught
+    - 18.6:
+        non_striker: HH Pandya
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RK Singh
+    - 18.7:
+        non_striker: HH Pandya
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 18.8:
+        non_striker: RK Singh
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 19.1:
+        non_striker: HH Pandya
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 19.2:
+        non_striker: RK Singh
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 19.3:
+        non_striker: RK Singh
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - Rishad Hossain
+          kind: caught
+    - 19.4:
+        non_striker: RK Singh
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+        wicket:
+          player_out: Nithish Kumar Reddy
+          fielders:
+          - Mahedi Hasan
+          kind: caught
+    - 19.5:
+        non_striker: RK Singh
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 19.6:
+        non_striker: Washington Sundar
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Singh
+    - 19.7:
+        non_striker: Washington Sundar
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Tanzid Hasan
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Parvez Hossain Emon
+        wicket:
+          player_out: Parvez Hossain Emon
+          fielders:
+          - R Parag
+          kind: caught
+    - 0.2:
+        non_striker: Tanzid Hasan
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 0.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 0.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzid Hasan
+    - 0.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 0.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 1.1:
+        non_striker: Tanzid Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nazmul Hossain Shanto
+    - 1.2:
+        non_striker: Tanzid Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 1.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 1.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 1.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzid Hasan
+    - 1.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzid Hasan
+    - 1.7:
+        non_striker: Nazmul Hossain Shanto
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tanzid Hasan
+    - 2.1:
+        non_striker: Tanzid Hasan
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nazmul Hossain Shanto
+    - 2.2:
+        non_striker: Tanzid Hasan
+        bowler: MP Yadav
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Nazmul Hossain Shanto
+    - 2.3:
+        non_striker: Tanzid Hasan
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 2.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 2.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: MP Yadav
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Tanzid Hasan
+    - 2.6:
+        non_striker: Tanzid Hasan
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 2.7:
+        non_striker: Tanzid Hasan
+        bowler: MP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nazmul Hossain Shanto
+    - 2.8:
+        non_striker: Tanzid Hasan
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+        wicket:
+          player_out: Tanzid Hasan
+          fielders:
+          - CV Varun
+          kind: caught
+    - 3.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Washington Sundar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Liton Das
+    - 3.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 3.4:
+        non_striker: Liton Das
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.5:
+        non_striker: Liton Das
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 3.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.7:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 4.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 4.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 4.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 4.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 4.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 5.1:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 5.2:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          fielders:
+          - SV Samson
+          kind: caught
+    - 5.3:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 5.4:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 5.5:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 5.6:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 6.1:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 6.2:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 6.3:
+        non_striker: Liton Das
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 6.4:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 6.5:
+        non_striker: Liton Das
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Towhid Hridoy
+    - 6.6:
+        non_striker: Liton Das
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 7.1:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 7.2:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 7.3:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Towhid Hridoy
+    - 7.4:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 7.5:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 7.6:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 7.7:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 8.1:
+        non_striker: Liton Das
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 8.2:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 8.3:
+        non_striker: Liton Das
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Towhid Hridoy
+    - 8.4:
+        non_striker: Liton Das
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 8.5:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 8.6:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 9.1:
+        non_striker: Liton Das
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 9.2:
+        non_striker: Towhid Hridoy
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 9.3:
+        non_striker: Liton Das
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 9.4:
+        non_striker: Liton Das
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 9.5:
+        non_striker: Towhid Hridoy
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 9.6:
+        non_striker: Liton Das
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Towhid Hridoy
+    - 10.1:
+        non_striker: Towhid Hridoy
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 10.2:
+        non_striker: Liton Das
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 10.3:
+        non_striker: Liton Das
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Towhid Hridoy
+    - 10.4:
+        non_striker: Liton Das
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 10.5:
+        non_striker: Liton Das
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Towhid Hridoy
+    - 10.6:
+        non_striker: Liton Das
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 10.7:
+        non_striker: Towhid Hridoy
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 11.1:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Towhid Hridoy
+    - 11.2:
+        non_striker: Liton Das
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 11.3:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 11.4:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - Tilak Varma (sub)
+          kind: caught
+    - 11.5:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 11.6:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 12.1:
+        non_striker: Mahmudullah
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 12.2:
+        non_striker: Towhid Hridoy
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.3:
+        non_striker: Mahmudullah
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Towhid Hridoy
+    - 12.4:
+        non_striker: Mahmudullah
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 12.5:
+        non_striker: Towhid Hridoy
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahmudullah
+    - 12.6:
+        non_striker: Towhid Hridoy
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.7:
+        non_striker: Mahmudullah
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 13.1:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 13.2:
+        non_striker: Mahmudullah
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 13.3:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 13.4:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 13.5:
+        non_striker: Mahmudullah
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 13.6:
+        non_striker: Mahmudullah
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Towhid Hridoy
+    - 14.1:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 14.2:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          fielders:
+          - R Parag
+          kind: caught
+    - 14.3:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 14.4:
+        non_striker: Mahedi Hasan
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 14.5:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 14.6:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 15.1:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 15.2:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 15.3:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 15.4:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 15.5:
+        non_striker: Towhid Hridoy
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 15.6:
+        non_striker: Mahedi Hasan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 16.1:
+        non_striker: Mahedi Hasan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Towhid Hridoy
+    - 16.2:
+        non_striker: Mahedi Hasan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 16.3:
+        non_striker: Towhid Hridoy
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          fielders:
+          - R Parag
+          kind: caught
+    - 16.4:
+        non_striker: Towhid Hridoy
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rishad Hossain
+    - 16.5:
+        non_striker: Towhid Hridoy
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rishad Hossain
+    - 16.6:
+        non_striker: Towhid Hridoy
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rishad Hossain
+    - 17.1:
+        non_striker: Rishad Hossain
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 17.2:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rishad Hossain
+        wicket:
+          player_out: Rishad Hossain
+          fielders:
+          - Abhishek Sharma
+          kind: caught
+    - 17.3:
+        non_striker: Towhid Hridoy
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzim Hasan Sakib
+    - 17.4:
+        non_striker: Tanzim Hasan Sakib
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Towhid Hridoy
+    - 17.5:
+        non_striker: Tanzim Hasan Sakib
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Towhid Hridoy
+    - 17.6:
+        non_striker: Tanzim Hasan Sakib
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 18.1:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 18.2:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzim Hasan Sakib
+    - 18.3:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 18.4:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 18.5:
+        non_striker: Towhid Hridoy
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzim Hasan Sakib
+    - 18.6:
+        non_striker: Tanzim Hasan Sakib
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 19.1:
+        non_striker: Tanzim Hasan Sakib
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Towhid Hridoy
+    - 19.2:
+        non_striker: Tanzim Hasan Sakib
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 19.3:
+        non_striker: Towhid Hridoy
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzim Hasan Sakib
+    - 19.4:
+        non_striker: Tanzim Hasan Sakib
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 19.5:
+        non_striker: Tanzim Hasan Sakib
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 19.6:
+        non_striker: Towhid Hridoy
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzim Hasan Sakib

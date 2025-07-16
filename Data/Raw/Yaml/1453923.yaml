@@ -1,0 +1,2024 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nairobi
+  dates:
+  - '2024-10-19'
+  gender: male
+  match_type: T20
+  match_type_number: 2915
+  outcome:
+    winner: Kenya
+    by:
+      runs: 111
+    method: D/L
+  overs: 20
+  player_of_match:
+  - RR Patel
+  players:
+    Kenya:
+    - P Sharma
+    - DM Gondaria
+    - RN Patel
+    - RR Patel
+    - SR Bhudia
+    - S Gill
+    - IA Karim
+    - SO Ngoche
+    - F Mutua
+    - P Koech
+    - Vraj Patel
+    Mozambique:
+    - JJ Huo
+    - LI Salomone
+    - VE Tembo
+    - F Damiao Couana
+    - AA Navicha
+    - FFZ Nhaduate
+    - FA Cossa
+    - JM Joao
+    - CB Roposo
+    - DV Macome
+    - EI Azine
+  registry:
+    people:
+      AA Navicha: 5c805a60
+      CB Roposo: 31f01815
+      DM Gondaria: 9048c17e
+      DV Macome: af4c15c5
+      EI Azine: c3de315d
+      ET Dube: 4c0891bc
+      F Damiao Couana: 2c535f08
+      F Mutizwa: d3e83eef
+      F Mutua: 21b67523
+      FA Cossa: 3b52d247
+      FFZ Nhaduate: a82e0db7
+      GM Muthui: d7e51f87
+      IA Karim: ca92a578
+      JJ Huo: d816fc1c
+      JM Joao: 2ef6c852
+      LI Salomone: a7b67d5d
+      Morshed Ali Khan: a7c3cf5f
+      P Koech: f4a0a615
+      P Sharma: d047f983
+      RN Patel: db1bf9c2
+      RR Patel: 7fa6bd8e
+      S Gill: 3e6e9a5f
+      SO Ngoche: 49118dc7
+      SR Bhudia: e9173fb0
+      Stephen Harris: fdcfd4aa
+      VE Tembo: 1439a13c
+      Vraj Patel: 2af28253
+  teams:
+  - Kenya
+  - Mozambique
+  toss:
+    winner: Mozambique
+    decision: field
+  umpires:
+  - F Mutizwa
+  - Stephen Harris
+  venue: Ruaraka Sports Club Ground, Nairobi
+innings:
+- 1st innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DM Gondaria
+        batsman: P Sharma
+    - 0.2:
+        non_striker: P Sharma
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 0.3:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sharma
+    - 0.4:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+    - 0.5:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+        wicket:
+          player_out: P Sharma
+          kind: bowled
+    - 0.6:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 0.7:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 1.1:
+        non_striker: RN Patel
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 1.2:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RN Patel
+    - 1.3:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 1.4:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RN Patel
+    - 1.5:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RN Patel
+    - 1.6:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 1.7:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 1.8:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 2.1:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 2.2:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+        wicket:
+          player_out: RN Patel
+          fielders:
+          - JM Joao
+          kind: caught
+    - 2.3:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 2.4:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 2.5:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 2.6:
+        non_striker: DM Gondaria
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 3.1:
+        non_striker: RR Patel
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+    - 3.2:
+        non_striker: RR Patel
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM Gondaria
+    - 3.3:
+        non_striker: RR Patel
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+    - 3.4:
+        non_striker: RR Patel
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 3.5:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 3.6:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Patel
+    - 3.7:
+        non_striker: DM Gondaria
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 4.1:
+        non_striker: RR Patel
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+    - 4.2:
+        non_striker: RR Patel
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM Gondaria
+    - 4.3:
+        non_striker: RR Patel
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+    - 4.4:
+        non_striker: RR Patel
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+    - 4.5:
+        non_striker: RR Patel
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+    - 4.6:
+        non_striker: RR Patel
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 5.1:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+    - 5.2:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+    - 5.3:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM Gondaria
+    - 5.4:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 5.5:
+        non_striker: DM Gondaria
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 5.6:
+        non_striker: DM Gondaria
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 6.1:
+        non_striker: RR Patel
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM Gondaria
+    - 6.2:
+        non_striker: RR Patel
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 6.3:
+        non_striker: DM Gondaria
+        bowler: DV Macome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Patel
+    - 6.4:
+        non_striker: DM Gondaria
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 6.5:
+        non_striker: DM Gondaria
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 6.6:
+        non_striker: RR Patel
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 6.7:
+        non_striker: DM Gondaria
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 7.1:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+    - 7.2:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 7.3:
+        non_striker: DM Gondaria
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 7.4:
+        non_striker: DM Gondaria
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 7.5:
+        non_striker: DM Gondaria
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 7.6:
+        non_striker: DM Gondaria
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 8.1:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 8.2:
+        non_striker: DM Gondaria
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 8.3:
+        non_striker: DM Gondaria
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 8.4:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 8.5:
+        non_striker: DM Gondaria
+        bowler: VE Tembo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Patel
+    - 8.6:
+        non_striker: DM Gondaria
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 8.7:
+        non_striker: DM Gondaria
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 9.1:
+        non_striker: RR Patel
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 9.2:
+        non_striker: DM Gondaria
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 9.3:
+        non_striker: DM Gondaria
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 9.4:
+        non_striker: DM Gondaria
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 9.5:
+        non_striker: DM Gondaria
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 9.6:
+        non_striker: DM Gondaria
+        bowler: DV Macome
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 10.1:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Gondaria
+    - 10.2:
+        non_striker: DM Gondaria
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 10.3:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Gondaria
+        wicket:
+          player_out: DM Gondaria
+          fielders:
+          - F Damiao Couana
+          kind: caught
+    - 10.4:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+    - 10.5:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+    - 10.6:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Bhudia
+    - 10.7:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 11.1:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 11.2:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 11.3:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+    - 11.4:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 11.5:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 11.6:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 12.1:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 12.2:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: RR Patel
+    - 12.3:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 12.4:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 12.5:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 12.6:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 12.7:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 13.1:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 13.2:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 13.3:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Bhudia
+    - 13.4:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Bhudia
+    - 13.5:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 13.6:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 14.1:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 14.2:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 14.3:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 14.4:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Patel
+    - 14.5:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 14.6:
+        non_striker: RR Patel
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 14.7:
+        non_striker: SR Bhudia
+        bowler: VE Tembo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 15.1:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 15.2:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 15.3:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 15.4:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 15.5:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 15.6:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 16.1:
+        non_striker: SR Bhudia
+        bowler: FA Cossa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Patel
+    - 16.2:
+        non_striker: SR Bhudia
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 16.3:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Bhudia
+    - 16.4:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 16.5:
+        non_striker: SR Bhudia
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 16.6:
+        non_striker: SR Bhudia
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 16.7:
+        non_striker: SR Bhudia
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 17.1:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Bhudia
+    - 17.2:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 17.3:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 17.4:
+        non_striker: SR Bhudia
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 17.5:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Bhudia
+    - 17.6:
+        non_striker: RR Patel
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+    - 18.1:
+        non_striker: SR Bhudia
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 18.2:
+        non_striker: SR Bhudia
+        bowler: F Damiao Couana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RR Patel
+    - 18.3:
+        non_striker: RR Patel
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Bhudia
+    - 18.4:
+        non_striker: RR Patel
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 18.5:
+        non_striker: SR Bhudia
+        bowler: F Damiao Couana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Patel
+    - 18.6:
+        non_striker: SR Bhudia
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 18.7:
+        non_striker: SR Bhudia
+        bowler: F Damiao Couana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Patel
+    - 18.8:
+        non_striker: SR Bhudia
+        bowler: F Damiao Couana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Patel
+    - 18.9:
+        non_striker: SR Bhudia
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 19.1:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+    - 19.2:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+    - 19.3:
+        non_striker: RR Patel
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 19.4:
+        non_striker: SR Bhudia
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+        wicket:
+          player_out: RR Patel
+          fielders:
+          - DV Macome
+          kind: caught
+    - 19.5:
+        non_striker: SR Bhudia
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Gill
+    - 19.6:
+        non_striker: SR Bhudia
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Gill
+- 2nd innings:
+    team: Mozambique
+    deliveries:
+    - 0.1:
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LI Salomone
+        batsman: JJ Huo
+    - 0.2:
+        non_striker: JJ Huo
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LI Salomone
+    - 0.3:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 0.4:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 0.5:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 0.6:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 1.1:
+        non_striker: JJ Huo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 1.2:
+        non_striker: JJ Huo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 1.3:
+        non_striker: JJ Huo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LI Salomone
+    - 1.4:
+        non_striker: LI Salomone
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 1.5:
+        non_striker: LI Salomone
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Huo
+    - 1.6:
+        non_striker: LI Salomone
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 2.1:
+        non_striker: JJ Huo
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LI Salomone
+    - 2.2:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 2.3:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Huo
+    - 2.4:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+        wicket:
+          player_out: JJ Huo
+          fielders:
+          - P Koech
+          kind: caught
+    - 2.5:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 2.6:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+        wicket:
+          player_out: VE Tembo
+          kind: bowled
+    - 3.1:
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Damiao Couana
+        batsman: LI Salomone
+    - 3.2:
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: F Damiao Couana
+        batsman: LI Salomone
+    - 3.3:
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Damiao Couana
+        batsman: LI Salomone
+    - 3.4:
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Damiao Couana
+        batsman: LI Salomone
+    - 3.5:
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Damiao Couana
+        batsman: LI Salomone
+    - 3.6:
+        non_striker: F Damiao Couana
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 4.1:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Damiao Couana
+    - 4.2:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Damiao Couana
+        wicket:
+          player_out: F Damiao Couana
+          kind: lbw
+    - 4.3:
+        non_striker: LI Salomone
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Navicha
+    - 4.4:
+        non_striker: AA Navicha
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LI Salomone
+    - 4.5:
+        non_striker: AA Navicha
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 4.6:
+        non_striker: AA Navicha
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LI Salomone
+    - 5.1:
+        non_striker: AA Navicha
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LI Salomone
+    - 5.2:
+        non_striker: LI Salomone
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+    - 5.3:
+        non_striker: LI Salomone
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+    - 5.4:
+        non_striker: LI Salomone
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Navicha
+    - 5.5:
+        non_striker: AA Navicha
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LI Salomone
+    - 5.6:
+        non_striker: LI Salomone
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+    - 6.1:
+        non_striker: AA Navicha
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 6.2:
+        non_striker: AA Navicha
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 6.3:
+        non_striker: AA Navicha
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 6.4:
+        non_striker: AA Navicha
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 6.5:
+        non_striker: AA Navicha
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 6.6:
+        non_striker: AA Navicha
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LI Salomone
+    - 7.1:
+        non_striker: AA Navicha
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+        wicket:
+          player_out: LI Salomone
+          kind: bowled
+    - 7.2:
+        non_striker: AA Navicha
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 7.3:
+        non_striker: AA Navicha
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 7.4:
+        non_striker: AA Navicha
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FFZ Nhaduate
+    - 7.5:
+        non_striker: FFZ Nhaduate
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+        wicket:
+          player_out: AA Navicha
+          fielders:
+          - S Gill
+          kind: run out
+    - 7.6:
+        non_striker: FA Cossa
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FFZ Nhaduate
+    - 8.1:
+        non_striker: FFZ Nhaduate
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 8.2:
+        non_striker: FA Cossa
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FFZ Nhaduate
+    - 8.3:
+        non_striker: FFZ Nhaduate
+        bowler: S Gill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FA Cossa
+    - 8.4:
+        non_striker: FFZ Nhaduate
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 8.5:
+        non_striker: FFZ Nhaduate
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 8.6:
+        non_striker: FFZ Nhaduate
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 8.7:
+        non_striker: FA Cossa
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 9.1:
+        non_striker: FFZ Nhaduate
+        bowler: P Koech
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FA Cossa
+    - 9.2:
+        non_striker: FFZ Nhaduate
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FA Cossa
+    - 9.3:
+        non_striker: FFZ Nhaduate
+        bowler: P Koech
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: FA Cossa
+    - 9.4:
+        non_striker: FA Cossa
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 9.5:
+        non_striker: FA Cossa
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 9.6:
+        non_striker: FA Cossa
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FFZ Nhaduate
+    - 9.7:
+        non_striker: FA Cossa
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 10.1:
+        non_striker: FFZ Nhaduate
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 10.2:
+        non_striker: FFZ Nhaduate
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 10.3:
+        non_striker: FFZ Nhaduate
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 10.4:
+        non_striker: FFZ Nhaduate
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 10.5:
+        non_striker: FFZ Nhaduate
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 10.6:
+        non_striker: FFZ Nhaduate
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 11.1:
+        non_striker: FA Cossa
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 11.2:
+        non_striker: FA Cossa
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+        wicket:
+          player_out: FFZ Nhaduate
+          kind: bowled
+    - 11.3:
+        non_striker: FA Cossa
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 11.4:
+        non_striker: JM Joao
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 11.5:
+        non_striker: FA Cossa
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 11.6:
+        non_striker: FA Cossa
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 12.1:
+        non_striker: FA Cossa
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 12.2:
+        non_striker: JM Joao
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 12.3:
+        non_striker: JM Joao
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 12.4:
+        non_striker: JM Joao
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 12.5:
+        non_striker: JM Joao
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 12.6:
+        non_striker: JM Joao
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 13.1:
+        non_striker: FA Cossa
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 13.2:
+        non_striker: FA Cossa
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 13.3:
+        non_striker: JM Joao
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 13.4:
+        non_striker: JM Joao
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 13.5:
+        non_striker: JM Joao
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 13.6:
+        non_striker: FA Cossa
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Joao
+    - 14.1:
+        non_striker: JM Joao
+        bowler: RN Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 14.2:
+        non_striker: JM Joao
+        bowler: RN Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 14.3:
+        non_striker: FA Cossa
+        bowler: RN Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 14.4:
+        non_striker: FA Cossa
+        bowler: RN Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+        wicket:
+          player_out: JM Joao
+          fielders:
+          - RR Patel
+          kind: caught
+    - 14.5:
+        non_striker: FA Cossa
+        bowler: RN Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+    - 14.6:
+        non_striker: FA Cossa
+        bowler: RN Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+    - 15.1:
+        non_striker: CB Roposo
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 15.2:
+        non_striker: CB Roposo
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 15.3:
+        non_striker: CB Roposo
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 15.4:
+        non_striker: CB Roposo
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+        wicket:
+          player_out: FA Cossa
+          fielders:
+          - GM Muthui (sub)
+          kind: caught
+    - 15.5:
+        non_striker: CB Roposo
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Macome
+    - 15.6:
+        non_striker: CB Roposo
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Macome

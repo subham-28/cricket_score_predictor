@@ -1,0 +1,1885 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nairobi
+  dates:
+  - '2024-10-22'
+  gender: male
+  match_type: T20
+  match_type_number: 2925
+  outcome:
+    winner: Kenya
+    by:
+      runs: 129
+  overs: 20
+  player_of_match:
+  - GM Muthui
+  players:
+    Kenya:
+    - P Sharma
+    - N Mugabe
+    - S Gill
+    - RR Patel
+    - SR Bhudia
+    - IA Karim
+    - LN Oluoch
+    - SO Ngoche
+    - F Mutua
+    - P Koech
+    - GM Muthui
+    Gambia:
+    - Andre Jarju
+    - AM Rajpurohit
+    - Asim Ashraf
+    - Abubacarr Kuyateh
+    - F Campbell
+    - Ismaila Tanba
+    - Basiru Jaye
+    - Mustapha Suwareh
+    - Ousman Bah
+    - Shan Siddiqui
+    - M Jobarteh
+  registry:
+    people:
+      AM Rajpurohit: 06b8bdb3
+      Abubacarr Kuyateh: 0ec45a9a
+      Andre Jarju: 53dd7d8e
+      Asim Ashraf: ca47f0fb
+      Basiru Jaye: 6e80042d
+      ET Dube: 4c0891bc
+      F Campbell: 02c3024c
+      F Mutizwa: d3e83eef
+      F Mutua: 21b67523
+      GM Muthui: d7e51f87
+      IA Karim: ca92a578
+      Ismaila Tanba: 180e2c15
+      LB Gcuma: 02ba88e3
+      LN Oluoch: eb4f9c61
+      M Jobarteh: 4a2ce060
+      Mustapha Suwareh: 44116edc
+      N Mugabe: 3e28808e
+      Ousman Bah: 95c214dd
+      P Koech: f4a0a615
+      P Sharma: d047f983
+      RR Patel: 7fa6bd8e
+      S Gill: 3e6e9a5f
+      SO Ngoche: 49118dc7
+      SR Bhudia: e9173fb0
+      Shan Siddiqui: e2b86f12
+      Stephen Harris: fdcfd4aa
+  teams:
+  - Kenya
+  - Gambia
+  toss:
+    winner: Kenya
+    decision: bat
+  umpires:
+  - F Mutizwa
+  - LB Gcuma
+  venue: Gymkhana Club Ground, Nairobi
+innings:
+- 1st innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Mugabe
+        batsman: P Sharma
+    - 0.2:
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Mugabe
+        batsman: P Sharma
+    - 0.3:
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: N Mugabe
+        batsman: P Sharma
+    - 0.4:
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Mugabe
+        batsman: P Sharma
+    - 0.5:
+        non_striker: N Mugabe
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+        wicket:
+          player_out: N Mugabe
+          fielders:
+          - Abubacarr Kuyateh
+          kind: run out
+    - 0.6:
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Gill
+        batsman: P Sharma
+    - 0.7:
+        non_striker: P Sharma
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 1.1:
+        non_striker: S Gill
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+    - 1.2:
+        non_striker: S Gill
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 1.3:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Gill
+    - 1.4:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 1.5:
+        non_striker: S Gill
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 1.6:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 1.7:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Gill
+    - 2.1:
+        non_striker: S Gill
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+    - 2.2:
+        non_striker: S Gill
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 2.3:
+        non_striker: P Sharma
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 2.4:
+        non_striker: S Gill
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+    - 2.5:
+        non_striker: S Gill
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sharma
+    - 2.6:
+        non_striker: S Gill
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sharma
+    - 3.1:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 3.2:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Gill
+    - 3.3:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Gill
+    - 3.4:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 3.5:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 3.6:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Gill
+    - 3.7:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Gill
+    - 3.8:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gill
+    - 3.9:
+        non_striker: P Sharma
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gill
+    - 4.1:
+        non_striker: S Gill
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sharma
+    - 4.2:
+        non_striker: S Gill
+        bowler: Andre Jarju
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: P Sharma
+    - 4.3:
+        non_striker: S Gill
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sharma
+    - 4.4:
+        non_striker: S Gill
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 4.5:
+        non_striker: P Sharma
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 4.6:
+        non_striker: S Gill
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+    - 4.7:
+        non_striker: S Gill
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 5.1:
+        non_striker: S Gill
+        bowler: Shan Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: P Sharma
+    - 5.2:
+        non_striker: S Gill
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sharma
+    - 5.3:
+        non_striker: S Gill
+        bowler: Shan Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sharma
+    - 5.4:
+        non_striker: S Gill
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Sharma
+    - 5.5:
+        non_striker: S Gill
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+    - 5.6:
+        non_striker: S Gill
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sharma
+    - 5.7:
+        non_striker: S Gill
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+    - 5.8:
+        non_striker: S Gill
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 6.1:
+        non_striker: S Gill
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 6.2:
+        non_striker: P Sharma
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 6.3:
+        non_striker: S Gill
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 6.4:
+        non_striker: P Sharma
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 6.5:
+        non_striker: S Gill
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 6.6:
+        non_striker: P Sharma
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+        wicket:
+          player_out: S Gill
+          kind: bowled
+    - 7.1:
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RR Patel
+        batsman: P Sharma
+    - 7.2:
+        bowler: Shan Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RR Patel
+        batsman: P Sharma
+    - 7.3:
+        bowler: Shan Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: RR Patel
+        batsman: P Sharma
+    - 7.4:
+        non_striker: P Sharma
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 7.5:
+        non_striker: P Sharma
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 7.6:
+        non_striker: RR Patel
+        bowler: Shan Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Sharma
+    - 7.7:
+        non_striker: RR Patel
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 7.8:
+        non_striker: P Sharma
+        bowler: Shan Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 8.1:
+        non_striker: P Sharma
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 8.2:
+        non_striker: RR Patel
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sharma
+    - 8.3:
+        non_striker: RR Patel
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+        wicket:
+          player_out: P Sharma
+          fielders:
+          - AM Rajpurohit
+          kind: caught
+    - 8.4:
+        non_striker: RR Patel
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 8.5:
+        non_striker: SR Bhudia
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 8.6:
+        non_striker: SR Bhudia
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 9.1:
+        non_striker: RR Patel
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+    - 9.2:
+        non_striker: RR Patel
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+    - 9.3:
+        non_striker: RR Patel
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+    - 9.4:
+        non_striker: RR Patel
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Bhudia
+    - 9.5:
+        non_striker: SR Bhudia
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 9.6:
+        non_striker: SR Bhudia
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 10.1:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Bhudia
+        wicket:
+          player_out: SR Bhudia
+          kind: bowled
+    - 10.2:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 10.3:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 10.4:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 10.5:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 10.6:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 11.1:
+        non_striker: RR Patel
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 11.2:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 11.3:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 11.4:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 11.5:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 11.6:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 12.1:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 12.2:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 12.3:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 12.4:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 12.5:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 12.6:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 13.1:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 13.2:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 13.3:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 13.4:
+        non_striker: RR Patel
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 13.5:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 13.6:
+        non_striker: IA Karim
+        bowler: Asim Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 14.1:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 14.2:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA Karim
+    - 14.3:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 14.4:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 14.5:
+        non_striker: RR Patel
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 14.6:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 15.1:
+        non_striker: IA Karim
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 15.2:
+        non_striker: IA Karim
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 15.3:
+        non_striker: RR Patel
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 15.4:
+        non_striker: IA Karim
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 15.5:
+        non_striker: IA Karim
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RR Patel
+    - 15.6:
+        non_striker: RR Patel
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IA Karim
+    - 15.7:
+        non_striker: RR Patel
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 15.8:
+        non_striker: IA Karim
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 16.1:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 16.2:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 16.3:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 16.4:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 16.5:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 16.6:
+        non_striker: IA Karim
+        bowler: AM Rajpurohit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 17.1:
+        non_striker: RR Patel
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 17.2:
+        non_striker: RR Patel
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 17.3:
+        non_striker: RR Patel
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+        wicket:
+          player_out: IA Karim
+          fielders:
+          - Andre Jarju
+          kind: caught
+    - 17.4:
+        non_striker: RR Patel
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Oluoch
+    - 17.5:
+        non_striker: LN Oluoch
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 17.6:
+        non_striker: RR Patel
+        bowler: Abubacarr Kuyateh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LN Oluoch
+    - 18.1:
+        non_striker: LN Oluoch
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 18.2:
+        non_striker: RR Patel
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Oluoch
+    - 18.3:
+        non_striker: LN Oluoch
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 18.4:
+        non_striker: LN Oluoch
+        bowler: Andre Jarju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Patel
+    - 18.5:
+        non_striker: LN Oluoch
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 18.6:
+        non_striker: LN Oluoch
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+        wicket:
+          player_out: RR Patel
+          kind: bowled
+    - 18.7:
+        non_striker: LN Oluoch
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Ngoche
+    - 19.1:
+        non_striker: SO Ngoche
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Oluoch
+    - 19.2:
+        non_striker: LN Oluoch
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+        wicket:
+          player_out: SO Ngoche
+          kind: bowled
+    - 19.3:
+        non_striker: LN Oluoch
+        bowler: M Jobarteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Mutua
+    - 19.4:
+        non_striker: LN Oluoch
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Mutua
+        wicket:
+          player_out: F Mutua
+          kind: bowled
+    - 19.5:
+        non_striker: LN Oluoch
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Koech
+        wicket:
+          player_out: LN Oluoch
+          fielders:
+          - M Jobarteh
+          kind: run out
+    - 19.6:
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GM Muthui
+        batsman: P Koech
+    - 19.7:
+        non_striker: P Koech
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Muthui
+- 2nd innings:
+    team: Gambia
+    deliveries:
+    - 0.1:
+        bowler: GM Muthui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: AM Rajpurohit
+        batsman: Andre Jarju
+    - 0.2:
+        non_striker: Andre Jarju
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rajpurohit
+    - 0.3:
+        non_striker: Andre Jarju
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rajpurohit
+    - 0.4:
+        non_striker: Andre Jarju
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rajpurohit
+    - 0.5:
+        non_striker: Andre Jarju
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rajpurohit
+    - 0.6:
+        non_striker: Andre Jarju
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rajpurohit
+    - 1.1:
+        non_striker: AM Rajpurohit
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 1.2:
+        non_striker: AM Rajpurohit
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 1.3:
+        non_striker: AM Rajpurohit
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 1.4:
+        non_striker: AM Rajpurohit
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 1.5:
+        non_striker: AM Rajpurohit
+        bowler: F Mutua
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Andre Jarju
+    - 1.6:
+        non_striker: AM Rajpurohit
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 2.1:
+        non_striker: Andre Jarju
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rajpurohit
+        wicket:
+          player_out: AM Rajpurohit
+          fielders:
+          - RR Patel
+          kind: caught
+    - 2.2:
+        non_striker: Andre Jarju
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asim Ashraf
+    - 2.3:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 2.4:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 2.5:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 2.6:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 3.1:
+        non_striker: Andre Jarju
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asim Ashraf
+    - 3.2:
+        non_striker: Asim Ashraf
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Andre Jarju
+    - 3.3:
+        non_striker: Andre Jarju
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 3.4:
+        non_striker: Andre Jarju
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 3.5:
+        non_striker: Andre Jarju
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asim Ashraf
+    - 3.6:
+        non_striker: Andre Jarju
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 4.1:
+        non_striker: Asim Ashraf
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 4.2:
+        non_striker: Asim Ashraf
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+    - 4.3:
+        non_striker: Asim Ashraf
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Andre Jarju
+    - 4.4:
+        non_striker: Andre Jarju
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asim Ashraf
+    - 4.5:
+        non_striker: Andre Jarju
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 4.6:
+        non_striker: Andre Jarju
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asim Ashraf
+    - 5.1:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+        wicket:
+          player_out: Andre Jarju
+          kind: bowled
+    - 5.2:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abubacarr Kuyateh
+    - 5.3:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abubacarr Kuyateh
+    - 5.4:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abubacarr Kuyateh
+        wicket:
+          player_out: Abubacarr Kuyateh
+          kind: bowled
+    - 5.5:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Campbell
+        wicket:
+          player_out: F Campbell
+          kind: lbw
+    - 5.6:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 5.7:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismaila Tanba
+    - 6.1:
+        non_striker: Ismaila Tanba
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asim Ashraf
+    - 6.2:
+        non_striker: Asim Ashraf
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 6.3:
+        non_striker: Asim Ashraf
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+        wicket:
+          player_out: Ismaila Tanba
+          kind: lbw
+    - 6.4:
+        non_striker: Asim Ashraf
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Basiru Jaye
+    - 6.5:
+        non_striker: Asim Ashraf
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basiru Jaye
+    - 6.6:
+        non_striker: Asim Ashraf
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Basiru Jaye
+    - 7.1:
+        non_striker: Basiru Jaye
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 7.2:
+        non_striker: Basiru Jaye
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asim Ashraf
+    - 7.3:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basiru Jaye
+        wicket:
+          player_out: Basiru Jaye
+          kind: lbw
+    - 7.4:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+    - 7.5:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+    - 7.6:
+        non_striker: Asim Ashraf
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+    - 8.1:
+        non_striker: Mustapha Suwareh
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asim Ashraf
+    - 8.2:
+        non_striker: Mustapha Suwareh
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 8.3:
+        non_striker: Mustapha Suwareh
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 8.4:
+        non_striker: Mustapha Suwareh
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 8.5:
+        non_striker: Mustapha Suwareh
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 8.6:
+        non_striker: Mustapha Suwareh
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asim Ashraf
+    - 9.1:
+        non_striker: Mustapha Suwareh
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asim Ashraf
+    - 9.2:
+        non_striker: Asim Ashraf
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mustapha Suwareh
+    - 9.3:
+        non_striker: Asim Ashraf
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+    - 9.4:
+        non_striker: Asim Ashraf
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+    - 9.5:
+        non_striker: Asim Ashraf
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustapha Suwareh
+    - 9.6:
+        non_striker: Mustapha Suwareh
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 10.1:
+        non_striker: Asim Ashraf
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+    - 10.2:
+        non_striker: Asim Ashraf
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+    - 10.3:
+        non_striker: Asim Ashraf
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+        wicket:
+          player_out: Mustapha Suwareh
+          fielders:
+          - F Mutua
+          kind: caught
+    - 10.4:
+        non_striker: Asim Ashraf
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ousman Bah
+    - 10.5:
+        non_striker: Asim Ashraf
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ousman Bah
+        wicket:
+          player_out: Ousman Bah
+          kind: lbw
+    - 10.6:
+        non_striker: Asim Ashraf
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Siddiqui
+    - 11.1:
+        non_striker: Shan Siddiqui
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 11.2:
+        non_striker: Shan Siddiqui
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 11.3:
+        non_striker: Shan Siddiqui
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+    - 11.4:
+        non_striker: Shan Siddiqui
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asim Ashraf
+    - 11.5:
+        non_striker: Asim Ashraf
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shan Siddiqui
+    - 11.6:
+        non_striker: Asim Ashraf
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Siddiqui
+        wicket:
+          player_out: Shan Siddiqui
+          kind: bowled
+    - 12.1:
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Jobarteh
+        batsman: Asim Ashraf
+    - 12.2:
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Jobarteh
+        batsman: Asim Ashraf
+    - 12.3:
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Jobarteh
+        batsman: Asim Ashraf
+    - 12.4:
+        non_striker: M Jobarteh
+        bowler: SR Bhudia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asim Ashraf
+        wicket:
+          player_out: Asim Ashraf
+          fielders:
+          - S Gill
+          kind: caught

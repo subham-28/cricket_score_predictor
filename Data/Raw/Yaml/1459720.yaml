@@ -1,0 +1,3057 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mexico City
+  dates:
+  - '2024-11-17'
+  gender: female
+  match_type: T20
+  match_type_number: 2132
+  outcome:
+    result: tie
+    eliminator: Mexico
+  overs: 20
+  players:
+    Costa Rica:
+    - DG Perez
+    - WM Delgado
+    - EFB Estrada
+    - AB Martinez
+    - OF Rios
+    - SB Martinez
+    - IL Parks
+    - AS Alvarez
+    - A Cespedes
+    - MJV Villalobos
+    - YP Molina
+    Mexico:
+    - AC Septien
+    - DL Mejia
+    - M Ortiz
+    - T Salcedo
+    - MZR Mohedano
+    - DP Hernandez
+    - MCR Mohedano
+    - G Morales
+    - JF Jimenez
+    - SMR Ruelas
+    - DVO Garcia
+  registry:
+    people:
+      A Cespedes: 9e7f9696
+      AB Martinez: 07c15419
+      AC Septien: 7b8ed473
+      AS Alvarez: 4a0f4389
+      DG Perez: 4aff35ac
+      DL Mejia: f4ee7807
+      DP Hernandez: bc27c3f2
+      DVO Garcia: 5dbf510d
+      EFB Estrada: 4b490566
+      G Morales: f1879052
+      IL Parks: 6760153a
+      JF Jimenez: f6d2a162
+      M Ortiz: 4ccbcd2f
+      MCR Mohedano: f34183e5
+      MJV Villalobos: fbba7da6
+      MZR Mohedano: 4110ee78
+      OF Rios: 3b19ed15
+      SB Martinez: a972ca63
+      SMR Ruelas: f61e2b59
+      T Salcedo: 4bafe66b
+      WM Delgado: 236e88ea
+      YP Molina: dca2e79a
+  teams:
+  - Costa Rica
+  - Mexico
+  toss:
+    winner: Mexico
+    decision: field
+  venue: Las Caballerizas
+innings:
+- 1st innings:
+    team: Costa Rica
+    deliveries:
+    - 0.1:
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WM Delgado
+        batsman: DG Perez
+    - 0.2:
+        non_striker: DG Perez
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WM Delgado
+    - 0.3:
+        non_striker: DG Perez
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WM Delgado
+    - 0.4:
+        non_striker: WM Delgado
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Perez
+    - 0.5:
+        non_striker: WM Delgado
+        bowler: T Salcedo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DG Perez
+    - 0.6:
+        non_striker: WM Delgado
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Perez
+    - 0.7:
+        non_striker: WM Delgado
+        bowler: T Salcedo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DG Perez
+    - 0.8:
+        non_striker: WM Delgado
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Perez
+    - 1.1:
+        non_striker: DG Perez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WM Delgado
+        wicket:
+          player_out: WM Delgado
+          kind: lbw
+    - 1.2:
+        non_striker: DG Perez
+        bowler: M Ortiz
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 1.3:
+        non_striker: DG Perez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 1.4:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Perez
+    - 1.5:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Perez
+    - 1.6:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Perez
+    - 1.7:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Perez
+    - 2.1:
+        non_striker: DG Perez
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 2.2:
+        non_striker: DG Perez
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 2.3:
+        non_striker: DG Perez
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EFB Estrada
+    - 2.4:
+        non_striker: DG Perez
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 2.5:
+        non_striker: DG Perez
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 2.6:
+        non_striker: DG Perez
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 3.1:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Perez
+    - 3.2:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Perez
+    - 3.3:
+        non_striker: DG Perez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EFB Estrada
+    - 3.4:
+        non_striker: DG Perez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 3.5:
+        non_striker: DG Perez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 3.6:
+        non_striker: DG Perez
+        bowler: M Ortiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EFB Estrada
+    - 3.7:
+        non_striker: DG Perez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 4.1:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Perez
+        wicket:
+          player_out: DG Perez
+          kind: lbw
+    - 4.2:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 4.3:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 4.4:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB Martinez
+    - 4.5:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB Martinez
+    - 4.6:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 4.7:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 4.8:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 5.1:
+        non_striker: AB Martinez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 5.2:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 5.3:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 5.4:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 5.5:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 5.6:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB Martinez
+    - 5.7:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 6.1:
+        non_striker: AB Martinez
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 6.2:
+        non_striker: AB Martinez
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 6.3:
+        non_striker: AB Martinez
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 6.4:
+        non_striker: AB Martinez
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 6.5:
+        non_striker: AB Martinez
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 6.6:
+        non_striker: AB Martinez
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 7.1:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB Martinez
+    - 7.2:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Martinez
+    - 7.3:
+        non_striker: AB Martinez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EFB Estrada
+    - 7.4:
+        non_striker: AB Martinez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 7.5:
+        non_striker: AB Martinez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 7.6:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Martinez
+    - 7.7:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AB Martinez
+    - 7.8:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AB Martinez
+    - 7.9:
+        non_striker: EFB Estrada
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 8.1:
+        non_striker: AB Martinez
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 8.2:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 8.3:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 8.4:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 8.5:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: AB Martinez
+    - 8.6:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 8.7:
+        non_striker: EFB Estrada
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Martinez
+    - 9.1:
+        non_striker: AB Martinez
+        bowler: T Salcedo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EFB Estrada
+    - 9.2:
+        non_striker: AB Martinez
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+        wicket:
+          player_out: AB Martinez
+          fielders:
+          - DL Mejia
+          kind: run out
+    - 9.3:
+        non_striker: EFB Estrada
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 9.4:
+        non_striker: EFB Estrada
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 9.5:
+        non_striker: EFB Estrada
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 9.6:
+        non_striker: EFB Estrada
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 9.7:
+        non_striker: EFB Estrada
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 10.1:
+        non_striker: OF Rios
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 10.2:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 10.3:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 10.4:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 10.5:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OF Rios
+    - 10.6:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 10.7:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Rios
+    - 11.1:
+        non_striker: EFB Estrada
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Rios
+    - 11.2:
+        non_striker: OF Rios
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 11.3:
+        non_striker: EFB Estrada
+        bowler: SMR Ruelas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: OF Rios
+    - 11.4:
+        non_striker: EFB Estrada
+        bowler: SMR Ruelas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OF Rios
+    - 11.5:
+        non_striker: EFB Estrada
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 11.6:
+        non_striker: EFB Estrada
+        bowler: SMR Ruelas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OF Rios
+    - 11.7:
+        non_striker: EFB Estrada
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Rios
+    - 11.8:
+        non_striker: OF Rios
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 11.9:
+        non_striker: OF Rios
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 12.1:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EFB Estrada
+    - 12.2:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 12.3:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EFB Estrada
+    - 12.4:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 12.5:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 12.6:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 12.7:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 12.8:
+        non_striker: EFB Estrada
+        bowler: JF Jimenez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: OF Rios
+    - 12.9:
+        non_striker: EFB Estrada
+        bowler: JF Jimenez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: OF Rios
+    - 12.10:
+        non_striker: EFB Estrada
+        bowler: JF Jimenez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: OF Rios
+    - 12.11:
+        non_striker: EFB Estrada
+        bowler: JF Jimenez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Rios
+    - 12.12:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 12.13:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 12.14:
+        non_striker: OF Rios
+        bowler: JF Jimenez
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: EFB Estrada
+    - 12.15:
+        non_striker: EFB Estrada
+        bowler: JF Jimenez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OF Rios
+    - 12.16:
+        non_striker: EFB Estrada
+        bowler: JF Jimenez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 13.1:
+        non_striker: OF Rios
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 13.2:
+        non_striker: OF Rios
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 13.3:
+        non_striker: EFB Estrada
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+    - 13.4:
+        non_striker: EFB Estrada
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Rios
+        wicket:
+          player_out: OF Rios
+          kind: lbw
+    - 13.5:
+        non_striker: EFB Estrada
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Martinez
+    - 13.6:
+        non_striker: EFB Estrada
+        bowler: T Salcedo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Martinez
+        wicket:
+          player_out: SB Martinez
+          kind: bowled
+    - 14.1:
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IL Parks
+        batsman: EFB Estrada
+    - 14.2:
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IL Parks
+        batsman: EFB Estrada
+    - 14.3:
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IL Parks
+        batsman: EFB Estrada
+    - 14.4:
+        bowler: M Ortiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: IL Parks
+        batsman: EFB Estrada
+    - 14.5:
+        bowler: M Ortiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: IL Parks
+        batsman: EFB Estrada
+    - 14.6:
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IL Parks
+        batsman: EFB Estrada
+    - 14.7:
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: IL Parks
+        batsman: EFB Estrada
+    - 14.8:
+        non_striker: IL Parks
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 15.1:
+        non_striker: IL Parks
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 15.2:
+        non_striker: IL Parks
+        bowler: SMR Ruelas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 15.3:
+        non_striker: IL Parks
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 15.4:
+        non_striker: IL Parks
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+        wicket:
+          player_out: EFB Estrada
+          fielders:
+          - DVO Garcia
+          kind: caught
+    - 15.5:
+        non_striker: IL Parks
+        bowler: SMR Ruelas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AS Alvarez
+    - 15.6:
+        non_striker: IL Parks
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Alvarez
+    - 15.7:
+        non_striker: IL Parks
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Alvarez
+    - 15.8:
+        non_striker: IL Parks
+        bowler: SMR Ruelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Alvarez
+    - 16.1:
+        non_striker: AS Alvarez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IL Parks
+    - 16.2:
+        non_striker: AS Alvarez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IL Parks
+    - 16.3:
+        non_striker: AS Alvarez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IL Parks
+    - 16.4:
+        non_striker: AS Alvarez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IL Parks
+    - 16.5:
+        non_striker: AS Alvarez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IL Parks
+    - 16.6:
+        non_striker: AS Alvarez
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IL Parks
+    - 17.1:
+        non_striker: AS Alvarez
+        bowler: DP Hernandez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IL Parks
+    - 17.2:
+        non_striker: AS Alvarez
+        bowler: DP Hernandez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IL Parks
+    - 17.3:
+        non_striker: IL Parks
+        bowler: DP Hernandez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AS Alvarez
+    - 17.4:
+        non_striker: IL Parks
+        bowler: DP Hernandez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AS Alvarez
+    - 17.5:
+        non_striker: IL Parks
+        bowler: DP Hernandez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Alvarez
+    - 17.6:
+        non_striker: IL Parks
+        bowler: DP Hernandez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Alvarez
+    - 17.7:
+        non_striker: AS Alvarez
+        bowler: DP Hernandez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: IL Parks
+    - 17.8:
+        non_striker: AS Alvarez
+        bowler: DP Hernandez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IL Parks
+    - 17.9:
+        non_striker: AS Alvarez
+        bowler: DP Hernandez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: IL Parks
+    - 17.10:
+        non_striker: AS Alvarez
+        bowler: DP Hernandez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IL Parks
+    - 17.11:
+        non_striker: AS Alvarez
+        bowler: DP Hernandez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: IL Parks
+    - 17.12:
+        non_striker: AS Alvarez
+        bowler: DP Hernandez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IL Parks
+    - 17.13:
+        non_striker: AS Alvarez
+        bowler: DP Hernandez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IL Parks
+    - 18.1:
+        non_striker: IL Parks
+        bowler: G Morales
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AS Alvarez
+    - 18.2:
+        non_striker: AS Alvarez
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IL Parks
+    - 18.3:
+        non_striker: IL Parks
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Alvarez
+    - 18.4:
+        non_striker: IL Parks
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Alvarez
+        wicket:
+          player_out: AS Alvarez
+          kind: bowled
+    - 18.5:
+        non_striker: IL Parks
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Cespedes
+    - 18.6:
+        non_striker: IL Parks
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Cespedes
+    - 18.7:
+        non_striker: IL Parks
+        bowler: G Morales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Cespedes
+    - 19.1:
+        non_striker: A Cespedes
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IL Parks
+    - 19.2:
+        non_striker: IL Parks
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Cespedes
+        wicket:
+          player_out: A Cespedes
+          fielders:
+          - JF Jimenez
+          kind: caught
+    - 19.3:
+        non_striker: IL Parks
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJV Villalobos
+    - 19.4:
+        non_striker: IL Parks
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJV Villalobos
+    - 19.5:
+        non_striker: IL Parks
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJV Villalobos
+    - 19.6:
+        non_striker: MJV Villalobos
+        bowler: AC Septien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IL Parks
+- 2nd innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DL Mejia
+        batsman: AC Septien
+    - 0.2:
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: DL Mejia
+        batsman: AC Septien
+    - 0.3:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Mejia
+    - 0.4:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Mejia
+    - 0.5:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Mejia
+    - 0.6:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Mejia
+        wicket:
+          player_out: DL Mejia
+          kind: bowled
+    - 0.7:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 1.1:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Septien
+    - 1.2:
+        non_striker: AC Septien
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ortiz
+    - 1.3:
+        non_striker: AC Septien
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 1.4:
+        non_striker: AC Septien
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ortiz
+    - 1.5:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Septien
+    - 1.6:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Septien
+    - 1.7:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Septien
+    - 2.1:
+        non_striker: M Ortiz
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Septien
+    - 2.2:
+        non_striker: M Ortiz
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Septien
+    - 2.3:
+        non_striker: M Ortiz
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Septien
+    - 2.4:
+        non_striker: M Ortiz
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Septien
+    - 2.5:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 2.6:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 2.7:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ortiz
+    - 2.8:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: M Ortiz
+    - 2.9:
+        non_striker: AC Septien
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 3.1:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Septien
+    - 3.2:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Septien
+    - 3.3:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Septien
+        wicket:
+          player_out: AC Septien
+          fielders:
+          - A Cespedes
+          kind: caught
+    - 3.4:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Salcedo
+    - 3.5:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Salcedo
+    - 3.6:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Salcedo
+    - 3.7:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Salcedo
+    - 3.8:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Salcedo
+    - 4.1:
+        non_striker: T Salcedo
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ortiz
+    - 4.2:
+        non_striker: T Salcedo
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 4.3:
+        non_striker: T Salcedo
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 4.4:
+        non_striker: T Salcedo
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ortiz
+    - 4.5:
+        non_striker: M Ortiz
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Salcedo
+    - 4.6:
+        non_striker: M Ortiz
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Salcedo
+        wicket:
+          player_out: T Salcedo
+          kind: lbw
+    - 4.7:
+        non_striker: M Ortiz
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MZR Mohedano
+    - 5.1:
+        non_striker: MZR Mohedano
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 5.2:
+        non_striker: MZR Mohedano
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 5.3:
+        non_striker: MZR Mohedano
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 5.4:
+        non_striker: MZR Mohedano
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ortiz
+    - 5.5:
+        non_striker: MZR Mohedano
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Ortiz
+    - 5.6:
+        non_striker: MZR Mohedano
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Ortiz
+    - 5.7:
+        non_striker: MZR Mohedano
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ortiz
+    - 5.8:
+        non_striker: MZR Mohedano
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ortiz
+    - 5.9:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MZR Mohedano
+    - 5.10:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MZR Mohedano
+    - 5.11:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MZR Mohedano
+        wicket:
+          player_out: MZR Mohedano
+          kind: bowled
+    - 6.1:
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Hernandez
+        batsman: M Ortiz
+    - 6.2:
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Hernandez
+        batsman: M Ortiz
+    - 6.3:
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Hernandez
+        batsman: M Ortiz
+    - 6.4:
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DP Hernandez
+        batsman: M Ortiz
+    - 6.5:
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Hernandez
+        batsman: M Ortiz
+    - 6.6:
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DP Hernandez
+        batsman: M Ortiz
+    - 6.7:
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DP Hernandez
+        batsman: M Ortiz
+    - 6.8:
+        non_striker: DP Hernandez
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 7.1:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hernandez
+        wicket:
+          player_out: DP Hernandez
+          fielders:
+          - AB Martinez
+          kind: caught
+    - 7.2:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MCR Mohedano
+    - 7.3:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MCR Mohedano
+    - 7.4:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MCR Mohedano
+    - 7.5:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MCR Mohedano
+    - 7.6:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MCR Mohedano
+    - 7.7:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MCR Mohedano
+    - 7.8:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MCR Mohedano
+    - 7.9:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MCR Mohedano
+    - 7.10:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MCR Mohedano
+    - 7.11:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MCR Mohedano
+    - 7.12:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MCR Mohedano
+    - 7.13:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MCR Mohedano
+    - 7.14:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MCR Mohedano
+    - 7.15:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MCR Mohedano
+    - 7.16:
+        non_striker: M Ortiz
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MCR Mohedano
+    - 8.1:
+        non_striker: M Ortiz
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MCR Mohedano
+    - 8.2:
+        non_striker: M Ortiz
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MCR Mohedano
+    - 8.3:
+        non_striker: M Ortiz
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MCR Mohedano
+        wicket:
+          player_out: MCR Mohedano
+          kind: bowled
+    - 8.4:
+        non_striker: M Ortiz
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 8.5:
+        non_striker: M Ortiz
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 8.6:
+        non_striker: M Ortiz
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 9.1:
+        non_striker: G Morales
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ortiz
+    - 9.2:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 9.3:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 9.4:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 9.5:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Morales
+    - 9.6:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 9.7:
+        non_striker: M Ortiz
+        bowler: WM Delgado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 10.1:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ortiz
+    - 10.2:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 10.3:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ortiz
+    - 10.4:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 10.5:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+    - 10.6:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ortiz
+        wicket:
+          player_out: M Ortiz
+          kind: bowled
+    - 10.7:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 10.8:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Jimenez
+    - 11.1:
+        non_striker: G Morales
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Jimenez
+    - 11.2:
+        non_striker: G Morales
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Jimenez
+    - 11.3:
+        non_striker: G Morales
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Jimenez
+    - 11.4:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Morales
+    - 11.5:
+        non_striker: G Morales
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 11.6:
+        non_striker: G Morales
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 11.7:
+        non_striker: G Morales
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Jimenez
+    - 12.1:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 12.2:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 12.3:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Jimenez
+    - 12.4:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 12.5:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 12.6:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 12.7:
+        non_striker: G Morales
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 13.1:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 13.2:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Morales
+    - 13.3:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 13.4:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Morales
+    - 13.5:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 13.6:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+    - 13.7:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Morales
+    - 14.1:
+        non_striker: JF Jimenez
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: G Morales
+    - 14.2:
+        non_striker: G Morales
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 14.3:
+        non_striker: G Morales
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 14.4:
+        non_striker: G Morales
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Jimenez
+    - 14.5:
+        non_striker: JF Jimenez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Morales
+        wicket:
+          player_out: G Morales
+          kind: bowled
+    - 14.6:
+        non_striker: JF Jimenez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMR Ruelas
+    - 14.7:
+        non_striker: JF Jimenez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMR Ruelas
+    - 14.8:
+        non_striker: JF Jimenez
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SMR Ruelas
+    - 15.1:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SMR Ruelas
+    - 15.2:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMR Ruelas
+    - 15.3:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMR Ruelas
+    - 15.4:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SMR Ruelas
+    - 15.5:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SMR Ruelas
+    - 15.6:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SMR Ruelas
+    - 15.7:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 15.8:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 15.9:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 15.10:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 15.11:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 15.12:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Jimenez
+    - 15.13:
+        non_striker: JF Jimenez
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SMR Ruelas
+    - 16.1:
+        non_striker: JF Jimenez
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMR Ruelas
+    - 16.2:
+        non_striker: JF Jimenez
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SMR Ruelas
+    - 16.3:
+        non_striker: SMR Ruelas
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 16.4:
+        non_striker: SMR Ruelas
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 16.5:
+        non_striker: SMR Ruelas
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 16.6:
+        non_striker: SMR Ruelas
+        bowler: SB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 16.7:
+        non_striker: SMR Ruelas
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 16.8:
+        non_striker: SMR Ruelas
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+    - 16.9:
+        non_striker: SMR Ruelas
+        bowler: SB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Jimenez
+        wicket:
+          player_out: JF Jimenez
+          kind: bowled
+    - 17.1:
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DVO Garcia
+        batsman: SMR Ruelas
+    - 17.2:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVO Garcia
+    - 17.3:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVO Garcia
+    - 17.4:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DVO Garcia
+    - 17.5:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DVO Garcia
+    - 17.6:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DVO Garcia
+    - 17.7:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVO Garcia
+    - 17.8:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVO Garcia
+    - 17.9:
+        non_striker: SMR Ruelas
+        bowler: AB Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVO Garcia
+    - 18.1:
+        non_striker: DVO Garcia
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SMR Ruelas
+    - 18.2:
+        non_striker: SMR Ruelas
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DVO Garcia
+    - 18.3:
+        non_striker: SMR Ruelas
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DVO Garcia
+    - 18.4:
+        non_striker: SMR Ruelas
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DVO Garcia
+    - 18.5:
+        non_striker: SMR Ruelas
+        bowler: EFB Estrada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DVO Garcia
+    - 18.6:
+        non_striker: SMR Ruelas
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVO Garcia
+    - 18.7:
+        non_striker: SMR Ruelas
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVO Garcia
+    - 18.8:
+        non_striker: SMR Ruelas
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DVO Garcia
+    - 18.9:
+        non_striker: DVO Garcia
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMR Ruelas
+    - 18.10:
+        non_striker: DVO Garcia
+        bowler: EFB Estrada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMR Ruelas
+        wicket:
+          player_out: DVO Garcia
+          fielders:
+          - EFB Estrada
+          kind: run out
+- Mexico Super Over:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        non_striker: JF Jimenez
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Salcedo
+    - 0.2:
+        non_striker: JF Jimenez
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Salcedo
+    - 0.3:
+        non_striker: T Salcedo
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Jimenez
+    - 0.4:
+        non_striker: T Salcedo
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Jimenez
+    - 0.5:
+        non_striker: JF Jimenez
+        bowler: YP Molina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Salcedo
+    - 0.6:
+        non_striker: JF Jimenez
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Salcedo
+    - 0.7:
+        non_striker: JF Jimenez
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Salcedo
+    - 0.8:
+        non_striker: T Salcedo
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Jimenez
+    - 0.9:
+        non_striker: JF Jimenez
+        bowler: YP Molina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Salcedo
+- Costa Rica Super Over:
+    team: Costa Rica
+    deliveries:
+    - 0.1:
+        non_striker: SB Martinez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Perez
+        wicket:
+          player_out: DG Perez
+          fielders:
+          - AC Septien
+          kind: caught
+    - 0.2:
+        non_striker: SB Martinez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 0.3:
+        non_striker: SB Martinez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EFB Estrada
+    - 0.4:
+        non_striker: SB Martinez
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EFB Estrada
+    - 0.5:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Martinez
+    - 0.6:
+        non_striker: SB Martinez
+        bowler: M Ortiz
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: EFB Estrada
+    - 0.7:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SB Martinez
+    - 0.8:
+        non_striker: EFB Estrada
+        bowler: M Ortiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Martinez

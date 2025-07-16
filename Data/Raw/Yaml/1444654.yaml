@@ -1,0 +1,2162 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bulawayo
+  dates:
+  - '2024-12-05'
+  gender: male
+  match_type: T20
+  match_type_number: 3004
+  outcome:
+    winner: Zimbabwe
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - BJ Bennett
+  players:
+    Pakistan:
+    - Sahibzada Farhan
+    - Omair Yousuf
+    - Usman Khan
+    - Agha Salman
+    - Tayyab Tahir
+    - Qasim Akram
+    - Arafat Minhas
+    - Abbas Afridi
+    - Jahandad Khan
+    - Mohammad Hasnain
+    - Sufiyan Muqeem
+    Zimbabwe:
+    - BJ Bennett
+    - T Marumani
+    - D Myers
+    - Sikandar Raza
+    - W Madhevere
+    - RP Burl
+    - T Musekiwa
+    - WP Masakadza
+    - TT Maposa
+    - R Ngarava
+    - B Muzarabani
+  registry:
+    people:
+      AJ Pycroft: 685d3f80
+      Abbas Afridi: 2cec2a92
+      Agha Salman: 89c16049
+      Arafat Minhas: f2e8b37c
+      B Muzarabani: 449f4e3c
+      BJ Bennett: eaa36b2a
+      D Myers: d96165b5
+      F Mutizwa: d3e83eef
+      I Chabi: 5e39110e
+      Jahandad Khan: 22d73540
+      L Rusere: 6a4734ae
+      Mohammad Hasnain: 8596fe80
+      Omair Yousuf: f8e3c0f8
+      P Sizara: 5d45bb7f
+      Qasim Akram: b6359668
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      Sahibzada Farhan: 1aba45cd
+      Sikandar Raza: 26d041c4
+      Sufiyan Muqeem: 4277234d
+      T Marumani: 3d5d51a5
+      T Musekiwa: 06fc82b8
+      TT Maposa: 5feead83
+      Tayyab Tahir: 431f8af4
+      Usman Khan: bafb9238
+      W Madhevere: a879b92c
+      WP Masakadza: 4bc0a378
+  teams:
+  - Pakistan
+  - Zimbabwe
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - I Chabi
+  - L Rusere
+  venue: Queens Sports Club, Bulawayo
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Omair Yousuf
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.2:
+        non_striker: Omair Yousuf
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.3:
+        non_striker: Omair Yousuf
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.4:
+        non_striker: Omair Yousuf
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 0.5:
+        non_striker: Omair Yousuf
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.6:
+        non_striker: Omair Yousuf
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.1:
+        non_striker: Sahibzada Farhan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+    - 1.2:
+        non_striker: Sahibzada Farhan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+        wicket:
+          player_out: Omair Yousuf
+          fielders:
+          - R Ngarava
+          kind: caught
+    - 1.3:
+        non_striker: Sahibzada Farhan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 1.4:
+        non_striker: Sahibzada Farhan
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Usman Khan
+    - 1.5:
+        non_striker: Sahibzada Farhan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 1.6:
+        non_striker: Sahibzada Farhan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 1.7:
+        non_striker: Sahibzada Farhan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 2.1:
+        non_striker: Usman Khan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+        wicket:
+          player_out: Sahibzada Farhan
+          fielders:
+          - T Musekiwa
+          kind: caught
+    - 2.2:
+        non_striker: Usman Khan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 2.3:
+        non_striker: Usman Khan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 2.4:
+        non_striker: Usman Khan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 2.5:
+        non_striker: Agha Salman
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 2.6:
+        non_striker: Usman Khan
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 3.1:
+        non_striker: Usman Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 3.2:
+        non_striker: Agha Salman
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 3.3:
+        non_striker: Agha Salman
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Usman Khan
+    - 3.4:
+        non_striker: Usman Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 3.5:
+        non_striker: Usman Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 3.6:
+        non_striker: Agha Salman
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          fielders:
+          - D Myers
+          kind: caught
+    - 4.1:
+        non_striker: Tayyab Tahir
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 4.2:
+        non_striker: Agha Salman
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tayyab Tahir
+    - 4.3:
+        non_striker: Tayyab Tahir
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 4.4:
+        non_striker: Agha Salman
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tayyab Tahir
+    - 4.5:
+        non_striker: Tayyab Tahir
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 4.6:
+        non_striker: Tayyab Tahir
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 5.1:
+        non_striker: Tayyab Tahir
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 5.2:
+        non_striker: Tayyab Tahir
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Agha Salman
+    - 5.3:
+        non_striker: Agha Salman
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tayyab Tahir
+    - 5.4:
+        non_striker: Agha Salman
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tayyab Tahir
+    - 5.5:
+        non_striker: Tayyab Tahir
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Agha Salman
+    - 5.6:
+        non_striker: Agha Salman
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tayyab Tahir
+    - 5.7:
+        non_striker: Agha Salman
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tayyab Tahir
+    - 6.1:
+        non_striker: Tayyab Tahir
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 6.2:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tayyab Tahir
+    - 6.3:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tayyab Tahir
+    - 6.4:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tayyab Tahir
+    - 6.5:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tayyab Tahir
+    - 6.6:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tayyab Tahir
+    - 7.1:
+        non_striker: Agha Salman
+        bowler: TT Maposa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tayyab Tahir
+    - 7.2:
+        non_striker: Tayyab Tahir
+        bowler: TT Maposa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 7.3:
+        non_striker: Agha Salman
+        bowler: TT Maposa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tayyab Tahir
+    - 7.4:
+        non_striker: Agha Salman
+        bowler: TT Maposa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tayyab Tahir
+        wicket:
+          player_out: Tayyab Tahir
+          fielders:
+          - T Marumani
+          kind: caught
+    - 7.5:
+        non_striker: Agha Salman
+        bowler: TT Maposa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Qasim Akram
+    - 7.6:
+        non_striker: Agha Salman
+        bowler: TT Maposa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Qasim Akram
+    - 8.1:
+        non_striker: Qasim Akram
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 8.2:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 8.3:
+        non_striker: Qasim Akram
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 8.4:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 8.5:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 8.6:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 9.1:
+        non_striker: Agha Salman
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 9.2:
+        non_striker: Agha Salman
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 9.3:
+        non_striker: Qasim Akram
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 9.4:
+        non_striker: Agha Salman
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 9.5:
+        non_striker: Agha Salman
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 9.6:
+        non_striker: Qasim Akram
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 10.1:
+        non_striker: Qasim Akram
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 10.2:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Qasim Akram
+    - 10.3:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 10.4:
+        non_striker: Qasim Akram
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 10.5:
+        non_striker: Qasim Akram
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 10.6:
+        non_striker: Qasim Akram
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 11.1:
+        non_striker: Agha Salman
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 11.2:
+        non_striker: Qasim Akram
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 11.3:
+        non_striker: Qasim Akram
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 11.4:
+        non_striker: Agha Salman
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Qasim Akram
+    - 11.5:
+        non_striker: Agha Salman
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+        wicket:
+          player_out: Qasim Akram
+          fielders:
+          - D Myers
+          kind: caught
+    - 11.6:
+        non_striker: Agha Salman
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 12.1:
+        non_striker: Agha Salman
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 12.2:
+        non_striker: Agha Salman
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 12.3:
+        non_striker: Arafat Minhas
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 12.4:
+        non_striker: Arafat Minhas
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 12.5:
+        non_striker: Arafat Minhas
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 12.6:
+        non_striker: Agha Salman
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 13.1:
+        non_striker: Arafat Minhas
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 13.2:
+        non_striker: Agha Salman
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 13.3:
+        non_striker: Agha Salman
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arafat Minhas
+    - 13.4:
+        non_striker: Agha Salman
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 13.5:
+        non_striker: Arafat Minhas
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 13.6:
+        non_striker: Agha Salman
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 14.1:
+        non_striker: Arafat Minhas
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Agha Salman
+    - 14.2:
+        non_striker: Arafat Minhas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 14.3:
+        non_striker: Agha Salman
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - BJ Bennett
+          - T Marumani
+          kind: run out
+    - 14.4:
+        non_striker: Arafat Minhas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+    - 14.5:
+        non_striker: Arafat Minhas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+    - 14.6:
+        non_striker: Arafat Minhas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Afridi
+    - 14.7:
+        non_striker: Arafat Minhas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+    - 15.1:
+        non_striker: Abbas Afridi
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 15.2:
+        non_striker: Arafat Minhas
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+    - 15.3:
+        non_striker: Arafat Minhas
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Afridi
+    - 15.4:
+        non_striker: Abbas Afridi
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 15.5:
+        non_striker: Abbas Afridi
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 15.6:
+        non_striker: Abbas Afridi
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 16.1:
+        non_striker: Abbas Afridi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 16.2:
+        non_striker: Abbas Afridi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 16.3:
+        non_striker: Abbas Afridi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 16.4:
+        non_striker: Abbas Afridi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arafat Minhas
+    - 16.5:
+        non_striker: Abbas Afridi
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arafat Minhas
+    - 16.6:
+        non_striker: Abbas Afridi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 16.7:
+        non_striker: Abbas Afridi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arafat Minhas
+    - 17.1:
+        non_striker: Arafat Minhas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Afridi
+    - 17.2:
+        non_striker: Arafat Minhas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+    - 17.3:
+        non_striker: Arafat Minhas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+    - 17.4:
+        non_striker: Arafat Minhas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Afridi
+    - 17.5:
+        non_striker: Abbas Afridi
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 17.6:
+        non_striker: Arafat Minhas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+    - 18.1:
+        non_striker: Abbas Afridi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 18.2:
+        non_striker: Arafat Minhas
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Afridi
+    - 18.3:
+        non_striker: Arafat Minhas
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Afridi
+    - 18.4:
+        non_striker: Abbas Afridi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 18.5:
+        non_striker: Arafat Minhas
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+        wicket:
+          player_out: Abbas Afridi
+          fielders:
+          - W Madhevere
+          kind: caught
+    - 18.6:
+        non_striker: Arafat Minhas
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahandad Khan
+    - 19.1:
+        non_striker: Jahandad Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 19.2:
+        non_striker: Jahandad Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arafat Minhas
+    - 19.3:
+        non_striker: Jahandad Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 19.4:
+        non_striker: Arafat Minhas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jahandad Khan
+    - 19.5:
+        non_striker: Arafat Minhas
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Jahandad Khan
+    - 19.6:
+        non_striker: Jahandad Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 0.2:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 0.3:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 0.4:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 0.5:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 0.6:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Bennett
+    - 0.7:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 1.1:
+        non_striker: BJ Bennett
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Marumani
+    - 1.2:
+        non_striker: BJ Bennett
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 1.3:
+        non_striker: T Marumani
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 1.4:
+        non_striker: T Marumani
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 1.5:
+        non_striker: BJ Bennett
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 1.6:
+        non_striker: BJ Bennett
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 2.1:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 2.2:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Bennett
+    - 2.3:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 2.4:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 2.5:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 2.6:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 2.7:
+        non_striker: T Marumani
+        bowler: Mohammad Hasnain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 3.1:
+        non_striker: BJ Bennett
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 3.2:
+        non_striker: BJ Bennett
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+        wicket:
+          player_out: T Marumani
+          fielders:
+          - Sahibzada Farhan
+          kind: caught
+    - 3.3:
+        non_striker: BJ Bennett
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 3.4:
+        non_striker: D Myers
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 3.5:
+        non_striker: D Myers
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 3.6:
+        non_striker: D Myers
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 4.1:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 4.2:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 4.3:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 4.4:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Bennett
+    - 4.5:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 4.6:
+        non_striker: BJ Bennett
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 5.1:
+        non_striker: BJ Bennett
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+    - 5.2:
+        non_striker: BJ Bennett
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+    - 5.3:
+        non_striker: BJ Bennett
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+    - 5.4:
+        non_striker: BJ Bennett
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 5.5:
+        non_striker: D Myers
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 5.6:
+        non_striker: D Myers
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 6.1:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 6.2:
+        non_striker: BJ Bennett
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 6.3:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 6.4:
+        non_striker: BJ Bennett
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+    - 6.5:
+        non_striker: BJ Bennett
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 6.6:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 7.1:
+        non_striker: BJ Bennett
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 7.2:
+        non_striker: D Myers
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 7.3:
+        non_striker: D Myers
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 7.4:
+        non_striker: BJ Bennett
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+    - 7.5:
+        non_striker: BJ Bennett
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Myers
+    - 7.6:
+        non_striker: BJ Bennett
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 8.1:
+        non_striker: BJ Bennett
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 8.2:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 8.3:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 8.4:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 8.5:
+        non_striker: D Myers
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 8.6:
+        non_striker: BJ Bennett
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 9.1:
+        non_striker: BJ Bennett
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 9.2:
+        non_striker: D Myers
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 9.3:
+        non_striker: BJ Bennett
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Myers
+    - 9.4:
+        non_striker: D Myers
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+        wicket:
+          player_out: BJ Bennett
+          fielders:
+          - Tayyab Tahir
+          kind: caught
+    - 9.5:
+        non_striker: D Myers
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.6:
+        non_striker: D Myers
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 10.1:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+        wicket:
+          player_out: D Myers
+          fielders:
+          - Arafat Minhas
+          kind: caught
+    - 10.2:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 10.3:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 10.4:
+        non_striker: W Madhevere
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.5:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 10.6:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 11.1:
+        non_striker: W Madhevere
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 11.2:
+        non_striker: W Madhevere
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 11.3:
+        non_striker: W Madhevere
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 11.4:
+        non_striker: W Madhevere
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.5:
+        non_striker: Sikandar Raza
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 11.6:
+        non_striker: Sikandar Raza
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 12.1:
+        non_striker: W Madhevere
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 12.2:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          kind: bowled
+    - 12.3:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 12.4:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 12.5:
+        non_striker: RP Burl
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 12.6:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 13.1:
+        non_striker: RP Burl
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.2:
+        non_striker: Sikandar Raza
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 13.3:
+        non_striker: Sikandar Raza
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 13.4:
+        non_striker: Sikandar Raza
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 13.5:
+        non_striker: RP Burl
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.6:
+        non_striker: Sikandar Raza
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          fielders:
+          - Sahibzada Farhan
+          - Usman Khan
+          kind: run out
+    - 14.1:
+        non_striker: T Musekiwa
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.2:
+        non_striker: Sikandar Raza
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 14.3:
+        non_striker: Sikandar Raza
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 14.4:
+        non_striker: Sikandar Raza
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 14.5:
+        non_striker: Sikandar Raza
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 14.6:
+        non_striker: Sikandar Raza
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Musekiwa
+    - 15.1:
+        non_striker: Sikandar Raza
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 15.2:
+        non_striker: Sikandar Raza
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 15.3:
+        non_striker: Sikandar Raza
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 15.4:
+        non_striker: Sikandar Raza
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 15.5:
+        non_striker: Sikandar Raza
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 15.6:
+        non_striker: Sikandar Raza
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 16.1:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 16.2:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.3:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Musekiwa
+    - 16.4:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 16.5:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.6:
+        non_striker: Sikandar Raza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Musekiwa
+    - 16.7:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 17.1:
+        non_striker: T Musekiwa
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 17.2:
+        non_striker: T Musekiwa
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 17.3:
+        non_striker: Sikandar Raza
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+    - 17.4:
+        non_striker: Sikandar Raza
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Musekiwa
+    - 17.5:
+        non_striker: T Musekiwa
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 17.6:
+        non_striker: T Musekiwa
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - Omair Yousuf
+          kind: caught
+    - 18.1:
+        non_striker: WP Masakadza
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Musekiwa
+    - 18.2:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WP Masakadza
+    - 18.3:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WP Masakadza
+    - 18.4:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza
+    - 18.5:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WP Masakadza
+    - 18.6:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza
+        wicket:
+          player_out: WP Masakadza
+          kind: lbw
+    - 18.7:
+        non_striker: T Musekiwa
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Maposa
+    - 19.1:
+        non_striker: T Musekiwa
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Maposa
+    - 19.2:
+        non_striker: T Musekiwa
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TT Maposa
+    - 19.3:
+        non_striker: T Musekiwa
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Maposa
+    - 19.4:
+        non_striker: TT Maposa
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Musekiwa
+        wicket:
+          player_out: T Musekiwa
+          fielders:
+          - Tayyab Tahir
+          kind: caught
+    - 19.5:
+        non_striker: TT Maposa
+        bowler: Jahandad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ngarava

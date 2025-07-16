@@ -1,0 +1,1812 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-06'
+  gender: male
+  match_type: T20
+  match_type_number: 3008
+  outcome:
+    winner: Bahamas
+    by:
+      runs: 26
+  overs: 20
+  player_of_match:
+  - M Taylor
+  players:
+    Bahamas:
+    - M Taylor
+    - K Hinds
+    - E Duff
+    - D Wheatley
+    - J Jemison
+    - Rudolph Fox
+    - DG Weakley
+    - Festus Benn
+    - Sandeep Goud
+    - R Davson
+    - A Harris
+    Brazil:
+    - W Maximo
+    - Muhammad Saleem
+    - Yasar Haroon
+    - LH Rodrigues
+    - LF Muller
+    - Kawsar Khan
+    - MFI Assuncao
+    - CC Machado
+    - R Avery
+    - G Oliveira
+    - IC Simao
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      A Harris: bbafa5d6
+      CC Machado: 5992ef03
+      D Wheatley: '04539335'
+      DG Weakley: 224a9f5e
+      E Duff: b7873c81
+      Festus Benn: de6b3760
+      G Oliveira: b4c52f5f
+      IC Simao: dcc76384
+      J Jemison: ce1abd25
+      Jermaine Lindo: 1154bf4f
+      K Hinds: a268c07b
+      Kawsar Khan: a14b3bc0
+      LF Muller: f6411545
+      LH Rodrigues: 57c95c3c
+      M Abbott: 3e5f0c04
+      M Taylor: 92075cdc
+      MFI Assuncao: d8e48e1b
+      Muhammad Saleem: a025c156
+      Phil Whitticase: 99d5f6fa
+      R Avery: '094ebfb6'
+      R Davson: 7804d401
+      Rudolph Fox: fd1041d2
+      Sandeep Goud: c83ef4d6
+      W Maximo: e41dee27
+      Yasar Haroon: 5a8dc41e
+  teams:
+  - Bahamas
+  - Brazil
+  toss:
+    winner: Bahamas
+    decision: bat
+  umpires:
+  - A Gajjar
+  - M Abbott
+  venue: St George's College Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.2:
+        non_striker: M Taylor
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 0.3:
+        non_striker: M Taylor
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+        wicket:
+          player_out: K Hinds
+          fielders:
+          - LH Rodrigues
+          - CC Machado
+          kind: run out
+    - 0.4:
+        non_striker: M Taylor
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 0.5:
+        non_striker: M Taylor
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 0.6:
+        non_striker: M Taylor
+        bowler: Kawsar Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Duff
+    - 0.7:
+        non_striker: M Taylor
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 1.1:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 1.2:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 1.3:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 1.4:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 1.5:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 1.6:
+        non_striker: M Taylor
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 2.1:
+        non_striker: E Duff
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 2.2:
+        non_striker: E Duff
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 2.3:
+        non_striker: E Duff
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 2.4:
+        non_striker: E Duff
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 2.5:
+        non_striker: E Duff
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 2.6:
+        non_striker: E Duff
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.1:
+        non_striker: M Taylor
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Duff
+    - 3.2:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 3.3:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.4:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 3.5:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.6:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.7:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 4.1:
+        non_striker: M Taylor
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 4.2:
+        non_striker: E Duff
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 4.3:
+        non_striker: E Duff
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 4.4:
+        non_striker: E Duff
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 4.5:
+        non_striker: E Duff
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 4.6:
+        non_striker: M Taylor
+        bowler: IC Simao
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: E Duff
+    - 4.7:
+        non_striker: M Taylor
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.1:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 5.2:
+        non_striker: E Duff
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 5.3:
+        non_striker: M Taylor
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Duff
+    - 5.4:
+        non_striker: M Taylor
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+        wicket:
+          player_out: E Duff
+          kind: bowled
+    - 5.5:
+        non_striker: M Taylor
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 5.6:
+        non_striker: M Taylor
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 5.7:
+        non_striker: M Taylor
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wheatley
+    - 5.8:
+        non_striker: M Taylor
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 6.1:
+        non_striker: D Wheatley
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 6.2:
+        non_striker: D Wheatley
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 6.3:
+        non_striker: D Wheatley
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 6.4:
+        non_striker: D Wheatley
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Taylor
+    - 6.5:
+        non_striker: D Wheatley
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+        wicket:
+          player_out: M Taylor
+          fielders:
+          - CC Machado
+          kind: caught
+    - 6.6:
+        non_striker: D Wheatley
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 7.1:
+        non_striker: D Wheatley
+        bowler: R Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Jemison
+    - 7.2:
+        non_striker: D Wheatley
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 7.3:
+        non_striker: J Jemison
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 7.4:
+        non_striker: D Wheatley
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 7.5:
+        non_striker: J Jemison
+        bowler: R Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Wheatley
+    - 7.6:
+        non_striker: D Wheatley
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Jemison
+    - 7.7:
+        non_striker: D Wheatley
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 8.1:
+        non_striker: J Jemison
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 8.2:
+        non_striker: J Jemison
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 8.3:
+        non_striker: J Jemison
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 8.4:
+        non_striker: J Jemison
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 8.5:
+        non_striker: J Jemison
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 8.6:
+        non_striker: J Jemison
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+        wicket:
+          player_out: D Wheatley
+          fielders:
+          - CC Machado
+          kind: caught
+    - 9.1:
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rudolph Fox
+        batsman: J Jemison
+    - 9.2:
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rudolph Fox
+        batsman: J Jemison
+    - 9.3:
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rudolph Fox
+        batsman: J Jemison
+    - 9.4:
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rudolph Fox
+        batsman: J Jemison
+    - 9.5:
+        non_striker: J Jemison
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rudolph Fox
+    - 9.6:
+        non_striker: J Jemison
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 10.1:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 10.2:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 10.3:
+        non_striker: Rudolph Fox
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 10.4:
+        non_striker: Rudolph Fox
+        bowler: Yasar Haroon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Jemison
+    - 10.5:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rudolph Fox
+    - 10.6:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 11.1:
+        non_striker: J Jemison
+        bowler: R Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rudolph Fox
+    - 11.2:
+        non_striker: J Jemison
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 11.3:
+        non_striker: Rudolph Fox
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 11.4:
+        non_striker: J Jemison
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 11.5:
+        non_striker: Rudolph Fox
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 11.6:
+        non_striker: J Jemison
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 11.7:
+        non_striker: Rudolph Fox
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 12.1:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 12.2:
+        non_striker: Rudolph Fox
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 12.3:
+        non_striker: Rudolph Fox
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 12.4:
+        non_striker: Rudolph Fox
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 12.5:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rudolph Fox
+    - 12.6:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 13.1:
+        non_striker: J Jemison
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 13.2:
+        non_striker: J Jemison
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 13.3:
+        non_striker: J Jemison
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 13.4:
+        non_striker: Rudolph Fox
+        bowler: Kawsar Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Jemison
+    - 13.5:
+        non_striker: Rudolph Fox
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 13.6:
+        non_striker: Rudolph Fox
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 13.7:
+        non_striker: J Jemison
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 14.1:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 14.2:
+        non_striker: Rudolph Fox
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Jemison
+    - 14.3:
+        non_striker: Rudolph Fox
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 14.4:
+        non_striker: Rudolph Fox
+        bowler: Yasar Haroon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Jemison
+    - 14.5:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 14.6:
+        non_striker: J Jemison
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 15.1:
+        non_striker: J Jemison
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 15.2:
+        non_striker: Rudolph Fox
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Jemison
+    - 15.3:
+        non_striker: Rudolph Fox
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 15.4:
+        non_striker: J Jemison
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 15.5:
+        non_striker: J Jemison
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 15.6:
+        non_striker: J Jemison
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Saleem
+        batsman: W Maximo
+    - 0.2:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Saleem
+        batsman: W Maximo
+    - 0.3:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Saleem
+        batsman: W Maximo
+    - 0.4:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 0.5:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Saleem
+    - 0.6:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 1.1:
+        non_striker: Muhammad Saleem
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 1.2:
+        non_striker: Muhammad Saleem
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 1.3:
+        non_striker: Muhammad Saleem
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Maximo
+    - 1.4:
+        non_striker: Muhammad Saleem
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 1.5:
+        non_striker: W Maximo
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Saleem
+    - 1.6:
+        non_striker: W Maximo
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Saleem
+    - 2.1:
+        non_striker: Muhammad Saleem
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 2.2:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+        wicket:
+          player_out: Muhammad Saleem
+          kind: bowled
+    - 2.3:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 2.4:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasar Haroon
+    - 2.5:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 2.6:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 3.1:
+        non_striker: Yasar Haroon
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 3.2:
+        non_striker: Yasar Haroon
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 3.3:
+        non_striker: W Maximo
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 3.4:
+        non_striker: W Maximo
+        bowler: M Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasar Haroon
+    - 3.5:
+        non_striker: W Maximo
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 3.6:
+        non_striker: W Maximo
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 3.7:
+        non_striker: Yasar Haroon
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 4.1:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 4.2:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasar Haroon
+    - 4.3:
+        non_striker: W Maximo
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 4.4:
+        non_striker: Yasar Haroon
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Maximo
+    - 4.5:
+        non_striker: Yasar Haroon
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 4.6:
+        non_striker: Yasar Haroon
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 5.1:
+        non_striker: W Maximo
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 5.2:
+        non_striker: W Maximo
+        bowler: Sandeep Goud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasar Haroon
+    - 5.3:
+        non_striker: W Maximo
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 5.4:
+        non_striker: Yasar Haroon
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 5.5:
+        non_striker: Yasar Haroon
+        bowler: Sandeep Goud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Maximo
+    - 5.6:
+        non_striker: Yasar Haroon
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 5.7:
+        non_striker: Yasar Haroon
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 5.8:
+        non_striker: Yasar Haroon
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 6.1:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 6.2:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasar Haroon
+    - 6.3:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 6.4:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 6.5:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 6.6:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+        wicket:
+          player_out: Yasar Haroon
+          kind: bowled
+    - 6.7:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 7.1:
+        non_striker: LH Rodrigues
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 7.2:
+        non_striker: LH Rodrigues
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 7.3:
+        non_striker: W Maximo
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 7.4:
+        non_striker: W Maximo
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 7.5:
+        non_striker: W Maximo
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 7.6:
+        non_striker: W Maximo
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 8.1:
+        non_striker: LH Rodrigues
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Maximo
+    - 8.2:
+        non_striker: LH Rodrigues
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 8.3:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+        wicket:
+          player_out: LH Rodrigues
+          fielders:
+          - A Harris
+          kind: caught
+    - 8.4:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 8.5:
+        non_striker: LF Muller
+        bowler: K Hinds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: W Maximo
+    - 8.6:
+        non_striker: W Maximo
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 9.1:
+        non_striker: LF Muller
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 9.2:
+        non_striker: W Maximo
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 9.3:
+        non_striker: LF Muller
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+        wicket:
+          player_out: W Maximo
+          kind: bowled
+    - 9.4:
+        non_striker: LF Muller
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 9.5:
+        non_striker: LF Muller
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 9.6:
+        non_striker: LF Muller
+        bowler: Sandeep Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 10.1:
+        non_striker: LF Muller
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kawsar Khan
+    - 10.2:
+        non_striker: LF Muller
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 10.3:
+        non_striker: LF Muller
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 10.4:
+        non_striker: Kawsar Khan
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 10.5:
+        non_striker: Kawsar Khan
+        bowler: K Hinds
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: LF Muller
+    - 10.6:
+        non_striker: Kawsar Khan
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 11.1:
+        non_striker: LF Muller
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 11.2:
+        non_striker: LF Muller
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 11.3:
+        non_striker: Kawsar Khan
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 11.4:
+        non_striker: Kawsar Khan
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 11.5:
+        non_striker: LF Muller
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 11.6:
+        non_striker: Kawsar Khan
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 12.1:
+        non_striker: LF Muller
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 12.2:
+        non_striker: Kawsar Khan
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 12.3:
+        non_striker: LF Muller
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 12.4:
+        non_striker: LF Muller
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 12.5:
+        non_striker: Kawsar Khan
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+        wicket:
+          player_out: LF Muller
+          kind: bowled
+    - 12.6:
+        non_striker: Kawsar Khan
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MFI Assuncao
+    - 13.1:
+        non_striker: MFI Assuncao
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+        wicket:
+          player_out: Kawsar Khan
+          kind: bowled
+    - 13.2:
+        non_striker: MFI Assuncao
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC Machado
+    - 13.3:
+        non_striker: MFI Assuncao
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC Machado
+    - 13.4:
+        non_striker: MFI Assuncao
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC Machado
+    - 13.5:
+        non_striker: MFI Assuncao
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CC Machado
+    - 13.6:
+        non_striker: CC Machado
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 14.1:
+        non_striker: MFI Assuncao
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC Machado
+    - 14.2:
+        non_striker: MFI Assuncao
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CC Machado
+    - 14.3:
+        non_striker: CC Machado
+        bowler: M Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MFI Assuncao
+    - 14.4:
+        non_striker: MFI Assuncao
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC Machado
+        wicket:
+          player_out: CC Machado
+          kind: lbw
+    - 14.5:
+        non_striker: MFI Assuncao
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Avery
+    - 14.6:
+        non_striker: MFI Assuncao
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Avery
+        wicket:
+          player_out: R Avery
+          kind: bowled
+    - 15.1:
+        non_striker: G Oliveira
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+        wicket:
+          player_out: MFI Assuncao
+          fielders:
+          - Rudolph Fox
+          kind: caught
+    - 15.2:
+        non_striker: G Oliveira
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Simao
+    - 15.3:
+        non_striker: G Oliveira
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Simao
+    - 15.4:
+        non_striker: IC Simao
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Oliveira
+    - 15.5:
+        non_striker: G Oliveira
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Simao
+    - 15.6:
+        non_striker: IC Simao
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Oliveira

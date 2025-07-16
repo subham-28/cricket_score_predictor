@@ -1,0 +1,2214 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Apia
+  dates:
+  - '2024-08-23'
+  gender: male
+  match_type: T20
+  match_type_number: 2793
+  outcome:
+    winner: Fiji
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - P Dakainivanua
+  players:
+    Vanuatu:
+    - N Nipiko
+    - C Tommy
+    - A Mansale
+    - R Tari
+    - J Rasu
+    - JP Kaltapau
+    - W Wotu
+    - W Nalisa
+    - D Wotu
+    - TL Cutler
+    - K Tari
+    Fiji:
+    - M Beitaki
+    - DR Tawake
+    - PV Vuniwaqa
+    - Kau Qalo
+    - A Sokovagone
+    - P Dakainivanua
+    - P Kotoisuva
+    - TS Waqavakatoga
+    - S Tabuisulu
+    - JQK Moala
+    - ST Yalimaiwai
+  registry:
+    people:
+      A Mansale: a22b4f3f
+      A Sokovagone: 10e34eef
+      C Tommy: c6d4cff0
+      D Wotu: 9585854d
+      DR Tawake: 8c11c10a
+      J Rasu: 1021b6e5
+      JP Kaltapau: d8dccff5
+      JQK Moala: d77ddc9f
+      K Tari: a65593c6
+      Kau Qalo: 3d9cd1b1
+      Kent Hannam: 8cc171e7
+      L McCabe: 1dbc4a64
+      L Oala: 48a506ab
+      M Beitaki: 3d29b5fc
+      N Nipiko: c498c510
+      P Dakainivanua: 5485c999
+      P Kotoisuva: b3e5205c
+      PJ Gillespie: 3e253a50
+      PV Vuniwaqa: 653a7fa8
+      R Tari: c4d19735
+      S Tabuisulu: 62708dce
+      SH Obed: f49c401e
+      ST Yalimaiwai: d88f9163
+      TL Cutler: 384fa385
+      TS Waqavakatoga: '039cabd9'
+      W Nalisa: 673be48f
+      W Wotu: 6b25ef46
+  teams:
+  - Vanuatu
+  - Fiji
+  toss:
+    winner: Vanuatu
+    decision: bat
+  umpires:
+  - L Oala
+  - L McCabe
+  venue: Faleata Oval No 2, Apia
+innings:
+- 1st innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Tommy
+        batsman: N Nipiko
+    - 0.2:
+        non_striker: N Nipiko
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 0.3:
+        non_striker: C Tommy
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 0.4:
+        non_striker: N Nipiko
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 0.5:
+        non_striker: C Tommy
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+        wicket:
+          player_out: N Nipiko
+          kind: bowled
+    - 0.6:
+        non_striker: C Tommy
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 1.1:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+    - 1.2:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Tommy
+    - 1.3:
+        non_striker: C Tommy
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 1.4:
+        non_striker: C Tommy
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 1.5:
+        non_striker: C Tommy
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 1.6:
+        non_striker: C Tommy
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 2.1:
+        non_striker: A Mansale
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 2.2:
+        non_striker: C Tommy
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 2.3:
+        non_striker: C Tommy
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 2.4:
+        non_striker: A Mansale
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+    - 2.5:
+        non_striker: A Mansale
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 2.6:
+        non_striker: C Tommy
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 3.1:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: C Tommy
+    - 3.2:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+    - 3.3:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tommy
+    - 3.4:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+        wicket:
+          player_out: C Tommy
+          kind: bowled
+    - 3.5:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 3.6:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 4.1:
+        non_striker: R Tari
+        bowler: S Tabuisulu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mansale
+    - 4.2:
+        non_striker: R Tari
+        bowler: S Tabuisulu
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: A Mansale
+    - 4.3:
+        non_striker: R Tari
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 4.4:
+        non_striker: A Mansale
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 4.5:
+        non_striker: A Mansale
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 4.6:
+        non_striker: A Mansale
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Tari
+    - 4.7:
+        non_striker: A Mansale
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 5.1:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+        wicket:
+          player_out: R Tari
+          fielders:
+          - M Beitaki
+          kind: caught
+    - 5.2:
+        non_striker: A Mansale
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 5.3:
+        non_striker: J Rasu
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 5.4:
+        non_striker: J Rasu
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mansale
+    - 5.5:
+        non_striker: J Rasu
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 5.6:
+        non_striker: J Rasu
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+        wicket:
+          player_out: A Mansale
+          fielders:
+          - PV Vuniwaqa
+          kind: caught
+    - 6.1:
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JP Kaltapau
+        batsman: J Rasu
+    - 6.2:
+        non_striker: J Rasu
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 6.3:
+        non_striker: JP Kaltapau
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 6.4:
+        non_striker: J Rasu
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 6.5:
+        non_striker: JP Kaltapau
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 6.6:
+        non_striker: JP Kaltapau
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 7.1:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 7.2:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 7.3:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 7.4:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Kaltapau
+    - 7.5:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kaltapau
+    - 7.6:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 8.1:
+        non_striker: JP Kaltapau
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 8.2:
+        non_striker: JP Kaltapau
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 8.3:
+        non_striker: JP Kaltapau
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 8.4:
+        non_striker: J Rasu
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kaltapau
+    - 8.5:
+        non_striker: J Rasu
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 8.6:
+        non_striker: J Rasu
+        bowler: ST Yalimaiwai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 9.1:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 9.2:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 9.3:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 9.4:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 9.5:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 9.6:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 10.1:
+        non_striker: JP Kaltapau
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 10.2:
+        non_striker: J Rasu
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 10.3:
+        non_striker: J Rasu
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 10.4:
+        non_striker: J Rasu
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 10.5:
+        non_striker: J Rasu
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 10.6:
+        non_striker: J Rasu
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 11.1:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 11.2:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 11.3:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 11.4:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 11.5:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 11.6:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Kaltapau
+    - 12.1:
+        non_striker: J Rasu
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 12.2:
+        non_striker: J Rasu
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 12.3:
+        non_striker: JP Kaltapau
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 12.4:
+        non_striker: JP Kaltapau
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 12.5:
+        non_striker: JP Kaltapau
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Rasu
+    - 12.6:
+        non_striker: JP Kaltapau
+        bowler: TS Waqavakatoga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 13.1:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 13.2:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 13.3:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 13.4:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 13.5:
+        non_striker: JP Kaltapau
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 13.6:
+        non_striker: J Rasu
+        bowler: P Dakainivanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+        wicket:
+          player_out: JP Kaltapau
+          fielders:
+          - JQK Moala
+          kind: caught
+    - 14.1:
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: W Wotu
+        batsman: J Rasu
+    - 14.2:
+        non_striker: J Rasu
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 14.3:
+        non_striker: W Wotu
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 14.4:
+        non_striker: W Wotu
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 14.5:
+        non_striker: W Wotu
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Rasu
+    - 14.6:
+        non_striker: W Wotu
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+        wicket:
+          player_out: J Rasu
+          fielders:
+          - DR Tawake
+          kind: caught
+    - 15.1:
+        bowler: P Kotoisuva
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: W Nalisa
+        batsman: W Wotu
+    - 15.2:
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Nalisa
+        batsman: W Wotu
+    - 15.3:
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Nalisa
+        batsman: W Wotu
+    - 15.4:
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: W Nalisa
+        batsman: W Wotu
+    - 15.5:
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: W Nalisa
+        batsman: W Wotu
+    - 15.6:
+        non_striker: W Wotu
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Nalisa
+    - 15.7:
+        non_striker: W Wotu
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Nalisa
+    - 16.1:
+        non_striker: W Nalisa
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Wotu
+    - 16.2:
+        non_striker: W Nalisa
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 16.3:
+        non_striker: W Wotu
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Nalisa
+    - 16.4:
+        non_striker: W Wotu
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Nalisa
+    - 16.5:
+        non_striker: W Wotu
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Nalisa
+    - 16.6:
+        non_striker: W Wotu
+        bowler: S Tabuisulu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Nalisa
+    - 17.1:
+        non_striker: W Nalisa
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Wotu
+    - 17.2:
+        non_striker: W Nalisa
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 17.3:
+        non_striker: W Wotu
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Nalisa
+    - 17.4:
+        non_striker: W Wotu
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Nalisa
+    - 17.5:
+        non_striker: W Wotu
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Nalisa
+    - 17.6:
+        non_striker: W Wotu
+        bowler: P Kotoisuva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Nalisa
+    - 18.1:
+        non_striker: W Nalisa
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Wotu
+    - 18.2:
+        non_striker: W Nalisa
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 18.3:
+        non_striker: W Wotu
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+    - 18.4:
+        non_striker: W Nalisa
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 18.5:
+        non_striker: W Wotu
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Nalisa
+    - 18.6:
+        non_striker: W Wotu
+        bowler: PV Vuniwaqa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Nalisa
+    - 19.1:
+        non_striker: W Nalisa
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Wotu
+    - 19.2:
+        non_striker: W Nalisa
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Wotu
+    - 19.3:
+        non_striker: W Nalisa
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Wotu
+    - 19.4:
+        non_striker: W Nalisa
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 19.5:
+        non_striker: W Wotu
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Nalisa
+    - 19.6:
+        non_striker: W Wotu
+        bowler: JQK Moala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Nalisa
+- 2nd innings:
+    team: Fiji
+    deliveries:
+    - 0.1:
+        bowler: K Tari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: DR Tawake
+        batsman: M Beitaki
+    - 0.2:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+    - 0.3:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+    - 0.4:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Tawake
+    - 0.5:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tawake
+        wicket:
+          player_out: DR Tawake
+          fielders:
+          - W Nalisa
+          kind: caught
+    - 0.6:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: PV Vuniwaqa
+    - 0.7:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 0.8:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 1.1:
+        non_striker: PV Vuniwaqa
+        bowler: TL Cutler
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Beitaki
+    - 1.2:
+        non_striker: M Beitaki
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 1.3:
+        non_striker: M Beitaki
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PV Vuniwaqa
+    - 1.4:
+        non_striker: PV Vuniwaqa
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beitaki
+    - 1.5:
+        non_striker: PV Vuniwaqa
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Beitaki
+    - 1.6:
+        non_striker: M Beitaki
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PV Vuniwaqa
+    - 1.7:
+        non_striker: M Beitaki
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PV Vuniwaqa
+    - 2.1:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 2.2:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 2.3:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 2.4:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PV Vuniwaqa
+    - 2.5:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: PV Vuniwaqa
+    - 2.6:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PV Vuniwaqa
+    - 2.7:
+        non_striker: PV Vuniwaqa
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Beitaki
+    - 3.1:
+        non_striker: PV Vuniwaqa
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beitaki
+    - 3.2:
+        non_striker: PV Vuniwaqa
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Beitaki
+    - 3.3:
+        non_striker: PV Vuniwaqa
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beitaki
+    - 3.4:
+        non_striker: PV Vuniwaqa
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beitaki
+    - 3.5:
+        non_striker: PV Vuniwaqa
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Beitaki
+    - 3.6:
+        non_striker: M Beitaki
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PV Vuniwaqa
+    - 4.1:
+        non_striker: PV Vuniwaqa
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Beitaki
+    - 4.2:
+        non_striker: M Beitaki
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 4.3:
+        non_striker: M Beitaki
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 4.4:
+        non_striker: M Beitaki
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PV Vuniwaqa
+    - 4.5:
+        non_striker: M Beitaki
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PV Vuniwaqa
+    - 4.6:
+        non_striker: M Beitaki
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 5.1:
+        non_striker: PV Vuniwaqa
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beitaki
+    - 5.2:
+        non_striker: PV Vuniwaqa
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Beitaki
+    - 5.3:
+        non_striker: PV Vuniwaqa
+        bowler: K Tari
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: M Beitaki
+    - 5.4:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 5.5:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+    - 5.6:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PV Vuniwaqa
+    - 5.7:
+        non_striker: M Beitaki
+        bowler: K Tari
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: PV Vuniwaqa
+    - 5.8:
+        non_striker: PV Vuniwaqa
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beitaki
+    - 5.9:
+        non_striker: PV Vuniwaqa
+        bowler: K Tari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Beitaki
+    - 6.1:
+        non_striker: M Beitaki
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PV Vuniwaqa
+    - 6.2:
+        non_striker: PV Vuniwaqa
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Beitaki
+    - 6.3:
+        non_striker: M Beitaki
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PV Vuniwaqa
+    - 6.4:
+        non_striker: PV Vuniwaqa
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Beitaki
+    - 6.5:
+        non_striker: PV Vuniwaqa
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Beitaki
+    - 6.6:
+        non_striker: M Beitaki
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Vuniwaqa
+        wicket:
+          player_out: PV Vuniwaqa
+          fielders:
+          - SH Obed (sub)
+          kind: caught
+    - 7.1:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kau Qalo
+        batsman: M Beitaki
+    - 7.2:
+        bowler: J Rasu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        non_striker: Kau Qalo
+        batsman: M Beitaki
+    - 7.3:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kau Qalo
+        batsman: M Beitaki
+    - 7.4:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kau Qalo
+        batsman: M Beitaki
+    - 7.5:
+        non_striker: M Beitaki
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kau Qalo
+    - 7.6:
+        non_striker: M Beitaki
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kau Qalo
+    - 8.1:
+        non_striker: Kau Qalo
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beitaki
+    - 8.2:
+        non_striker: Kau Qalo
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Beitaki
+    - 8.3:
+        non_striker: Kau Qalo
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beitaki
+        wicket:
+          player_out: M Beitaki
+          fielders:
+          - SH Obed (sub)
+          kind: caught
+    - 8.4:
+        non_striker: Kau Qalo
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 8.5:
+        non_striker: Kau Qalo
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 8.6:
+        non_striker: Kau Qalo
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Sokovagone
+    - 9.1:
+        non_striker: Kau Qalo
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 9.2:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kau Qalo
+        wicket:
+          player_out: Kau Qalo
+          kind: bowled
+    - 9.3:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 9.4:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 9.5:
+        non_striker: P Dakainivanua
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sokovagone
+    - 9.6:
+        non_striker: P Dakainivanua
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 10.1:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Sokovagone
+    - 10.2:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sokovagone
+    - 10.3:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 10.4:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 10.5:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 10.6:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 10.7:
+        non_striker: A Sokovagone
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 11.1:
+        non_striker: A Sokovagone
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 11.2:
+        non_striker: A Sokovagone
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 11.3:
+        non_striker: A Sokovagone
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 11.4:
+        non_striker: P Dakainivanua
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 11.5:
+        non_striker: P Dakainivanua
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sokovagone
+    - 11.6:
+        non_striker: P Dakainivanua
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 12.1:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 12.2:
+        non_striker: A Sokovagone
+        bowler: W Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Dakainivanua
+    - 12.3:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 12.4:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sokovagone
+    - 12.5:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 12.6:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 13.1:
+        non_striker: A Sokovagone
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 13.2:
+        non_striker: A Sokovagone
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Dakainivanua
+    - 13.3:
+        non_striker: A Sokovagone
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 13.4:
+        non_striker: P Dakainivanua
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 13.5:
+        non_striker: A Sokovagone
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Dakainivanua
+    - 13.6:
+        non_striker: A Sokovagone
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 14.1:
+        non_striker: A Sokovagone
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 14.2:
+        non_striker: P Dakainivanua
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 14.3:
+        non_striker: A Sokovagone
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 14.4:
+        non_striker: P Dakainivanua
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 14.5:
+        non_striker: P Dakainivanua
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sokovagone
+    - 14.6:
+        non_striker: P Dakainivanua
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 15.1:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 15.2:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Dakainivanua
+    - 15.3:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 15.4:
+        non_striker: P Dakainivanua
+        bowler: J Rasu
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: A Sokovagone
+    - 15.5:
+        non_striker: P Dakainivanua
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 15.6:
+        non_striker: P Dakainivanua
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 15.7:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 15.8:
+        non_striker: P Dakainivanua
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 16.1:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 16.2:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 16.3:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 16.4:
+        non_striker: A Sokovagone
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Dakainivanua
+    - 16.5:
+        non_striker: A Sokovagone
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 16.6:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Sokovagone
+    - 16.7:
+        non_striker: P Dakainivanua
+        bowler: W Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+    - 17.1:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 17.2:
+        non_striker: P Dakainivanua
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sokovagone
+    - 17.3:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 17.4:
+        non_striker: A Sokovagone
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 17.5:
+        non_striker: P Dakainivanua
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sokovagone
+    - 17.6:
+        non_striker: P Dakainivanua
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sokovagone
+        wicket:
+          player_out: A Sokovagone
+          fielders:
+          - D Wotu
+          kind: caught
+    - 18.1:
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Kotoisuva
+        batsman: P Dakainivanua
+    - 18.2:
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: P Kotoisuva
+        batsman: P Dakainivanua
+    - 18.3:
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Kotoisuva
+        batsman: P Dakainivanua
+    - 18.4:
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Kotoisuva
+        batsman: P Dakainivanua
+    - 18.5:
+        non_striker: P Dakainivanua
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kotoisuva
+    - 18.6:
+        non_striker: P Kotoisuva
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Dakainivanua
+    - 18.7:
+        non_striker: P Kotoisuva
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Dakainivanua
+    - 18.8:
+        non_striker: P Kotoisuva
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 19.1:
+        non_striker: P Kotoisuva
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Dakainivanua
+    - 19.2:
+        non_striker: P Kotoisuva
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Dakainivanua
+    - 19.3:
+        non_striker: P Kotoisuva
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Dakainivanua
+    - 19.4:
+        non_striker: P Dakainivanua
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kotoisuva
+    - 19.5:
+        non_striker: P Dakainivanua
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kotoisuva

@@ -1,0 +1,1649 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2024-07-13'
+  gender: male
+  match_type: T20
+  match_type_number: 2760
+  outcome:
+    winner: Sweden
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - A Mundra
+  players:
+    Slovenia:
+    - Muhammad Siddiqui
+    - Taher Muhammad
+    - Tarun Sharma
+    - Rasheed Ali Mamadkhel
+    - Shahid Arshad
+    - Mazhar Khan
+    - Izaz Ali
+    - Waqar Khan
+    - S Koppolu
+    - Saeed Waqar Ali
+    - Merwais Shinwari
+    Sweden:
+    - A Mundra
+    - Imal Zuwak
+    - Abdur Rahman Sudais
+    - Choudry Share Ali
+    - Khalid Zahid
+    - Hamid Mahmood
+    - Saeed Ahmed
+    - Samiullah Rahmani
+    - SKR Mallidi
+    - J Stanigze
+    - Prashant Shukla
+  registry:
+    people:
+      A Mundra: 30ffaf85
+      Abdur Rahman Sudais: edaae5f4
+      Choudry Share Ali: 5c037734
+      H Pack: fed53c91
+      Hamid Mahmood: 5332fc2f
+      Imal Zuwak: 1283e17b
+      Izaz Ali: 8a4e101e
+      J Stanigze: 935305fd
+      Jonathan Kennedy: f7ad4494
+      Khalid Zahid: 5c93efb1
+      M Burns: b3bd0666
+      Mazhar Khan: 7b10c047
+      Merwais Shinwari: 6755b6c7
+      Muhammad Siddiqui: b46b3d9b
+      Prashant Shukla: 0a15f357
+      Rasheed Ali Mamadkhel: 72c38d77
+      Rizwan Akram: b5346f1e
+      S Koppolu: 3346b14f
+      SKR Mallidi: 74d82e24
+      Saeed Ahmed: 63d6e16e
+      Saeed Waqar Ali: 1a353572
+      Samiullah Rahmani: d5c38041
+      Shahid Arshad: 587e65cc
+      Taher Muhammad: '68832922'
+      Tarun Sharma: f915844b
+      Waqar Khan: da21531c
+  teams:
+  - Slovenia
+  - Sweden
+  toss:
+    winner: Sweden
+    decision: field
+  umpires:
+  - M Burns
+  - Rizwan Akram
+  venue: Bayer Uerdingen Cricket Ground
+innings:
+- 1st innings:
+    team: Slovenia
+    deliveries:
+    - 0.1:
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Taher Muhammad
+        batsman: Muhammad Siddiqui
+    - 0.2:
+        bowler: Khalid Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Taher Muhammad
+        batsman: Muhammad Siddiqui
+    - 0.3:
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Taher Muhammad
+        batsman: Muhammad Siddiqui
+    - 0.4:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+        wicket:
+          player_out: Muhammad Siddiqui
+          fielders:
+          - A Mundra
+          kind: caught
+    - 0.5:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 0.6:
+        non_striker: Tarun Sharma
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 0.7:
+        non_striker: Tarun Sharma
+        bowler: Khalid Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taher Muhammad
+    - 0.8:
+        non_striker: Tarun Sharma
+        bowler: Khalid Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Taher Muhammad
+    - 1.1:
+        non_striker: Tarun Sharma
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taher Muhammad
+    - 1.2:
+        non_striker: Tarun Sharma
+        bowler: SKR Mallidi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Taher Muhammad
+    - 1.3:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+        wicket:
+          player_out: Tarun Sharma
+          fielders:
+          - A Mundra
+          kind: caught
+    - 1.4:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 1.5:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rasheed Ali Mamadkhel
+    - 1.6:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 1.7:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 1.8:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 2.1:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 2.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taher Muhammad
+    - 2.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 2.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 2.5:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+        wicket:
+          player_out: Rasheed Ali Mamadkhel
+          fielders:
+          - Abdur Rahman Sudais
+          kind: caught
+    - 2.6:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 3.1:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 3.2:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 3.3:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Arshad
+    - 3.4:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Arshad
+    - 3.5:
+        non_striker: Taher Muhammad
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 3.6:
+        non_striker: Shahid Arshad
+        bowler: SKR Mallidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 4.1:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahid Arshad
+    - 4.2:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 4.3:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 4.4:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 4.5:
+        non_striker: Taher Muhammad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 4.6:
+        non_striker: Shahid Arshad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 4.7:
+        non_striker: Shahid Arshad
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 5.1:
+        non_striker: Shahid Arshad
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 5.2:
+        non_striker: Shahid Arshad
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 5.3:
+        non_striker: Shahid Arshad
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 5.4:
+        non_striker: Shahid Arshad
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 5.5:
+        non_striker: Taher Muhammad
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 5.6:
+        non_striker: Taher Muhammad
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.1:
+        non_striker: Shahid Arshad
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+        wicket:
+          player_out: Taher Muhammad
+          fielders:
+          - A Mundra
+          - Khalid Zahid
+          kind: run out
+    - 6.2:
+        non_striker: Shahid Arshad
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 6.3:
+        non_striker: Shahid Arshad
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 6.4:
+        non_striker: Shahid Arshad
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 6.5:
+        non_striker: Shahid Arshad
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 6.6:
+        non_striker: Shahid Arshad
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 7.1:
+        non_striker: Mazhar Khan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 7.2:
+        non_striker: Shahid Arshad
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 7.3:
+        non_striker: Shahid Arshad
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazhar Khan
+    - 7.4:
+        non_striker: Mazhar Khan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 7.5:
+        non_striker: Shahid Arshad
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazhar Khan
+    - 7.6:
+        non_striker: Mazhar Khan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 8.1:
+        non_striker: Mazhar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+        wicket:
+          player_out: Shahid Arshad
+          kind: bowled
+    - 8.2:
+        non_striker: Mazhar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 8.3:
+        non_striker: Mazhar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 8.4:
+        non_striker: Mazhar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 8.5:
+        non_striker: Mazhar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+        wicket:
+          player_out: Izaz Ali
+          fielders:
+          - SKR Mallidi
+          kind: caught
+    - 8.6:
+        non_striker: Mazhar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 9.1:
+        non_striker: Waqar Khan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 9.2:
+        non_striker: Waqar Khan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+        wicket:
+          player_out: Mazhar Khan
+          fielders:
+          - A Mundra
+          kind: stumped
+    - 9.3:
+        non_striker: Waqar Khan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 9.4:
+        non_striker: Waqar Khan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 9.5:
+        non_striker: Waqar Khan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 9.6:
+        non_striker: Waqar Khan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Koppolu
+    - 10.1:
+        non_striker: S Koppolu
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 10.2:
+        non_striker: S Koppolu
+        bowler: Prashant Shukla
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Waqar Khan
+    - 10.3:
+        non_striker: Waqar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Koppolu
+    - 10.4:
+        non_striker: Waqar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 10.5:
+        non_striker: Waqar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 10.6:
+        non_striker: S Koppolu
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Khan
+    - 10.7:
+        non_striker: Waqar Khan
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 11.1:
+        non_striker: S Koppolu
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+        wicket:
+          player_out: Waqar Khan
+          fielders:
+          - J Stanigze
+          kind: caught
+    - 11.2:
+        non_striker: S Koppolu
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 11.3:
+        non_striker: S Koppolu
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 11.4:
+        non_striker: S Koppolu
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saeed Waqar Ali
+    - 11.5:
+        non_striker: S Koppolu
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 11.6:
+        non_striker: S Koppolu
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 12.1:
+        non_striker: Saeed Waqar Ali
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 12.2:
+        non_striker: Saeed Waqar Ali
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 12.3:
+        non_striker: S Koppolu
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 12.4:
+        non_striker: S Koppolu
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+        wicket:
+          player_out: Saeed Waqar Ali
+          kind: bowled
+    - 12.5:
+        non_striker: S Koppolu
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 12.6:
+        non_striker: S Koppolu
+        bowler: Prashant Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 13.1:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 13.2:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 13.3:
+        non_striker: S Koppolu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 13.4:
+        non_striker: S Koppolu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Merwais Shinwari
+    - 13.5:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 13.6:
+        non_striker: S Koppolu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Merwais Shinwari
+    - 14.1:
+        non_striker: S Koppolu
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 14.2:
+        non_striker: S Koppolu
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Merwais Shinwari
+    - 14.3:
+        non_striker: S Koppolu
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 14.4:
+        non_striker: S Koppolu
+        bowler: J Stanigze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Merwais Shinwari
+    - 14.5:
+        non_striker: S Koppolu
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 14.6:
+        non_striker: S Koppolu
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Merwais Shinwari
+    - 14.7:
+        non_striker: Merwais Shinwari
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 15.1:
+        non_striker: S Koppolu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Merwais Shinwari
+    - 15.2:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 15.3:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Koppolu
+    - 15.4:
+        non_striker: S Koppolu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 15.5:
+        non_striker: S Koppolu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Merwais Shinwari
+    - 15.6:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 15.7:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 16.1:
+        non_striker: Merwais Shinwari
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 16.2:
+        non_striker: Merwais Shinwari
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Koppolu
+    - 16.3:
+        non_striker: Merwais Shinwari
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Koppolu
+    - 16.4:
+        non_striker: Merwais Shinwari
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 16.5:
+        non_striker: S Koppolu
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 16.6:
+        non_striker: S Koppolu
+        bowler: Khalid Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Merwais Shinwari
+    - 16.7:
+        non_striker: S Koppolu
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 17.1:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 17.2:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Koppolu
+    - 17.3:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Koppolu
+    - 17.4:
+        non_striker: S Koppolu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Merwais Shinwari
+    - 17.5:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 17.6:
+        non_striker: Merwais Shinwari
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 17.7:
+        non_striker: S Koppolu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 18.1:
+        non_striker: Merwais Shinwari
+        bowler: J Stanigze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Koppolu
+    - 18.2:
+        non_striker: Merwais Shinwari
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Koppolu
+    - 18.3:
+        non_striker: Merwais Shinwari
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 18.4:
+        non_striker: S Koppolu
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 18.5:
+        non_striker: S Koppolu
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+        wicket:
+          player_out: Merwais Shinwari
+          fielders:
+          - SKR Mallidi
+          kind: caught
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Imal Zuwak
+        batsman: A Mundra
+    - 0.2:
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Imal Zuwak
+        batsman: A Mundra
+    - 0.3:
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Imal Zuwak
+        batsman: A Mundra
+    - 0.4:
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Imal Zuwak
+        batsman: A Mundra
+    - 0.5:
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Imal Zuwak
+        batsman: A Mundra
+    - 0.6:
+        non_striker: Imal Zuwak
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 1.1:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 1.2:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+        wicket:
+          player_out: Imal Zuwak
+          kind: lbw
+    - 1.3:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdur Rahman Sudais
+    - 1.4:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdur Rahman Sudais
+    - 1.5:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdur Rahman Sudais
+    - 1.6:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdur Rahman Sudais
+    - 2.1:
+        non_striker: Abdur Rahman Sudais
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mundra
+    - 2.2:
+        non_striker: Abdur Rahman Sudais
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 2.3:
+        non_striker: A Mundra
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abdur Rahman Sudais
+    - 2.4:
+        non_striker: A Mundra
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdur Rahman Sudais
+    - 2.5:
+        non_striker: A Mundra
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdur Rahman Sudais
+    - 2.6:
+        non_striker: Abdur Rahman Sudais
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mundra
+    - 3.1:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdur Rahman Sudais
+    - 3.2:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdur Rahman Sudais
+    - 3.3:
+        non_striker: Abdur Rahman Sudais
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 3.4:
+        non_striker: Abdur Rahman Sudais
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 3.5:
+        non_striker: Abdur Rahman Sudais
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 3.6:
+        non_striker: Abdur Rahman Sudais
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mundra
+    - 4.1:
+        non_striker: A Mundra
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdur Rahman Sudais
+        wicket:
+          player_out: Abdur Rahman Sudais
+          fielders:
+          - Shahid Arshad
+          kind: caught
+    - 4.2:
+        non_striker: A Mundra
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Choudry Share Ali
+    - 4.3:
+        non_striker: A Mundra
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Choudry Share Ali
+    - 4.4:
+        non_striker: A Mundra
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Choudry Share Ali
+    - 4.5:
+        non_striker: A Mundra
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Choudry Share Ali
+    - 4.6:
+        non_striker: A Mundra
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Choudry Share Ali
+    - 5.1:
+        non_striker: Choudry Share Ali
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 5.2:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Choudry Share Ali
+        wicket:
+          player_out: Choudry Share Ali
+          kind: bowled
+    - 5.3:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khalid Zahid
+    - 5.4:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Zahid
+        wicket:
+          player_out: Khalid Zahid
+          fielders:
+          - Shahid Arshad
+          kind: caught
+    - 5.5:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamid Mahmood
+    - 5.6:
+        non_striker: Hamid Mahmood
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 6.1:
+        non_striker: A Mundra
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamid Mahmood
+    - 6.2:
+        non_striker: Hamid Mahmood
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 6.3:
+        non_striker: A Mundra
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamid Mahmood
+    - 6.4:
+        non_striker: Hamid Mahmood
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 6.5:
+        non_striker: Hamid Mahmood
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 6.6:
+        non_striker: Hamid Mahmood
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 7.1:
+        non_striker: Hamid Mahmood
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 7.2:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamid Mahmood
+    - 7.3:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamid Mahmood
+    - 7.4:
+        non_striker: Hamid Mahmood
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 7.5:
+        non_striker: A Mundra
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamid Mahmood
+    - 7.6:
+        non_striker: Hamid Mahmood
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 8.1:
+        non_striker: Hamid Mahmood
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 8.2:
+        non_striker: Hamid Mahmood
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 8.3:
+        non_striker: Hamid Mahmood
+        bowler: Izaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mundra
+    - 8.4:
+        non_striker: Hamid Mahmood
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 8.5:
+        non_striker: A Mundra
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamid Mahmood
+    - 8.6:
+        non_striker: Hamid Mahmood
+        bowler: Izaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mundra
+    - 8.7:
+        non_striker: Hamid Mahmood
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 8.8:
+        non_striker: Hamid Mahmood
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 9.1:
+        non_striker: Hamid Mahmood
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 9.2:
+        non_striker: A Mundra
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hamid Mahmood
+    - 9.3:
+        non_striker: A Mundra
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamid Mahmood
+    - 9.4:
+        non_striker: Hamid Mahmood
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mundra

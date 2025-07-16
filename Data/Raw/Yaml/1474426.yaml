@@ -1,0 +1,969 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-03-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Noumea
+  dates:
+  - '2025-03-12'
+  gender: female
+  match_type: T20
+  match_type_number: 2197
+  outcome:
+    winner: Samoa
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - O Lefaga
+  players:
+    France:
+    - F Cagnewa
+    - L Wahmowe
+    - K Moingoto
+    - A Konhu
+    - NJ Qaeze
+    - L Fainicka
+    - H Wenehoua
+    - R Siwa
+    - G Jaine
+    - S Rokuad
+    - V Kai
+    Samoa:
+    - F Sisifo
+    - T Iosefo
+    - AF Mapu
+    - J Sanele
+    - O Lefaga
+    - NJM Salima
+    - TH Semau
+    - MFL Tafea
+    - A Sootaga
+    - V Talalelei
+    - Leitu Leong
+  registry:
+    people:
+      A Konhu: c7071bf6
+      A Sootaga: 967984d0
+      AF Mapu: d9238aee
+      F Cagnewa: 80d1b020
+      F Sisifo: eff8319a
+      G Jaine: be7a4419
+      H Wenehoua: edf72654
+      J Sanele: 67bd483c
+      K Moingoto: 4325e7ae
+      L Fainicka: d69196e9
+      L Wahmowe: c0f5447e
+      Leitu Leong: 672e1aea
+      MFL Tafea: '01733928'
+      NJ Qaeze: d4992df7
+      NJM Salima: 13cc5f9d
+      O Lefaga: 540fb139
+      R Siwa: bd2a2bbc
+      S Rokuad: 27b6d24d
+      T Iosefo: 335b2768
+      TH Semau: 175d59dd
+      V Kai: d7d8f0ed
+      V Talalelei: 8989e980
+  teams:
+  - France
+  - Samoa
+  toss:
+    winner: France
+    decision: bat
+  venue: N'Du Stadium, Noumea, New Caledonia
+innings:
+- 1st innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Wahmowe
+        batsman: F Cagnewa
+    - 0.2:
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Wahmowe
+        batsman: F Cagnewa
+    - 0.3:
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Wahmowe
+        batsman: F Cagnewa
+    - 0.4:
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Wahmowe
+        batsman: F Cagnewa
+    - 0.5:
+        non_striker: F Cagnewa
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Wahmowe
+    - 0.6:
+        non_striker: L Wahmowe
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Cagnewa
+    - 1.1:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Wahmowe
+    - 1.2:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wahmowe
+    - 1.3:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wahmowe
+    - 1.4:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wahmowe
+    - 1.5:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wahmowe
+    - 1.6:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wahmowe
+        wicket:
+          player_out: L Wahmowe
+          kind: bowled
+    - 1.7:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Moingoto
+    - 2.1:
+        non_striker: K Moingoto
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Cagnewa
+    - 2.2:
+        non_striker: K Moingoto
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Cagnewa
+    - 2.3:
+        non_striker: K Moingoto
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Cagnewa
+    - 2.4:
+        non_striker: K Moingoto
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Cagnewa
+    - 2.5:
+        non_striker: K Moingoto
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Cagnewa
+    - 2.6:
+        non_striker: K Moingoto
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Cagnewa
+    - 3.1:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Moingoto
+    - 3.2:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Moingoto
+        wicket:
+          player_out: K Moingoto
+          kind: bowled
+    - 3.3:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Konhu
+    - 3.4:
+        non_striker: F Cagnewa
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Konhu
+    - 3.5:
+        non_striker: A Konhu
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Cagnewa
+        wicket:
+          player_out: F Cagnewa
+          kind: bowled
+    - 3.6:
+        non_striker: A Konhu
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Qaeze
+    - 4.1:
+        non_striker: NJ Qaeze
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Konhu
+    - 4.2:
+        non_striker: NJ Qaeze
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Konhu
+    - 4.3:
+        non_striker: NJ Qaeze
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Konhu
+        wicket:
+          player_out: A Konhu
+          kind: bowled
+    - 4.4:
+        non_striker: NJ Qaeze
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Fainicka
+        wicket:
+          player_out: L Fainicka
+          kind: bowled
+    - 4.5:
+        non_striker: NJ Qaeze
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Wenehoua
+    - 4.6:
+        non_striker: NJ Qaeze
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Wenehoua
+    - 5.1:
+        non_striker: H Wenehoua
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Qaeze
+        wicket:
+          player_out: NJ Qaeze
+          kind: caught and bowled
+    - 5.2:
+        non_striker: H Wenehoua
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Siwa
+    - 5.3:
+        non_striker: H Wenehoua
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Siwa
+        wicket:
+          player_out: R Siwa
+          kind: bowled
+    - 5.4:
+        non_striker: H Wenehoua
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Jaine
+    - 5.5:
+        non_striker: H Wenehoua
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Jaine
+        wicket:
+          player_out: G Jaine
+          kind: bowled
+    - 5.6:
+        non_striker: H Wenehoua
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 6.1:
+        non_striker: S Rokuad
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Wenehoua
+        wicket:
+          player_out: H Wenehoua
+          kind: lbw
+    - 6.2:
+        non_striker: S Rokuad
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 6.3:
+        non_striker: S Rokuad
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kai
+    - 6.4:
+        non_striker: V Kai
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 6.5:
+        non_striker: V Kai
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 6.6:
+        non_striker: V Kai
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 7.1:
+        non_striker: S Rokuad
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 7.2:
+        non_striker: S Rokuad
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 7.3:
+        non_striker: S Rokuad
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 7.4:
+        non_striker: S Rokuad
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kai
+    - 7.5:
+        non_striker: S Rokuad
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 7.6:
+        non_striker: S Rokuad
+        bowler: AF Mapu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 8.1:
+        non_striker: V Kai
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 8.2:
+        non_striker: V Kai
+        bowler: NJM Salima
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Rokuad
+    - 8.3:
+        non_striker: V Kai
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 8.4:
+        non_striker: V Kai
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rokuad
+    - 8.5:
+        non_striker: S Rokuad
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 8.6:
+        non_striker: S Rokuad
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 8.7:
+        non_striker: S Rokuad
+        bowler: NJM Salima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kai
+    - 9.1:
+        non_striker: S Rokuad
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 9.2:
+        non_striker: S Rokuad
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 9.3:
+        non_striker: S Rokuad
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kai
+    - 9.4:
+        non_striker: V Kai
+        bowler: O Lefaga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Rokuad
+    - 9.5:
+        non_striker: V Kai
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rokuad
+    - 9.6:
+        non_striker: S Rokuad
+        bowler: O Lefaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kai
+    - 9.7:
+        non_striker: V Kai
+        bowler: O Lefaga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Rokuad
+    - 10.1:
+        non_striker: V Kai
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 10.2:
+        non_striker: V Kai
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rokuad
+    - 10.3:
+        non_striker: S Rokuad
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 10.4:
+        non_striker: S Rokuad
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+    - 10.5:
+        non_striker: S Rokuad
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kai
+    - 10.6:
+        non_striker: V Kai
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 11.1:
+        non_striker: S Rokuad
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kai
+    - 11.2:
+        non_striker: V Kai
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 11.3:
+        non_striker: V Kai
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 11.4:
+        non_striker: V Kai
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rokuad
+    - 11.5:
+        non_striker: V Kai
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rokuad
+    - 11.6:
+        non_striker: S Rokuad
+        bowler: TH Semau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kai
+    - 11.7:
+        non_striker: S Rokuad
+        bowler: TH Semau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kai
+        wicket:
+          player_out: V Kai
+          kind: bowled
+- 2nd innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: V Kai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Iosefo
+        batsman: F Sisifo
+    - 0.2:
+        bowler: V Kai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: T Iosefo
+        batsman: F Sisifo
+    - 0.3:
+        bowler: V Kai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Iosefo
+        batsman: F Sisifo
+    - 0.4:
+        non_striker: F Sisifo
+        bowler: V Kai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Iosefo
+    - 0.5:
+        non_striker: T Iosefo
+        bowler: V Kai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Sisifo
+    - 0.6:
+        non_striker: T Iosefo
+        bowler: V Kai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 1.1:
+        non_striker: T Iosefo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 1.2:
+        non_striker: T Iosefo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 1.3:
+        non_striker: T Iosefo
+        bowler: L Wahmowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Sisifo
+    - 1.4:
+        non_striker: T Iosefo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 1.5:
+        non_striker: T Iosefo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 1.6:
+        non_striker: F Sisifo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Iosefo
+    - 1.7:
+        non_striker: F Sisifo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Iosefo
+        wicket:
+          player_out: T Iosefo
+          kind: bowled
+    - 2.1:
+        bowler: K Moingoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AF Mapu
+        batsman: F Sisifo
+    - 2.2:
+        bowler: K Moingoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AF Mapu
+        batsman: F Sisifo
+    - 2.3:
+        bowler: K Moingoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AF Mapu
+        batsman: F Sisifo
+    - 2.4:
+        bowler: K Moingoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AF Mapu
+        batsman: F Sisifo
+    - 2.5:
+        bowler: K Moingoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AF Mapu
+        batsman: F Sisifo
+    - 2.6:
+        non_striker: F Sisifo
+        bowler: K Moingoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Mapu
+    - 2.7:
+        non_striker: F Sisifo
+        bowler: K Moingoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Mapu
+    - 2.8:
+        non_striker: F Sisifo
+        bowler: K Moingoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Mapu
+    - 3.1:
+        non_striker: F Sisifo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AF Mapu
+    - 3.2:
+        non_striker: F Sisifo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Mapu
+    - 3.3:
+        non_striker: AF Mapu
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Sisifo
+    - 3.4:
+        non_striker: AF Mapu
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 3.5:
+        non_striker: F Sisifo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AF Mapu
+    - 3.6:
+        non_striker: F Sisifo
+        bowler: L Wahmowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Mapu
+        wicket:
+          player_out: AF Mapu
+          fielders:
+          - NJ Qaeze
+          kind: caught
+    - 4.1:
+        bowler: K Moingoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Sanele
+        batsman: F Sisifo

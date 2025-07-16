@@ -1,0 +1,1919 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-07'
+  gender: male
+  match_type: T20
+  match_type_number: 3012
+  outcome:
+    winner: Mexico
+    by:
+      runs: 47
+  overs: 20
+  player_of_match:
+  - Shoaib Rafiq
+  players:
+    Mexico:
+    - Shashikant Laxman
+    - RK Singh
+    - KB Patil
+    - Praveen Santhanakrishnan
+    - Shantanu Kaveri
+    - Luis Hermida
+    - R Poojary
+    - PK Mohanarangam
+    - Shoaib Rafiq
+    - Pratik Singh Bais
+    - Y Jasti
+    Brazil:
+    - W Maximo
+    - Muhammad Saleem
+    - LF Muller
+    - Yasar Haroon
+    - LH Rodrigues
+    - CC Machado
+    - MFI Assuncao
+    - VRCF Poubel
+    - Kawsar Khan
+    - R Avery
+    - IC Simao
+  registry:
+    people:
+      AR Maddela: 5c861579
+      CC Machado: 5992ef03
+      IC Simao: dcc76384
+      Jermaine Lindo: 1154bf4f
+      KB Patil: 0474fd64
+      Kawsar Khan: a14b3bc0
+      LF Muller: f6411545
+      LH Rodrigues: 57c95c3c
+      Luis Hermida: 03beb59f
+      M Abbott: 3e5f0c04
+      MFI Assuncao: d8e48e1b
+      Muhammad Saleem: a025c156
+      PK Mohanarangam: d73891ad
+      Phil Whitticase: 99d5f6fa
+      Pratik Singh Bais: 5b351aff
+      Praveen Santhanakrishnan: 22fb205e
+      R Avery: '094ebfb6'
+      R Poojary: d05e9052
+      RK Singh: 6e974d8f
+      Shantanu Kaveri: '091880f7'
+      Shashikant Laxman: 8cf61570
+      Shoaib Rafiq: 27df03d2
+      VRCF Poubel: 1e3da0b7
+      W Maximo: e41dee27
+      Y Jasti: 3377f988
+      Yasar Haroon: 5a8dc41e
+  teams:
+  - Mexico
+  - Brazil
+  toss:
+    winner: Mexico
+    decision: bat
+  umpires:
+  - Jermaine Lindo
+  - M Abbott
+  venue: Hurlingham Club Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RK Singh
+        batsman: Shashikant Laxman
+    - 0.2:
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RK Singh
+        batsman: Shashikant Laxman
+    - 0.3:
+        non_striker: RK Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashikant Laxman
+        wicket:
+          player_out: Shashikant Laxman
+          fielders:
+          - MFI Assuncao
+          kind: caught
+    - 0.4:
+        non_striker: RK Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 0.5:
+        non_striker: KB Patil
+        bowler: Kawsar Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Singh
+    - 0.6:
+        non_striker: KB Patil
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 0.7:
+        non_striker: RK Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 1.1:
+        non_striker: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: RK Singh
+    - 1.2:
+        non_striker: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: RK Singh
+    - 1.3:
+        non_striker: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: RK Singh
+    - 1.4:
+        non_striker: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: RK Singh
+        wicket:
+          player_out: RK Singh
+          kind: lbw
+    - 1.5:
+        non_striker: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: Praveen Santhanakrishnan
+    - 1.6:
+        non_striker: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: Praveen Santhanakrishnan
+    - 2.1:
+        non_striker: Praveen Santhanakrishnan
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KB Patil
+    - 2.2:
+        non_striker: Praveen Santhanakrishnan
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 2.3:
+        non_striker: Praveen Santhanakrishnan
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 2.4:
+        non_striker: Praveen Santhanakrishnan
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 2.5:
+        non_striker: Praveen Santhanakrishnan
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 2.6:
+        non_striker: Praveen Santhanakrishnan
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 3.1:
+        non_striker: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: KB Patil
+    - 3.2:
+        non_striker: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: KB Patil
+    - 3.3:
+        non_striker: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: LH Rodrigues
+        batsman: KB Patil
+    - 3.4:
+        non_striker: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: KB Patil
+    - 3.5:
+        non_striker: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: KB Patil
+        wicket:
+          player_out: KB Patil
+          kind: bowled
+    - 3.6:
+        non_striker: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: Shantanu Kaveri
+    - 4.1:
+        non_striker: Shantanu Kaveri
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 4.2:
+        non_striker: Shantanu Kaveri
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 4.3:
+        non_striker: Shantanu Kaveri
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 4.4:
+        non_striker: Shantanu Kaveri
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 4.5:
+        non_striker: Shantanu Kaveri
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 4.6:
+        non_striker: Shantanu Kaveri
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+        wicket:
+          player_out: Praveen Santhanakrishnan
+          kind: lbw
+    - 5.1:
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: LH Rodrigues
+        non_striker: Luis Hermida
+        batsman: Shantanu Kaveri
+    - 5.2:
+        non_striker: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: Luis Hermida
+    - 5.3:
+        non_striker: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: LH Rodrigues
+        batsman: Luis Hermida
+    - 5.4:
+        non_striker: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: LH Rodrigues
+        batsman: Shantanu Kaveri
+    - 5.5:
+        non_striker: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: Luis Hermida
+    - 5.6:
+        non_striker: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: Luis Hermida
+    - 6.1:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 6.2:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 6.3:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 6.4:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 6.5:
+        non_striker: Shantanu Kaveri
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 6.6:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 7.1:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 7.2:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 7.3:
+        non_striker: Shantanu Kaveri
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 7.4:
+        non_striker: Shantanu Kaveri
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 7.5:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 7.6:
+        non_striker: Shantanu Kaveri
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 8.1:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 8.2:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 8.3:
+        non_striker: Shantanu Kaveri
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Luis Hermida
+    - 8.4:
+        non_striker: Shantanu Kaveri
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 8.5:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 8.6:
+        non_striker: Shantanu Kaveri
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 9.1:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 9.2:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 9.3:
+        non_striker: Shantanu Kaveri
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 9.4:
+        non_striker: Shantanu Kaveri
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Luis Hermida
+    - 9.5:
+        non_striker: Shantanu Kaveri
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 9.6:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 10.1:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 10.2:
+        non_striker: Shantanu Kaveri
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 10.3:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 10.4:
+        non_striker: Shantanu Kaveri
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Luis Hermida
+    - 10.5:
+        non_striker: Shantanu Kaveri
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 10.6:
+        non_striker: Shantanu Kaveri
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Luis Hermida
+    - 11.1:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shantanu Kaveri
+    - 11.2:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 11.3:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 11.4:
+        non_striker: Shantanu Kaveri
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 11.5:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 11.6:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 11.7:
+        non_striker: Shantanu Kaveri
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 12.1:
+        non_striker: Shantanu Kaveri
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 12.2:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+        wicket:
+          player_out: Shantanu Kaveri
+          kind: bowled
+    - 12.3:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Poojary
+    - 12.4:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poojary
+    - 12.5:
+        non_striker: R Poojary
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 12.6:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poojary
+    - 13.1:
+        non_striker: R Poojary
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Luis Hermida
+    - 13.2:
+        non_striker: R Poojary
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 13.3:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poojary
+    - 13.4:
+        non_striker: R Poojary
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Luis Hermida
+    - 13.5:
+        non_striker: R Poojary
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 13.6:
+        non_striker: Luis Hermida
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poojary
+    - 14.1:
+        non_striker: R Poojary
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 14.2:
+        non_striker: R Poojary
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 14.3:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poojary
+    - 14.4:
+        non_striker: R Poojary
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 14.5:
+        non_striker: R Poojary
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 14.6:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Poojary
+    - 14.7:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poojary
+    - 15.1:
+        non_striker: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: LH Rodrigues
+        batsman: R Poojary
+    - 15.2:
+        non_striker: R Poojary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: LH Rodrigues
+        batsman: Luis Hermida
+    - 15.3:
+        non_striker: R Poojary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: LH Rodrigues
+        batsman: Luis Hermida
+    - 15.4:
+        non_striker: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: R Poojary
+    - 15.5:
+        non_striker: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: LH Rodrigues
+        batsman: R Poojary
+    - 15.6:
+        non_striker: R Poojary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: LH Rodrigues
+        batsman: Luis Hermida
+    - 16.1:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Poojary
+    - 16.2:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Poojary
+    - 16.3:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poojary
+    - 16.4:
+        non_striker: R Poojary
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 16.5:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Poojary
+    - 16.6:
+        non_striker: Luis Hermida
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Poojary
+    - 17.1:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poojary
+        wicket:
+          player_out: R Poojary
+          fielders:
+          - MFI Assuncao
+          kind: caught
+    - 17.2:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Mohanarangam
+        wicket:
+          player_out: PK Mohanarangam
+          kind: lbw
+    - 17.3:
+        non_striker: Luis Hermida
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Rafiq
+    - 17.4:
+        non_striker: Shoaib Rafiq
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+        wicket:
+          player_out: Luis Hermida
+          fielders:
+          - Muhammad Saleem
+          kind: caught
+    - 17.5:
+        non_striker: Shoaib Rafiq
+        bowler: R Avery
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratik Singh Bais
+    - 17.6:
+        non_striker: Shoaib Rafiq
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+        wicket:
+          player_out: Pratik Singh Bais
+          kind: lbw
+    - 17.7:
+        non_striker: Shoaib Rafiq
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jasti
+    - 18.1:
+        non_striker: Y Jasti
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 18.2:
+        non_striker: Y Jasti
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 18.3:
+        non_striker: Y Jasti
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Rafiq
+    - 18.4:
+        non_striker: Shoaib Rafiq
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jasti
+    - 18.5:
+        non_striker: Y Jasti
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 18.6:
+        non_striker: Y Jasti
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Rafiq
+    - 19.1:
+        non_striker: Y Jasti
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Rafiq
+    - 19.2:
+        non_striker: Shoaib Rafiq
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jasti
+    - 19.3:
+        non_striker: Shoaib Rafiq
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jasti
+    - 19.4:
+        non_striker: Shoaib Rafiq
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jasti
+    - 19.5:
+        non_striker: Shoaib Rafiq
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jasti
+    - 19.6:
+        non_striker: Y Jasti
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+        wicket:
+          player_out: Y Jasti
+          fielders:
+          - CC Machado
+          kind: run out
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Saleem
+        batsman: W Maximo
+    - 0.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Saleem
+        batsman: W Maximo
+    - 0.3:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Saleem
+        batsman: W Maximo
+    - 0.4:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Muhammad Saleem
+        batsman: W Maximo
+    - 0.5:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Muhammad Saleem
+        batsman: W Maximo
+    - 0.6:
+        non_striker: Muhammad Saleem
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 1.1:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 1.2:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Saleem
+    - 1.3:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Saleem
+    - 1.4:
+        non_striker: Muhammad Saleem
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 1.5:
+        non_striker: Muhammad Saleem
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 1.6:
+        non_striker: Muhammad Saleem
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 1.7:
+        non_striker: Muhammad Saleem
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 2.1:
+        non_striker: W Maximo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Muhammad Saleem
+    - 2.2:
+        non_striker: Muhammad Saleem
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 2.3:
+        non_striker: Muhammad Saleem
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 2.4:
+        non_striker: Muhammad Saleem
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 2.5:
+        non_striker: W Maximo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 2.6:
+        non_striker: W Maximo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 2.7:
+        non_striker: W Maximo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 3.1:
+        non_striker: Muhammad Saleem
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 3.2:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Saleem
+    - 3.3:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Saleem
+    - 3.4:
+        non_striker: Muhammad Saleem
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 3.5:
+        non_striker: Muhammad Saleem
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Maximo
+    - 3.6:
+        non_striker: Muhammad Saleem
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 4.1:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 4.2:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+    - 4.3:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+        wicket:
+          player_out: Muhammad Saleem
+          kind: bowled
+    - 4.4:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 4.5:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 4.6:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 5.1:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 5.2:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 5.3:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 5.4:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 5.5:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 5.6:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 6.1:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Muller
+    - 6.2:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 6.3:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Muller
+    - 6.4:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 6.5:
+        non_striker: W Maximo
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 6.6:
+        non_striker: LF Muller
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 6.7:
+        non_striker: LF Muller
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+        wicket:
+          player_out: W Maximo
+          kind: bowled
+    - 6.8:
+        non_striker: LF Muller
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+        wicket:
+          player_out: Yasar Haroon
+          fielders:
+          - Pratik Singh Bais
+          kind: caught
+    - 7.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: LF Muller
+    - 7.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: LF Muller
+    - 7.3:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 7.4:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Rodrigues
+    - 7.5:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 7.6:
+        non_striker: LF Muller
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Rodrigues
+    - 8.1:
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: LF Muller
+    - 8.2:
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: LF Muller
+    - 8.3:
+        non_striker: LF Muller
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 8.4:
+        non_striker: LF Muller
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 8.5:
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: LF Muller
+    - 8.6:
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: LF Muller
+    - 9.1:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: LF Muller
+        wicket:
+          player_out: LF Muller
+          kind: caught and bowled
+    - 9.2:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: CC Machado
+        wicket:
+          player_out: CC Machado
+          fielders:
+          - Luis Hermida
+          - R Poojary
+          kind: run out
+    - 9.3:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: MFI Assuncao
+    - 9.4:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: MFI Assuncao
+    - 9.5:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: MFI Assuncao
+    - 9.6:
+        non_striker: MFI Assuncao
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 10.1:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: LH Rodrigues
+        batsman: MFI Assuncao
+    - 10.2:
+        non_striker: MFI Assuncao
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 10.3:
+        non_striker: MFI Assuncao
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 10.4:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: MFI Assuncao
+        wicket:
+          player_out: MFI Assuncao
+          kind: bowled
+    - 10.5:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: VRCF Poubel
+        wicket:
+          player_out: VRCF Poubel
+          kind: bowled
+    - 10.6:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: Kawsar Khan
+    - 11.1:
+        non_striker: Kawsar Khan
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 11.2:
+        non_striker: Kawsar Khan
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 11.3:
+        non_striker: Kawsar Khan
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 11.4:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: LH Rodrigues
+        batsman: Kawsar Khan
+    - 11.5:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: Kawsar Khan
+    - 11.6:
+        non_striker: Kawsar Khan
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 12.1:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: Kawsar Khan
+    - 12.2:
+        non_striker: Kawsar Khan
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 12.3:
+        non_striker: Kawsar Khan
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 12.4:
+        non_striker: Kawsar Khan
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 12.5:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LH Rodrigues
+        batsman: Kawsar Khan
+    - 12.6:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: Kawsar Khan
+    - 13.1:
+        non_striker: Kawsar Khan
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+        wicket:
+          player_out: Kawsar Khan
+          fielders:
+          - Shashikant Laxman
+          - Luis Hermida
+          kind: run out
+    - 13.2:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Avery
+        batsman: LH Rodrigues
+    - 13.3:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: R Avery
+    - 13.4:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: R Avery
+    - 13.5:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: R Avery
+        wicket:
+          player_out: R Avery
+          fielders:
+          - PK Mohanarangam
+          kind: caught
+    - 13.6:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: IC Simao
+    - 14.1:
+        non_striker: IC Simao
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 14.2:
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: IC Simao
+    - 14.3:
+        bowler: PK Mohanarangam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: LH Rodrigues
+        batsman: IC Simao
+    - 14.4:
+        non_striker: IC Simao
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+        wicket:
+          player_out: LH Rodrigues
+          fielders:
+          - Pratik Singh Bais
+          - PK Mohanarangam
+          kind: run out

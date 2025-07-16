@@ -1,0 +1,2036 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Koge
+  dates:
+  - '2025-06-14'
+  gender: male
+  match_type: T20
+  match_type_number: 3232
+  outcome:
+    winner: Norway
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Walid Ghauri
+  players:
+    Denmark:
+    - Musa Shaheen
+    - Abdul Hashim
+    - HAM Shah
+    - SA Ahmad
+    - T Bharaj
+    - S Thanikaithasan
+    - Surya Anand
+    - Delawar Khan
+    - Lucky Ali
+    - Shakeel Zeb
+    - E Karimi
+    Norway:
+    - Khizer Ahmed
+    - Ibrahim Rahimi
+    - Walid Ghauri
+    - D Abeyrathna
+    - Vishal Sharma
+    - Faisal Raza
+    - Qamar Mushtaque
+    - Ahmadullah Shinwari
+    - Vinay Ravi
+    - AJ Parmar
+    - A Gupta
+  registry:
+    people:
+      A Gupta: 59e1abef
+      AJ Parmar: 94113d54
+      Abdul Hashim: 73b1db79
+      Ahmadullah Shinwari: e068d48e
+      Bilal Munir: c35c63b9
+      D Abeyrathna: ee17d329
+      Delawar Khan: 28b99edd
+      E Karimi: 95bd9407
+      Faisal Raza: dccb802c
+      HAM Shah: 007113d7
+      Ibrahim Rahimi: f8ef3653
+      Khizer Ahmed: 723ca856
+      Lucky Ali: 28b032ac
+      Musa Shaheen: 6709b2de
+      Qamar Mushtaque: fc362c5d
+      S Thanikaithasan: 498aacac
+      SA Ahmad: 8de618ab
+      SB Ravindra: 394ba7a8
+      Shakeel Zeb: 4709e746
+      Surya Anand: ef141f36
+      T Bharaj: 49556abb
+      Vinay Ravi: 9c181b99
+      Vishal Sharma: b9d8abd3
+      Walid Ghauri: 331e137f
+  teams:
+  - Denmark
+  - Norway
+  toss:
+    winner: Denmark
+    decision: bat
+  umpires:
+  - Bilal Munir
+  - SB Ravindra
+  venue: Koge Cricket Club
+innings:
+- 1st innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdul Hashim
+        batsman: Musa Shaheen
+    - 0.2:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdul Hashim
+        batsman: Musa Shaheen
+    - 0.3:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Abdul Hashim
+        batsman: Musa Shaheen
+    - 0.4:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Abdul Hashim
+        batsman: Musa Shaheen
+    - 0.5:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Abdul Hashim
+        batsman: Musa Shaheen
+    - 0.6:
+        non_striker: Abdul Hashim
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 1.1:
+        non_striker: Abdul Hashim
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 1.2:
+        non_striker: Musa Shaheen
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Hashim
+    - 1.3:
+        non_striker: Musa Shaheen
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Hashim
+        wicket:
+          player_out: Abdul Hashim
+          kind: lbw
+    - 1.4:
+        non_striker: Musa Shaheen
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 1.5:
+        non_striker: HAM Shah
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 1.6:
+        non_striker: HAM Shah
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Musa Shaheen
+    - 2.1:
+        non_striker: Musa Shaheen
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HAM Shah
+    - 2.2:
+        non_striker: Musa Shaheen
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 2.3:
+        non_striker: Musa Shaheen
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 2.4:
+        non_striker: HAM Shah
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 2.5:
+        non_striker: Musa Shaheen
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 2.6:
+        non_striker: Musa Shaheen
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 3.1:
+        non_striker: HAM Shah
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 3.2:
+        non_striker: HAM Shah
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Musa Shaheen
+    - 3.3:
+        non_striker: HAM Shah
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 3.4:
+        non_striker: Musa Shaheen
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HAM Shah
+    - 3.5:
+        non_striker: Musa Shaheen
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HAM Shah
+    - 3.6:
+        non_striker: Musa Shaheen
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HAM Shah
+    - 3.7:
+        non_striker: Musa Shaheen
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HAM Shah
+    - 3.8:
+        non_striker: Musa Shaheen
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 3.9:
+        non_striker: Musa Shaheen
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 4.1:
+        non_striker: Musa Shaheen
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 4.2:
+        non_striker: Musa Shaheen
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 4.3:
+        non_striker: HAM Shah
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 4.4:
+        non_striker: HAM Shah
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 4.5:
+        non_striker: HAM Shah
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 4.6:
+        non_striker: Musa Shaheen
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 5.1:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 5.2:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Musa Shaheen
+    - 5.3:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Musa Shaheen
+    - 5.4:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 5.5:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Musa Shaheen
+    - 5.6:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Musa Shaheen
+    - 5.7:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 5.8:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Musa Shaheen
+    - 6.1:
+        non_striker: Musa Shaheen
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 6.2:
+        non_striker: Musa Shaheen
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 6.3:
+        non_striker: Musa Shaheen
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 6.4:
+        non_striker: HAM Shah
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 6.5:
+        non_striker: Musa Shaheen
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 6.6:
+        non_striker: Musa Shaheen
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 7.1:
+        non_striker: Musa Shaheen
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 7.2:
+        non_striker: HAM Shah
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 7.3:
+        non_striker: HAM Shah
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Musa Shaheen
+    - 7.4:
+        non_striker: HAM Shah
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 7.5:
+        non_striker: Musa Shaheen
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 7.6:
+        non_striker: HAM Shah
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Musa Shaheen
+    - 8.1:
+        non_striker: Musa Shaheen
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HAM Shah
+    - 8.2:
+        non_striker: Musa Shaheen
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HAM Shah
+    - 8.3:
+        non_striker: Musa Shaheen
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 8.4:
+        non_striker: Musa Shaheen
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 8.5:
+        non_striker: HAM Shah
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Musa Shaheen
+    - 8.6:
+        non_striker: HAM Shah
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 9.1:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 9.2:
+        non_striker: Musa Shaheen
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 9.3:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+        wicket:
+          player_out: Musa Shaheen
+          fielders:
+          - Ahmadullah Shinwari
+          kind: caught
+    - 9.4:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 9.5:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 9.6:
+        non_striker: HAM Shah
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Ahmad
+    - 10.1:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 10.2:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HAM Shah
+    - 10.3:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HAM Shah
+    - 10.4:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 10.5:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 10.6:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 11.1:
+        non_striker: SA Ahmad
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+        wicket:
+          player_out: HAM Shah
+          kind: lbw
+    - 11.2:
+        non_striker: SA Ahmad
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 11.3:
+        non_striker: SA Ahmad
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 11.4:
+        non_striker: SA Ahmad
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Bharaj
+    - 11.5:
+        non_striker: T Bharaj
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 11.6:
+        non_striker: T Bharaj
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 12.1:
+        non_striker: T Bharaj
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 12.2:
+        non_striker: SA Ahmad
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 12.3:
+        non_striker: T Bharaj
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 12.4:
+        non_striker: SA Ahmad
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 12.5:
+        non_striker: T Bharaj
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 12.6:
+        non_striker: T Bharaj
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Ahmad
+    - 13.1:
+        non_striker: SA Ahmad
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Bharaj
+    - 13.2:
+        non_striker: T Bharaj
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 13.3:
+        non_striker: T Bharaj
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 13.4:
+        non_striker: SA Ahmad
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 13.5:
+        non_striker: SA Ahmad
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 13.6:
+        non_striker: T Bharaj
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 14.1:
+        non_striker: T Bharaj
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 14.2:
+        non_striker: SA Ahmad
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bharaj
+    - 14.3:
+        non_striker: SA Ahmad
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bharaj
+    - 14.4:
+        non_striker: SA Ahmad
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bharaj
+    - 14.5:
+        non_striker: SA Ahmad
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 14.6:
+        non_striker: T Bharaj
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Ahmad
+    - 15.1:
+        non_striker: SA Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Bharaj
+    - 15.2:
+        non_striker: SA Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 15.3:
+        non_striker: SA Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 15.4:
+        non_striker: T Bharaj
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 15.5:
+        non_striker: SA Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 15.6:
+        non_striker: SA Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 16.1:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 16.2:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 16.3:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bharaj
+    - 16.4:
+        non_striker: SA Ahmad
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 16.5:
+        non_striker: T Bharaj
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Ahmad
+    - 16.6:
+        non_striker: T Bharaj
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Ahmad
+    - 17.1:
+        non_striker: SA Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Bharaj
+    - 17.2:
+        non_striker: T Bharaj
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Ahmad
+    - 17.3:
+        non_striker: T Bharaj
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+        wicket:
+          player_out: SA Ahmad
+          fielders:
+          - Walid Ghauri
+          kind: caught
+    - 17.4:
+        non_striker: T Bharaj
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 17.5:
+        non_striker: S Thanikaithasan
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 17.6:
+        non_striker: S Thanikaithasan
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+        wicket:
+          player_out: T Bharaj
+          fielders:
+          - Vinay Ravi
+          kind: caught
+    - 17.7:
+        non_striker: S Thanikaithasan
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+    - 18.1:
+        non_striker: Surya Anand
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Thanikaithasan
+    - 18.2:
+        non_striker: Surya Anand
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Thanikaithasan
+    - 18.3:
+        non_striker: Surya Anand
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 18.4:
+        non_striker: S Thanikaithasan
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Surya Anand
+    - 18.5:
+        non_striker: Surya Anand
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+        wicket:
+          player_out: S Thanikaithasan
+          fielders:
+          - Walid Ghauri
+          kind: caught
+    - 18.6:
+        non_striker: Surya Anand
+        bowler: Vinay Ravi
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Delawar Khan
+    - 18.7:
+        non_striker: Surya Anand
+        bowler: Vinay Ravi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Delawar Khan
+    - 19.1:
+        non_striker: Surya Anand
+        bowler: Ibrahim Rahimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Delawar Khan
+        wicket:
+          player_out: Delawar Khan
+          fielders:
+          - Khizer Ahmed
+          kind: caught
+    - 19.2:
+        non_striker: Surya Anand
+        bowler: Ibrahim Rahimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucky Ali
+    - 19.3:
+        non_striker: Surya Anand
+        bowler: Ibrahim Rahimi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lucky Ali
+    - 19.4:
+        non_striker: Surya Anand
+        bowler: Ibrahim Rahimi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lucky Ali
+    - 19.5:
+        non_striker: Surya Anand
+        bowler: Ibrahim Rahimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucky Ali
+    - 19.6:
+        non_striker: Surya Anand
+        bowler: Ibrahim Rahimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucky Ali
+- 2nd innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ibrahim Rahimi
+        batsman: Khizer Ahmed
+    - 0.2:
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ibrahim Rahimi
+        batsman: Khizer Ahmed
+    - 0.3:
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Ibrahim Rahimi
+        batsman: Khizer Ahmed
+    - 0.4:
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ibrahim Rahimi
+        batsman: Khizer Ahmed
+    - 0.5:
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ibrahim Rahimi
+        batsman: Khizer Ahmed
+    - 0.6:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Rahimi
+    - 1.1:
+        non_striker: Ibrahim Rahimi
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 1.2:
+        non_striker: Ibrahim Rahimi
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 1.3:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rahimi
+    - 1.4:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ibrahim Rahimi
+    - 1.5:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rahimi
+    - 1.6:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Rahimi
+    - 2.1:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rahimi
+    - 2.2:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rahimi
+        wicket:
+          player_out: Ibrahim Rahimi
+          fielders:
+          - E Karimi
+          kind: caught
+    - 2.3:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 2.4:
+        non_striker: Walid Ghauri
+        bowler: Delawar Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khizer Ahmed
+    - 2.5:
+        non_striker: Walid Ghauri
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 2.6:
+        non_striker: Walid Ghauri
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 2.7:
+        non_striker: Walid Ghauri
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 3.1:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 3.2:
+        non_striker: Walid Ghauri
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 3.3:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 3.4:
+        non_striker: Walid Ghauri
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 3.5:
+        non_striker: Walid Ghauri
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 3.6:
+        non_striker: Walid Ghauri
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 4.1:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khizer Ahmed
+    - 4.2:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 4.3:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 4.4:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 4.5:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 4.6:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 4.7:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Walid Ghauri
+    - 5.1:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 5.2:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 5.3:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 5.4:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 5.5:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 5.6:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Walid Ghauri
+    - 6.1:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizer Ahmed
+    - 6.2:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 6.3:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 6.4:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 6.5:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 6.6:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 7.1:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 7.2:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 7.3:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khizer Ahmed
+    - 7.4:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 7.5:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 7.6:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 8.1:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 8.2:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 8.3:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khizer Ahmed
+    - 8.4:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 8.5:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 8.6:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 9.1:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 9.2:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 9.3:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 9.4:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 9.5:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 9.6:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 10.1:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 10.2:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 10.3:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 10.4:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 10.5:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 10.6:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 11.1:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 11.2:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 11.3:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 11.4:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 11.5:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Walid Ghauri
+    - 11.6:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 12.1:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Walid Ghauri
+    - 12.2:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Walid Ghauri
+    - 12.3:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Walid Ghauri
+    - 12.4:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 12.5:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 12.6:
+        non_striker: Walid Ghauri
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 12.7:
+        non_striker: Khizer Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 13.1:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 13.2:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 13.3:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 13.4:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 13.5:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizer Ahmed
+    - 13.6:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 14.1:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 14.2:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 14.3:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Walid Ghauri
+    - 14.4:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Walid Ghauri
+    - 14.5:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 14.6:
+        non_striker: Khizer Ahmed
+        bowler: Delawar Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Walid Ghauri
+    - 15.1:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 15.2:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khizer Ahmed
+    - 15.3:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 15.4:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 15.5:
+        non_striker: Khizer Ahmed
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 15.6:
+        non_striker: Walid Ghauri
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 16.1:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 16.2:
+        non_striker: Walid Ghauri
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 16.3:
+        non_striker: Walid Ghauri
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 16.4:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Walid Ghauri
+    - 16.5:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 16.6:
+        non_striker: Khizer Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 17.1:
+        non_striker: Khizer Ahmed
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 17.2:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 17.3:
+        non_striker: Walid Ghauri
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed

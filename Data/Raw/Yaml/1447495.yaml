@@ -1,0 +1,1257 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2024-09-09'
+  gender: male
+  match_type: T20
+  match_type_number: 2847
+  outcome:
+    winner: Singapore
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Myanmar:
+    - KK Lin Thu
+    - Pyae Phyo Wai
+    - H Lin Aung
+    - Khin Aye
+    - Paing Danu
+    - Swann Htet Ko Ko
+    - H Lin Oo
+    - Thuya Aung
+    - Nay Lin Htun
+    - Nyeing Cham Soe
+    - Myat Thu Aung
+    Singapore:
+    - Aman Desai
+    - A Kaul
+    - R Sheshadri
+    - WA Simpson
+    - A Chaudhary
+    - Manpreet Singh
+    - S Chandramohan
+    - R Sharma
+    - R Kalimuthu
+    - H Bharadwaj
+    - AR Puri
+  registry:
+    people:
+      A Chaudhary: 465fd722
+      A Kaul: 53d0b0dc
+      AR Puri: 1f490b28
+      Aman Desai: c10fd8f9
+      Faisal Afridi: ed0bc503
+      H Bharadwaj: 2e89652e
+      H Lin Aung: c343a8c6
+      H Lin Oo: 2e005bfd
+      KK Lin Thu: 6cf75582
+      Khin Aye: ad2efd29
+      Manpreet Singh: e9d6a2ce
+      Myat Thu Aung: cebbf3c9
+      Nay Lin Htun: 5319f95b
+      Nyeing Cham Soe: 45b5ce8d
+      Paing Danu: 1eb5affb
+      Pyae Phyo Wai: '09e86895'
+      R Kalimuthu: 5892ac75
+      R Sharma: 2278c4ca
+      R Sheshadri: d4aa2ddb
+      S Chandramohan: 2a6ccc1c
+      Swann Htet Ko Ko: 9ee21ee4
+      Tabarak Dar: 2259c12d
+      Thuya Aung: 2e092d2c
+      V Kalidas: 42d76418
+      V Narayan Kutty: 4bacee3d
+      WA Simpson: 6de0f650
+  teams:
+  - Myanmar
+  - Singapore
+  toss:
+    winner: Singapore
+    decision: field
+  umpires:
+  - Tabarak Dar
+  - V Kalidas
+  venue: Bayuemas Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: H Bharadwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Pyae Phyo Wai
+        batsman: KK Lin Thu
+    - 0.2:
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Pyae Phyo Wai
+        batsman: KK Lin Thu
+    - 0.3:
+        non_striker: KK Lin Thu
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 0.4:
+        non_striker: Pyae Phyo Wai
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 0.5:
+        non_striker: Pyae Phyo Wai
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Lin Thu
+    - 0.6:
+        non_striker: KK Lin Thu
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 0.7:
+        non_striker: Pyae Phyo Wai
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 1.1:
+        non_striker: KK Lin Thu
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 1.2:
+        non_striker: KK Lin Thu
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 1.3:
+        non_striker: Pyae Phyo Wai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 1.4:
+        non_striker: Pyae Phyo Wai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 1.5:
+        non_striker: Pyae Phyo Wai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Lin Thu
+    - 1.6:
+        non_striker: KK Lin Thu
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 2.1:
+        non_striker: Pyae Phyo Wai
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 2.2:
+        non_striker: Pyae Phyo Wai
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+        wicket:
+          player_out: KK Lin Thu
+          kind: lbw
+    - 2.3:
+        non_striker: Pyae Phyo Wai
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 2.4:
+        non_striker: Pyae Phyo Wai
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 2.5:
+        non_striker: H Lin Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 2.6:
+        non_striker: H Lin Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 3.1:
+        non_striker: H Lin Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 3.2:
+        non_striker: H Lin Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 3.3:
+        non_striker: Pyae Phyo Wai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 3.4:
+        non_striker: H Lin Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 3.5:
+        non_striker: H Lin Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 3.6:
+        non_striker: H Lin Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 4.1:
+        non_striker: Pyae Phyo Wai
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 4.2:
+        non_striker: Pyae Phyo Wai
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 4.3:
+        non_striker: Pyae Phyo Wai
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Lin Aung
+    - 4.4:
+        non_striker: Pyae Phyo Wai
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 4.5:
+        non_striker: H Lin Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 4.6:
+        non_striker: H Lin Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 5.1:
+        non_striker: Pyae Phyo Wai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 5.2:
+        non_striker: Pyae Phyo Wai
+        bowler: AR Puri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lin Aung
+    - 5.3:
+        non_striker: Pyae Phyo Wai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 5.4:
+        non_striker: H Lin Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 5.5:
+        non_striker: H Lin Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 5.6:
+        non_striker: H Lin Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 5.7:
+        non_striker: H Lin Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pyae Phyo Wai
+    - 6.1:
+        non_striker: Pyae Phyo Wai
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Lin Aung
+    - 6.2:
+        non_striker: Pyae Phyo Wai
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 6.3:
+        non_striker: Pyae Phyo Wai
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 6.4:
+        non_striker: Pyae Phyo Wai
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 6.5:
+        non_striker: H Lin Aung
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 6.6:
+        non_striker: H Lin Aung
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 7.1:
+        non_striker: H Lin Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+        wicket:
+          player_out: Pyae Phyo Wai
+          fielders:
+          - R Sharma
+          kind: caught
+    - 7.2:
+        non_striker: H Lin Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 7.3:
+        non_striker: H Lin Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 7.4:
+        non_striker: H Lin Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 7.5:
+        non_striker: H Lin Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 7.6:
+        non_striker: H Lin Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 8.1:
+        non_striker: Khin Aye
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 8.2:
+        non_striker: Khin Aye
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+        wicket:
+          player_out: H Lin Aung
+          fielders:
+          - R Kalimuthu
+          kind: caught
+    - 8.3:
+        non_striker: Khin Aye
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 8.4:
+        non_striker: Khin Aye
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+    - 8.5:
+        non_striker: Khin Aye
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Paing Danu
+        wicket:
+          player_out: Paing Danu
+          fielders:
+          - R Sharma
+          kind: caught
+    - 8.6:
+        non_striker: Khin Aye
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Swann Htet Ko Ko
+    - 9.1:
+        non_striker: Khin Aye
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Swann Htet Ko Ko
+    - 9.2:
+        non_striker: Khin Aye
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Swann Htet Ko Ko
+    - 9.3:
+        non_striker: Khin Aye
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Swann Htet Ko Ko
+    - 9.4:
+        non_striker: Swann Htet Ko Ko
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+        wicket:
+          player_out: Khin Aye
+          kind: bowled
+    - 9.5:
+        non_striker: Swann Htet Ko Ko
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+        wicket:
+          player_out: H Lin Oo
+          kind: bowled
+    - 9.6:
+        non_striker: Swann Htet Ko Ko
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 10.1:
+        non_striker: Thuya Aung
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Swann Htet Ko Ko
+    - 10.2:
+        non_striker: Swann Htet Ko Ko
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 10.3:
+        non_striker: Swann Htet Ko Ko
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 10.4:
+        non_striker: Swann Htet Ko Ko
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 10.5:
+        non_striker: Swann Htet Ko Ko
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 10.6:
+        non_striker: Swann Htet Ko Ko
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 11.1:
+        non_striker: Thuya Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Swann Htet Ko Ko
+        wicket:
+          player_out: Swann Htet Ko Ko
+          fielders:
+          - Aman Desai
+          kind: caught
+    - 11.2:
+        non_striker: Thuya Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nay Lin Htun
+    - 11.3:
+        non_striker: Thuya Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nay Lin Htun
+    - 11.4:
+        non_striker: Thuya Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nay Lin Htun
+    - 11.5:
+        non_striker: Thuya Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nay Lin Htun
+    - 11.6:
+        non_striker: Thuya Aung
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nay Lin Htun
+    - 12.1:
+        non_striker: Nay Lin Htun
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 12.2:
+        non_striker: Nay Lin Htun
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+        wicket:
+          player_out: Nay Lin Htun
+          fielders:
+          - Manpreet Singh
+          - H Bharadwaj
+          kind: run out
+    - 12.3:
+        non_striker: Thuya Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 12.4:
+        non_striker: Thuya Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 12.5:
+        non_striker: Thuya Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 12.6:
+        non_striker: Thuya Aung
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nyeing Cham Soe
+    - 13.1:
+        non_striker: Thuya Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 13.2:
+        non_striker: Thuya Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nyeing Cham Soe
+    - 13.3:
+        non_striker: Thuya Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 13.4:
+        non_striker: Thuya Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 13.5:
+        non_striker: Thuya Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+        wicket:
+          player_out: Nyeing Cham Soe
+          fielders:
+          - Manpreet Singh
+          kind: caught
+    - 13.6:
+        non_striker: Thuya Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 13.7:
+        non_striker: Thuya Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 14.1:
+        non_striker: Myat Thu Aung
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 14.2:
+        non_striker: Myat Thu Aung
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 14.3:
+        non_striker: Myat Thu Aung
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 14.4:
+        non_striker: Myat Thu Aung
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 14.5:
+        non_striker: Thuya Aung
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 14.6:
+        non_striker: Thuya Aung
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 15.1:
+        non_striker: Myat Thu Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 15.2:
+        non_striker: Myat Thu Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 15.3:
+        non_striker: Thuya Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 15.4:
+        non_striker: Myat Thu Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 15.5:
+        non_striker: Myat Thu Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Thuya Aung
+    - 15.6:
+        non_striker: Myat Thu Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 15.7:
+        non_striker: Thuya Aung
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 16.1:
+        non_striker: Myat Thu Aung
+        bowler: R Sheshadri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Thuya Aung
+    - 16.2:
+        non_striker: Myat Thu Aung
+        bowler: R Sheshadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 16.3:
+        non_striker: Myat Thu Aung
+        bowler: R Sheshadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 16.4:
+        non_striker: Myat Thu Aung
+        bowler: R Sheshadri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Thuya Aung
+    - 16.5:
+        non_striker: Myat Thu Aung
+        bowler: R Sheshadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 16.6:
+        non_striker: Myat Thu Aung
+        bowler: R Sheshadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 17.1:
+        non_striker: Thuya Aung
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 17.2:
+        non_striker: Thuya Aung
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 17.3:
+        non_striker: Myat Thu Aung
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 17.4:
+        non_striker: Myat Thu Aung
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 17.5:
+        non_striker: Myat Thu Aung
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+        wicket:
+          player_out: Thuya Aung
+          kind: bowled
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kaul
+        batsman: Aman Desai
+    - 0.2:
+        non_striker: A Kaul
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: Aman Desai
+          kind: bowled
+    - 0.3:
+        non_striker: A Kaul
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sheshadri
+    - 0.4:
+        non_striker: A Kaul
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sheshadri
+    - 0.5:
+        non_striker: R Sheshadri
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 0.6:
+        non_striker: R Sheshadri
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 1.1:
+        non_striker: A Kaul
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sheshadri
+    - 1.2:
+        non_striker: R Sheshadri
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 1.3:
+        non_striker: A Kaul
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sheshadri
+    - 1.4:
+        non_striker: A Kaul
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sheshadri
+    - 1.5:
+        non_striker: A Kaul
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sheshadri
+    - 1.6:
+        non_striker: R Sheshadri
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 2.1:
+        non_striker: R Sheshadri
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kaul
+    - 2.2:
+        non_striker: R Sheshadri
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 2.3:
+        non_striker: A Kaul
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sheshadri
+    - 2.4:
+        non_striker: A Kaul
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Sheshadri
+    - 2.5:
+        non_striker: A Kaul
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sheshadri
+    - 2.6:
+        non_striker: R Sheshadri
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 3.1:
+        non_striker: R Sheshadri
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+        wicket:
+          player_out: A Kaul
+          kind: caught and bowled
+    - 3.2:
+        non_striker: R Sheshadri
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Simpson
+    - 3.3:
+        non_striker: R Sheshadri
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Simpson
+    - 3.4:
+        non_striker: R Sheshadri
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Simpson
+    - 3.5:
+        non_striker: R Sheshadri
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Simpson
+    - 3.6:
+        non_striker: R Sheshadri
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Simpson
+    - 4.1:
+        non_striker: R Sheshadri
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Simpson
+    - 4.2:
+        non_striker: WA Simpson
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sheshadri
+    - 4.3:
+        non_striker: R Sheshadri
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Simpson
+    - 4.4:
+        non_striker: R Sheshadri
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Simpson

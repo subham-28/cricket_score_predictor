@@ -1,0 +1,1719 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gibraltar
+  dates:
+  - '2024-12-15'
+  gender: female
+  match_type: T20
+  match_type_number: 2155
+  outcome:
+    winner: Jersey
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - CM Greechan
+  players:
+    Gibraltar:
+    - N Caruana
+    - N Laguea
+    - AIV Benatar
+    - CT McNally
+    - EAS Ferrary
+    - RA Reilly
+    - LJ Payas
+    - YS Blagg
+    - P Raghunath
+    - H Mumford
+    - S Barton
+    Jersey:
+    - A Merritt
+    - A Aikenhead
+    - L Greig
+    - T Smith
+    - F Tanguy
+    - G Mallett
+    - G Wetherall
+    - CM Greechan
+    - M Maguire
+    - O Bastin
+    - E Duffy
+  registry:
+    people:
+      A Aikenhead: 007f121f
+      A Merritt: 4c87bd01
+      AIV Benatar: e8bdbbca
+      CM Greechan: 569bbcbb
+      CT McNally: 6a32ef43
+      E Duffy: 52bbb9e5
+      EAS Ferrary: c3c905ae
+      F Tanguy: c46400b7
+      G Mallett: 95bf6b2a
+      G Wetherall: 5c77d7cb
+      H Mumford: 6462c64b
+      L Greig: 0e3e8ce3
+      LJ Payas: '49355360'
+      M Maguire: 0441a1f5
+      N Caruana: 00d1544c
+      N Laguea: '13496389'
+      O Bastin: 9b6dde07
+      P Raghunath: 2e287171
+      RA Reilly: 77276fff
+      S Barton: f7dd8b46
+      T Smith: f24ffaab
+      YS Blagg: 3aac5463
+  teams:
+  - Gibraltar
+  - Jersey
+  toss:
+    winner: Jersey
+    decision: field
+  venue: Europa Sports Complex
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Laguea
+        batsman: N Caruana
+    - 0.2:
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Laguea
+        batsman: N Caruana
+    - 0.3:
+        non_striker: N Laguea
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Caruana
+        wicket:
+          player_out: N Caruana
+          kind: bowled
+    - 0.4:
+        non_striker: N Laguea
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 0.5:
+        non_striker: N Laguea
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 0.6:
+        non_striker: N Laguea
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 1.1:
+        non_striker: AIV Benatar
+        bowler: G Wetherall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Laguea
+    - 1.2:
+        non_striker: AIV Benatar
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Laguea
+    - 1.3:
+        non_striker: AIV Benatar
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Laguea
+    - 1.4:
+        non_striker: N Laguea
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 1.5:
+        non_striker: N Laguea
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 1.6:
+        non_striker: N Laguea
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 1.7:
+        non_striker: N Laguea
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AIV Benatar
+    - 2.1:
+        non_striker: AIV Benatar
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Laguea
+    - 2.2:
+        non_striker: AIV Benatar
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Laguea
+        wicket:
+          player_out: N Laguea
+          kind: lbw
+    - 2.3:
+        non_striker: AIV Benatar
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 2.4:
+        non_striker: AIV Benatar
+        bowler: CM Greechan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CT McNally
+    - 2.5:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 2.6:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 3.1:
+        non_striker: AIV Benatar
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 3.2:
+        non_striker: AIV Benatar
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 3.3:
+        non_striker: AIV Benatar
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 3.4:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 3.5:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 3.6:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 4.1:
+        non_striker: AIV Benatar
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 4.2:
+        non_striker: AIV Benatar
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 4.3:
+        non_striker: AIV Benatar
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 4.4:
+        non_striker: AIV Benatar
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 4.5:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 4.6:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 5.1:
+        non_striker: AIV Benatar
+        bowler: F Tanguy
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: CT McNally
+    - 5.2:
+        non_striker: CT McNally
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 5.3:
+        non_striker: CT McNally
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 5.4:
+        non_striker: CT McNally
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 5.5:
+        non_striker: AIV Benatar
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 5.6:
+        non_striker: AIV Benatar
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 5.7:
+        non_striker: AIV Benatar
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 6.1:
+        non_striker: CT McNally
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 6.2:
+        non_striker: AIV Benatar
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 6.3:
+        non_striker: AIV Benatar
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 6.4:
+        non_striker: AIV Benatar
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 6.5:
+        non_striker: AIV Benatar
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 6.6:
+        non_striker: CT McNally
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 7.1:
+        non_striker: AIV Benatar
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CT McNally
+    - 7.2:
+        non_striker: AIV Benatar
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 7.3:
+        non_striker: CT McNally
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AIV Benatar
+    - 7.4:
+        non_striker: CT McNally
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 7.5:
+        non_striker: AIV Benatar
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 7.6:
+        non_striker: CT McNally
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 7.7:
+        non_striker: AIV Benatar
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 7.8:
+        non_striker: CT McNally
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 8.1:
+        non_striker: AIV Benatar
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 8.2:
+        non_striker: AIV Benatar
+        bowler: O Bastin
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: CT McNally
+    - 8.3:
+        non_striker: CT McNally
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 8.4:
+        non_striker: CT McNally
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 8.5:
+        non_striker: AIV Benatar
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 8.6:
+        non_striker: CT McNally
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 8.7:
+        non_striker: AIV Benatar
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 9.1:
+        non_striker: CT McNally
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 9.2:
+        non_striker: AIV Benatar
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 9.3:
+        non_striker: AIV Benatar
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 9.4:
+        non_striker: AIV Benatar
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 9.5:
+        non_striker: AIV Benatar
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 9.6:
+        non_striker: AIV Benatar
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 10.1:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AIV Benatar
+    - 10.2:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 10.3:
+        non_striker: AIV Benatar
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 10.4:
+        non_striker: AIV Benatar
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 10.5:
+        non_striker: AIV Benatar
+        bowler: E Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CT McNally
+    - 10.6:
+        non_striker: AIV Benatar
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 10.7:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AIV Benatar
+    - 10.8:
+        non_striker: AIV Benatar
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 11.1:
+        non_striker: AIV Benatar
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 11.2:
+        non_striker: AIV Benatar
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 11.3:
+        non_striker: AIV Benatar
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 11.4:
+        non_striker: AIV Benatar
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 11.5:
+        non_striker: AIV Benatar
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 11.6:
+        non_striker: CT McNally
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AIV Benatar
+    - 12.1:
+        non_striker: AIV Benatar
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 12.2:
+        non_striker: AIV Benatar
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+        wicket:
+          player_out: AIV Benatar
+          fielders:
+          - A Merritt
+          - M Maguire
+          kind: run out
+    - 12.3:
+        non_striker: CT McNally
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 12.4:
+        non_striker: EAS Ferrary
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 12.5:
+        non_striker: EAS Ferrary
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 12.6:
+        non_striker: CT McNally
+        bowler: G Mallett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EAS Ferrary
+    - 12.7:
+        non_striker: CT McNally
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 13.1:
+        non_striker: CT McNally
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 13.2:
+        non_striker: EAS Ferrary
+        bowler: A Merritt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CT McNally
+    - 13.3:
+        non_striker: EAS Ferrary
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 13.4:
+        non_striker: CT McNally
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 13.5:
+        non_striker: EAS Ferrary
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 13.6:
+        non_striker: CT McNally
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 13.7:
+        non_striker: CT McNally
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 14.1:
+        non_striker: EAS Ferrary
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 14.2:
+        non_striker: EAS Ferrary
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 14.3:
+        non_striker: CT McNally
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAS Ferrary
+    - 14.4:
+        non_striker: EAS Ferrary
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 14.5:
+        non_striker: EAS Ferrary
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 14.6:
+        non_striker: CT McNally
+        bowler: O Bastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+    - 15.1:
+        non_striker: EAS Ferrary
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT McNally
+    - 15.2:
+        non_striker: CT McNally
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAS Ferrary
+        wicket:
+          player_out: EAS Ferrary
+          kind: bowled
+    - 15.3:
+        non_striker: CT McNally
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 15.4:
+        non_striker: CT McNally
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 15.5:
+        non_striker: CT McNally
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reilly
+    - 15.6:
+        non_striker: RA Reilly
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT McNally
+    - 16.1:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 16.2:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 16.3:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 16.4:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 16.5:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 16.6:
+        non_striker: CT McNally
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reilly
+    - 17.1:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 17.2:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 17.3:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RA Reilly
+    - 17.4:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 17.5:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 17.6:
+        non_striker: CT McNally
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+        wicket:
+          player_out: CT McNally
+          fielders:
+          - M Maguire
+          - O Bastin
+          kind: run out
+    - 17.7:
+        non_striker: RA Reilly
+        bowler: E Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Payas
+    - 17.8:
+        non_striker: RA Reilly
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Payas
+        wicket:
+          player_out: LJ Payas
+          kind: bowled
+    - 18.1:
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: YS Blagg
+        batsman: RA Reilly
+    - 18.2:
+        non_striker: RA Reilly
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Blagg
+    - 18.3:
+        non_striker: RA Reilly
+        bowler: F Tanguy
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: YS Blagg
+    - 18.4:
+        non_striker: YS Blagg
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reilly
+    - 18.5:
+        non_striker: RA Reilly
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Blagg
+    - 18.6:
+        non_striker: RA Reilly
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Blagg
+    - 18.7:
+        non_striker: YS Blagg
+        bowler: F Tanguy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reilly
+    - 19.1:
+        non_striker: YS Blagg
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Reilly
+    - 19.2:
+        non_striker: YS Blagg
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+    - 19.3:
+        non_striker: YS Blagg
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reilly
+        wicket:
+          player_out: RA Reilly
+          kind: bowled
+    - 19.4:
+        non_striker: YS Blagg
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Raghunath
+    - 19.5:
+        non_striker: YS Blagg
+        bowler: G Wetherall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Raghunath
+    - 19.6:
+        non_striker: P Raghunath
+        bowler: G Wetherall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Blagg
+- 2nd innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Aikenhead
+        batsman: A Merritt
+    - 0.2:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 0.3:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 0.4:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 0.5:
+        non_striker: A Aikenhead
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 0.6:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Aikenhead
+    - 0.7:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 1.1:
+        non_striker: A Merritt
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 1.2:
+        non_striker: A Merritt
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 1.3:
+        non_striker: A Aikenhead
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 1.4:
+        non_striker: A Merritt
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 1.5:
+        non_striker: A Aikenhead
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 1.6:
+        non_striker: A Merritt
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 2.1:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Aikenhead
+    - 2.2:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aikenhead
+    - 2.3:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Aikenhead
+    - 2.4:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 2.5:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 2.6:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aikenhead
+    - 2.7:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 2.8:
+        non_striker: A Aikenhead
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 3.1:
+        non_striker: A Merritt
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 3.2:
+        non_striker: A Aikenhead
+        bowler: EAS Ferrary
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Merritt
+    - 3.3:
+        non_striker: A Merritt
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 3.4:
+        non_striker: A Aikenhead
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 3.5:
+        non_striker: A Aikenhead
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 3.6:
+        non_striker: A Merritt
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aikenhead
+    - 3.7:
+        non_striker: A Merritt
+        bowler: EAS Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 4.1:
+        non_striker: A Aikenhead
+        bowler: AIV Benatar
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Merritt
+    - 4.2:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aikenhead
+    - 4.3:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+        wicket:
+          player_out: A Aikenhead
+          kind: bowled
+    - 4.4:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Greig
+    - 4.5:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 4.6:
+        non_striker: A Merritt
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 4.7:
+        non_striker: L Greig
+        bowler: AIV Benatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Merritt
+    - 5.1:
+        non_striker: A Merritt
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Greig
+    - 5.2:
+        non_striker: A Merritt
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Greig
+    - 5.3:
+        non_striker: A Merritt
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 5.4:
+        non_striker: L Greig
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 5.5:
+        non_striker: A Merritt
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+        wicket:
+          player_out: L Greig
+          kind: bowled
+    - 5.6:
+        non_striker: A Merritt
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 5.7:
+        non_striker: A Merritt
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Smith
+    - 5.8:
+        non_striker: A Merritt
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 6.1:
+        non_striker: T Smith
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 6.2:
+        non_striker: T Smith
+        bowler: P Raghunath
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Merritt
+    - 6.3:
+        non_striker: A Merritt
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 6.4:
+        non_striker: A Merritt
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 6.5:
+        non_striker: A Merritt
+        bowler: P Raghunath
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: T Smith
+    - 6.6:
+        non_striker: A Merritt
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 6.7:
+        non_striker: A Merritt
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 6.8:
+        non_striker: T Smith
+        bowler: P Raghunath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 7.1:
+        non_striker: A Merritt
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 7.2:
+        non_striker: T Smith
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 7.3:
+        non_striker: T Smith
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 7.4:
+        non_striker: A Merritt
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 7.5:
+        non_striker: T Smith
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Merritt
+    - 7.6:
+        non_striker: T Smith
+        bowler: YS Blagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Merritt
+    - 7.7:
+        non_striker: T Smith
+        bowler: YS Blagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 8.1:
+        non_striker: T Smith
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Merritt
+    - 8.2:
+        non_striker: T Smith
+        bowler: H Mumford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Merritt
+    - 8.3:
+        non_striker: T Smith
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 8.4:
+        non_striker: A Merritt
+        bowler: H Mumford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith

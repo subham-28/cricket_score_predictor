@@ -1,0 +1,2147 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dar-es-Salaam
+  dates:
+  - '2024-09-22'
+  gender: male
+  match_type: T20
+  match_type_number: 2856
+  outcome:
+    winner: Malawi
+    by:
+      runs: 25
+  overs: 20
+  player_of_match:
+  - MA Baig
+  players:
+    Malawi:
+    - D Kansonkho
+    - G Kansonkho
+    - Sami Sohail
+    - A Limdawala
+    - MA Baig
+    - GM Ntambalika
+    - M Choamba
+    - B Pondani
+    - P Zuze
+    - D Jakiel
+    - SZ Vayani
+    Ghana:
+    - R Baaleri
+    - P Yevugah
+    - OH Agbomadzie
+    - PK Ananya
+    - SK Awiah
+    - A Osei
+    - V Ateak
+    - G Bakiweyem
+    - F Baleri
+    - KS Bagabena
+    - E Frimpong
+  registry:
+    people:
+      A Limdawala: 2bcbcac3
+      A Osei: 375322d1
+      B Pondani: e5117568
+      D Jakiel: 8b7ce771
+      D Kansonkho: 45ca12a7
+      D Odhiambo: '45994517'
+      E Frimpong: 3c13fc3b
+      F Baleri: 6efdad14
+      G Bakiweyem: 5fe3709e
+      G Kansonkho: f3ca5af8
+      GM Ntambalika: 8c8a3f08
+      KS Bagabena: 1ce4f664
+      LB Gcuma: 02ba88e3
+      M Choamba: 5570c4c1
+      MA Baig: '89394502'
+      OH Agbomadzie: b38a9f73
+      P Yevugah: 5c842df4
+      P Zuze: '04420914'
+      PK Ananya: bc69a6d3
+      Patric Makumbi: e4c69c16
+      R Baaleri: 26c9b5be
+      S Wadvalla: c1a1acf3
+      SK Awiah: bc3fc527
+      SZ Vayani: a4afc486
+      Sami Sohail: 602ebd4c
+      V Ateak: 65a60be7
+  teams:
+  - Malawi
+  - Ghana
+  toss:
+    winner: Ghana
+    decision: field
+  umpires:
+  - D Odhiambo
+  - LB Gcuma
+  venue: University of Dar-es-Salaam Ground
+innings:
+- 1st innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Kansonkho
+        batsman: D Kansonkho
+    - 0.2:
+        non_striker: D Kansonkho
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 0.3:
+        non_striker: D Kansonkho
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 0.4:
+        non_striker: D Kansonkho
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 0.5:
+        non_striker: D Kansonkho
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+        wicket:
+          player_out: G Kansonkho
+          kind: bowled
+    - 0.6:
+        non_striker: D Kansonkho
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 1.1:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 1.2:
+        non_striker: D Kansonkho
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 1.3:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kansonkho
+    - 1.4:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 1.5:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 1.6:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 1.7:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 2.1:
+        non_striker: D Kansonkho
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 2.2:
+        non_striker: D Kansonkho
+        bowler: G Bakiweyem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sami Sohail
+    - 2.3:
+        non_striker: D Kansonkho
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 2.4:
+        non_striker: Sami Sohail
+        bowler: G Bakiweyem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kansonkho
+    - 2.5:
+        non_striker: Sami Sohail
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kansonkho
+    - 2.6:
+        non_striker: Sami Sohail
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 2.7:
+        non_striker: Sami Sohail
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kansonkho
+    - 2.8:
+        non_striker: Sami Sohail
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Kansonkho
+    - 3.1:
+        non_striker: D Kansonkho
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 3.2:
+        non_striker: D Kansonkho
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 3.3:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 3.4:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 3.5:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kansonkho
+    - 3.6:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 4.1:
+        non_striker: Sami Sohail
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 4.2:
+        non_striker: Sami Sohail
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 4.3:
+        non_striker: Sami Sohail
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 4.4:
+        non_striker: D Kansonkho
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 4.5:
+        non_striker: D Kansonkho
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 4.6:
+        non_striker: Sami Sohail
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 5.1:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 5.2:
+        non_striker: D Kansonkho
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 5.3:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 5.4:
+        non_striker: Sami Sohail
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 5.5:
+        non_striker: D Kansonkho
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 5.6:
+        non_striker: D Kansonkho
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 6.1:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 6.2:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 6.3:
+        non_striker: D Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 6.4:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 6.5:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Kansonkho
+    - 6.6:
+        non_striker: D Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 7.1:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 7.2:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 7.3:
+        non_striker: D Kansonkho
+        bowler: V Ateak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sami Sohail
+    - 7.4:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kansonkho
+    - 7.5:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 7.6:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kansonkho
+    - 7.7:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 8.1:
+        non_striker: Sami Sohail
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 8.2:
+        non_striker: Sami Sohail
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 8.3:
+        non_striker: Sami Sohail
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 8.4:
+        non_striker: D Kansonkho
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 8.5:
+        non_striker: D Kansonkho
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 8.6:
+        non_striker: Sami Sohail
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 9.1:
+        non_striker: D Kansonkho
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 9.2:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kansonkho
+    - 9.3:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+        wicket:
+          player_out: D Kansonkho
+          kind: bowled
+    - 9.4:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 9.5:
+        non_striker: A Limdawala
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 9.6:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Limdawala
+    - 9.7:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 10.1:
+        non_striker: A Limdawala
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 10.2:
+        non_striker: A Limdawala
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 10.3:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 10.4:
+        non_striker: A Limdawala
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 10.5:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 10.6:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+        wicket:
+          player_out: A Limdawala
+          kind: caught and bowled
+    - 11.1:
+        non_striker: MA Baig
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+        wicket:
+          player_out: Sami Sohail
+          kind: bowled
+    - 11.2:
+        non_striker: MA Baig
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 11.3:
+        non_striker: MA Baig
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 11.4:
+        non_striker: GM Ntambalika
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Baig
+    - 11.5:
+        non_striker: GM Ntambalika
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 11.6:
+        non_striker: MA Baig
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 12.1:
+        non_striker: MA Baig
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 12.2:
+        non_striker: MA Baig
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 12.3:
+        non_striker: GM Ntambalika
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 12.4:
+        non_striker: GM Ntambalika
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 12.5:
+        non_striker: MA Baig
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 12.6:
+        non_striker: MA Baig
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 13.1:
+        non_striker: GM Ntambalika
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 13.2:
+        non_striker: GM Ntambalika
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 13.3:
+        non_striker: MA Baig
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 13.4:
+        non_striker: MA Baig
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GM Ntambalika
+    - 13.5:
+        non_striker: MA Baig
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 13.6:
+        non_striker: GM Ntambalika
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 14.1:
+        non_striker: MA Baig
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GM Ntambalika
+    - 14.2:
+        non_striker: MA Baig
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GM Ntambalika
+    - 14.3:
+        non_striker: MA Baig
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Ntambalika
+    - 14.4:
+        non_striker: MA Baig
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 14.5:
+        non_striker: GM Ntambalika
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 14.6:
+        non_striker: MA Baig
+        bowler: R Baaleri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 15.1:
+        non_striker: MA Baig
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 15.2:
+        non_striker: MA Baig
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 15.3:
+        non_striker: GM Ntambalika
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 15.4:
+        non_striker: GM Ntambalika
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 15.5:
+        non_striker: GM Ntambalika
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Baig
+    - 15.6:
+        non_striker: GM Ntambalika
+        bowler: E Frimpong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 16.1:
+        non_striker: GM Ntambalika
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 16.2:
+        non_striker: MA Baig
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GM Ntambalika
+    - 16.3:
+        non_striker: GM Ntambalika
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 16.4:
+        non_striker: GM Ntambalika
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 16.5:
+        non_striker: GM Ntambalika
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 16.6:
+        non_striker: MA Baig
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 17.1:
+        non_striker: MA Baig
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GM Ntambalika
+    - 17.2:
+        non_striker: MA Baig
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 17.3:
+        non_striker: GM Ntambalika
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 17.4:
+        non_striker: MA Baig
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 17.5:
+        non_striker: GM Ntambalika
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 17.6:
+        non_striker: MA Baig
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 18.1:
+        non_striker: GM Ntambalika
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 18.2:
+        non_striker: GM Ntambalika
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 18.3:
+        non_striker: GM Ntambalika
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 18.4:
+        non_striker: MA Baig
+        bowler: G Bakiweyem
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: GM Ntambalika
+    - 18.5:
+        non_striker: MA Baig
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 18.6:
+        non_striker: GM Ntambalika
+        bowler: G Bakiweyem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 19.1:
+        non_striker: GM Ntambalika
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 19.2:
+        non_striker: MA Baig
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 19.3:
+        non_striker: MA Baig
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+        wicket:
+          player_out: GM Ntambalika
+          fielders:
+          - SK Awiah
+          kind: caught
+    - 19.4:
+        non_striker: MA Baig
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 19.5:
+        non_striker: M Choamba
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 19.6:
+        non_striker: MA Baig
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Choamba
+- 2nd innings:
+    team: Ghana
+    deliveries:
+    - 0.1:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Yevugah
+        batsman: R Baaleri
+    - 0.2:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Yevugah
+        batsman: R Baaleri
+    - 0.3:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Yevugah
+        batsman: R Baaleri
+    - 0.4:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Yevugah
+        batsman: R Baaleri
+    - 0.5:
+        non_striker: R Baaleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Yevugah
+    - 0.6:
+        non_striker: R Baaleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Yevugah
+    - 1.1:
+        non_striker: R Baaleri
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+    - 1.2:
+        non_striker: R Baaleri
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+    - 1.3:
+        non_striker: R Baaleri
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Yevugah
+    - 1.4:
+        non_striker: P Yevugah
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 1.5:
+        non_striker: P Yevugah
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+        wicket:
+          player_out: P Yevugah
+          fielders:
+          - B Pondani
+          - P Zuze
+          kind: run out
+    - 1.6:
+        non_striker: R Baaleri
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 2.1:
+        non_striker: R Baaleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 2.2:
+        non_striker: OH Agbomadzie
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 2.3:
+        non_striker: OH Agbomadzie
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 2.4:
+        non_striker: R Baaleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OH Agbomadzie
+    - 2.5:
+        non_striker: OH Agbomadzie
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 2.6:
+        non_striker: R Baaleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OH Agbomadzie
+    - 3.1:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Baaleri
+    - 3.2:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 3.3:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 3.4:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+        wicket:
+          player_out: R Baaleri
+          fielders:
+          - P Zuze
+          kind: caught
+    - 3.5:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Ananya
+    - 3.6:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Ananya
+    - 4.1:
+        non_striker: OH Agbomadzie
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Ananya
+        wicket:
+          player_out: PK Ananya
+          fielders:
+          - P Zuze
+          kind: caught
+    - 4.2:
+        non_striker: OH Agbomadzie
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 4.3:
+        non_striker: OH Agbomadzie
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Awiah
+    - 4.4:
+        non_striker: SK Awiah
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 4.5:
+        non_striker: SK Awiah
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OH Agbomadzie
+    - 4.6:
+        non_striker: SK Awiah
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 4.7:
+        non_striker: SK Awiah
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 5.1:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Awiah
+    - 5.2:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 5.3:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 5.4:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 5.5:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 5.6:
+        non_striker: OH Agbomadzie
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 6.1:
+        non_striker: SK Awiah
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 6.2:
+        non_striker: OH Agbomadzie
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 6.3:
+        non_striker: OH Agbomadzie
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 6.4:
+        non_striker: OH Agbomadzie
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+    - 6.5:
+        non_striker: OH Agbomadzie
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Awiah
+        wicket:
+          player_out: SK Awiah
+          fielders:
+          - A Limdawala
+          kind: caught
+    - 6.6:
+        non_striker: OH Agbomadzie
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 7.1:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 7.2:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 7.3:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OH Agbomadzie
+    - 7.4:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OH Agbomadzie
+    - 7.5:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OH Agbomadzie
+    - 7.6:
+        non_striker: OH Agbomadzie
+        bowler: SZ Vayani
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: A Osei
+    - 7.7:
+        non_striker: OH Agbomadzie
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 8.1:
+        non_striker: A Osei
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OH Agbomadzie
+    - 8.2:
+        non_striker: A Osei
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 8.3:
+        non_striker: A Osei
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 8.4:
+        non_striker: A Osei
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+        wicket:
+          player_out: OH Agbomadzie
+          kind: bowled
+    - 8.5:
+        non_striker: A Osei
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ateak
+    - 8.6:
+        non_striker: A Osei
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ateak
+    - 9.1:
+        non_striker: V Ateak
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Osei
+    - 9.2:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ateak
+    - 9.3:
+        non_striker: V Ateak
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 9.4:
+        non_striker: V Ateak
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 9.5:
+        non_striker: V Ateak
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Osei
+    - 9.6:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ateak
+    - 10.1:
+        non_striker: V Ateak
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 10.2:
+        non_striker: V Ateak
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Osei
+    - 10.3:
+        non_striker: V Ateak
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 10.4:
+        non_striker: V Ateak
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Osei
+    - 10.5:
+        non_striker: A Osei
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ateak
+    - 10.6:
+        non_striker: V Ateak
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+    - 11.1:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ateak
+    - 11.2:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ateak
+    - 11.3:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ateak
+    - 11.4:
+        non_striker: V Ateak
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Osei
+    - 11.5:
+        non_striker: V Ateak
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Osei
+    - 11.6:
+        non_striker: A Osei
+        bowler: SZ Vayani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: V Ateak
+    - 12.1:
+        non_striker: V Ateak
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Osei
+        wicket:
+          player_out: A Osei
+          fielders:
+          - Sami Sohail
+          - MA Baig
+          kind: run out
+    - 12.2:
+        non_striker: V Ateak
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Bakiweyem
+    - 12.3:
+        non_striker: G Bakiweyem
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ateak
+    - 12.4:
+        non_striker: G Bakiweyem
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ateak
+    - 12.5:
+        non_striker: G Bakiweyem
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ateak
+    - 12.6:
+        non_striker: G Bakiweyem
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ateak
+        wicket:
+          player_out: V Ateak
+          fielders:
+          - A Limdawala
+          kind: caught
+    - 13.1:
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Baleri
+        batsman: G Bakiweyem
+    - 13.2:
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: F Baleri
+        batsman: G Bakiweyem
+    - 13.3:
+        non_striker: G Bakiweyem
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 13.4:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Bakiweyem
+    - 13.5:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Bakiweyem
+    - 13.6:
+        non_striker: G Bakiweyem
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 13.7:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Bakiweyem
+    - 14.1:
+        non_striker: G Bakiweyem
+        bowler: A Limdawala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 14.2:
+        non_striker: F Baleri
+        bowler: A Limdawala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Bakiweyem
+    - 14.3:
+        non_striker: G Bakiweyem
+        bowler: A Limdawala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Baleri
+    - 14.4:
+        non_striker: G Bakiweyem
+        bowler: A Limdawala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F Baleri
+    - 14.5:
+        non_striker: F Baleri
+        bowler: A Limdawala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Bakiweyem
+    - 14.6:
+        non_striker: G Bakiweyem
+        bowler: A Limdawala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Baleri
+    - 15.1:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Bakiweyem
+    - 15.2:
+        non_striker: G Bakiweyem
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 15.3:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Bakiweyem
+    - 15.4:
+        non_striker: G Bakiweyem
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 15.5:
+        non_striker: G Bakiweyem
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 15.6:
+        non_striker: G Bakiweyem
+        bowler: Sami Sohail
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: F Baleri
+    - 16.1:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Bakiweyem
+        wicket:
+          player_out: G Bakiweyem
+          kind: bowled
+    - 16.2:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 16.3:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 16.4:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 16.5:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Bagabena
+    - 16.6:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 16.7:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Bagabena
+    - 16.8:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Bagabena
+    - 17.1:
+        non_striker: KS Bagabena
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 17.2:
+        non_striker: KS Bagabena
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 17.3:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Bagabena
+    - 17.4:
+        non_striker: KS Bagabena
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 17.5:
+        non_striker: KS Bagabena
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 17.6:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Bagabena
+    - 18.1:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Bagabena
+    - 18.2:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Bagabena
+    - 18.3:
+        non_striker: KS Bagabena
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 18.4:
+        non_striker: KS Bagabena
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 18.5:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Bagabena
+    - 18.6:
+        non_striker: KS Bagabena
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+        wicket:
+          player_out: F Baleri
+          fielders:
+          - Sami Sohail
+          kind: caught
+    - 18.7:
+        non_striker: KS Bagabena
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Frimpong
+        wicket:
+          player_out: E Frimpong
+          kind: bowled

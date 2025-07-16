@@ -1,0 +1,2279 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Rome
+  dates:
+  - '2025-05-25'
+  gender: female
+  match_type: T20
+  match_type_number: 2307
+  outcome:
+    winner: Germany
+    by:
+      runs: 28
+  overs: 20
+  player_of_match:
+  - CM Gough
+  players:
+    Germany:
+    - W Hornero-Garcia
+    - K Vijayaraghavan
+    - S Kolcharam
+    - CM Gough
+    - JE Ronalds
+    - N Kingsley
+    - S Sadarangani
+    - Rameesha Shahid
+    - A Kohli
+    - Ashwini Balaji
+    - A Kanukuntla
+    Spain:
+    - A Hartley
+    - Amelia Jones
+    - NH Berejo
+    - A Davidson-Soler
+    - A Brown-Carrera
+    - Uswa Syed
+    - S Basharat
+    - EMC Fowler
+    - P Chilongia
+    - Rabia Mushtaq
+    - Memoona Riaz
+  registry:
+    people:
+      A Brown-Carrera: 9e866d80
+      A Davidson-Soler: 71d6fd2c
+      A Hartley: e31c12c3
+      A Kanukuntla: 2fa8a697
+      A Kohli: eb9082b2
+      Amelia Jones: 61546a94
+      Ashwini Balaji: 81283f75
+      CM Gough: f1328a90
+      EMC Fowler: 4f88a917
+      G McCrea: 46f4a901
+      I McDonald: 37b55799
+      JE Ronalds: d4f98302
+      K Vijayaraghavan: '048da365'
+      Memoona Riaz: 3c5a7deb
+      N Kingsley: 31036a1d
+      NH Berejo: a9ec2608
+      P Chilongia: 764d8336
+      Rabia Mushtaq: a11dbbdb
+      Rameesha Shahid: b810425e
+      S Basharat: 1356b739
+      S Fernando: bbeb5b15
+      S Hodgson: 0d8392ae
+      S Kolcharam: 761c929e
+      S Sadarangani: acd030a0
+      Uswa Syed: cbc0e027
+      W Hornero-Garcia: 7d5fef52
+  teams:
+  - Germany
+  - Spain
+  toss:
+    winner: Spain
+    decision: field
+  umpires:
+  - I McDonald
+  - S Hodgson
+  venue: Simar Cricket Ground, Rome
+innings:
+- 1st innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.2:
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Vijayaraghavan
+        batsman: W Hornero-Garcia
+    - 0.3:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 0.4:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 0.5:
+        non_striker: K Vijayaraghavan
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 0.6:
+        non_striker: K Vijayaraghavan
+        bowler: A Davidson-Soler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 0.7:
+        non_striker: K Vijayaraghavan
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 0.8:
+        non_striker: K Vijayaraghavan
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 1.1:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 1.2:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 1.3:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Vijayaraghavan
+    - 1.4:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 1.5:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 1.6:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 1.7:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 2.1:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 2.2:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Vijayaraghavan
+    - 2.3:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 2.4:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Vijayaraghavan
+    - 2.5:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 2.6:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 3.1:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: W Hornero-Garcia
+    - 3.2:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 3.3:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 3.4:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 3.5:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Hornero-Garcia
+    - 3.6:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 3.7:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 3.8:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 4.1:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 4.2:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 4.3:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Vijayaraghavan
+    - 4.4:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 4.5:
+        non_striker: K Vijayaraghavan
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 4.6:
+        non_striker: K Vijayaraghavan
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 5.1:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 5.2:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.3:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.4:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.5:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Vijayaraghavan
+    - 5.6:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: K Vijayaraghavan
+    - 5.7:
+        non_striker: W Hornero-Garcia
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 6.1:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Vijayaraghavan
+    - 6.2:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 6.3:
+        non_striker: K Vijayaraghavan
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 6.4:
+        non_striker: K Vijayaraghavan
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 6.5:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 6.6:
+        non_striker: W Hornero-Garcia
+        bowler: A Davidson-Soler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Vijayaraghavan
+    - 7.1:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 7.2:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+        wicket:
+          player_out: W Hornero-Garcia
+          fielders:
+          - EMC Fowler
+          kind: caught
+    - 7.3:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 7.4:
+        non_striker: S Kolcharam
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 7.5:
+        non_striker: K Vijayaraghavan
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 7.6:
+        non_striker: S Kolcharam
+        bowler: Uswa Syed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 8.1:
+        non_striker: K Vijayaraghavan
+        bowler: A Brown-Carrera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Kolcharam
+    - 8.2:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 8.3:
+        non_striker: K Vijayaraghavan
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 8.4:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 8.5:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+        wicket:
+          player_out: K Vijayaraghavan
+          kind: bowled
+    - 8.6:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 8.7:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 9.1:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 9.2:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 9.3:
+        non_striker: S Kolcharam
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 9.4:
+        non_striker: S Kolcharam
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 9.5:
+        non_striker: S Kolcharam
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 9.6:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 10.1:
+        non_striker: CM Gough
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kolcharam
+    - 10.2:
+        non_striker: CM Gough
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 10.3:
+        non_striker: CM Gough
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 10.4:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 10.5:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 10.6:
+        non_striker: CM Gough
+        bowler: A Brown-Carrera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Kolcharam
+    - 11.1:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 11.2:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kolcharam
+    - 11.3:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 11.4:
+        non_striker: S Kolcharam
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 11.5:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 11.6:
+        non_striker: S Kolcharam
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 12.1:
+        non_striker: CM Gough
+        bowler: A Brown-Carrera
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Kolcharam
+    - 12.2:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 12.3:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 12.4:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 12.5:
+        non_striker: S Kolcharam
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 12.6:
+        non_striker: CM Gough
+        bowler: A Brown-Carrera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kolcharam
+    - 12.7:
+        non_striker: CM Gough
+        bowler: A Brown-Carrera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Kolcharam
+    - 13.1:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 13.2:
+        non_striker: S Kolcharam
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 13.3:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 13.4:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 13.5:
+        non_striker: S Kolcharam
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Gough
+    - 13.6:
+        non_striker: S Kolcharam
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 14.1:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kolcharam
+    - 14.2:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 14.3:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 14.4:
+        non_striker: S Kolcharam
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 14.5:
+        non_striker: S Kolcharam
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: CM Gough
+    - 14.6:
+        non_striker: S Kolcharam
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 14.7:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 15.1:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 15.2:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 15.3:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+    - 15.4:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 15.5:
+        non_striker: S Kolcharam
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 15.6:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Kolcharam
+    - 16.1:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+        wicket:
+          player_out: S Kolcharam
+          kind: bowled
+    - 16.2:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 16.3:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 16.4:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+        wicket:
+          player_out: JE Ronalds
+          fielders:
+          - A Brown-Carrera
+          kind: caught
+    - 16.5:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Kingsley
+    - 16.6:
+        non_striker: N Kingsley
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 16.7:
+        non_striker: N Kingsley
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 17.1:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 17.2:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 17.3:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 17.4:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Kingsley
+    - 17.5:
+        non_striker: N Kingsley
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 17.6:
+        non_striker: CM Gough
+        bowler: P Chilongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 18.1:
+        non_striker: N Kingsley
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Gough
+    - 18.2:
+        non_striker: N Kingsley
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 18.3:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+    - 18.4:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Kingsley
+    - 18.5:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+    - 18.6:
+        non_striker: CM Gough
+        bowler: Rabia Mushtaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+    - 19.1:
+        non_striker: N Kingsley
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 19.2:
+        non_striker: N Kingsley
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 19.3:
+        non_striker: N Kingsley
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 19.4:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Kingsley
+    - 19.5:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Kingsley
+    - 19.6:
+        non_striker: CM Gough
+        bowler: NH Berejo
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: N Kingsley
+    - 19.7:
+        non_striker: N Kingsley
+        bowler: NH Berejo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Gough
+- 2nd innings:
+    team: Spain
+    deliveries:
+    - 0.1:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amelia Jones
+        batsman: A Hartley
+    - 0.2:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amelia Jones
+        batsman: A Hartley
+    - 0.3:
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amelia Jones
+        batsman: A Hartley
+    - 0.4:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 0.5:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 0.6:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 1.1:
+        non_striker: Amelia Jones
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 1.2:
+        non_striker: Amelia Jones
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hartley
+    - 1.3:
+        non_striker: A Hartley
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 1.4:
+        non_striker: A Hartley
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 1.5:
+        non_striker: A Hartley
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amelia Jones
+    - 1.6:
+        non_striker: A Hartley
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amelia Jones
+    - 1.7:
+        non_striker: A Hartley
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 2.1:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Amelia Jones
+    - 2.2:
+        non_striker: Amelia Jones
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: A Hartley
+    - 2.3:
+        non_striker: Amelia Jones
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hartley
+    - 2.4:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 2.5:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 2.6:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 2.7:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 2.8:
+        non_striker: Amelia Jones
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 3.1:
+        non_striker: A Hartley
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 3.2:
+        non_striker: A Hartley
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 3.3:
+        non_striker: A Hartley
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amelia Jones
+    - 3.4:
+        non_striker: A Hartley
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 3.5:
+        non_striker: Amelia Jones
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hartley
+    - 3.6:
+        non_striker: Amelia Jones
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hartley
+    - 3.7:
+        non_striker: Amelia Jones
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 4.1:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 4.2:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 4.3:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 4.4:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 4.5:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 4.6:
+        non_striker: Amelia Jones
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 5.1:
+        non_striker: A Hartley
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 5.2:
+        non_striker: A Hartley
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 5.3:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hartley
+    - 5.4:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 5.5:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 5.6:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 6.1:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 6.2:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 6.3:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 6.4:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 6.5:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 6.6:
+        non_striker: A Hartley
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 7.1:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 7.2:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 7.3:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hartley
+    - 7.4:
+        non_striker: A Hartley
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 7.5:
+        non_striker: A Hartley
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 7.6:
+        non_striker: A Hartley
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 8.1:
+        non_striker: A Hartley
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 8.2:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+    - 8.3:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hartley
+    - 8.4:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hartley
+    - 8.5:
+        non_striker: A Hartley
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 8.6:
+        non_striker: A Hartley
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 9.1:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hartley
+        wicket:
+          player_out: A Hartley
+          fielders:
+          - S Sadarangani
+          kind: stumped
+    - 9.2:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NH Berejo
+    - 9.3:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 9.4:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 9.5:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 9.6:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 9.7:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 10.1:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 10.2:
+        non_striker: NH Berejo
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amelia Jones
+    - 10.3:
+        non_striker: NH Berejo
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 10.4:
+        non_striker: NH Berejo
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 10.5:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NH Berejo
+    - 10.6:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NH Berejo
+    - 10.7:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NH Berejo
+    - 10.8:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Berejo
+    - 10.9:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 11.1:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 11.2:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 11.3:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 11.4:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 11.5:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 11.6:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 12.1:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Berejo
+    - 12.2:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Berejo
+    - 12.3:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 12.4:
+        non_striker: NH Berejo
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 12.5:
+        non_striker: NH Berejo
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 12.6:
+        non_striker: NH Berejo
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 13.1:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 13.2:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 13.3:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 13.4:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Amelia Jones
+    - 13.5:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amelia Jones
+    - 13.6:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 13.7:
+        non_striker: NH Berejo
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 14.1:
+        non_striker: NH Berejo
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 14.2:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NH Berejo
+    - 14.3:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NH Berejo
+    - 14.4:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NH Berejo
+    - 14.5:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 14.6:
+        non_striker: NH Berejo
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 14.7:
+        non_striker: Amelia Jones
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 15.1:
+        non_striker: Amelia Jones
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Berejo
+    - 15.2:
+        non_striker: NH Berejo
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 15.3:
+        non_striker: NH Berejo
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+    - 15.4:
+        non_striker: NH Berejo
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+        wicket:
+          player_out: NH Berejo
+          fielders:
+          - K Vijayaraghavan
+          kind: run out
+    - 15.5:
+        non_striker: Amelia Jones
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson-Soler
+    - 15.6:
+        non_striker: Amelia Jones
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson-Soler
+    - 16.1:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson-Soler
+    - 16.2:
+        non_striker: A Davidson-Soler
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 16.3:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson-Soler
+    - 16.4:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Davidson-Soler
+    - 16.5:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson-Soler
+    - 16.6:
+        non_striker: A Davidson-Soler
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amelia Jones
+    - 16.7:
+        non_striker: A Davidson-Soler
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amelia Jones
+    - 17.1:
+        non_striker: Amelia Jones
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Davidson-Soler
+    - 17.2:
+        non_striker: Amelia Jones
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson-Soler
+    - 17.3:
+        non_striker: Amelia Jones
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson-Soler
+    - 17.4:
+        non_striker: A Davidson-Soler
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 17.5:
+        non_striker: Amelia Jones
+        bowler: Rameesha Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Davidson-Soler
+    - 17.6:
+        non_striker: Amelia Jones
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson-Soler
+    - 17.7:
+        non_striker: A Davidson-Soler
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amelia Jones
+    - 18.1:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson-Soler
+    - 18.2:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Davidson-Soler
+    - 18.3:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson-Soler
+    - 18.4:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Davidson-Soler
+    - 18.5:
+        non_striker: Amelia Jones
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson-Soler
+    - 18.6:
+        non_striker: A Davidson-Soler
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 19.1:
+        non_striker: A Davidson-Soler
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amelia Jones
+    - 19.2:
+        non_striker: A Davidson-Soler
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amelia Jones
+    - 19.3:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson-Soler
+    - 19.4:
+        non_striker: A Davidson-Soler
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amelia Jones
+        wicket:
+          player_out: A Davidson-Soler
+          fielders:
+          - Rameesha Shahid
+          kind: run out
+    - 19.5:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Brown-Carrera
+    - 19.6:
+        non_striker: Amelia Jones
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brown-Carrera

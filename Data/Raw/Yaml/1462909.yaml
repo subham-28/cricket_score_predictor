@@ -1,0 +1,2084 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-16'
+  gender: male
+  match_type: T20
+  match_type_number: 3066
+  outcome:
+    winner: Bahamas
+    by:
+      runs: 24
+  overs: 20
+  player_of_match:
+  - K Hinds
+  players:
+    Bahamas:
+    - M Taylor
+    - Festus Benn
+    - E Duff
+    - J Jemison
+    - D Wheatley
+    - R Davson
+    - DG Weakley
+    - K Hinds
+    - Rudolph Fox
+    - R Smith
+    - A Harris
+    Mexico:
+    - PK Mohanarangam
+    - Praveen Santhanakrishnan
+    - RK Singh
+    - Puneet Arora
+    - DV Devjani Mutreja
+    - R Ankad
+    - Shantanu Kaveri
+    - Luis Hermida
+    - Shoaib Rafiq
+    - R Poojary
+    - Pratik Singh Bais
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      A Harris: bbafa5d6
+      D Wheatley: '04539335'
+      DG Weakley: 224a9f5e
+      DV Devjani Mutreja: c872d657
+      E Duff: b7873c81
+      Festus Benn: de6b3760
+      H Grewal: 1172f36e
+      J Jemison: ce1abd25
+      Jermaine Lindo: 1154bf4f
+      K Hinds: a268c07b
+      Luis Hermida: 03beb59f
+      M Taylor: 92075cdc
+      PK Mohanarangam: d73891ad
+      Phil Whitticase: 99d5f6fa
+      Pratik Singh Bais: 5b351aff
+      Praveen Santhanakrishnan: 22fb205e
+      Puneet Arora: c2f8f36e
+      R Ankad: 5995707a
+      R Davson: 7804d401
+      R Poojary: d05e9052
+      R Smith: 0b91b5d5
+      RK Singh: 6e974d8f
+      Rudolph Fox: fd1041d2
+      Shantanu Kaveri: '091880f7'
+      Shoaib Rafiq: 27df03d2
+  teams:
+  - Bahamas
+  - Mexico
+  toss:
+    winner: Bahamas
+    decision: bat
+  umpires:
+  - H Grewal
+  - Jermaine Lindo
+  venue: St George's College Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Festus Benn
+        batsman: M Taylor
+    - 0.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Festus Benn
+        batsman: M Taylor
+    - 0.3:
+        non_striker: M Taylor
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 0.4:
+        non_striker: Festus Benn
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 0.5:
+        non_striker: Festus Benn
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 0.6:
+        non_striker: M Taylor
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 1.1:
+        non_striker: M Taylor
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 1.2:
+        non_striker: M Taylor
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 1.3:
+        non_striker: M Taylor
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Festus Benn
+    - 1.4:
+        non_striker: Festus Benn
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 1.5:
+        non_striker: Festus Benn
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Taylor
+    - 1.6:
+        non_striker: M Taylor
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 2.1:
+        non_striker: Festus Benn
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 2.2:
+        non_striker: M Taylor
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 2.3:
+        non_striker: Festus Benn
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 2.4:
+        non_striker: Festus Benn
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+        wicket:
+          player_out: M Taylor
+          kind: bowled
+    - 2.5:
+        non_striker: Festus Benn
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 2.6:
+        non_striker: Festus Benn
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 3.1:
+        non_striker: E Duff
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+        wicket:
+          player_out: Festus Benn
+          kind: lbw
+    - 3.2:
+        non_striker: E Duff
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 3.3:
+        non_striker: E Duff
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 3.4:
+        non_striker: J Jemison
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: E Duff
+    - 3.5:
+        non_striker: J Jemison
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 3.6:
+        non_striker: J Jemison
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 4.1:
+        non_striker: J Jemison
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Duff
+    - 4.2:
+        non_striker: E Duff
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 4.3:
+        non_striker: E Duff
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 4.4:
+        non_striker: J Jemison
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 4.5:
+        non_striker: J Jemison
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 4.6:
+        non_striker: E Duff
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 5.1:
+        non_striker: J Jemison
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Duff
+    - 5.2:
+        non_striker: E Duff
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 5.3:
+        non_striker: J Jemison
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.4:
+        non_striker: J Jemison
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+    - 5.5:
+        non_striker: J Jemison
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Duff
+        wicket:
+          player_out: E Duff
+          fielders:
+          - Praveen Santhanakrishnan
+          kind: caught
+    - 5.6:
+        non_striker: J Jemison
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 6.1:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Jemison
+    - 6.2:
+        non_striker: J Jemison
+        bowler: R Ankad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Wheatley
+    - 6.3:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Jemison
+    - 6.4:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 6.5:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 6.6:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 7.1:
+        non_striker: J Jemison
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 7.2:
+        non_striker: D Wheatley
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+        wicket:
+          player_out: J Jemison
+          fielders:
+          - Shantanu Kaveri
+          kind: caught
+    - 7.3:
+        non_striker: D Wheatley
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 7.4:
+        non_striker: D Wheatley
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 7.5:
+        non_striker: D Wheatley
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 7.6:
+        non_striker: D Wheatley
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 8.1:
+        non_striker: R Davson
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 8.2:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 8.3:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Davson
+    - 8.4:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 8.5:
+        non_striker: R Davson
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 8.6:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Davson
+    - 8.7:
+        non_striker: D Wheatley
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Davson
+    - 9.1:
+        non_striker: R Davson
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 9.2:
+        non_striker: D Wheatley
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 9.3:
+        non_striker: D Wheatley
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 9.4:
+        non_striker: D Wheatley
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 9.5:
+        non_striker: D Wheatley
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 9.6:
+        non_striker: R Davson
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+        wicket:
+          player_out: D Wheatley
+          kind: lbw
+    - 10.1:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: DG Weakley
+        batsman: R Davson
+    - 10.2:
+        non_striker: DG Weakley
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+        wicket:
+          player_out: R Davson
+          kind: lbw
+    - 10.3:
+        non_striker: DG Weakley
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 10.4:
+        non_striker: K Hinds
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 10.5:
+        non_striker: K Hinds
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+        wicket:
+          player_out: DG Weakley
+          kind: lbw
+    - 10.6:
+        non_striker: K Hinds
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 11.1:
+        non_striker: Rudolph Fox
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 11.2:
+        non_striker: Rudolph Fox
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 11.3:
+        non_striker: K Hinds
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 11.4:
+        non_striker: K Hinds
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 11.5:
+        non_striker: K Hinds
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 11.6:
+        non_striker: K Hinds
+        bowler: PK Mohanarangam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 12.1:
+        non_striker: Rudolph Fox
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Hinds
+    - 12.2:
+        non_striker: Rudolph Fox
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 12.3:
+        non_striker: K Hinds
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 12.4:
+        non_striker: Rudolph Fox
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 12.5:
+        non_striker: Rudolph Fox
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 12.6:
+        non_striker: K Hinds
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 13.1:
+        non_striker: Rudolph Fox
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 13.2:
+        non_striker: Rudolph Fox
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 13.3:
+        non_striker: Rudolph Fox
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 13.4:
+        non_striker: K Hinds
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 13.5:
+        non_striker: Rudolph Fox
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 13.6:
+        non_striker: Rudolph Fox
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 14.1:
+        non_striker: K Hinds
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+        wicket:
+          player_out: Rudolph Fox
+          fielders:
+          - R Poojary
+          kind: caught
+    - 14.2:
+        non_striker: K Hinds
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smith
+    - 14.3:
+        non_striker: K Hinds
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smith
+    - 14.4:
+        non_striker: K Hinds
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Smith
+    - 14.5:
+        non_striker: R Smith
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 14.6:
+        non_striker: R Smith
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Hinds
+    - 15.1:
+        non_striker: K Hinds
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smith
+    - 15.2:
+        non_striker: K Hinds
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Smith
+    - 15.3:
+        non_striker: R Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 15.4:
+        non_striker: K Hinds
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smith
+    - 15.5:
+        non_striker: K Hinds
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smith
+    - 15.6:
+        non_striker: K Hinds
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smith
+    - 16.1:
+        non_striker: R Smith
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 16.2:
+        non_striker: R Smith
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 16.3:
+        non_striker: R Smith
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 16.4:
+        non_striker: R Smith
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 16.5:
+        non_striker: R Smith
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Hinds
+    - 16.6:
+        non_striker: R Smith
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 17.1:
+        non_striker: R Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 17.2:
+        non_striker: R Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 17.3:
+        non_striker: R Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 17.4:
+        non_striker: K Hinds
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Smith
+    - 17.5:
+        non_striker: R Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 17.6:
+        non_striker: K Hinds
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smith
+    - 18.1:
+        non_striker: R Smith
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Hinds
+    - 18.2:
+        non_striker: R Smith
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 18.3:
+        non_striker: R Smith
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hinds
+    - 18.4:
+        non_striker: R Smith
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 18.5:
+        non_striker: R Smith
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 18.6:
+        non_striker: K Hinds
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Smith
+    - 18.7:
+        non_striker: K Hinds
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smith
+    - 19.1:
+        non_striker: R Smith
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Hinds
+    - 19.2:
+        non_striker: R Smith
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 19.3:
+        non_striker: R Smith
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+        wicket:
+          player_out: K Hinds
+          kind: bowled
+    - 19.4:
+        non_striker: R Smith
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Harris
+    - 19.5:
+        non_striker: R Smith
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Harris
+    - 19.6:
+        non_striker: A Harris
+        bowler: R Ankad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Smith
+- 2nd innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Praveen Santhanakrishnan
+        batsman: PK Mohanarangam
+    - 0.2:
+        non_striker: Praveen Santhanakrishnan
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Mohanarangam
+        wicket:
+          player_out: PK Mohanarangam
+          fielders:
+          - A Harris
+          kind: caught
+    - 0.3:
+        non_striker: Praveen Santhanakrishnan
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 0.4:
+        non_striker: Praveen Santhanakrishnan
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 0.5:
+        non_striker: Praveen Santhanakrishnan
+        bowler: M Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RK Singh
+    - 0.6:
+        non_striker: RK Singh
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Praveen Santhanakrishnan
+    - 1.1:
+        non_striker: Praveen Santhanakrishnan
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 1.2:
+        non_striker: Praveen Santhanakrishnan
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 1.3:
+        non_striker: Praveen Santhanakrishnan
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 1.4:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 1.5:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+    - 1.6:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Praveen Santhanakrishnan
+        wicket:
+          player_out: Praveen Santhanakrishnan
+          fielders:
+          - Festus Benn
+          kind: caught
+    - 2.1:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Puneet Arora
+        batsman: RK Singh
+    - 2.2:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Puneet Arora
+        batsman: RK Singh
+    - 2.3:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Puneet Arora
+        batsman: RK Singh
+    - 2.4:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Puneet Arora
+        batsman: RK Singh
+    - 2.5:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Puneet Arora
+        batsman: RK Singh
+    - 2.6:
+        non_striker: Puneet Arora
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 3.1:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+    - 3.2:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puneet Arora
+    - 3.3:
+        non_striker: Puneet Arora
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 3.4:
+        non_striker: Puneet Arora
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 3.5:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Puneet Arora
+    - 3.6:
+        non_striker: Puneet Arora
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 4.1:
+        non_striker: RK Singh
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+    - 4.2:
+        non_striker: RK Singh
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Puneet Arora
+    - 4.3:
+        non_striker: RK Singh
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Puneet Arora
+    - 4.4:
+        non_striker: RK Singh
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Puneet Arora
+        wicket:
+          player_out: Puneet Arora
+          kind: lbw
+    - 4.5:
+        non_striker: RK Singh
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Devjani Mutreja
+    - 4.6:
+        non_striker: RK Singh
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Devjani Mutreja
+    - 5.1:
+        non_striker: DV Devjani Mutreja
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 5.2:
+        non_striker: DV Devjani Mutreja
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 5.3:
+        non_striker: DV Devjani Mutreja
+        bowler: DG Weakley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RK Singh
+    - 5.4:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Devjani Mutreja
+    - 5.5:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Devjani Mutreja
+    - 5.6:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Devjani Mutreja
+    - 6.1:
+        non_striker: DV Devjani Mutreja
+        bowler: R Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 6.2:
+        non_striker: DV Devjani Mutreja
+        bowler: R Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 6.3:
+        non_striker: DV Devjani Mutreja
+        bowler: R Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 6.4:
+        non_striker: DV Devjani Mutreja
+        bowler: R Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 6.5:
+        non_striker: RK Singh
+        bowler: R Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DV Devjani Mutreja
+    - 6.6:
+        non_striker: DV Devjani Mutreja
+        bowler: R Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 7.1:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Devjani Mutreja
+    - 7.2:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Devjani Mutreja
+        wicket:
+          player_out: DV Devjani Mutreja
+          kind: lbw
+    - 7.3:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ankad
+    - 7.4:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ankad
+    - 7.5:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Ankad
+    - 7.6:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ankad
+    - 7.7:
+        non_striker: RK Singh
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ankad
+    - 8.1:
+        non_striker: R Ankad
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+        wicket:
+          player_out: RK Singh
+          fielders:
+          - Rudolph Fox
+          kind: caught
+    - 8.2:
+        non_striker: R Ankad
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 8.3:
+        non_striker: R Ankad
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 8.4:
+        non_striker: R Ankad
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 8.5:
+        non_striker: R Ankad
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 8.6:
+        non_striker: R Ankad
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 9.1:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ankad
+    - 9.2:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ankad
+    - 9.3:
+        non_striker: R Ankad
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 9.4:
+        non_striker: R Ankad
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 9.5:
+        non_striker: R Ankad
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 9.6:
+        non_striker: R Ankad
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 10.1:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ankad
+    - 10.2:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ankad
+    - 10.3:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ankad
+    - 10.4:
+        non_striker: R Ankad
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 10.5:
+        non_striker: R Ankad
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 10.6:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ankad
+        wicket:
+          player_out: R Ankad
+          kind: caught and bowled
+    - 11.1:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Luis Hermida
+        batsman: Shantanu Kaveri
+    - 11.2:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Luis Hermida
+    - 11.3:
+        non_striker: Luis Hermida
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 11.4:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 11.5:
+        non_striker: Luis Hermida
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 11.6:
+        non_striker: Luis Hermida
+        bowler: K Hinds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shantanu Kaveri
+    - 11.7:
+        non_striker: Luis Hermida
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 12.1:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luis Hermida
+    - 12.2:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 12.3:
+        non_striker: Luis Hermida
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 12.4:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Luis Hermida
+    - 12.5:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 12.6:
+        non_striker: Luis Hermida
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 12.7:
+        non_striker: Luis Hermida
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 13.1:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luis Hermida
+    - 13.2:
+        non_striker: Luis Hermida
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 13.3:
+        non_striker: Luis Hermida
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+        wicket:
+          player_out: Luis Hermida
+          fielders:
+          - J Jemison
+          - K Hinds
+          kind: run out
+    - 13.4:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shoaib Rafiq
+        batsman: Shantanu Kaveri
+    - 13.5:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shoaib Rafiq
+        batsman: Shantanu Kaveri
+    - 13.6:
+        non_striker: Shoaib Rafiq
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 14.1:
+        non_striker: Shoaib Rafiq
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 14.2:
+        non_striker: Shoaib Rafiq
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 14.3:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 14.4:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+        wicket:
+          player_out: Shoaib Rafiq
+          fielders:
+          - K Hinds
+          kind: caught
+    - 14.5:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poojary
+    - 14.6:
+        non_striker: Shantanu Kaveri
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poojary
+    - 15.1:
+        non_striker: R Poojary
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shantanu Kaveri
+    - 15.2:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poojary
+    - 15.3:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Poojary
+        wicket:
+          player_out: R Poojary
+          kind: bowled
+    - 15.4:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+    - 15.5:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+    - 15.6:
+        non_striker: Shantanu Kaveri
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+    - 16.1:
+        non_striker: Pratik Singh Bais
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 16.2:
+        non_striker: Pratik Singh Bais
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 16.3:
+        non_striker: Shantanu Kaveri
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+    - 16.4:
+        non_striker: Shantanu Kaveri
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 16.5:
+        non_striker: Pratik Singh Bais
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 16.6:
+        non_striker: Pratik Singh Bais
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shantanu Kaveri
+    - 17.1:
+        non_striker: Pratik Singh Bais
+        bowler: M Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shantanu Kaveri
+    - 17.2:
+        non_striker: Pratik Singh Bais
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 17.3:
+        non_striker: Pratik Singh Bais
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 17.4:
+        non_striker: Pratik Singh Bais
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 17.5:
+        non_striker: Shantanu Kaveri
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 17.6:
+        non_striker: Pratik Singh Bais
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 17.7:
+        non_striker: Shantanu Kaveri
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+    - 18.1:
+        non_striker: Pratik Singh Bais
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 18.2:
+        non_striker: Pratik Singh Bais
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+        wicket:
+          player_out: Shantanu Kaveri
+          fielders:
+          - Festus Benn
+          kind: caught

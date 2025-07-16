@@ -1,0 +1,1831 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2025-05-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3178
+  outcome:
+    winner: Thailand
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - J Coetzee
+  players:
+    Cook Islands:
+    - HB Dickson
+    - T Parima
+    - A Parima
+    - MTMMJ Ave
+    - C Dickson
+    - MJM Kavana
+    - L Denny
+    - OE Taylor
+    - J Pickering
+    - JL Tutty
+    - T Wuatai
+    Thailand:
+    - AP Yadav
+    - C Chatphaisan
+    - S Desungnoen
+    - AV Lazarus
+    - N Nuntarach
+    - Y Saranonnakkun
+    - J Coetzee
+    - MK Thakur
+    - P Thongsa
+    - N Senamontree
+    - Sarawut Maliwan
+  registry:
+    people:
+      A Parima: 866d3ac8
+      AP Yadav: a5501504
+      AV Lazarus: 30c917bf
+      B Vakatini: 7ad1417c
+      C Chatphaisan: 85c56be8
+      C Dickson: 26b59073
+      C Thurgate: 4d8ad58c
+      HB Dickson: e8c95491
+      J Coetzee: 3ad06915
+      J Pickering: 1ac8edcf
+      JL Tutty: 11b37b2a
+      L Denny: e112732d
+      MJM Kavana: 10eef955
+      MK Thakur: 2d9451cc
+      MTMMJ Ave: '00863408'
+      N Nuntarach: 9e3575ce
+      N Senamontree: 44e00a4c
+      OE Taylor: 24a93558
+      P Thongsa: '62318525'
+      S Desungnoen: 3eb26dc4
+      Sarawut Maliwan: 36a0a88c
+      T Parima: ecd51f8e
+      T Wuatai: 307684f3
+      Vipin Sukhwal: f7094357
+      Y Saranonnakkun: 9c93c0a3
+  teams:
+  - Cook Islands
+  - Thailand
+  toss:
+    winner: Thailand
+    decision: field
+  umpires:
+  - C Thurgate
+  - Vipin Sukhwal
+  venue: Sano International Cricket Ground
+innings:
+- 1st innings:
+    team: Cook Islands
+    deliveries:
+    - 0.1:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.2:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.3:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.4:
+        non_striker: T Parima
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+        wicket:
+          player_out: HB Dickson
+          fielders:
+          - P Thongsa
+          kind: caught
+    - 0.5:
+        non_striker: T Parima
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+        wicket:
+          player_out: A Parima
+          kind: caught and bowled
+    - 0.6:
+        non_striker: T Parima
+        bowler: J Coetzee
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: MTMMJ Ave
+    - 1.1:
+        non_striker: MTMMJ Ave
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.2:
+        non_striker: MTMMJ Ave
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Parima
+    - 1.3:
+        non_striker: T Parima
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 1.4:
+        non_striker: T Parima
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 1.5:
+        non_striker: MTMMJ Ave
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.6:
+        non_striker: MTMMJ Ave
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 2.1:
+        non_striker: MTMMJ Ave
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 2.2:
+        non_striker: MTMMJ Ave
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 2.3:
+        non_striker: MTMMJ Ave
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 2.4:
+        non_striker: MTMMJ Ave
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 2.5:
+        non_striker: MTMMJ Ave
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 2.6:
+        non_striker: MTMMJ Ave
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 3.1:
+        non_striker: T Parima
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 3.2:
+        non_striker: T Parima
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 3.3:
+        non_striker: T Parima
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MTMMJ Ave
+    - 3.4:
+        non_striker: T Parima
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 3.5:
+        non_striker: T Parima
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MTMMJ Ave
+    - 3.6:
+        non_striker: T Parima
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 4.1:
+        non_striker: MTMMJ Ave
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 4.2:
+        non_striker: MTMMJ Ave
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 4.3:
+        non_striker: MTMMJ Ave
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 4.4:
+        non_striker: T Parima
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+        wicket:
+          player_out: MTMMJ Ave
+          kind: bowled
+    - 4.5:
+        non_striker: T Parima
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 4.6:
+        non_striker: T Parima
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 5.1:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 5.2:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 5.3:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 5.4:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+        wicket:
+          player_out: T Parima
+          fielders:
+          - AP Yadav
+          kind: caught
+    - 5.5:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+    - 5.6:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJM Kavana
+    - 5.7:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+    - 6.1:
+        non_striker: MJM Kavana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 6.2:
+        non_striker: MJM Kavana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 6.3:
+        non_striker: MJM Kavana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 6.4:
+        non_striker: MJM Kavana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 6.5:
+        non_striker: MJM Kavana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 6.6:
+        non_striker: C Dickson
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+    - 7.1:
+        non_striker: MJM Kavana
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 7.2:
+        non_striker: MJM Kavana
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 7.3:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJM Kavana
+    - 7.4:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJM Kavana
+    - 7.5:
+        non_striker: MJM Kavana
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 7.6:
+        non_striker: C Dickson
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+    - 8.1:
+        non_striker: MJM Kavana
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 8.2:
+        non_striker: MJM Kavana
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 8.3:
+        non_striker: C Dickson
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+    - 8.4:
+        non_striker: C Dickson
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+    - 8.5:
+        non_striker: C Dickson
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJM Kavana
+    - 8.6:
+        non_striker: MJM Kavana
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 9.1:
+        non_striker: MJM Kavana
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 9.2:
+        non_striker: MJM Kavana
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 9.3:
+        non_striker: C Dickson
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+    - 9.4:
+        non_striker: C Dickson
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MJM Kavana
+    - 9.5:
+        non_striker: MJM Kavana
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 9.6:
+        non_striker: MJM Kavana
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 10.1:
+        non_striker: C Dickson
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+    - 10.2:
+        non_striker: C Dickson
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+    - 10.3:
+        non_striker: C Dickson
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJM Kavana
+        wicket:
+          player_out: MJM Kavana
+          fielders:
+          - J Coetzee
+          kind: run out
+    - 10.4:
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Denny
+        batsman: C Dickson
+    - 10.5:
+        non_striker: C Dickson
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+    - 10.6:
+        non_striker: C Dickson
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+    - 11.1:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 11.2:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 11.3:
+        non_striker: C Dickson
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+    - 11.4:
+        non_striker: C Dickson
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+    - 11.5:
+        non_striker: C Dickson
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+    - 11.6:
+        non_striker: C Dickson
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 12.1:
+        non_striker: C Dickson
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Denny
+    - 12.2:
+        non_striker: C Dickson
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 12.3:
+        non_striker: L Denny
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 12.4:
+        non_striker: C Dickson
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 12.5:
+        non_striker: L Denny
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 12.6:
+        non_striker: L Denny
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Dickson
+    - 13.1:
+        non_striker: C Dickson
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 13.2:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: C Dickson
+    - 13.3:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+        wicket:
+          player_out: C Dickson
+          kind: bowled
+    - 13.4:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 13.5:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 13.6:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+    - 14.1:
+        non_striker: L Denny
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 14.2:
+        non_striker: L Denny
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 14.3:
+        non_striker: L Denny
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+    - 14.4:
+        non_striker: OE Taylor
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 14.5:
+        non_striker: L Denny
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 14.6:
+        non_striker: L Denny
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+    - 15.1:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+    - 15.2:
+        non_striker: OE Taylor
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+    - 15.3:
+        non_striker: OE Taylor
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 15.4:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 15.5:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: OE Taylor
+    - 15.6:
+        non_striker: L Denny
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OE Taylor
+    - 16.1:
+        non_striker: OE Taylor
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 16.2:
+        non_striker: L Denny
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+    - 16.3:
+        non_striker: OE Taylor
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 16.4:
+        non_striker: L Denny
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 16.5:
+        non_striker: L Denny
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 16.6:
+        non_striker: L Denny
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 17.1:
+        non_striker: OE Taylor
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Denny
+    - 17.2:
+        non_striker: L Denny
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+    - 17.3:
+        non_striker: L Denny
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OE Taylor
+    - 17.4:
+        non_striker: OE Taylor
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Denny
+        wicket:
+          player_out: L Denny
+          kind: lbw
+    - 17.5:
+        non_striker: OE Taylor
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pickering
+    - 17.6:
+        non_striker: J Pickering
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+        wicket:
+          player_out: OE Taylor
+          fielders:
+          - MK Thakur
+          kind: caught
+    - 18.1:
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JL Tutty
+        batsman: J Pickering
+    - 18.2:
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JL Tutty
+        batsman: J Pickering
+    - 18.3:
+        non_striker: J Pickering
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Tutty
+    - 18.4:
+        non_striker: J Pickering
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Tutty
+    - 18.5:
+        non_striker: J Pickering
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Tutty
+    - 18.6:
+        non_striker: J Pickering
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Tutty
+        wicket:
+          player_out: JL Tutty
+          fielders:
+          - N Nuntarach
+          kind: caught
+    - 19.1:
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Wuatai
+        batsman: J Pickering
+    - 19.2:
+        non_striker: J Pickering
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wuatai
+    - 19.3:
+        non_striker: T Wuatai
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pickering
+        wicket:
+          player_out: J Pickering
+          fielders:
+          - AP Yadav
+          kind: caught
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.2:
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.3:
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.4:
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.5:
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.6:
+        non_striker: C Chatphaisan
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 1.1:
+        non_striker: AP Yadav
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 1.2:
+        non_striker: AP Yadav
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 1.3:
+        non_striker: C Chatphaisan
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 1.4:
+        non_striker: C Chatphaisan
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 1.5:
+        non_striker: AP Yadav
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 1.6:
+        non_striker: C Chatphaisan
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 2.1:
+        non_striker: C Chatphaisan
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 2.2:
+        non_striker: C Chatphaisan
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.3:
+        non_striker: C Chatphaisan
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 2.4:
+        non_striker: AP Yadav
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 2.5:
+        non_striker: C Chatphaisan
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.6:
+        non_striker: C Chatphaisan
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.7:
+        non_striker: C Chatphaisan
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 3.1:
+        non_striker: AP Yadav
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 3.2:
+        non_striker: C Chatphaisan
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 3.3:
+        non_striker: C Chatphaisan
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 3.4:
+        non_striker: C Chatphaisan
+        bowler: JL Tutty
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AP Yadav
+    - 3.5:
+        non_striker: AP Yadav
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 3.6:
+        non_striker: AP Yadav
+        bowler: JL Tutty
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: C Chatphaisan
+    - 3.7:
+        non_striker: AP Yadav
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 4.1:
+        non_striker: C Chatphaisan
+        bowler: OE Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 4.2:
+        non_striker: C Chatphaisan
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 4.3:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 4.4:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 4.5:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 4.6:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 4.7:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 5.1:
+        non_striker: C Chatphaisan
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 5.2:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 5.3:
+        non_striker: C Chatphaisan
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 5.4:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 5.5:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 5.6:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 6.1:
+        non_striker: C Chatphaisan
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 6.2:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - B Vakatini (sub)
+          kind: caught
+    - 6.3:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 6.4:
+        non_striker: S Desungnoen
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 6.5:
+        non_striker: S Desungnoen
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Yadav
+    - 6.6:
+        non_striker: S Desungnoen
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 7.1:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 7.2:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Desungnoen
+    - 7.3:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 7.4:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          kind: caught and bowled
+    - 7.5:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 7.6:
+        non_striker: AV Lazarus
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 7.7:
+        non_striker: AV Lazarus
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 8.1:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AV Lazarus
+    - 8.2:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 8.3:
+        non_striker: AP Yadav
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 8.4:
+        non_striker: AV Lazarus
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 8.5:
+        non_striker: AV Lazarus
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 8.6:
+        non_striker: AV Lazarus
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 8.7:
+        non_striker: AV Lazarus
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 9.1:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 9.2:
+        non_striker: AV Lazarus
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 9.3:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 9.4:
+        non_striker: AV Lazarus
+        bowler: MTMMJ Ave
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: AP Yadav
+    - 9.5:
+        non_striker: AV Lazarus
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Yadav
+    - 9.6:
+        non_striker: AV Lazarus
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 9.7:
+        non_striker: AP Yadav
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 10.1:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 10.2:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 10.3:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 10.4:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 10.5:
+        non_striker: AP Yadav
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 10.6:
+        non_striker: AP Yadav
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 10.7:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 10.8:
+        non_striker: AP Yadav
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 11.1:
+        non_striker: AP Yadav
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 11.2:
+        non_striker: AV Lazarus
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 11.3:
+        non_striker: AV Lazarus
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 11.4:
+        non_striker: AP Yadav
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 11.5:
+        non_striker: AP Yadav
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 11.6:
+        non_striker: AP Yadav
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 12.1:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 12.2:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Yadav
+    - 12.3:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 12.4:
+        non_striker: AP Yadav
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 12.5:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 12.6:
+        non_striker: AV Lazarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 13.1:
+        non_striker: AV Lazarus
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 13.2:
+        non_striker: AV Lazarus
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 13.3:
+        non_striker: AV Lazarus
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 13.4:
+        non_striker: AP Yadav
+        bowler: MJM Kavana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AV Lazarus

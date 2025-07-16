@@ -1,0 +1,2009 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-15'
+  gender: male
+  match_type: T20
+  match_type_number: 3059
+  outcome:
+    winner: Cayman Islands
+    by:
+      runs: 22
+  overs: 20
+  player_of_match:
+  - C Wright
+  players:
+    Cayman Islands:
+    - J Baker
+    - YSD Seneveratne
+    - AR Naidoo
+    - S Foster
+    - RA Sealy
+    - ROC Dunka
+    - C Wright
+    - T Taylor
+    - AF Ifill
+    - Ronald Ebanks
+    - A Morris
+    Argentina:
+    - Lucas Rossi
+    - Guido Angeletti
+    - P Baron
+    - A Kirschbaum
+    - A Ferguson
+    - T Rossi
+    - AAP Rivero
+    - Manuel Iturbe
+    - H Fennell
+    - A Mustafa
+    - Santiago Iturbe
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Kirschbaum: d953bf92
+      A Morris: 04cf2e94
+      A Mustafa: a4571ba9
+      AAP Rivero: 1911dcbc
+      AF Ifill: 0e6c2f00
+      AR Naidoo: 68886c16
+      C Wright: d465c6d7
+      Guido Angeletti: 6d6f52fc
+      H Fennell: 0d38ab25
+      J Baker: a12672e0
+      Jermaine Lindo: 1154bf4f
+      Lucas Rossi: 2064e555
+      Manuel Iturbe: bddbf5ec
+      P Baron: c6d1b1e4
+      Phil Whitticase: 99d5f6fa
+      R Shah: 3424e050
+      RA Sealy: 1e98804a
+      ROC Dunka: 762f43b7
+      Ronald Ebanks: e21ef7ec
+      S Foster: 3595ad3b
+      Santiago Iturbe: 851b0636
+      T Rossi: 5470418a
+      T Taylor: 1d6e8f52
+      Vijaya Mallela: 85b6244a
+      YSD Seneveratne: 0f71478c
+  teams:
+  - Cayman Islands
+  - Argentina
+  toss:
+    winner: Argentina
+    decision: field
+  umpires:
+  - Jermaine Lindo
+  - R Shah
+  venue: Hurlingham Club Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Cayman Islands
+    deliveries:
+    - 0.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.2:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 0.3:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 0.4:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 0.5:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 0.6:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+        wicket:
+          player_out: YSD Seneveratne
+          fielders:
+          - Santiago Iturbe
+          kind: caught
+    - 1.1:
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 1.2:
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 1.3:
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AR Naidoo
+        batsman: J Baker
+    - 1.4:
+        non_striker: J Baker
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 1.5:
+        non_striker: J Baker
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 1.6:
+        non_striker: J Baker
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 1.7:
+        non_striker: J Baker
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 2.1:
+        non_striker: AR Naidoo
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 2.2:
+        non_striker: AR Naidoo
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 2.3:
+        non_striker: AR Naidoo
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 2.4:
+        non_striker: AR Naidoo
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 2.5:
+        non_striker: AR Naidoo
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 2.6:
+        non_striker: AR Naidoo
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 3.1:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+        wicket:
+          player_out: J Baker
+          fielders:
+          - Santiago Iturbe
+          kind: caught
+    - 3.2:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 3.3:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 3.4:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 3.5:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 3.6:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 4.1:
+        non_striker: AR Naidoo
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Foster
+    - 4.2:
+        non_striker: AR Naidoo
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 4.3:
+        non_striker: AR Naidoo
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 4.4:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 4.5:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 4.6:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 4.7:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 5.1:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 5.2:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 5.3:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Foster
+    - 5.4:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 5.5:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 5.6:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 6.1:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 6.2:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 6.3:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 6.4:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 6.5:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 6.6:
+        non_striker: AR Naidoo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 7.1:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 7.2:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 7.3:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 7.4:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 7.5:
+        non_striker: AR Naidoo
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 7.6:
+        non_striker: AR Naidoo
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Foster
+    - 8.1:
+        non_striker: AR Naidoo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 8.2:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 8.3:
+        non_striker: AR Naidoo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 8.4:
+        non_striker: AR Naidoo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 8.5:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 8.6:
+        non_striker: AR Naidoo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Foster
+    - 9.1:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 9.2:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Naidoo
+    - 9.3:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 9.4:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Naidoo
+    - 9.5:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 9.6:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 9.7:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 10.1:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 10.2:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 10.3:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+        wicket:
+          player_out: AR Naidoo
+          kind: bowled
+    - 10.4:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 10.5:
+        non_striker: S Foster
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 10.6:
+        non_striker: RA Sealy
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 11.1:
+        non_striker: RA Sealy
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 11.2:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 11.3:
+        non_striker: RA Sealy
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 11.4:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 11.5:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 11.6:
+        non_striker: RA Sealy
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 12.1:
+        non_striker: RA Sealy
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 12.2:
+        non_striker: RA Sealy
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 12.3:
+        non_striker: RA Sealy
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 12.4:
+        non_striker: RA Sealy
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 12.5:
+        non_striker: S Foster
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 12.6:
+        non_striker: RA Sealy
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 13.1:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+        wicket:
+          player_out: RA Sealy
+          fielders:
+          - A Ferguson
+          kind: caught
+    - 13.2:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ROC Dunka
+    - 13.3:
+        non_striker: ROC Dunka
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 13.4:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ROC Dunka
+    - 13.5:
+        non_striker: S Foster
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ROC Dunka
+    - 13.6:
+        non_striker: ROC Dunka
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Foster
+    - 14.1:
+        non_striker: ROC Dunka
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 14.2:
+        non_striker: ROC Dunka
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 14.3:
+        non_striker: ROC Dunka
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 14.4:
+        non_striker: ROC Dunka
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 14.5:
+        non_striker: S Foster
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ROC Dunka
+    - 14.6:
+        non_striker: S Foster
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ROC Dunka
+    - 15.1:
+        non_striker: ROC Dunka
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Foster
+    - 15.2:
+        non_striker: ROC Dunka
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 15.3:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ROC Dunka
+    - 15.4:
+        non_striker: ROC Dunka
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 15.5:
+        non_striker: ROC Dunka
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 15.6:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ROC Dunka
+        wicket:
+          player_out: ROC Dunka
+          fielders:
+          - A Mustafa
+          kind: caught
+    - 16.1:
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Wright
+        batsman: S Foster
+    - 16.2:
+        non_striker: S Foster
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 16.3:
+        non_striker: C Wright
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Foster
+    - 16.4:
+        non_striker: C Wright
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Foster
+    - 16.5:
+        non_striker: S Foster
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 16.6:
+        non_striker: S Foster
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 17.1:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 17.2:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Wright
+    - 17.3:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Wright
+    - 17.4:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Wright
+    - 17.5:
+        non_striker: S Foster
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 17.6:
+        non_striker: C Wright
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Foster
+    - 18.1:
+        non_striker: S Foster
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 18.2:
+        non_striker: S Foster
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 18.3:
+        non_striker: C Wright
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 18.4:
+        non_striker: C Wright
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+        wicket:
+          player_out: S Foster
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 18.5:
+        non_striker: C Wright
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taylor
+    - 18.6:
+        non_striker: T Taylor
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 19.1:
+        non_striker: T Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Wright
+    - 19.2:
+        non_striker: T Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 19.3:
+        non_striker: C Wright
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+        wicket:
+          player_out: T Taylor
+          fielders:
+          - P Baron
+          kind: caught
+    - 19.4:
+        non_striker: C Wright
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Ifill
+        wicket:
+          player_out: AF Ifill
+          kind: lbw
+    - 19.5:
+        non_striker: C Wright
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ronald Ebanks
+        wicket:
+          player_out: Ronald Ebanks
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 19.6:
+        non_striker: C Wright
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+        wicket:
+          player_out: A Morris
+          fielders:
+          - AAP Rivero
+          kind: caught
+- 2nd innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.2:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.3:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.4:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.5:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.6:
+        non_striker: Guido Angeletti
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 1.1:
+        non_striker: Guido Angeletti
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 1.2:
+        non_striker: Lucas Rossi
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 1.3:
+        non_striker: Lucas Rossi
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+        wicket:
+          player_out: Guido Angeletti
+          fielders:
+          - A Morris
+          kind: caught
+    - 1.4:
+        non_striker: Lucas Rossi
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 1.5:
+        non_striker: Lucas Rossi
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 1.6:
+        non_striker: P Baron
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+        wicket:
+          player_out: Lucas Rossi
+          fielders:
+          - T Taylor
+          kind: caught
+    - 2.1:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 2.2:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 2.3:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 2.4:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 2.5:
+        non_striker: P Baron
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 2.6:
+        non_striker: P Baron
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kirschbaum
+    - 2.7:
+        non_striker: P Baron
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 3.1:
+        non_striker: A Kirschbaum
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 3.2:
+        non_striker: A Kirschbaum
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 3.3:
+        non_striker: P Baron
+        bowler: ROC Dunka
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Kirschbaum
+    - 3.4:
+        non_striker: P Baron
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 3.5:
+        non_striker: A Kirschbaum
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 3.6:
+        non_striker: P Baron
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 4.1:
+        non_striker: A Kirschbaum
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 4.2:
+        non_striker: A Kirschbaum
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 4.3:
+        non_striker: P Baron
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 4.4:
+        non_striker: P Baron
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 4.5:
+        non_striker: P Baron
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 4.6:
+        non_striker: P Baron
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 5.1:
+        non_striker: A Kirschbaum
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 5.2:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 5.3:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 5.4:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 5.5:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kirschbaum
+    - 5.6:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 5.7:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 6.1:
+        non_striker: A Kirschbaum
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 6.2:
+        non_striker: P Baron
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.3:
+        non_striker: A Kirschbaum
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 6.4:
+        non_striker: A Kirschbaum
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 6.5:
+        non_striker: A Kirschbaum
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 6.6:
+        non_striker: P Baron
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 7.1:
+        non_striker: A Kirschbaum
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 7.2:
+        non_striker: A Kirschbaum
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 7.3:
+        non_striker: A Kirschbaum
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 7.4:
+        non_striker: A Kirschbaum
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 7.5:
+        non_striker: A Kirschbaum
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 7.6:
+        non_striker: A Kirschbaum
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 8.1:
+        non_striker: A Kirschbaum
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 8.2:
+        non_striker: A Kirschbaum
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 8.3:
+        non_striker: P Baron
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 8.4:
+        non_striker: P Baron
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          kind: lbw
+    - 8.5:
+        non_striker: P Baron
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+        wicket:
+          player_out: A Ferguson
+          kind: bowled
+    - 8.6:
+        non_striker: P Baron
+        bowler: Ronald Ebanks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Rossi
+    - 9.1:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 9.2:
+        non_striker: T Rossi
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 9.3:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+        wicket:
+          player_out: T Rossi
+          fielders:
+          - C Wright
+          kind: run out
+    - 9.4:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 9.5:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 9.6:
+        non_striker: P Baron
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 10.1:
+        non_striker: AAP Rivero
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 10.2:
+        non_striker: P Baron
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 10.3:
+        non_striker: P Baron
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 10.4:
+        non_striker: P Baron
+        bowler: Ronald Ebanks
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AAP Rivero
+    - 10.5:
+        non_striker: AAP Rivero
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 10.6:
+        non_striker: AAP Rivero
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 10.7:
+        non_striker: AAP Rivero
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 11.1:
+        non_striker: AAP Rivero
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          fielders:
+          - ROC Dunka
+          kind: caught
+    - 11.2:
+        non_striker: AAP Rivero
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 11.3:
+        non_striker: Manuel Iturbe
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 11.4:
+        non_striker: AAP Rivero
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 11.5:
+        non_striker: AAP Rivero
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 11.6:
+        non_striker: AAP Rivero
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manuel Iturbe
+    - 12.1:
+        non_striker: Manuel Iturbe
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+        wicket:
+          player_out: AAP Rivero
+          fielders:
+          - J Baker
+          - S Foster
+          kind: run out
+    - 12.2:
+        non_striker: Manuel Iturbe
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Fennell
+    - 12.3:
+        non_striker: H Fennell
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 12.4:
+        non_striker: H Fennell
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 12.5:
+        non_striker: H Fennell
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 12.6:
+        non_striker: H Fennell
+        bowler: Ronald Ebanks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 13.1:
+        non_striker: H Fennell
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 13.2:
+        non_striker: Manuel Iturbe
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Fennell
+    - 13.3:
+        non_striker: H Fennell
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 13.4:
+        non_striker: Manuel Iturbe
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Fennell
+    - 13.5:
+        non_striker: H Fennell
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 13.6:
+        non_striker: Manuel Iturbe
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Fennell
+    - 14.1:
+        non_striker: Manuel Iturbe
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Fennell
+    - 14.2:
+        non_striker: H Fennell
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+        wicket:
+          player_out: Manuel Iturbe
+          kind: bowled
+    - 14.3:
+        non_striker: H Fennell
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mustafa
+    - 14.4:
+        non_striker: H Fennell
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mustafa
+    - 14.5:
+        non_striker: A Mustafa
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Fennell
+    - 14.6:
+        non_striker: A Mustafa
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Fennell
+    - 15.1:
+        non_striker: H Fennell
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mustafa
+    - 15.2:
+        non_striker: H Fennell
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mustafa
+    - 15.3:
+        non_striker: H Fennell
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mustafa
+    - 15.4:
+        non_striker: A Mustafa
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Fennell
+    - 15.5:
+        non_striker: A Mustafa
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Fennell
+    - 15.6:
+        non_striker: A Mustafa
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Fennell
+    - 16.1:
+        non_striker: A Mustafa
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Fennell
+        wicket:
+          player_out: H Fennell
+          kind: bowled
+    - 16.2:
+        non_striker: A Mustafa
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Santiago Iturbe
+    - 16.3:
+        non_striker: A Mustafa
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Santiago Iturbe
+    - 16.4:
+        non_striker: Santiago Iturbe
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mustafa
+    - 16.5:
+        non_striker: A Mustafa
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Santiago Iturbe
+        wicket:
+          player_out: Santiago Iturbe
+          kind: caught and bowled

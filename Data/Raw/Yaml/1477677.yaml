@@ -1,0 +1,2111 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Tallinn
+  dates:
+  - '2025-05-15'
+  gender: female
+  match_type: T20
+  match_type_number: 2295
+  outcome:
+    winner: Estonia
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Viktoria Frey
+  players:
+    Bulgaria:
+    - B Shotorova
+    - S Galabova
+    - S Sarandeva
+    - V Nikolova
+    - D Ruynekova
+    - S Yordanova
+    - A Stoilova
+    - M Abadjieva
+    - K Srandeva
+    - N Toleva
+    - G Ilarionova
+    Estonia:
+    - G Madanayake
+    - N Tykhonravova
+    - Viktoria Frey
+    - C Lokuge
+    - A Vessik
+    - Ragne Hallik
+    - M Frey
+    - L Sormus
+    - M Valner
+    - B Wani
+    - E Ellermaa
+  registry:
+    people:
+      A Stoilova: c602c725
+      A Vessik: d30d4a0c
+      B Shotorova: cbef9f64
+      B Wani: a651cd4d
+      C Lokuge: f805e474
+      D Ruynekova: c3890e1e
+      E Ellermaa: 37c085d2
+      G Ilarionova: b56786e5
+      G Madanayake: cc72f8df
+      K Srandeva: 38602b15
+      L Sormus: 3486a171
+      M Abadjieva: f37f1c61
+      M Frey: 4b5debcd
+      M Valner: b5472435
+      N Toleva: d381938d
+      N Tykhonravova: b9f09828
+      Ragne Hallik: 1ac4b030
+      S Galabova: 21bcbbdd
+      S Sarandeva: dacecca3
+      S Yordanova: 7a9de52f
+      V Nikolova: '078d1eb5'
+      Viktoria Frey: fed9a316
+  teams:
+  - Bulgaria
+  - Estonia
+  toss:
+    winner: Estonia
+    decision: field
+  venue: Estonian National Cricket and Rugby Field
+innings:
+- 1st innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Galabova
+        batsman: B Shotorova
+    - 0.2:
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Galabova
+        batsman: B Shotorova
+    - 0.3:
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Galabova
+        batsman: B Shotorova
+    - 0.4:
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Galabova
+        batsman: B Shotorova
+    - 0.5:
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Galabova
+        batsman: B Shotorova
+    - 0.6:
+        non_striker: S Galabova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 1.1:
+        non_striker: B Shotorova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 1.2:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shotorova
+    - 1.3:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 1.4:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+    - 1.5:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shotorova
+        wicket:
+          player_out: B Shotorova
+          kind: bowled
+    - 1.6:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 1.7:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 2.1:
+        non_striker: S Sarandeva
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 2.2:
+        non_striker: S Sarandeva
+        bowler: A Vessik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Galabova
+    - 2.3:
+        non_striker: S Galabova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 2.4:
+        non_striker: S Galabova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 2.5:
+        non_striker: S Galabova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 2.6:
+        non_striker: S Galabova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 2.7:
+        non_striker: S Galabova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 2.8:
+        non_striker: S Sarandeva
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 3.1:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 3.2:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sarandeva
+    - 3.3:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 3.4:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 3.5:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sarandeva
+    - 3.6:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 3.7:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 3.8:
+        non_striker: S Galabova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 4.1:
+        non_striker: S Sarandeva
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Galabova
+    - 4.2:
+        non_striker: S Sarandeva
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 4.3:
+        non_striker: S Sarandeva
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 4.4:
+        non_striker: S Sarandeva
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Galabova
+    - 4.5:
+        non_striker: S Sarandeva
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 4.6:
+        non_striker: S Sarandeva
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Galabova
+    - 4.7:
+        non_striker: S Galabova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 4.8:
+        non_striker: S Galabova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 5.1:
+        non_striker: S Sarandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 5.2:
+        non_striker: S Sarandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 5.3:
+        non_striker: S Sarandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 5.4:
+        non_striker: S Sarandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 5.5:
+        non_striker: S Sarandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+    - 5.6:
+        non_striker: S Sarandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Galabova
+    - 5.7:
+        non_striker: S Sarandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Galabova
+        wicket:
+          player_out: S Galabova
+          kind: lbw
+    - 5.8:
+        non_striker: S Sarandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 6.1:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 6.2:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 6.3:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+    - 6.4:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sarandeva
+    - 6.5:
+        non_striker: S Sarandeva
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 6.6:
+        non_striker: S Sarandeva
+        bowler: C Lokuge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nikolova
+    - 6.7:
+        non_striker: S Sarandeva
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 7.1:
+        non_striker: S Sarandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 7.2:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sarandeva
+        wicket:
+          player_out: S Sarandeva
+          kind: lbw
+    - 7.3:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 7.4:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ruynekova
+    - 7.5:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 7.6:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 7.7:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 7.8:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 8.1:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 8.2:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 8.3:
+        non_striker: D Ruynekova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 8.4:
+        non_striker: D Ruynekova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 8.5:
+        non_striker: D Ruynekova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 8.6:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 9.1:
+        non_striker: D Ruynekova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 9.2:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 9.3:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+    - 9.4:
+        non_striker: V Nikolova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ruynekova
+    - 9.5:
+        non_striker: D Ruynekova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 9.6:
+        non_striker: D Ruynekova
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Nikolova
+    - 10.1:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ruynekova
+    - 10.2:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ruynekova
+        wicket:
+          player_out: D Ruynekova
+          fielders:
+          - A Vessik
+          kind: caught
+    - 10.3:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yordanova
+    - 10.4:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yordanova
+    - 10.5:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yordanova
+    - 10.6:
+        non_striker: V Nikolova
+        bowler: C Lokuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yordanova
+    - 11.1:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yordanova
+    - 11.2:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yordanova
+    - 11.3:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Yordanova
+    - 11.4:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yordanova
+    - 11.5:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yordanova
+    - 11.6:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yordanova
+    - 11.7:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yordanova
+    - 11.8:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yordanova
+    - 11.9:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Yordanova
+    - 11.10:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yordanova
+    - 12.1:
+        non_striker: S Yordanova
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nikolova
+    - 12.2:
+        non_striker: S Yordanova
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nikolova
+    - 12.3:
+        non_striker: S Yordanova
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Nikolova
+    - 12.4:
+        non_striker: S Yordanova
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 12.5:
+        non_striker: S Yordanova
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 12.6:
+        non_striker: S Yordanova
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: V Nikolova
+    - 12.7:
+        non_striker: S Yordanova
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: V Nikolova
+    - 12.8:
+        non_striker: V Nikolova
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yordanova
+    - 12.9:
+        non_striker: S Yordanova
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 12.10:
+        non_striker: V Nikolova
+        bowler: B Wani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yordanova
+    - 12.11:
+        non_striker: V Nikolova
+        bowler: B Wani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yordanova
+    - 13.1:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yordanova
+    - 13.2:
+        non_striker: S Yordanova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 13.3:
+        non_striker: S Yordanova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 13.4:
+        non_striker: S Yordanova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 13.5:
+        non_striker: S Yordanova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 13.6:
+        non_striker: S Yordanova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 14.1:
+        non_striker: S Yordanova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 14.2:
+        non_striker: S Yordanova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 14.3:
+        non_striker: S Yordanova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 14.4:
+        non_striker: V Nikolova
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Yordanova
+    - 14.5:
+        non_striker: V Nikolova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yordanova
+        wicket:
+          player_out: S Yordanova
+          kind: bowled
+    - 14.6:
+        non_striker: V Nikolova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 14.7:
+        non_striker: V Nikolova
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 15.1:
+        non_striker: A Stoilova
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Nikolova
+    - 15.2:
+        non_striker: A Stoilova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nikolova
+    - 15.3:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Stoilova
+    - 15.4:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 15.5:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+    - 15.6:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stoilova
+        wicket:
+          player_out: A Stoilova
+          fielders:
+          - B Wani
+          kind: caught
+    - 15.7:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Abadjieva
+    - 15.8:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Abadjieva
+    - 15.9:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+    - 15.10:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Abadjieva
+    - 15.11:
+        non_striker: V Nikolova
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Abadjieva
+    - 16.1:
+        non_striker: V Nikolova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Abadjieva
+        wicket:
+          player_out: M Abadjieva
+          kind: bowled
+    - 16.2:
+        non_striker: V Nikolova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 16.3:
+        non_striker: V Nikolova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Srandeva
+    - 16.4:
+        non_striker: K Srandeva
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 16.5:
+        non_striker: K Srandeva
+        bowler: M Valner
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: V Nikolova
+    - 16.6:
+        non_striker: V Nikolova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 16.7:
+        non_striker: V Nikolova
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Srandeva
+    - 17.1:
+        non_striker: K Srandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+    - 17.2:
+        non_striker: K Srandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nikolova
+        wicket:
+          player_out: V Nikolova
+          kind: bowled
+    - 17.3:
+        non_striker: K Srandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Toleva
+        wicket:
+          player_out: N Toleva
+          kind: bowled
+    - 17.4:
+        non_striker: K Srandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+    - 17.5:
+        non_striker: K Srandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+    - 17.6:
+        non_striker: K Srandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ilarionova
+    - 17.7:
+        non_striker: K Srandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ilarionova
+    - 17.8:
+        non_striker: K Srandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ilarionova
+    - 17.9:
+        non_striker: K Srandeva
+        bowler: Viktoria Frey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ilarionova
+        wicket:
+          player_out: G Ilarionova
+          kind: lbw
+- 2nd innings:
+    team: Estonia
+    deliveries:
+    - 0.1:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Tykhonravova
+        batsman: G Madanayake
+    - 0.2:
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Tykhonravova
+        batsman: G Madanayake
+    - 0.3:
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Tykhonravova
+        batsman: G Madanayake
+    - 0.4:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Tykhonravova
+        batsman: G Madanayake
+        wicket:
+          player_out: G Madanayake
+          fielders:
+          - B Shotorova
+          - D Ruynekova
+          kind: run out
+    - 0.5:
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Viktoria Frey
+        batsman: N Tykhonravova
+    - 0.6:
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Viktoria Frey
+        batsman: N Tykhonravova
+    - 0.7:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Viktoria Frey
+        batsman: N Tykhonravova
+    - 0.8:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Viktoria Frey
+        batsman: N Tykhonravova
+    - 0.9:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Viktoria Frey
+        batsman: N Tykhonravova
+    - 0.10:
+        non_striker: N Tykhonravova
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Viktoria Frey
+    - 1.1:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Tykhonravova
+    - 1.2:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Tykhonravova
+    - 1.3:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+    - 1.4:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tykhonravova
+        wicket:
+          player_out: N Tykhonravova
+          kind: bowled
+    - 1.5:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 1.6:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: C Lokuge
+    - 1.7:
+        non_striker: C Lokuge
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 1.8:
+        non_striker: C Lokuge
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Viktoria Frey
+    - 1.9:
+        non_striker: C Lokuge
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Viktoria Frey
+    - 1.10:
+        non_striker: C Lokuge
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Viktoria Frey
+    - 1.11:
+        non_striker: C Lokuge
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+    - 1.12:
+        non_striker: C Lokuge
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 2.1:
+        non_striker: Viktoria Frey
+        bowler: B Shotorova
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: C Lokuge
+    - 2.2:
+        non_striker: C Lokuge
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 2.3:
+        non_striker: C Lokuge
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 2.4:
+        non_striker: C Lokuge
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 2.5:
+        non_striker: Viktoria Frey
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 2.6:
+        non_striker: Viktoria Frey
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 2.7:
+        non_striker: Viktoria Frey
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: C Lokuge
+    - 2.8:
+        non_striker: Viktoria Frey
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 2.9:
+        non_striker: Viktoria Frey
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 2.10:
+        non_striker: Viktoria Frey
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 3.1:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 3.2:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Lokuge
+    - 3.3:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 3.4:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 3.5:
+        non_striker: C Lokuge
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Viktoria Frey
+    - 3.6:
+        non_striker: C Lokuge
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Viktoria Frey
+    - 3.7:
+        non_striker: C Lokuge
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Viktoria Frey
+    - 3.8:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 3.9:
+        non_striker: Viktoria Frey
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 4.1:
+        non_striker: Viktoria Frey
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 4.2:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Viktoria Frey
+    - 4.3:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Viktoria Frey
+        wicket:
+          player_out: Viktoria Frey
+          kind: hit wicket
+    - 4.4:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 4.5:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 4.6:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Vessik
+    - 4.7:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Vessik
+    - 4.8:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 4.9:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 4.10:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Vessik
+    - 4.11:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 5.1:
+        non_striker: A Vessik
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Lokuge
+    - 5.2:
+        non_striker: A Vessik
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 5.3:
+        non_striker: A Vessik
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 5.4:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 5.5:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 5.6:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 5.7:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 5.8:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 5.9:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 6.1:
+        non_striker: A Vessik
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 6.2:
+        non_striker: A Vessik
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 6.3:
+        non_striker: A Vessik
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Lokuge
+    - 6.4:
+        non_striker: A Vessik
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 6.5:
+        non_striker: A Vessik
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+    - 6.6:
+        non_striker: A Vessik
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 6.7:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 6.8:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Vessik
+    - 6.9:
+        non_striker: C Lokuge
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 6.10:
+        non_striker: A Vessik
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 7.1:
+        non_striker: A Vessik
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Lokuge
+    - 7.2:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 7.3:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 7.4:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 7.5:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 7.6:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 7.7:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 7.8:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 7.9:
+        non_striker: C Lokuge
+        bowler: K Srandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 8.1:
+        non_striker: C Lokuge
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vessik
+    - 8.2:
+        non_striker: A Vessik
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Lokuge
+        wicket:
+          player_out: C Lokuge
+          fielders:
+          - G Ilarionova
+          kind: caught
+    - 8.3:
+        non_striker: A Vessik
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ragne Hallik
+    - 8.4:
+        non_striker: A Vessik
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.5:
+        non_striker: A Vessik
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 8.6:
+        non_striker: A Vessik
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ragne Hallik
+    - 8.7:
+        non_striker: A Vessik
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ragne Hallik
+    - 8.8:
+        non_striker: A Vessik
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ragne Hallik
+    - 8.9:
+        non_striker: Ragne Hallik
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vessik
+    - 8.10:
+        non_striker: Ragne Hallik
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vessik
+    - 8.11:
+        non_striker: Ragne Hallik
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Vessik

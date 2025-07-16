@@ -1,0 +1,2005 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-10'
+  gender: male
+  match_type: T20
+  match_type_number: 3028
+  outcome:
+    winner: Argentina
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - A Kirschbaum
+  players:
+    Panama:
+    - YI Kachhalia
+    - Mahmud Jasat
+    - A Natubhai Ahir
+    - Yusuf Ebrahim
+    - Breeze Ahir
+    - Irfan Hafejee
+    - RDB Ahir
+    - Khandubhai Ahir
+    - P Suman Bhai Ahir
+    - AM Patel
+    - DK Dahyabhai Ahir
+    Argentina:
+    - Lucas Rossi
+    - Guido Angeletti
+    - P Baron
+    - A Kirschbaum
+    - A Ferguson
+    - AAP Rivero
+    - A Mustafa
+    - H Fennell
+    - B Angeltti
+    - Santiago Duggan
+    - Santiago Iturbe
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Kirschbaum: d953bf92
+      A Mustafa: a4571ba9
+      A Natubhai Ahir: 9c91218d
+      AAP Rivero: 1911dcbc
+      AM Patel: a09323d8
+      AR Maddela: 5c861579
+      B Angeltti: 3cdab0cc
+      Breeze Ahir: da09ca26
+      C La Borde: 32157f67
+      DK Dahyabhai Ahir: ce9ee68f
+      Guido Angeletti: 6d6f52fc
+      H Fennell: 0d38ab25
+      Irfan Hafejee: 244009ae
+      Khandubhai Ahir: bbf5da29
+      Lucas Rossi: 2064e555
+      Mahmud Jasat: 97e36a0f
+      P Baron: c6d1b1e4
+      P Suman Bhai Ahir: af3042f1
+      Phil Whitticase: 99d5f6fa
+      R Shah: 3424e050
+      RDB Ahir: 2f6f44bb
+      Santiago Duggan: 6876264c
+      Santiago Iturbe: 851b0636
+      YI Kachhalia: 61650adb
+      Yusuf Ebrahim: 2d5c6e88
+  teams:
+  - Panama
+  - Argentina
+  toss:
+    winner: Panama
+    decision: bat
+  umpires:
+  - AR Maddela
+  - R Shah
+  venue: St Albans Club, Buenos Aires
+innings:
+- 1st innings:
+    team: Panama
+    deliveries:
+    - 0.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mahmud Jasat
+        batsman: YI Kachhalia
+    - 0.2:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mahmud Jasat
+        batsman: YI Kachhalia
+    - 0.3:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mahmud Jasat
+        batsman: YI Kachhalia
+    - 0.4:
+        non_striker: YI Kachhalia
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmud Jasat
+    - 0.5:
+        non_striker: YI Kachhalia
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 0.6:
+        non_striker: YI Kachhalia
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahmud Jasat
+    - 0.7:
+        non_striker: YI Kachhalia
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 1.1:
+        non_striker: Mahmud Jasat
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YI Kachhalia
+    - 1.2:
+        non_striker: YI Kachhalia
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 1.3:
+        non_striker: YI Kachhalia
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 1.4:
+        non_striker: Mahmud Jasat
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YI Kachhalia
+    - 1.5:
+        non_striker: Mahmud Jasat
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YI Kachhalia
+    - 1.6:
+        non_striker: Mahmud Jasat
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YI Kachhalia
+    - 1.7:
+        non_striker: YI Kachhalia
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.1:
+        non_striker: Mahmud Jasat
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YI Kachhalia
+    - 2.2:
+        non_striker: Mahmud Jasat
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YI Kachhalia
+    - 2.3:
+        non_striker: YI Kachhalia
+        bowler: Santiago Duggan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahmud Jasat
+    - 2.4:
+        non_striker: YI Kachhalia
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.5:
+        non_striker: YI Kachhalia
+        bowler: Santiago Duggan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahmud Jasat
+    - 2.6:
+        non_striker: YI Kachhalia
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.7:
+        non_striker: YI Kachhalia
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 2.8:
+        non_striker: Mahmud Jasat
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YI Kachhalia
+        wicket:
+          player_out: YI Kachhalia
+          fielders:
+          - AAP Rivero
+          kind: caught
+    - 3.1:
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Natubhai Ahir
+        batsman: Mahmud Jasat
+    - 3.2:
+        non_striker: Mahmud Jasat
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Natubhai Ahir
+    - 3.3:
+        non_striker: A Natubhai Ahir
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 3.4:
+        non_striker: Mahmud Jasat
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+        wicket:
+          player_out: A Natubhai Ahir
+          fielders:
+          - B Angeltti
+          kind: caught
+    - 3.5:
+        non_striker: Mahmud Jasat
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+        wicket:
+          player_out: Mahmud Jasat
+          fielders:
+          - Guido Angeletti
+          - Santiago Iturbe
+          kind: run out
+    - 3.6:
+        non_striker: Yusuf Ebrahim
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 4.1:
+        non_striker: Breeze Ahir
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 4.2:
+        non_striker: Breeze Ahir
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 4.3:
+        non_striker: Breeze Ahir
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 4.4:
+        non_striker: Breeze Ahir
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 4.5:
+        non_striker: Breeze Ahir
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yusuf Ebrahim
+    - 4.6:
+        non_striker: Breeze Ahir
+        bowler: Santiago Duggan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 5.1:
+        non_striker: Yusuf Ebrahim
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 5.2:
+        non_striker: Yusuf Ebrahim
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Breeze Ahir
+    - 5.3:
+        non_striker: Yusuf Ebrahim
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 5.4:
+        non_striker: Yusuf Ebrahim
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Breeze Ahir
+    - 5.5:
+        non_striker: Yusuf Ebrahim
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 5.6:
+        non_striker: Yusuf Ebrahim
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 5.7:
+        non_striker: Yusuf Ebrahim
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 6.1:
+        non_striker: Breeze Ahir
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 6.2:
+        non_striker: Yusuf Ebrahim
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 6.3:
+        non_striker: Yusuf Ebrahim
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Breeze Ahir
+    - 6.4:
+        non_striker: Breeze Ahir
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yusuf Ebrahim
+    - 6.5:
+        non_striker: Breeze Ahir
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 6.6:
+        non_striker: Breeze Ahir
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 7.1:
+        non_striker: Yusuf Ebrahim
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Breeze Ahir
+    - 7.2:
+        non_striker: Breeze Ahir
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 7.3:
+        non_striker: Yusuf Ebrahim
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 7.4:
+        non_striker: Yusuf Ebrahim
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Breeze Ahir
+    - 7.5:
+        non_striker: Breeze Ahir
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 7.6:
+        non_striker: Breeze Ahir
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yusuf Ebrahim
+    - 8.1:
+        non_striker: Yusuf Ebrahim
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Breeze Ahir
+    - 8.2:
+        non_striker: Yusuf Ebrahim
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 8.3:
+        non_striker: Yusuf Ebrahim
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+    - 8.4:
+        non_striker: Yusuf Ebrahim
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Breeze Ahir
+    - 8.5:
+        non_striker: Breeze Ahir
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 8.6:
+        non_striker: Yusuf Ebrahim
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Breeze Ahir
+        wicket:
+          player_out: Breeze Ahir
+          fielders:
+          - A Ferguson
+          kind: caught
+    - 8.7:
+        non_striker: Yusuf Ebrahim
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Hafejee
+    - 9.1:
+        non_striker: Irfan Hafejee
+        bowler: Guido Angeletti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yusuf Ebrahim
+    - 9.2:
+        non_striker: Yusuf Ebrahim
+        bowler: Guido Angeletti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Irfan Hafejee
+    - 9.3:
+        non_striker: Yusuf Ebrahim
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 9.4:
+        non_striker: Yusuf Ebrahim
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 9.5:
+        non_striker: Yusuf Ebrahim
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 9.6:
+        non_striker: Yusuf Ebrahim
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 9.7:
+        non_striker: Irfan Hafejee
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+        wicket:
+          player_out: Yusuf Ebrahim
+          kind: bowled
+    - 10.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RDB Ahir
+        batsman: Irfan Hafejee
+    - 10.2:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RDB Ahir
+        batsman: Irfan Hafejee
+    - 10.3:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RDB Ahir
+        batsman: Irfan Hafejee
+    - 10.4:
+        non_striker: Irfan Hafejee
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+    - 10.5:
+        non_striker: Irfan Hafejee
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+    - 10.6:
+        non_striker: Irfan Hafejee
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 11.1:
+        non_striker: Irfan Hafejee
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RDB Ahir
+    - 11.2:
+        non_striker: Irfan Hafejee
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 11.3:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 11.4:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 11.5:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 11.6:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 12.1:
+        non_striker: Irfan Hafejee
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 12.2:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 12.3:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Irfan Hafejee
+    - 12.4:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 12.5:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Hafejee
+    - 12.6:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 13.1:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 13.2:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 13.3:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 13.4:
+        non_striker: Irfan Hafejee
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+    - 13.5:
+        non_striker: Irfan Hafejee
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+    - 13.6:
+        non_striker: Irfan Hafejee
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RDB Ahir
+    - 14.1:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Irfan Hafejee
+    - 14.2:
+        non_striker: Irfan Hafejee
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+    - 14.3:
+        non_striker: Irfan Hafejee
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+    - 14.4:
+        non_striker: Irfan Hafejee
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 14.5:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 14.6:
+        non_striker: Irfan Hafejee
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 15.1:
+        non_striker: Irfan Hafejee
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+    - 15.2:
+        non_striker: Irfan Hafejee
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RDB Ahir
+    - 15.3:
+        non_striker: Irfan Hafejee
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 15.4:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Hafejee
+    - 15.5:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+        wicket:
+          player_out: Irfan Hafejee
+          kind: bowled
+    - 15.6:
+        non_striker: RDB Ahir
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khandubhai Ahir
+    - 16.1:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khandubhai Ahir
+    - 16.2:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khandubhai Ahir
+        wicket:
+          player_out: Khandubhai Ahir
+          kind: lbw
+    - 16.3:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suman Bhai Ahir
+    - 16.4:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suman Bhai Ahir
+    - 16.5:
+        non_striker: P Suman Bhai Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RDB Ahir
+    - 16.6:
+        non_striker: P Suman Bhai Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+        wicket:
+          player_out: P Suman Bhai Ahir
+          fielders:
+          - AAP Rivero
+          kind: run out
+    - 16.7:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Patel
+    - 17.1:
+        non_striker: AM Patel
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 17.2:
+        non_striker: RDB Ahir
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Patel
+    - 17.3:
+        non_striker: RDB Ahir
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Patel
+    - 17.4:
+        non_striker: AM Patel
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 17.5:
+        non_striker: RDB Ahir
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Patel
+    - 17.6:
+        non_striker: RDB Ahir
+        bowler: Guido Angeletti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Patel
+    - 18.1:
+        non_striker: AM Patel
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 18.2:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Patel
+    - 18.3:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Patel
+        wicket:
+          player_out: AM Patel
+          kind: bowled
+    - 18.4:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Dahyabhai Ahir
+    - 18.5:
+        non_striker: DK Dahyabhai Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 18.6:
+        non_striker: RDB Ahir
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Dahyabhai Ahir
+    - 19.1:
+        non_striker: DK Dahyabhai Ahir
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+        wicket:
+          player_out: RDB Ahir
+          fielders:
+          - Santiago Iturbe
+          kind: caught
+- 2nd innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: AM Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.2:
+        bowler: AM Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Guido Angeletti
+        batsman: Lucas Rossi
+    - 0.3:
+        non_striker: Lucas Rossi
+        bowler: AM Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Guido Angeletti
+    - 0.4:
+        non_striker: Lucas Rossi
+        bowler: AM Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 0.5:
+        non_striker: Guido Angeletti
+        bowler: AM Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 0.6:
+        non_striker: Lucas Rossi
+        bowler: AM Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Guido Angeletti
+    - 0.7:
+        non_striker: Lucas Rossi
+        bowler: AM Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 1.1:
+        non_striker: Lucas Rossi
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 1.2:
+        non_striker: Guido Angeletti
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 1.3:
+        non_striker: Guido Angeletti
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 1.4:
+        non_striker: Guido Angeletti
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 1.5:
+        non_striker: Lucas Rossi
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 1.6:
+        non_striker: Guido Angeletti
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 2.1:
+        non_striker: Lucas Rossi
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 2.2:
+        non_striker: Lucas Rossi
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Guido Angeletti
+    - 2.3:
+        non_striker: Lucas Rossi
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Guido Angeletti
+    - 2.4:
+        non_striker: Guido Angeletti
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 2.5:
+        non_striker: Guido Angeletti
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Lucas Rossi
+    - 2.6:
+        non_striker: Guido Angeletti
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 3.1:
+        non_striker: Lucas Rossi
+        bowler: RDB Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Guido Angeletti
+    - 3.2:
+        non_striker: Lucas Rossi
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 3.3:
+        non_striker: Lucas Rossi
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+    - 3.4:
+        non_striker: Lucas Rossi
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Guido Angeletti
+    - 3.5:
+        non_striker: Guido Angeletti
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 3.6:
+        non_striker: Lucas Rossi
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Guido Angeletti
+        wicket:
+          player_out: Guido Angeletti
+          fielders:
+          - YI Kachhalia
+          kind: caught
+    - 3.7:
+        non_striker: Lucas Rossi
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 4.1:
+        non_striker: P Baron
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 4.2:
+        non_striker: P Baron
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 4.3:
+        non_striker: Lucas Rossi
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 4.4:
+        non_striker: P Baron
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lucas Rossi
+    - 4.5:
+        non_striker: P Baron
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 4.6:
+        non_striker: P Baron
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+        wicket:
+          player_out: Lucas Rossi
+          kind: bowled
+    - 5.1:
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 5.2:
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 5.3:
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 5.4:
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 5.5:
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 5.6:
+        non_striker: P Baron
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.1:
+        non_striker: P Baron
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 6.2:
+        non_striker: P Baron
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.3:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 6.4:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          kind: bowled
+    - 6.5:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 6.6:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 7.1:
+        non_striker: A Kirschbaum
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 7.2:
+        non_striker: A Kirschbaum
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 7.3:
+        non_striker: A Kirschbaum
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 7.4:
+        non_striker: A Ferguson
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 7.5:
+        non_striker: A Kirschbaum
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 7.6:
+        non_striker: A Kirschbaum
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 8.1:
+        non_striker: A Ferguson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 8.2:
+        non_striker: A Ferguson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 8.3:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 8.4:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 8.5:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 8.6:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 9.1:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 9.2:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 9.3:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 9.4:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 9.5:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 9.6:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 10.1:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 10.2:
+        non_striker: A Ferguson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 10.3:
+        non_striker: A Ferguson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 10.4:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 10.5:
+        non_striker: A Ferguson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 10.6:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 11.1:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 11.2:
+        non_striker: A Kirschbaum
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 11.3:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 11.4:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 11.5:
+        non_striker: A Kirschbaum
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 11.6:
+        non_striker: A Kirschbaum
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 12.1:
+        non_striker: A Kirschbaum
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 12.2:
+        non_striker: A Ferguson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 12.3:
+        non_striker: A Ferguson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 12.4:
+        non_striker: A Ferguson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 12.5:
+        non_striker: A Kirschbaum
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 12.6:
+        non_striker: A Kirschbaum
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 13.1:
+        non_striker: A Kirschbaum
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 13.2:
+        non_striker: A Kirschbaum
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 13.3:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 13.4:
+        non_striker: A Ferguson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kirschbaum
+    - 13.5:
+        non_striker: A Kirschbaum
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 13.6:
+        non_striker: A Kirschbaum
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 14.1:
+        non_striker: A Ferguson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 14.2:
+        non_striker: A Kirschbaum
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 14.3:
+        non_striker: A Ferguson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 14.4:
+        non_striker: A Ferguson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 14.5:
+        non_striker: A Kirschbaum
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 14.6:
+        non_striker: A Ferguson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 15.1:
+        non_striker: A Ferguson
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 15.2:
+        non_striker: A Kirschbaum
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 15.3:
+        non_striker: A Kirschbaum
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 15.4:
+        non_striker: A Kirschbaum
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 15.5:
+        non_striker: A Kirschbaum
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+        wicket:
+          player_out: A Ferguson
+          fielders:
+          - Breeze Ahir
+          kind: caught
+    - 15.6:
+        non_striker: A Kirschbaum
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 16.1:
+        non_striker: AAP Rivero
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 16.2:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 16.3:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 16.4:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 16.5:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 16.6:
+        non_striker: A Kirschbaum
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 17.1:
+        non_striker: AAP Rivero
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 17.2:
+        non_striker: AAP Rivero
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum

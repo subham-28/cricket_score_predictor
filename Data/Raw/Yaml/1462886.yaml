@@ -1,0 +1,2102 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-08'
+  gender: male
+  match_type: T20
+  match_type_number: 3020
+  outcome:
+    winner: Brazil
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - LH Rodrigues
+  players:
+    Suriname:
+    - T Ramautar
+    - V Hirlal
+    - G Singh
+    - Vishaul Singh
+    - K Jaikaran
+    - AK Gokoel
+    - YP Dayal
+    - XSD Smith
+    - RJ Ramjiawan
+    - K Hardat
+    - GI Gokoel
+    Brazil:
+    - W Maximo
+    - LH Rodrigues
+    - Yasar Haroon
+    - LF Muller
+    - Muhammad Saleem
+    - Kawsar Khan
+    - CC Machado
+    - MFI Assuncao
+    - R Avery
+    - G Oliveira
+    - IC Simao
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      AK Gokoel: 2fff8b43
+      CC Machado: 5992ef03
+      G Oliveira: b4c52f5f
+      G Singh: e93b6c95
+      GI Gokoel: 72caebdc
+      IC Simao: dcc76384
+      Jermaine Lindo: 1154bf4f
+      K Hardat: f91f59f3
+      K Jaikaran: 420431c9
+      Kawsar Khan: a14b3bc0
+      LF Muller: f6411545
+      LH Rodrigues: 57c95c3c
+      M Abbott: 3e5f0c04
+      MFI Assuncao: d8e48e1b
+      Muhammad Saleem: a025c156
+      Phil Whitticase: 99d5f6fa
+      R Avery: '094ebfb6'
+      RJ Ramjiawan: '28442755'
+      T Ramautar: 730025e8
+      V Hirlal: 3eb2a27b
+      Vishaul Singh: 8d913205
+      W Maximo: e41dee27
+      XSD Smith: f4f892a3
+      YP Dayal: 990f1424
+      Yasar Haroon: 5a8dc41e
+  teams:
+  - Suriname
+  - Brazil
+  toss:
+    winner: Suriname
+    decision: bat
+  umpires:
+  - A Gajjar
+  - Jermaine Lindo
+  venue: St Albans Club, Buenos Aires
+innings:
+- 1st innings:
+    team: Suriname
+    deliveries:
+    - 0.1:
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Hirlal
+        batsman: T Ramautar
+    - 0.2:
+        non_striker: T Ramautar
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.3:
+        non_striker: T Ramautar
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.4:
+        non_striker: T Ramautar
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.5:
+        non_striker: T Ramautar
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.6:
+        non_striker: T Ramautar
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 1.1:
+        non_striker: V Hirlal
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ramautar
+    - 1.2:
+        non_striker: T Ramautar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 1.3:
+        non_striker: T Ramautar
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Hirlal
+    - 1.4:
+        non_striker: T Ramautar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 1.5:
+        non_striker: V Hirlal
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ramautar
+        wicket:
+          player_out: T Ramautar
+          fielders:
+          - Yasar Haroon
+          kind: caught
+    - 1.6:
+        non_striker: V Hirlal
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 1.7:
+        non_striker: V Hirlal
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 2.1:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 2.2:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 2.3:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 2.4:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Hirlal
+    - 2.5:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 2.6:
+        non_striker: V Hirlal
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 3.1:
+        non_striker: G Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 3.2:
+        non_striker: G Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 3.3:
+        non_striker: V Hirlal
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 3.4:
+        non_striker: G Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: V Hirlal
+    - 3.5:
+        non_striker: G Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 3.6:
+        non_striker: G Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 4.1:
+        non_striker: V Hirlal
+        bowler: Kawsar Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Singh
+    - 4.2:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 4.3:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+        wicket:
+          player_out: V Hirlal
+          kind: caught and bowled
+    - 4.4:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 4.5:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 4.6:
+        non_striker: G Singh
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 5.1:
+        non_striker: Vishaul Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 5.2:
+        non_striker: Vishaul Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: G Singh
+    - 5.3:
+        non_striker: G Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vishaul Singh
+    - 5.4:
+        non_striker: G Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 5.5:
+        non_striker: Vishaul Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 5.6:
+        non_striker: G Singh
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 6.1:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 6.2:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 6.3:
+        non_striker: G Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 6.4:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 6.5:
+        non_striker: G Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 6.6:
+        non_striker: G Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 7.1:
+        non_striker: G Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 7.2:
+        non_striker: Vishaul Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Singh
+    - 7.3:
+        non_striker: Vishaul Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 7.4:
+        non_striker: Vishaul Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 7.5:
+        non_striker: G Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 7.6:
+        non_striker: G Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 8.1:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 8.2:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 8.3:
+        non_striker: G Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 8.4:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 8.5:
+        non_striker: G Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 8.6:
+        non_striker: G Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 9.1:
+        non_striker: Vishaul Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 9.2:
+        non_striker: G Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 9.3:
+        non_striker: G Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 9.4:
+        non_striker: Vishaul Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 9.5:
+        non_striker: Vishaul Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 9.6:
+        non_striker: G Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 10.1:
+        non_striker: G Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 10.2:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 10.3:
+        non_striker: G Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 10.4:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 10.5:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 10.6:
+        non_striker: Vishaul Singh
+        bowler: IC Simao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 11.1:
+        non_striker: Vishaul Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 11.2:
+        non_striker: G Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 11.3:
+        non_striker: Vishaul Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 11.4:
+        non_striker: K Jaikaran
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: K Jaikaran
+            out: G Singh
+            reason: injury
+            role: batter
+        batsman: Vishaul Singh
+    - 11.5:
+        non_striker: Vishaul Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 11.6:
+        non_striker: Vishaul Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 12.1:
+        non_striker: Vishaul Singh
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+        wicket:
+          player_out: K Jaikaran
+          fielders:
+          - LF Muller
+          kind: caught
+    - 12.2:
+        non_striker: Vishaul Singh
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gokoel
+        wicket:
+          player_out: AK Gokoel
+          kind: caught and bowled
+    - 12.3:
+        non_striker: Vishaul Singh
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 12.4:
+        non_striker: Vishaul Singh
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 12.5:
+        non_striker: Vishaul Singh
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 12.6:
+        non_striker: Vishaul Singh
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YP Dayal
+    - 13.1:
+        non_striker: YP Dayal
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 13.2:
+        non_striker: Vishaul Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 13.3:
+        non_striker: YP Dayal
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vishaul Singh
+    - 13.4:
+        non_striker: YP Dayal
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 13.5:
+        non_striker: Vishaul Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 13.6:
+        non_striker: YP Dayal
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 14.1:
+        non_striker: YP Dayal
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishaul Singh
+    - 14.2:
+        non_striker: Vishaul Singh
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YP Dayal
+    - 14.3:
+        non_striker: Vishaul Singh
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YP Dayal
+    - 14.4:
+        non_striker: Vishaul Singh
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 14.5:
+        non_striker: YP Dayal
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vishaul Singh
+    - 14.6:
+        non_striker: YP Dayal
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vishaul Singh
+    - 15.1:
+        non_striker: Vishaul Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 15.2:
+        non_striker: Vishaul Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YP Dayal
+    - 15.3:
+        non_striker: Vishaul Singh
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 15.4:
+        non_striker: YP Dayal
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+    - 15.5:
+        non_striker: YP Dayal
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishaul Singh
+        wicket:
+          player_out: Vishaul Singh
+          fielders:
+          - Muhammad Saleem
+          kind: caught
+    - 15.6:
+        non_striker: YP Dayal
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 16.1:
+        non_striker: XSD Smith
+        bowler: LH Rodrigues
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: YP Dayal
+    - 16.2:
+        non_striker: XSD Smith
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 16.3:
+        non_striker: YP Dayal
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: XSD Smith
+    - 16.4:
+        non_striker: XSD Smith
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 16.5:
+        non_striker: YP Dayal
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+    - 16.6:
+        non_striker: YP Dayal
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+    - 16.7:
+        non_striker: YP Dayal
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 17.1:
+        non_striker: YP Dayal
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 17.2:
+        non_striker: XSD Smith
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+        wicket:
+          player_out: YP Dayal
+          fielders:
+          - LF Muller
+          kind: caught
+    - 17.3:
+        non_striker: XSD Smith
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Ramjiawan
+    - 17.4:
+        non_striker: XSD Smith
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Ramjiawan
+    - 17.5:
+        non_striker: XSD Smith
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Ramjiawan
+    - 17.6:
+        non_striker: RJ Ramjiawan
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 18.1:
+        non_striker: RJ Ramjiawan
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 18.2:
+        non_striker: XSD Smith
+        bowler: Kawsar Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RJ Ramjiawan
+    - 18.3:
+        non_striker: XSD Smith
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Ramjiawan
+    - 18.4:
+        non_striker: XSD Smith
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Ramjiawan
+    - 18.5:
+        non_striker: RJ Ramjiawan
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 18.6:
+        non_striker: XSD Smith
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Ramjiawan
+    - 18.7:
+        non_striker: XSD Smith
+        bowler: Kawsar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Ramjiawan
+    - 19.1:
+        non_striker: RJ Ramjiawan
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 19.2:
+        non_striker: XSD Smith
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Ramjiawan
+        wicket:
+          player_out: RJ Ramjiawan
+          kind: bowled
+    - 19.3:
+        non_striker: XSD Smith
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 19.4:
+        non_striker: G Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XSD Smith
+    - 19.5:
+        non_striker: G Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+        wicket:
+          player_out: XSD Smith
+          fielders:
+          - Yasar Haroon
+          kind: caught
+    - 19.6:
+        non_striker: G Singh
+        bowler: R Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hardat
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: W Maximo
+    - 0.2:
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        batsman: W Maximo
+    - 0.3:
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: W Maximo
+    - 0.4:
+        non_striker: W Maximo
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 0.5:
+        non_striker: W Maximo
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 0.6:
+        non_striker: W Maximo
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 1.1:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+    - 1.2:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Maximo
+    - 1.3:
+        non_striker: W Maximo
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 1.4:
+        non_striker: W Maximo
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LH Rodrigues
+    - 1.5:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Maximo
+    - 1.6:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Maximo
+        wicket:
+          player_out: W Maximo
+          fielders:
+          - G Singh
+          kind: caught
+    - 1.7:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 2.1:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 2.2:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 2.3:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 2.4:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+        wicket:
+          player_out: Yasar Haroon
+          kind: bowled
+    - 2.5:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 2.6:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.1:
+        non_striker: LF Muller
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 3.2:
+        non_striker: LF Muller
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 3.3:
+        non_striker: LF Muller
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 3.4:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.5:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.6:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Muller
+    - 4.1:
+        non_striker: LF Muller
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 4.2:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 4.3:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 4.4:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Muller
+    - 4.5:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 4.6:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LF Muller
+    - 5.1:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Muller
+    - 5.2:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 5.3:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 5.4:
+        non_striker: LF Muller
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 5.5:
+        non_striker: LF Muller
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 5.6:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 5.7:
+        non_striker: LH Rodrigues
+        bowler: K Jaikaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 6.1:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 6.2:
+        non_striker: LF Muller
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 6.3:
+        non_striker: LF Muller
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 6.4:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 6.5:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 6.6:
+        non_striker: LH Rodrigues
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 7.1:
+        non_striker: LF Muller
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 7.2:
+        non_striker: LF Muller
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 7.3:
+        non_striker: LF Muller
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 7.4:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 7.5:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 7.6:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Muller
+    - 8.1:
+        non_striker: LF Muller
+        bowler: GI Gokoel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LH Rodrigues
+    - 8.2:
+        non_striker: LF Muller
+        bowler: GI Gokoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 8.3:
+        non_striker: LF Muller
+        bowler: GI Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 8.4:
+        non_striker: LH Rodrigues
+        bowler: GI Gokoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Muller
+    - 8.5:
+        non_striker: LH Rodrigues
+        bowler: GI Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 8.6:
+        non_striker: LH Rodrigues
+        bowler: GI Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 8.7:
+        non_striker: LF Muller
+        bowler: GI Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 9.1:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 9.2:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 9.3:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+        wicket:
+          player_out: LF Muller
+          fielders:
+          - GI Gokoel
+          kind: caught
+    - 9.4:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Saleem
+    - 9.5:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Saleem
+    - 9.6:
+        non_striker: Muhammad Saleem
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 10.1:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Saleem
+        wicket:
+          player_out: Muhammad Saleem
+          fielders:
+          - K Jaikaran
+          kind: caught
+    - 10.2:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 10.3:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 10.4:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 10.5:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 10.6:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 11.1:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 11.2:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 11.3:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 11.4:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 11.5:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LH Rodrigues
+    - 11.6:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 11.7:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kawsar Khan
+    - 12.1:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 12.2:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 12.3:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 12.4:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 12.5:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 12.6:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 13.1:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 13.2:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 13.3:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 13.4:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 13.5:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 13.6:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 14.1:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kawsar Khan
+    - 14.2:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 14.3:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 14.4:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 14.5:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 14.6:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 15.1:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 15.2:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Rodrigues
+    - 15.3:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 15.4:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 15.5:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 15.6:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 16.1:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Kawsar Khan
+    - 16.2:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Kawsar Khan
+    - 16.3:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 16.4:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 16.5:
+        non_striker: LH Rodrigues
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 16.6:
+        non_striker: Kawsar Khan
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 17.1:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 17.2:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 17.3:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 17.4:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kawsar Khan
+    - 17.5:
+        non_striker: LH Rodrigues
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 17.6:
+        non_striker: Kawsar Khan
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 18.1:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kawsar Khan
+    - 18.2:
+        non_striker: Kawsar Khan
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 18.3:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kawsar Khan
+    - 18.4:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kawsar Khan
+    - 18.5:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kawsar Khan
+    - 18.6:
+        non_striker: LH Rodrigues
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kawsar Khan

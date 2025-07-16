@@ -1,0 +1,2199 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2024-12-11'
+  gender: male
+  match_type: T20
+  match_type_number: 3033
+  outcome:
+    winner: Bahamas
+    by:
+      runs: 21
+  overs: 20
+  player_of_match:
+  - Festus Benn
+  players:
+    Bahamas:
+    - M Taylor
+    - K Hinds
+    - R Davson
+    - J Jemison
+    - Festus Benn
+    - D Wheatley
+    - DG Weakley
+    - Rudolph Fox
+    - Sandeep Goud
+    - A Harris
+    - AR Nair
+    Panama:
+    - Mahmud Jasat
+    - P Jayeshbhai Patel
+    - RDB Ahir
+    - Yusuf Ebrahim
+    - A Natubhai Ahir
+    - Irfan Hafejee
+    - P Suman Bhai Ahir
+    - YI Kachhalia
+    - Sohel Ebrahim Desai
+    - Sanjay Kumar Ahir
+    - DK Dahyabhai Ahir
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      A Harris: bbafa5d6
+      A Natubhai Ahir: 9c91218d
+      AR Nair: '06907633'
+      D Wheatley: '04539335'
+      DG Weakley: 224a9f5e
+      DK Dahyabhai Ahir: ce9ee68f
+      Festus Benn: de6b3760
+      Irfan Hafejee: 244009ae
+      J Jemison: ce1abd25
+      K Hinds: a268c07b
+      M Abbott: 3e5f0c04
+      M Taylor: 92075cdc
+      Mahmud Jasat: 97e36a0f
+      P Jayeshbhai Patel: 3317dc7a
+      P Suman Bhai Ahir: af3042f1
+      Phil Whitticase: 99d5f6fa
+      R Davson: 7804d401
+      RDB Ahir: 2f6f44bb
+      Rudolph Fox: fd1041d2
+      Sandeep Goud: c83ef4d6
+      Sanjay Kumar Ahir: d11e0c76
+      Sohel Ebrahim Desai: 3ec178e7
+      Vijaya Mallela: 85b6244a
+      YI Kachhalia: 61650adb
+      Yusuf Ebrahim: 2d5c6e88
+  teams:
+  - Bahamas
+  - Panama
+  toss:
+    winner: Bahamas
+    decision: bat
+  umpires:
+  - A Gajjar
+  - M Abbott
+  venue: Hurlingham Club Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.2:
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.3:
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.4:
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Hinds
+        batsman: M Taylor
+    - 0.5:
+        non_striker: M Taylor
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 0.6:
+        non_striker: M Taylor
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+    - 0.7:
+        non_striker: M Taylor
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+        wicket:
+          player_out: K Hinds
+          fielders:
+          - A Natubhai Ahir
+          kind: caught
+    - 1.1:
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Davson
+        batsman: M Taylor
+    - 1.2:
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Davson
+        batsman: M Taylor
+    - 1.3:
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Davson
+        batsman: M Taylor
+    - 1.4:
+        non_striker: M Taylor
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 1.5:
+        non_striker: M Taylor
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 1.6:
+        non_striker: R Davson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 2.1:
+        non_striker: M Taylor
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 2.2:
+        non_striker: M Taylor
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 2.3:
+        non_striker: R Davson
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 2.4:
+        non_striker: R Davson
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 2.5:
+        non_striker: M Taylor
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Davson
+    - 2.6:
+        non_striker: M Taylor
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 2.7:
+        non_striker: M Taylor
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 3.1:
+        non_striker: R Davson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 3.2:
+        non_striker: R Davson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+        wicket:
+          player_out: M Taylor
+          fielders:
+          - Mahmud Jasat
+          kind: caught
+    - 3.3:
+        non_striker: R Davson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+    - 3.4:
+        non_striker: R Davson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Jemison
+    - 3.5:
+        non_striker: R Davson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jemison
+        wicket:
+          player_out: J Jemison
+          kind: caught and bowled
+    - 3.6:
+        non_striker: R Davson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 4.1:
+        non_striker: Festus Benn
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Davson
+    - 4.2:
+        non_striker: Festus Benn
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 4.3:
+        non_striker: Festus Benn
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 4.4:
+        non_striker: Festus Benn
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 4.5:
+        non_striker: R Davson
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Festus Benn
+    - 4.6:
+        non_striker: R Davson
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 4.7:
+        non_striker: R Davson
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Festus Benn
+    - 4.8:
+        non_striker: R Davson
+        bowler: Sanjay Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 5.1:
+        non_striker: Festus Benn
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Davson
+    - 5.2:
+        non_striker: Festus Benn
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Davson
+    - 5.3:
+        non_striker: Festus Benn
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 5.4:
+        non_striker: Festus Benn
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Davson
+    - 5.5:
+        non_striker: Festus Benn
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 5.6:
+        non_striker: Festus Benn
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Davson
+    - 6.1:
+        non_striker: R Davson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 6.2:
+        non_striker: R Davson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Festus Benn
+    - 6.3:
+        non_striker: R Davson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+    - 6.4:
+        non_striker: Festus Benn
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Davson
+    - 6.5:
+        non_striker: Festus Benn
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 6.6:
+        non_striker: R Davson
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Festus Benn
+        wicket:
+          player_out: Festus Benn
+          fielders:
+          - P Jayeshbhai Patel
+          - Sohel Ebrahim Desai
+          kind: run out
+    - 7.1:
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Wheatley
+        batsman: R Davson
+    - 7.2:
+        non_striker: D Wheatley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+        wicket:
+          player_out: R Davson
+          fielders:
+          - Sohel Ebrahim Desai
+          kind: stumped
+    - 7.3:
+        non_striker: D Wheatley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 7.4:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 7.5:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 7.6:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 8.1:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 8.2:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 8.3:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 8.4:
+        non_striker: DG Weakley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 8.5:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 8.6:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DG Weakley
+    - 9.1:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 9.2:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 9.3:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 9.4:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 9.5:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 9.6:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wheatley
+    - 9.7:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Wheatley
+    - 10.1:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 10.2:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 10.3:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 10.4:
+        non_striker: DG Weakley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 10.5:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 10.6:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 11.1:
+        non_striker: D Wheatley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 11.2:
+        non_striker: D Wheatley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 11.3:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 11.4:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 11.5:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 11.6:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wheatley
+    - 11.7:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 12.1:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 12.2:
+        non_striker: DG Weakley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 12.3:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 12.4:
+        non_striker: D Wheatley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 12.5:
+        non_striker: DG Weakley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 12.6:
+        non_striker: DG Weakley
+        bowler: DK Dahyabhai Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wheatley
+    - 13.1:
+        non_striker: D Wheatley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 13.2:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 13.3:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 13.4:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Wheatley
+    - 13.5:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 13.6:
+        non_striker: D Wheatley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 14.1:
+        non_striker: D Wheatley
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 14.2:
+        non_striker: DG Weakley
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 14.3:
+        non_striker: DG Weakley
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 14.4:
+        non_striker: DG Weakley
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wheatley
+    - 14.5:
+        non_striker: DG Weakley
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wheatley
+    - 14.6:
+        non_striker: D Wheatley
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 15.1:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 15.2:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 15.3:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 15.4:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 15.5:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+    - 15.6:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wheatley
+        wicket:
+          player_out: D Wheatley
+          fielders:
+          - A Natubhai Ahir
+          kind: caught
+    - 16.1:
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rudolph Fox
+        batsman: DG Weakley
+    - 16.2:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 16.3:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 16.4:
+        non_striker: Rudolph Fox
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DG Weakley
+    - 16.5:
+        non_striker: Rudolph Fox
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 16.6:
+        non_striker: Rudolph Fox
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 17.1:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 17.2:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 17.3:
+        non_striker: Rudolph Fox
+        bowler: RDB Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DG Weakley
+    - 17.4:
+        non_striker: Rudolph Fox
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Weakley
+    - 17.5:
+        non_striker: Rudolph Fox
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 17.6:
+        non_striker: Rudolph Fox
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 17.7:
+        non_striker: DG Weakley
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 18.1:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Rudolph Fox
+    - 18.2:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+    - 18.3:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rudolph Fox
+    - 18.4:
+        non_striker: DG Weakley
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rudolph Fox
+    - 18.5:
+        non_striker: Rudolph Fox
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 18.6:
+        non_striker: Rudolph Fox
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+        wicket:
+          player_out: DG Weakley
+          fielders:
+          - Sohel Ebrahim Desai
+          kind: stumped
+    - 18.7:
+        non_striker: Rudolph Fox
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+    - 18.8:
+        non_striker: Rudolph Fox
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sandeep Goud
+        wicket:
+          player_out: Sandeep Goud
+          fielders:
+          - Sohel Ebrahim Desai
+          kind: caught
+    - 19.1:
+        non_striker: A Harris
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rudolph Fox
+        wicket:
+          player_out: Rudolph Fox
+          fielders:
+          - P Suman Bhai Ahir
+          kind: caught
+    - 19.2:
+        non_striker: A Harris
+        bowler: Irfan Hafejee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Nair
+    - 19.3:
+        non_striker: A Harris
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Nair
+    - 19.4:
+        non_striker: AR Nair
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Harris
+    - 19.5:
+        non_striker: AR Nair
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Harris
+    - 19.6:
+        non_striker: AR Nair
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Harris
+    - 19.7:
+        non_striker: AR Nair
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Harris
+        wicket:
+          player_out: AR Nair
+          fielders:
+          - Irfan Hafejee
+          - P Suman Bhai Ahir
+          kind: run out
+- 2nd innings:
+    team: Panama
+    deliveries:
+    - 0.1:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Jayeshbhai Patel
+        batsman: Mahmud Jasat
+    - 0.2:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 0.3:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 0.4:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 0.5:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Jayeshbhai Patel
+    - 0.6:
+        non_striker: P Jayeshbhai Patel
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 1.1:
+        non_striker: Mahmud Jasat
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 1.2:
+        non_striker: Mahmud Jasat
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Jayeshbhai Patel
+    - 1.3:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 1.4:
+        non_striker: Mahmud Jasat
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 1.5:
+        non_striker: Mahmud Jasat
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 1.6:
+        non_striker: Mahmud Jasat
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 2.1:
+        non_striker: P Jayeshbhai Patel
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.2:
+        non_striker: P Jayeshbhai Patel
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.3:
+        non_striker: P Jayeshbhai Patel
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.4:
+        non_striker: P Jayeshbhai Patel
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.5:
+        non_striker: P Jayeshbhai Patel
+        bowler: DG Weakley
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Mahmud Jasat
+    - 2.6:
+        non_striker: P Jayeshbhai Patel
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.7:
+        non_striker: P Jayeshbhai Patel
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 3.1:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 3.2:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 3.3:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmud Jasat
+    - 3.4:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 3.5:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 3.6:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 4.1:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 4.2:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 4.3:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 4.4:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 4.5:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 4.6:
+        non_striker: Mahmud Jasat
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 5.1:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 5.2:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 5.3:
+        non_striker: Mahmud Jasat
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 5.4:
+        non_striker: Mahmud Jasat
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Jayeshbhai Patel
+    - 5.5:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahmud Jasat
+    - 5.6:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmud Jasat
+    - 5.7:
+        non_striker: P Jayeshbhai Patel
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 6.1:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 6.2:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+    - 6.3:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Jayeshbhai Patel
+        wicket:
+          player_out: P Jayeshbhai Patel
+          fielders:
+          - K Hinds
+          kind: caught
+    - 6.4:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 6.5:
+        non_striker: RDB Ahir
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 6.6:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+        wicket:
+          player_out: RDB Ahir
+          fielders:
+          - M Taylor
+          kind: caught
+    - 7.1:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yusuf Ebrahim
+        batsman: Mahmud Jasat
+    - 7.2:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yusuf Ebrahim
+        batsman: Mahmud Jasat
+    - 7.3:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yusuf Ebrahim
+        batsman: Mahmud Jasat
+    - 7.4:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yusuf Ebrahim
+        batsman: Mahmud Jasat
+    - 7.5:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yusuf Ebrahim
+        batsman: Mahmud Jasat
+    - 7.6:
+        non_striker: Yusuf Ebrahim
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 8.1:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 8.2:
+        non_striker: Yusuf Ebrahim
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 8.3:
+        non_striker: Yusuf Ebrahim
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 8.4:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 8.5:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 8.6:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 9.1:
+        non_striker: Yusuf Ebrahim
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 9.2:
+        non_striker: Mahmud Jasat
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 9.3:
+        non_striker: Mahmud Jasat
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 9.4:
+        non_striker: Yusuf Ebrahim
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 9.5:
+        non_striker: Mahmud Jasat
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 9.6:
+        non_striker: Mahmud Jasat
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 10.1:
+        non_striker: Yusuf Ebrahim
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 10.2:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 10.3:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yusuf Ebrahim
+    - 10.4:
+        non_striker: Mahmud Jasat
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 10.5:
+        non_striker: Yusuf Ebrahim
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+        wicket:
+          player_out: Mahmud Jasat
+          fielders:
+          - J Jemison
+          kind: stumped
+    - 10.6:
+        non_striker: Yusuf Ebrahim
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Natubhai Ahir
+    - 11.1:
+        non_striker: Yusuf Ebrahim
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+        wicket:
+          player_out: A Natubhai Ahir
+          kind: bowled
+    - 11.2:
+        non_striker: Yusuf Ebrahim
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 11.3:
+        non_striker: Irfan Hafejee
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 11.4:
+        non_striker: Irfan Hafejee
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yusuf Ebrahim
+    - 11.5:
+        non_striker: Irfan Hafejee
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 11.6:
+        non_striker: Yusuf Ebrahim
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 12.1:
+        non_striker: Yusuf Ebrahim
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 12.2:
+        non_striker: Yusuf Ebrahim
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 12.3:
+        non_striker: Irfan Hafejee
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 12.4:
+        non_striker: Irfan Hafejee
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 12.5:
+        non_striker: Yusuf Ebrahim
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Hafejee
+    - 12.6:
+        non_striker: Yusuf Ebrahim
+        bowler: Rudolph Fox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 13.1:
+        non_striker: Yusuf Ebrahim
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 13.2:
+        non_striker: Irfan Hafejee
+        bowler: Festus Benn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yusuf Ebrahim
+    - 13.3:
+        non_striker: Yusuf Ebrahim
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 13.4:
+        non_striker: Yusuf Ebrahim
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Irfan Hafejee
+    - 13.5:
+        non_striker: Yusuf Ebrahim
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Irfan Hafejee
+    - 13.6:
+        non_striker: Yusuf Ebrahim
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 14.1:
+        non_striker: Irfan Hafejee
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 14.2:
+        non_striker: Yusuf Ebrahim
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Hafejee
+    - 14.3:
+        non_striker: Yusuf Ebrahim
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Hafejee
+    - 14.4:
+        non_striker: Yusuf Ebrahim
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 14.5:
+        non_striker: Yusuf Ebrahim
+        bowler: DG Weakley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Irfan Hafejee
+    - 14.6:
+        non_striker: Yusuf Ebrahim
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Irfan Hafejee
+    - 14.7:
+        non_striker: Yusuf Ebrahim
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+        wicket:
+          player_out: Irfan Hafejee
+          kind: lbw
+    - 15.1:
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: P Suman Bhai Ahir
+        batsman: Yusuf Ebrahim
+    - 15.2:
+        non_striker: P Suman Bhai Ahir
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+        wicket:
+          player_out: Yusuf Ebrahim
+          fielders:
+          - A Harris
+          kind: caught
+    - 15.3:
+        non_striker: P Suman Bhai Ahir
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YI Kachhalia
+    - 15.4:
+        non_striker: YI Kachhalia
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suman Bhai Ahir
+    - 15.5:
+        non_striker: YI Kachhalia
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suman Bhai Ahir
+    - 15.6:
+        non_striker: YI Kachhalia
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suman Bhai Ahir
+    - 16.1:
+        non_striker: P Suman Bhai Ahir
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YI Kachhalia
+    - 16.2:
+        non_striker: P Suman Bhai Ahir
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YI Kachhalia
+        wicket:
+          player_out: P Suman Bhai Ahir
+          fielders:
+          - K Hinds
+          - Festus Benn
+          kind: run out
+    - 16.3:
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sohel Ebrahim Desai
+        batsman: YI Kachhalia
+    - 16.4:
+        non_striker: YI Kachhalia
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohel Ebrahim Desai
+    - 16.5:
+        non_striker: Sohel Ebrahim Desai
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YI Kachhalia
+    - 16.6:
+        non_striker: YI Kachhalia
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sohel Ebrahim Desai
+    - 17.1:
+        non_striker: Sohel Ebrahim Desai
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YI Kachhalia
+    - 17.2:
+        non_striker: Sohel Ebrahim Desai
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YI Kachhalia
+        wicket:
+          player_out: YI Kachhalia
+          fielders:
+          - K Hinds
+          kind: caught
+    - 17.3:
+        non_striker: Sohel Ebrahim Desai
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sanjay Kumar Ahir
+    - 17.4:
+        non_striker: Sohel Ebrahim Desai
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanjay Kumar Ahir
+    - 17.5:
+        non_striker: Sohel Ebrahim Desai
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanjay Kumar Ahir
+    - 17.6:
+        non_striker: Sanjay Kumar Ahir
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohel Ebrahim Desai
+    - 18.1:
+        non_striker: Sanjay Kumar Ahir
+        bowler: M Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sohel Ebrahim Desai
+    - 18.2:
+        non_striker: Sohel Ebrahim Desai
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanjay Kumar Ahir
+        wicket:
+          player_out: Sanjay Kumar Ahir
+          kind: bowled
+    - 18.3:
+        non_striker: Sohel Ebrahim Desai
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DK Dahyabhai Ahir
+    - 18.4:
+        non_striker: Sohel Ebrahim Desai
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Dahyabhai Ahir
+    - 18.5:
+        non_striker: DK Dahyabhai Ahir
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohel Ebrahim Desai
+    - 18.6:
+        non_striker: Sohel Ebrahim Desai
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Dahyabhai Ahir
+    - 19.1:
+        non_striker: Sohel Ebrahim Desai
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Dahyabhai Ahir
+        wicket:
+          player_out: DK Dahyabhai Ahir
+          fielders:
+          - M Taylor
+          kind: caught
