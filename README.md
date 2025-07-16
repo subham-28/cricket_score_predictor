@@ -132,9 +132,9 @@ MIT License. Feel free to use, modify, and share!
 ---
 
 ## 🙌 Acknowledgements
-*Streamlit for rapid prototyping
-*scikit-learn & XGBoost for modeling
-*Cricket fans everywhere 🏏✨
+* Streamlit for rapid prototyping
+* scikit-learn & XGBoost for modeling
+* Cricket fans everywhere 🏏✨
 
 ---
 
