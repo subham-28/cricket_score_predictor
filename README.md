@@ -105,13 +105,14 @@ streamlit run Streamlit/app.py
 
 | Layer            | Technology                               |
 |------------------|------------------------------------------|
-| **Backend**  | [FastAPI](https://fastapi.tiangolo.com/) – High-performance API framework |
-| **Modeling** | Scikit-learn, LightGBM, RandomForest, StackingRegressor           |
-| **Preprocessing** | PowerTransformer, ColumnTransformer, Pipelines, OneHotEncoder, OrdinalEncoder |
+| **Frontend**  | Streamlit |
+| **Model** | Stacking Regressor (XGBoost + GradientBoosting → Extra Trees)         |
+| **Preprocessing** | ColumnTransformer, OneHotEncoder |
 | **Experiment Tracking** | [MLflow](https://mlflow.org/) with [DagsHub](https://dagshub.com/) integration |
 | **Data Visualization** | Matplotlib, Seaborn, Plotly, Missingno (for missing value visualizations)      |
+| **Experimentation**  | Jupyter Notebooks |
 | **Data Storage** | Pandas, CSV (for static data)|
-| **Deployment** | Uvicorn (Local Dev)     |
+| **Deployment** | Streamlit / Streamlit Cloud     |
 | **Version Control** | Git, GitHub, Git LFS (for large model files)               |
 
 ---
