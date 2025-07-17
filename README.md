@@ -3,6 +3,7 @@
 This project predicts the final score of a T20 cricket match based on current match conditions like teams, venue, score, overs, and wickets.  
 It uses a **Stacking Regressor** (XGBoost + Gradient Boosting as base models, Extra Trees as meta model) wrapped inside a scikit-learn pipeline, and provides an intuitive **Streamlit** web app interface.
 
+*Website* :- [cricketscore-predictor.streamlit.app/](cricketscore-predictor.streamlit.app/)
 *Dataset* :- [https://cricsheet.org/matches/](https://cricsheet.org/matches/)
 
 ---
